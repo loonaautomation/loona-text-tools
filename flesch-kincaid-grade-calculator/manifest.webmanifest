@@ -1,6 +1,6 @@
 {
   "name": "Loona Flesch–Kincaid Grade Calculator",
-  "short_name": "Flesch–Kincaid Grade Calculator",
+  "short_name": "Flesch–Kincaid Grade",
   "description": "Free Flesch–Kincaid grade calculator: paste text for the grade level and reading-ease score, with words per sentence and syllables per word.",
   "id": "/loona-text-tools/flesch-kincaid-grade-calculator/",
   "start_url": ".",

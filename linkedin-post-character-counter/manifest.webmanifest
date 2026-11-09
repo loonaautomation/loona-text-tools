@@ -1,6 +1,6 @@
 {
   "name": "Loona LinkedIn Post Character Counter",
-  "short_name": "LinkedIn Post Character Counter",
+  "short_name": "LinkedIn Post Character",
   "description": "Free LinkedIn Post Character Counter counter: live character count against the 3,000-character limit, with words and remaining characters shown as you type.",
   "id": "/loona-text-tools/linkedin-post-character-counter/",
   "start_url": ".",

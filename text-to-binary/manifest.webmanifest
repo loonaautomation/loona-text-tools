@@ -1,6 +1,6 @@
 {
   "name": "Loona Text to Binary Converter Online",
-  "short_name": "Text to Binary Converter Online",
+  "short_name": "Text to Binary Converter",
   "description": "Convert text to binary code (0s and 1s) and binary back to readable text, with full Unicode support. Free text to binary converter - great for CS students.",
   "id": "/loona-text-tools/text-to-binary/",
   "start_url": ".",

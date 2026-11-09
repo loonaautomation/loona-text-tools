@@ -1,6 +1,6 @@
 {
   "name": "Loona UCAS Personal Statement Character Counter",
-  "short_name": "UCAS Personal Statement Characte",
+  "short_name": "UCAS Personal Statement",
   "description": "Free UCAS Personal Statement Character Counter counter: live character count against the 4,000-character limit, with words and remaining characters shown as you type.",
   "id": "/loona-text-tools/ucas-personal-statement-character-counter/",
   "start_url": ".",

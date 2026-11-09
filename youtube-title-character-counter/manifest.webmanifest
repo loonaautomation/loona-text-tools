@@ -1,6 +1,6 @@
 {
   "name": "Loona YouTube Title Character Counter",
-  "short_name": "YouTube Title Character Counter",
+  "short_name": "YouTube Title Character",
   "description": "Free YouTube Title Character Counter counter: live character count against the 100-character limit, with words and remaining characters shown as you type.",
   "id": "/loona-text-tools/youtube-title-character-counter/",
   "start_url": ".",

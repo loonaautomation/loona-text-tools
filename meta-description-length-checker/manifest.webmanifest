@@ -1,6 +1,6 @@
 {
   "name": "Loona Meta Description Length Checker",
-  "short_name": "Meta Description Length Checker",
+  "short_name": "Meta Description Length",
   "description": "Free Meta Description Length Checker counter: live character count against the 160-character limit, with words and remaining characters shown as you type.",
   "id": "/loona-text-tools/meta-description-length-checker/",
   "start_url": ".",

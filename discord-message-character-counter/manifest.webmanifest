@@ -1,6 +1,6 @@
 {
   "name": "Loona Discord Message Character Counter",
-  "short_name": "Discord Message Character Counte",
+  "short_name": "Discord Message Character",
   "description": "Free Discord Message Character Counter counter: live character count against the 2,000-character limit, with words and remaining characters shown as you type.",
   "id": "/loona-text-tools/discord-message-character-counter/",
   "start_url": ".",
