@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Tools",
+  "short_name": "Text Tools",
+  "description": "Outils de texte en ligne gratuits - compteur de mots, convertisseur de casse, texte vers parole, parole vers texte, convertisseur d’ourdou romanisé vers ourdou et plus encore. 100 % gratuit, sans inscription, privé.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "../icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-text-tools/fr/"
+}

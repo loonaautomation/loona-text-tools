@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ajouter des numéros de ligne en ligne",
+  "short_name": "Ajouter des numéros de ligne en ligne",
+  "description": "Ajoutez des numéros à chaque ligne de votre texte avec votre choix de début, de pas, de remplissage et de séparateur. Outil de numérotation de lignes gratuit - aucune inscription, instantané et privé.",
+  "id": "/loona-text-tools/fr/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

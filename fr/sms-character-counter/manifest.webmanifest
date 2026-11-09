@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compteur de caractères SMS",
+  "short_name": "Compteur de caractères SMS",
+  "description": "Compteur de caractères SMS gratuit : détection GSM 7 bits vs Unicode, nombre de segments et caractères restants — en direct, dans votre navigateur.",
+  "id": "/loona-text-tools/fr/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

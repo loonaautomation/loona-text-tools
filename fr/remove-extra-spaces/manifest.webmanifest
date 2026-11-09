@@ -1,0 +1,29 @@
+{
+  "name": "Loona Supprimer les espaces supplémentaires en ligne",
+  "short_name": "Supprimer les espaces supplémentaires en ligne",
+  "description": "Supprimez les espaces supplémentaires, les tabulations et les lignes vides d’un texte en un clic. Nettoyez le texte copié de PDF, d’e-mails et de pages web. Suppresseur en ligne gratuit - aucune inscription nécessaire.",
+  "id": "/loona-text-tools/fr/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

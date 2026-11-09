@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trier les lignes en ligne",
+  "short_name": "Trier les lignes en ligne",
+  "description": "Triez les lignes de texte alphabétiquement (A-Z ou Z-A), par longueur, dans l’ordre inverse ou mélangées aléatoirement. Trieur de lignes en ligne gratuit - aucune inscription, instantané et privé.",
+  "id": "/loona-text-tools/fr/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nombre de mots d’un article de blog",
+  "short_name": "Nombre de mots d’un article de blog",
+  "description": "Vérificateur du nombre de mots d’un article de blog : comptage en direct avec les fourchettes de longueur pour les actualités (300–500), les articles standard (1,000–1,500) et les guides approfondis (2,000+).",
+  "id": "/loona-text-tools/fr/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Inverser le texte en ligne",
+  "short_name": "Inverser le texte en ligne",
+  "description": "Inversez le texte de quatre façons : texte entier à l’envers, chaque mot à l’envers, ordre des mots inversé, ou ordre des lignes inversé. Inverseur de texte en ligne gratuit - aucune inscription nécessaire.",
+  "id": "/loona-text-tools/fr/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

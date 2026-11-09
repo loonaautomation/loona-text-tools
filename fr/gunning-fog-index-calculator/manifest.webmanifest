@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculateur de l’indice Gunning Fog",
+  "short_name": "Calculateur de l’indice Gunning Fog",
+  "description": "Calculateur gratuit de l’indice Gunning Fog : collez du texte pour obtenir l’indice Fog, le nombre de mots complexes et les années de scolarité qu’il implique.",
+  "id": "/loona-text-tools/fr/gunning-fog-index-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

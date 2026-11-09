@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comparaison de textes en ligne",
+  "short_name": "Comparaison de textes en ligne",
+  "description": "Comparez deux textes ligne par ligne et voyez exactement quelles lignes ont été ajoutées, supprimées ou conservées. Outil de comparaison de textes en ligne gratuit - aucune inscription, privé dans votre navigateur.",
+  "id": "/loona-text-tools/fr/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compteur de paragraphes en ligne gratuit",
+  "short_name": "Compteur de paragraphes en ligne gratuit",
+  "description": "Comptez les paragraphes dans n’importe quel texte instantanément, avec les phrases et les mots par paragraphe ainsi que le paragraphe le plus long et le plus court. Compteur de paragraphes gratuit, sans inscription.",
+  "id": "/loona-text-tools/fr/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

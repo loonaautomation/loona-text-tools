@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compteur de mots en ligne gratuit",
+  "short_name": "Compteur de mots en ligne gratuit",
+  "description": "Comptez les mots, les caractères, les phrases et les paragraphes dans n’importe quel texte instantanément, avec le temps de lecture et le temps de parole. Compteur de mots gratuit, sans inscription, fonctionne hors ligne.",
+  "id": "/loona-text-tools/fr/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

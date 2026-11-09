@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nombre de mots d’un CV",
+  "short_name": "Nombre de mots d’un CV",
+  "description": "Vérificateur du nombre de mots d’un CV : comptage en direct avec l’objectif d’une page (400–600 mots), estimation de pages et conseils de réduction.",
+  "id": "/loona-text-tools/fr/resume-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

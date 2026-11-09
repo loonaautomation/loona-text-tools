@@ -1,0 +1,29 @@
+{
+  "name": "Loona Texte vers parole en ligne gratuit",
+  "short_name": "Texte vers parole en ligne gratuit",
+  "description": "Transformez n’importe quel texte en audio parlé naturel gratuitement en ligne - voix anglaises et ourdou, vitesse et hauteur réglables. Aucune inscription, rien de téléchargé, fonctionne dans votre navigateur.",
+  "id": "/loona-text-tools/fr/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

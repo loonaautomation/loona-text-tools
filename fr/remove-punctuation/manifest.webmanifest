@@ -1,0 +1,29 @@
+{
+  "name": "Loona Supprimer la ponctuation en ligne gratuit",
+  "short_name": "Supprimer la ponctuation en ligne gratuit",
+  "description": "Supprimez la ponctuation de n’importe quel texte en un clic - points, virgules, guillemets et plus - avec des options pour garder les apostrophes et les tirets. Gratuit, sans inscription.",
+  "id": "/loona-text-tools/fr/remove-punctuation/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

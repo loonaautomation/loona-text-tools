@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculateur de temps de lecture",
+  "short_name": "Calculateur de temps de lecture",
+  "description": "Collez n’importe quel texte et voyez combien de temps il faut pour le lire à des vitesses lente, moyenne et rapide - plus combien de mots il vous faut pour un temps de lecture cible. Gratuit, sans inscription.",
+  "id": "/loona-text-tools/fr/reading-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

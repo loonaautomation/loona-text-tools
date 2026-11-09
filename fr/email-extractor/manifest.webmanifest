@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extracteur d’e-mails en ligne gratuit",
+  "short_name": "Extracteur d’e-mails en ligne gratuit",
+  "description": "Extrayez chaque adresse e-mail de n’importe quel texte, document ou contenu de page web - dédupliquée et répertoriée une par ligne. Fonctionne à 100 % dans votre navigateur. Gratuit, sans inscription.",
+  "id": "/loona-text-tools/fr/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

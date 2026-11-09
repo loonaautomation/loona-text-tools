@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compteur de caractères en ligne",
+  "short_name": "Compteur de caractères en ligne",
+  "description": "Comptez les caractères avec et sans espaces et vérifiez les limites pour X (Twitter), les SMS, les méta-descriptions et plus encore. Compteur de caractères en ligne gratuit - aucune inscription nécessaire.",
+  "id": "/loona-text-tools/fr/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

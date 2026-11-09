@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compteur de caractères de titres YouTube",
+  "short_name": "Compteur de caractères de titres YouTube",
+  "description": "Compteur de caractères de titres YouTube gratuit : comptage de caractères en direct par rapport à la limite de 100 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
+  "id": "/loona-text-tools/fr/youtube-title-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur texte vers hexadécimal en ligne gratuit",
+  "short_name": "Convertisseur texte vers hexadécimal en ligne gratuit",
+  "description": "Convertissez le texte en hexadécimal et l’hexadécimal en texte, en gérant correctement l’UTF-8 pour les lettres accentuées, l’ourdou et les emoji. Convertisseur hexadécimal gratuit, sans inscription.",
+  "id": "/loona-text-tools/fr/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
