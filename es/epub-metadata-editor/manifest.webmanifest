@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor de metadatos EPUB gratis",
+  "short_name": "Editor de metadatos EPUB gratis",
+  "description": "Edita los metadatos de EPUB gratis en tu navegador: título, autor, idioma, editorial y descripción, con la información de la portada mostrada. Capítulos intactos, sin subidas, sin registro.",
+  "id": "/loona-text-tools/es/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

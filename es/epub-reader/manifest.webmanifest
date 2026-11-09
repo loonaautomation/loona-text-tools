@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lector de EPUB en línea gratis",
+  "short_name": "Lector de EPUB en línea gratis",
+  "description": "Abre y lee libros EPUB en línea gratis, directamente en tu navegador. Lista de capítulos, tamaño de fuente ajustable y modo oscuro. 100% privado: tu libro nunca sale de tu dispositivo. Sin registro.",
+  "id": "/loona-text-tools/es/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

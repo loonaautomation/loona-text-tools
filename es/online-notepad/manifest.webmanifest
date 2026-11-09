@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bloc de notas en línea gratis",
+  "short_name": "Bloc de notas en línea gratis",
+  "description": "Un bloc de notas en línea gratuito que se guarda automáticamente en tu navegador mientras escribes: incluye descarga, impresión y conteo de palabras. Sin registro; tus notas nunca salen de tu dispositivo.",
+  "id": "/loona-text-tools/es/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

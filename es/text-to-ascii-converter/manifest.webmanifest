@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de texto a ASCII en línea gratis",
+  "short_name": "Convertidor de texto a ASCII en línea gratis",
+  "description": "Convierte texto a códigos ASCII (decimal, hexadecimal, octal y binario para cada carácter) y convierte códigos ASCII de nuevo a texto. Gratis, instantáneo, sin registro.",
+  "id": "/loona-text-tools/es/text-to-ascii-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

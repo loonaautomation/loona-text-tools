@@ -1,0 +1,29 @@
+{
+  "name": "Loona Voz a texto en línea gratis",
+  "short_name": "Voz a texto en línea gratis",
+  "description": "Dicta con tu voz y míralo convertirse en texto: voz a texto en línea gratuita para inglés, urdu y más idiomas. Sin registro; funciona en Chrome y Edge.",
+  "id": "/loona-text-tools/es/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Eliminar saltos de línea en línea",
+  "short_name": "Eliminar saltos de línea en línea",
+  "description": "Elimina los saltos de línea y une las líneas rotas en párrafos limpios: perfecto para texto copiado de PDF. Eliminador de saltos de línea en línea gratuito, sin registro, resultados instantáneos.",
+  "id": "/loona-text-tools/es/remove-line-breaks/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

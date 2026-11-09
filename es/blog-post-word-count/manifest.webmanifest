@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conteo de palabras de entradas de blog",
+  "short_name": "Conteo de palabras de entradas de blog",
+  "description": "Verificador de conteo de palabras de entradas de blog: conteo en vivo con las bandas de longitud para noticias (300–500), entradas estándar (1,000–1,500) y guías en profundidad (2,000+).",
+  "id": "/loona-text-tools/es/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

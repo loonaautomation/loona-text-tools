@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de escritura de urdu romano a urdu en línea gratis",
+  "short_name": "Convertidor de escritura de urdu romano a urdu en línea gratis",
+  "description": "Convierte el urdu romano (letras latinas) en escritura urdu correcta al instante: «mera naam» se convierte en escritura urdu real. Convertidor gratuito de urdu romano a urdu para Pakistán.",
+  "id": "/loona-text-tools/es/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
