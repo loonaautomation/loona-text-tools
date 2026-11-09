@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -111,6 +111,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Character Counter - Loona Text Tools", "url": "https://loonaautomation.github.io/loona-text-tools/character-counter/", "description": "Count characters with and without spaces and check limits for X (Twitter), SMS, meta descriptions and more. Free online character counter - no sign-up needed.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://loonaautomation.github.io/loona-text-tools/"}, {"@type": "ListItem", "position": 2, "name": "Text Tools", "item": "https://loonaautomation.github.io/loona-text-tools/"}, {"@type": "ListItem", "position": 3, "name": "Character Counter", "item": "https://loonaautomation.github.io/loona-text-tools/character-counter/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is the character counter free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes - 100% free, no sign-up and no character limit on what you can paste."}}, {"@type": "Question", "name": "Why do spaces count in SMS but not everywhere?", "acceptedAnswer": {"@type": "Answer", "text": "SMS and X count every character including spaces. Some school and exam forms ask for counts without spaces, so we show both."}}, {"@type": "Question", "name": "Why does a 161-character SMS count as 2 messages?", "acceptedAnswer": {"@type": "Answer", "text": "Long SMS messages are split into 153-character segments with a linking header, so 161 characters need two segments and are billed as two messages."}}, {"@type": "Question", "name": "Does it count emojis correctly?", "acceptedAnswer": {"@type": "Answer", "text": "Most emojis count as 2 characters in JavaScript and on X - the counter follows the same rule, so what you see matches what the platforms count."}}, {"@type": "Question", "name": "Is my text stored?", "acceptedAnswer": {"@type": "Answer", "text": "Never. All counting happens in your browser on your device."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 
 <body>
@@ -166,6 +168,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="../terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools. Free online text tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 

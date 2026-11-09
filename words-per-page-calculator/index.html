@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -111,6 +111,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Words Per Page Calculator \u2013 Pages for Any Word Count", "url": "https://loonaautomation.github.io/loona-text-tools/words-per-page-calculator/", "description": "Free words-per-page calculator: enter words, font size and line spacing to get the page count and words per page.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "provider": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://loonaautomation.github.io/loona-text-tools/"}, {"@type": "ListItem", "position": 2, "name": "Text Tools", "item": "https://loonaautomation.github.io/loona-text-tools/"}, {"@type": "ListItem", "position": 3, "name": "Words Per Page Calculator", "item": "https://loonaautomation.github.io/loona-text-tools/words-per-page-calculator/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why 500 words per page?", "acceptedAnswer": {"@type": "Answer", "text": "It is the long-standing standard for 12-point Times-style type, 1-inch margins, single spacing \u2014 the figure publishers, universities and style guides quote."}}, {"@type": "Question", "name": "How accurate is the estimate?", "acceptedAnswer": {"@type": "Answer", "text": "Within about 10% for plain prose. Headings, lists and tables break the model \u2014 a page of bullet points holds fewer words than a page of paragraphs."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -176,5 +178,6 @@ function calc(){ const w=parseInt($('#f-words').value,10)||0; const fs=parseFloa
   setStatus($('#st'), w? 'An estimate: real pages vary with margins, headings and tables.' : '', true); }
 $('#calcBtn').addEventListener('click',calc);
 ['f-font','f-space','f-size'].forEach(id=>document.getElementById(id).addEventListener('change',calc)); calc();</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>

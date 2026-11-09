@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -111,6 +111,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Paragraph Counter - Loona Text Tools","url":"https://loonaautomation.github.io/loona-text-tools/paragraph-counter/","description":"Count paragraphs in any text instantly, with sentences and words per paragraph and the longest and shortest paragraph. Free paragraph counter, no sign-up.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://loonaautomation.github.io/loona-text-tools/"},{"@type":"ListItem","position":2,"name":"Text Tools","item":"https://loonaautomation.github.io/loona-text-tools/"},{"@type":"ListItem","position":3,"name":"Paragraph Counter","item":"https://loonaautomation.github.io/loona-text-tools/paragraph-counter/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is this paragraph counter free?","acceptedAnswer":{"@type":"Answer","text":"Yes - completely free, with no sign-up and no length limit."}},{"@type":"Question","name":"What counts as a paragraph?","acceptedAnswer":{"@type":"Answer","text":"Any block of text separated by a blank line. Pressing Enter twice starts a new paragraph; a single line break does not."}},{"@type":"Question","name":"Is my text uploaded anywhere?","acceptedAnswer":{"@type":"Answer","text":"No. Everything is counted in your browser - your text never leaves your device."}},{"@type":"Question","name":"Why does my pasted text show fewer paragraphs than in Word?","acceptedAnswer":{"@type":"Answer","text":"Some documents use single line breaks or spacing instead of blank lines between paragraphs. Add a blank line between blocks and the count will match what you see."}},{"@type":"Question","name":"Can I see which paragraph is longest?","acceptedAnswer":{"@type":"Answer","text":"Yes - the table lists every paragraph with its word and sentence counts, and the summary highlights the longest and shortest."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 
 <body>
@@ -163,6 +165,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="../terms.html">Terms of Use</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools. Free online text tools that run 100% in your browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 
