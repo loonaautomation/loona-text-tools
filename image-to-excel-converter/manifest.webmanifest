@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image to Excel Converter Online Free",
+  "short_name": "Image to Excel Converter Online ",
+  "description": "Convert a photo, scan or screenshot of a table into a real Excel (.xlsx) file with free OCR that runs 100% in your browser. Edit the table before you download - no upload, no sign-up.",
+  "id": "/loona-text-tools/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
