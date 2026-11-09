@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificador de Comprimento de Meta Description",
+  "short_name": "Verificador de Comprimento de Meta Description",
+  "description": "Verificador de comprimento de meta description grátis contador: contagem de caracteres em direto face ao limite de 160 caracteres, com palavras e caracteres restantes mostrados enquanto escreve.",
+  "id": "/loona-text-tools/pt/meta-description-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
