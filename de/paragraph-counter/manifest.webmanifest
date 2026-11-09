@@ -1,0 +1,29 @@
+{
+  "name": "Loona Absatz-Zähler online kostenlos",
+  "short_name": "Absatz-Zähler online kostenlos",
+  "description": "Absätze in beliebigem Text sofort zählen, mit Sätzen und Wörtern pro Absatz und dem längsten und kürzesten Absatz. Kostenloser Absatzzähler, keine Registrierung.",
+  "id": "/loona-text-tools/de/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

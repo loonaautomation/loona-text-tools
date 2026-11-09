@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild-zu-Text-Konverter (OCR) online kostenlos",
+  "short_name": "Bild-zu-Text-Konverter (OCR) online kostenlos",
+  "description": "Bearbeitbaren Text aus Bildern und Fotos mit kostenloser OCR extrahieren, die zu 100 % in Ihrem Browser läuft. PNG, JPG, WebP und BMP – Ihr Bild wird nie hochgeladen.",
+  "id": "/loona-text-tools/de/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

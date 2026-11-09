@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flesch–Kincaid-Stufenrechner",
+  "short_name": "Flesch–Kincaid-Stufenrechner",
+  "description": "Kostenloser Flesch–Kincaid-Stufenrechner: Text einfügen für die Schulstufe und den Reading-Ease-Wert, mit Wörtern pro Satz und Silben pro Wort.",
+  "id": "/loona-text-tools/de/flesch-kincaid-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

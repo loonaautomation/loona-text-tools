@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fancy-Text-Generator online",
+  "short_name": "Fancy-Text-Generator online",
+  "description": "Klartext in stilvolle Unicode-Schriften verwandeln – fett, Schreibschrift, Fraktur, eingekreist, Kapitälchen und mehr – für Bios, Bildunterschriften und Benutzernamen. Kostenloser Fancy-Text-Generator.",
+  "id": "/loona-text-tools/de/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

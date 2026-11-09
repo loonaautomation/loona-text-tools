@@ -1,0 +1,29 @@
+{
+  "name": "Loona CBZ-zu-PDF-Konverter kostenlos",
+  "short_name": "CBZ-zu-PDF-Konverter kostenlos",
+  "description": "Wandeln Sie CBZ- und ZIP-Comic-Archive kostenlos in Ihrem Browser in PDF um. Seiten in natürlicher Reihenfolge (1, 2, 10), ein Bild pro Seite in voller Größe. Kein Upload, keine Registrierung.",
+  "id": "/loona-text-tools/de/cbz-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

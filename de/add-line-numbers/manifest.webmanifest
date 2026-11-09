@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zeilennummern online hinzufügen",
+  "short_name": "Zeilennummern online hinzufügen",
+  "description": "Fügen Sie jeder Zeile Ihres Textes Nummern hinzu, mit Ihrer Wahl von Start, Schritt, Auffüllung und Trennzeichen. Kostenloses Zeilennummerierungs-Tool – keine Registrierung, sofort und privat.",
+  "id": "/loona-text-tools/de/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

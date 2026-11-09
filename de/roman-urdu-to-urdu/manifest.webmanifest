@@ -1,0 +1,29 @@
+{
+  "name": "Loona Roman-Urdu-zu-Urdu-Schrift-Konverter online kostenlos",
+  "short_name": "Roman-Urdu-zu-Urdu-Schrift-Konverter online kostenlos",
+  "description": "Wandeln Sie Roman Urdu (lateinische Buchstaben) sofort in echte Urdu-Schrift um – 'mera naam' wird zu echtem Urdu-Schreiben. Kostenloser Roman-Urdu-zu-Urdu-Konverter für Pakistan.",
+  "id": "/loona-text-tools/de/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

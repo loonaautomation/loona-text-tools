@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text-zu-Hex-Konverter online kostenlos",
+  "short_name": "Text-zu-Hex-Konverter online kostenlos",
+  "description": "Text in Hexadezimal und Hex zurück in Text umwandeln, mit korrekter UTF-8-Behandlung für akzentuierte Buchstaben, Urdu und Emoji. Kostenloser Hex-Konverter, keine Registrierung.",
+  "id": "/loona-text-tools/de/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

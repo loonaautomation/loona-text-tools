@@ -1,0 +1,29 @@
+{
+  "name": "Loona Silben-Zähler online kostenlos",
+  "short_name": "Silben-Zähler online kostenlos",
+  "description": "Silben in beliebigem Wort, Satz oder Volltext sofort zählen – Gesamtsilben, Aufschlüsselung pro Wort und Durchschnitte. Kostenloser Silbenzähler, keine Registrierung, funktioniert offline.",
+  "id": "/loona-text-tools/de/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
