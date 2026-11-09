@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contatore frequenza delle parole online",
+  "short_name": "Contatore frequenza delle parole online",
+  "description": "Conta quanto spesso ogni parola appare nel tuo testo e vedi una tabella di frequenza classificata con percentuali. Contatore di frequenza delle parole online gratuito - nessuna registrazione, istantaneo.",
+  "id": "/loona-text-tools/it/word-frequency/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

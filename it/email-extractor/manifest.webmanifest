@@ -1,0 +1,29 @@
+{
+  "name": "Loona Estrattore di email online gratuito",
+  "short_name": "Estrattore di email online gratuito",
+  "description": "Estrai ogni indirizzo email da qualsiasi testo, documento o contenuto di pagina web - deduplicato ed elencato uno per riga. Funziona al 100% nel tuo browser. Gratuito, nessuna registrazione.",
+  "id": "/loona-text-tools/it/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

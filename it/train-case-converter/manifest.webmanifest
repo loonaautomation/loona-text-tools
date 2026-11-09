@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore Train-Case",
+  "short_name": "Convertitore Train-Case",
+  "description": "Convertitore Train-Case gratuito — incolla il testo e ottieni Train-Case all'istante. Conversione in tempo reale nel tuo browser, nessuna registrazione, nessun caricamento.",
+  "id": "/loona-text-tools/it/train-case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

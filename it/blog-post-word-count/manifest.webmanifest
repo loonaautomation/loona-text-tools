@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conteggio parole post blog",
+  "short_name": "Conteggio parole post blog",
+  "description": "Verificatore conteggio parole post blog: conteggio in tempo reale con le fasce di lunghezza per notizie (300–500), post standard (1.000–1.500) e guide approfondite (2.000+).",
+  "id": "/loona-text-tools/it/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

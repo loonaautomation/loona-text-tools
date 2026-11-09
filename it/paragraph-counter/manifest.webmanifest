@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contatore di paragrafi online gratuito",
+  "short_name": "Contatore di paragrafi online gratuito",
+  "description": "Conta i paragrafi in qualsiasi testo all'istante, con frasi e parole per paragrafo e il paragrafo più lungo e più corto. Contatore di paragrafi gratuito, nessuna registrazione.",
+  "id": "/loona-text-tools/it/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

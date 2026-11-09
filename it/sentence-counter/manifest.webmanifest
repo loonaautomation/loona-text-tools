@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contatore di frasi online gratuito",
+  "short_name": "Contatore di frasi online gratuito",
+  "description": "Conta frasi, paragrafi, parole e caratteri in qualsiasi testo all'istante, con lunghezza media della frase. Contatore di frasi gratuito, nessuna registrazione, funziona nel tuo browser.",
+  "id": "/loona-text-tools/it/sentence-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
