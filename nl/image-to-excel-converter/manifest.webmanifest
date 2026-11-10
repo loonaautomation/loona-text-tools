@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeelding naar Excel-omzetter online gratis",
+  "short_name": "Afbeelding naar Excel-omzetter online gratis",
+  "description": "Zet een foto, scan of screenshot van een tabel om naar een echt Excel-bestand (.xlsx) met gratis OCR die 100% in je browser draait. Bewerk de tabel voordat je downloadt - geen upload, geen registratie.",
+  "id": "/loona-text-tools/nl/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

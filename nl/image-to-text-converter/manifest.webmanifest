@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeelding naar tekst-omzetter (OCR) online gratis",
+  "short_name": "Afbeelding naar tekst-omzetter (OCR) online gratis",
+  "description": "Extraheer bewerkbare tekst uit afbeeldingen en foto's met gratis OCR die 100% in je browser draait. PNG, JPG, WebP en BMP - je afbeelding wordt nooit geüpload.",
+  "id": "/loona-text-tools/nl/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Woordenteller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Woorden, tekens, zinnen, alinea's en leestijd - live geteld terwijl je typt.",
+  "k": "word counter word counter woorden tekens zinnen alinea s en leestijd live geteld terwijl je typt",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekenteller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tekens met en zonder spaties, plus live limieten voor X, sms en metatekst.",
+  "k": "character counter character counter tekens met en zonder spaties plus live limieten voor x sms en metatekst",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Zinnenteller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Zinnen, alinea's, woorden en tekens in elke tekst - live geteld terwijl je typt.",
+  "k": "sentence counter sentence counter zinnen alinea s woorden en tekens in elke tekst live geteld terwijl je typt",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Leestijdcalculator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Hoe lang elke tekst duurt om te lezen, bij langzame, gemiddelde en snelle leessnelheden.",
+  "k": "reading time calculator reading time calculator hoe lang elke tekst duurt om te lezen bij langzame gemiddelde en snelle leessnelheden",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Spreektijdcalculator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Hoe lang een toespraak of script duurt om voor te dragen - plus de woorden die nodig zijn voor een doeltijd.",
+  "k": "speaking time calculator speaking time calculator hoe lang een toespraak of script duurt om voor te dragen plus de woorden die nodig zijn voor een doeltijd",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Typtest",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Een typtest van 60 seconden - je snelheid in WPM, nauwkeurigheid en CPM, live terwijl je typt.",
+  "k": "typing test typing test een typtest van 60 seconden je snelheid in wpm nauwkeurigheid en cpm live terwijl je typt",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Hoofdletteromzetter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "HOOFDLETTERS, kleine letters, Titelcasing, Zinscasing en meer - elk één klik.",
+  "k": "case converter case converter hoofdletters kleine letters titelcasing zinscasing en meer elk een klik",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Dubbele regels verwijderen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Verwijder herhaalde regels en behoud elke unieke regel één keer, in volgorde.",
+  "k": "remove duplicate lines remove duplicate lines verwijder herhaalde regels en behoud elke unieke regel een keer in volgorde",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Regels sorteren",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Orden regels A-Z, Z-A, op lengte, omgekeerd, of eerlijk willekeurig geschud.",
+  "k": "sort lines sort lines orden regels a z z a op lengte omgekeerd of eerlijk willekeurig geschud",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst omkeren",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Draai tekst achterstevoren om - hele tekst, elk woord, woordvolgorde of regelvolgorde.",
+  "k": "reverse text reverse text draai tekst achterstevoren om hele tekst elk woord woordvolgorde of regelvolgorde",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Extra spaties verwijderen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Pers dubbele spaties, tabs en rafelige randen uit rommelige gekopieerde tekst.",
+  "k": "remove extra spaces remove extra spaces pers dubbele spaties tabs en rafelige randen uit rommelige gekopieerde tekst",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Zoeken en vervangen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Ruil elke voorkoming van een woord of woordgroep in één keer om voor een andere.",
+  "k": "find and replace find and replace ruil elke voorkoming van een woord of woordgroep in een keer om voor een andere",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst naar spraak",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Hoor elke tekst voorgelezen - Engels, Urdu en meer stemmen, jouw snelheid.",
+  "k": "text to speech text to speech hoor elke tekst voorgelezen engels urdu en meer stemmen jouw snelheid",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Spraak naar tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Spreek en zie je woorden tekst worden - Engels, Urdu en meer.",
+  "k": "speech to text speech to text spreek en zie je woorden tekst worden engels urdu en meer",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Wachtwoordgenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Sterke willekeurige wachtwoorden met de lengte en symbolen die je kiest.",
+  "k": "password generator password generator sterke willekeurige wachtwoorden met de lengte en symbolen die je kiest",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst vergelijken",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Zet twee teksten naast elkaar en zie precies welke regels zijn veranderd.",
+  "k": "text compare text compare zet twee teksten naast elkaar en zie precies welke regels zijn veranderd",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Woordfrequentie",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Een gerangschikte tabel van je meest gebruikte woorden, met aantallen en percentages.",
+  "k": "word frequency word frequency een gerangschikte tabel van je meest gebruikte woorden met aantallen en percentages",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Regeleinden verwijderen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Voeg op PDF-manier gebroken regels weer samen tot schone, vloeiende alinea's.",
+  "k": "remove line breaks remove line breaks voeg op pdf manier gebroken regels weer samen tot schone vloeiende alinea s",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Regelnummers toevoegen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Nummer elke regel - kies de start, stap, opvulling en het scheidingsteken.",
+  "k": "add line numbers add line numbers nummer elke regel kies de start stap opvulling en het scheidingsteken",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum-generator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Klassieke dummy-tekst per alinea, zin of woord voor je ontwerpen.",
+  "k": "lorem ipsum generator lorem ipsum generator klassieke dummy tekst per alinea zin of woord voor je ontwerpen",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Slug-generator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Maak van elke titel live een schone, zoekvriendelijke URL-slug.",
+  "k": "slug generator slug generator maak van elke titel live een schone zoekvriendelijke url slug",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Morsecodevertaler",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Tekst naar morsecode en terug - met echte piepweergave.",
+  "k": "morse code translator morse code translator tekst naar morsecode en terug met echte piepweergave",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst naar binair",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Zie tekst als de 0'en en 1'en die computers opslaan - en decodeer binair terug.",
+  "k": "text to binary text to binary zie tekst als de 0 en en 1 en die computers opslaan en decodeer binair terug",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Roman Urdu naar Urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Zet 'mera naam Ahmed hai' direct om naar echt Urdu-schrift.",
+  "k": "roman urdu to urdu roman urdu to urdu zet mera naam ahmed hai direct om naar echt urdu schrift",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Online kladblok",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Een kladblok dat automatisch opslaat in je browser - downloaden en printen inbegrepen.",
+  "k": "online notepad online notepad een kladblok dat automatisch opslaat in je browser downloaden en printen inbegrepen",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Siertekstgenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Vette, handschrift-, omcirkelde en ondersteboven tekst voor bios en bijschriften.",
+  "k": "fancy text generator fancy text generator vette handschrift omcirkelde en ondersteboven tekst voor bios en bijschriften",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Lettergrepenteller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tel lettergrepen in elk woord en in totaal - perfect voor gedichten, haiku's en songteksten.",
+  "k": "syllable counter syllable counter tel lettergrepen in elk woord en in totaal perfect voor gedichten haiku s en songteksten",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Alineateller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tel alinea's, met woorden en zinnen per alinea en de langste gemarkeerd.",
+  "k": "paragraph counter paragraph counter tel alinea s met woorden en zinnen per alinea en de langste gemarkeerd",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Leesniveaucalculator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Reading Ease- en niveauscores, met een oordeel in eenvoudig Engels.",
+  "k": "reading level calculator reading level calculator flesch reading ease en niveauscores met een oordeel in eenvoudig engels",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Palindroomchecker",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Leest het achterstevoren hetzelfde? Controleer woorden, getallen en hele zinnen.",
+  "k": "palindrome checker palindrome checker leest het achterstevoren hetzelfde controleer woorden getallen en hele zinnen",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagramgenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Vind echte woorden die in je letters verborgen zitten, en test anagramparen direct.",
+  "k": "anagram generator anagram generator vind echte woorden die in je letters verborgen zitten en test anagramparen direct",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NAVO-spelalfabet",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Spel alles op de pilotenmanier - Alfa, Bravo, Charlie - en decodeer het terug.",
+  "k": "nato phonetic alphabet nato phonetic alphabet spel alles op de pilotenmanier alfa bravo charlie en decodeer het terug",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst naar ASCII-omzetter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "De decimale, hex-, octale en binaire codes achter elk teken, en terug.",
+  "k": "text to ascii converter text to ascii converter de decimale hex octale en binaire codes achter elk teken en terug",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst naar hex-omzetter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Tekst naar hexadecimale bytes en terug, met correcte UTF-8 voor elke taal.",
+  "k": "text to hex converter text to hex converter tekst naar hexadecimale bytes en terug met correcte utf 8 voor elke taal",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Herhaalde woorden zoeken",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Elk woord dat je meer dan één keer gebruikte, gerangschikt - plus toevallige dubbele woorden.",
+  "k": "repeated words finder repeated words finder elk woord dat je meer dan een keer gebruikte gerangschikt plus toevallige dubbele woorden",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Checker voor onzichtbare tekens",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Onthul tekens met nulbreedte en verborgen tekens in gekopieerde tekst, en verwijder ze.",
+  "k": "invisible character checker invisible character checker onthul tekens met nulbreedte en verborgen tekens in gekopieerde tekst en verwijder ze",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Leestekens verwijderen",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Verwijder leestekens met één klik uit tekst, en houd de woorden schoon.",
+  "k": "remove punctuation remove punctuation verwijder leestekens met een klik uit tekst en houd de woorden schoon",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "E-mailextractor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Haal elk e-mailadres uit elke tekst - ontdubbeld, één per regel.",
+  "k": "email extractor email extractor haal elk e mailadres uit elke tekst ontdubbeld een per regel",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Afbeelding naar tekst (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Extraheer bewerkbare tekst uit foto's, scans en screenshots - gratis OCR in je browser.",
+  "k": "image to text (ocr) image to text (ocr) extraheer bewerkbare tekst uit foto s scans en screenshots gratis ocr in je browser",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Afbeelding naar Excel-omzetter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Maak van een foto of screenshot van een tabel een echt Excel-bestand - controleer en bewerk de cellen en download daarna.",
+  "k": "image to excel converter image to excel converter maak van een foto of screenshot van een tabel een echt excel bestand controleer en bewerk de cellen en download daarna",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Citatiegenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "APA 7e, MLA 9e en Chicago-verwijzingen voor websites, boeken en tijdschriftartikelen.",
+  "k": "citation generator citation generator apa 7e mla 9e en chicago verwijzingen voor websites boeken en tijdschriftartikelen",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-lezer",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Open en lees EPUB-e-books direct in je browser - hoofdstukkenlijst, instelbare lettergrootte en donkere modus.",
+  "k": "epub reader epub reader open en lees epub e books direct in je browser hoofdstukkenlijst instelbare lettergrootte en donkere modus",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB naar tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Maak van een EPUB-e-book een schoon platte-tekstbestand - hoofdstukken in leesvolgorde, koppen behouden.",
+  "k": "epub to text epub to text maak van een epub e book een schoon platte tekstbestand hoofdstukken in leesvolgorde koppen behouden",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB naar HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Maak van een EPUB-e-book één zelfstandig HTML-bestand met zijn afbeeldingen ingesloten.",
+  "k": "epub to html epub to html maak van een epub e book een zelfstandig html bestand met zijn afbeeldingen ingesloten",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ naar PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Maak van een striparchief een PDF - pagina's in natuurlijke volgorde, één afbeelding per pagina.",
+  "k": "cbz to pdf cbz to pdf maak van een striparchief een pdf pagina s in natuurlijke volgorde een afbeelding per pagina",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX naar EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Maak van een Word-document een EPUB-e-book - koppen worden hoofdstukken.",
+  "k": "docx to epub docx to epub maak van een word document een epub e book koppen worden hoofdstukken",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-metadatabewerker",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Bewerk de titel, auteur, uitgever en beschrijving van een e-book - hoofdstukken onaangeraakt.",
+  "k": "epub metadata editor epub metadata editor bewerk de titel auteur uitgever en beschrijving van een e book hoofdstukken onaangeraakt",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst / Markdown naar EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Zet platte tekst of Markdown om naar een net EPUB-e-book dat in elke lezer opent.",
+  "k": "text / markdown to epub text / markdown to epub zet platte tekst of markdown om naar een net epub e book dat in elke lezer opent",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Willekeurige onderwerpengenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/nl/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 handgeschreven essay-, toespraak-, debat-, verhaal- en kindonderwerpen in 9 categorieën, gefilterd op schoolniveau, zonder herhaling.",
+  "k": "random topic generator random topic generator 900 handgeschreven essay toespraak debat verhaal en kindonderwerpen in 9 categorieen gefilterd op schoolniveau zonder herhaling",
+  "p": 148,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Essay van 5.000 woorden",
+  "short_name": "Essay van 5.000 woorden",
+  "description": "Gratis essayteller voor 5.000 woorden: live woordentelling tot het doel van 5.000 woorden, pagina's met enkele en dubbele regelafstand, alinea's, lees- en spreektijd.",
+  "id": "/loona-text-tools/nl/5000-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

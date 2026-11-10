@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flesch–Kincaid-niveaucalculator",
+  "short_name": "Flesch–Kincaid-niveaucalculator",
+  "description": "Gratis Flesch–Kincaid-niveaucalculator: plak tekst voor het schoolniveau en de leesgemakscore, met woorden per zin en lettergrepen per woord.",
+  "id": "/loona-text-tools/nl/flesch-kincaid-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

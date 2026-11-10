@@ -1,0 +1,29 @@
+{
+  "name": "Loona Regels online sorteren",
+  "short_name": "Regels online sorteren",
+  "description": "Sorteer regels tekst alfabetisch (A-Z of Z-A), op lengte, in omgekeerde volgorde of willekeurig geschud. Gratis online regelsorteerder - geen registratie, direct en privé.",
+  "id": "/loona-text-tools/nl/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

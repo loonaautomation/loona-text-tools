@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB-metadatabewerker gratis",
+  "short_name": "EPUB-metadatabewerker gratis",
+  "description": "Bewerk EPUB-metadata gratis in je browser: titel, auteur, taal, uitgever en beschrijving, met coverinformatie getoond. Hoofdstukken onaangeraakt, geen upload, geen registratie.",
+  "id": "/loona-text-tools/nl/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
