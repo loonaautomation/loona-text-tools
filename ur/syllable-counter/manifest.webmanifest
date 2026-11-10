@@ -1,0 +1,29 @@
+{
+  "name": "Loona رکنِ صوت گننے والا آن لائن مفت",
+  "short_name": "رکنِ صوت گننے والا آن لائن مفت",
+  "description": "کسی بھی لفظ، جملے یا پورے متن میں ارکانِ صوت فوراً گنیں - کل ارکانِ صوت، فی لفظ تفصیل اور اوسط۔ مفت رکنِ صوت کاؤنٹر، کوئی سائن اپ نہیں، آف لائن کام کرتا ہے۔",
+  "id": "/loona-text-tools/ur/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

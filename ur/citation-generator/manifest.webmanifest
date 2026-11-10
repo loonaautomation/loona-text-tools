@@ -1,0 +1,29 @@
+{
+  "name": "Loona حوالہ جنریٹر آن لائن مفت",
+  "short_name": "حوالہ جنریٹر آن لائن مفت",
+  "description": "APA 7th، MLA 9 اور Chicago مصنف-تاریخ میں ویب سائٹس، کتب اور جریدوں کے مضامین کے لیے درست فارمیٹ شدہ حوالے بنائیں - مفت، فوری، آپ کے براؤزر میں۔",
+  "id": "/loona-text-tools/ur/citation-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹیکسٹ ٹولز لائبریری",
+  "short_name": "ٹیکسٹ ٹولز لائبریری",
+  "description": "مکمل Loona Text Tools لائبریری: کیس کنورٹرز، مضمون اور تقریر کے الفاظ کاؤنٹرز، پلیٹ فارم حروف حد چیکرز اور مطالعہ اہلیت کیلکولیٹرز۔",
+  "id": "/loona-text-tools/ur/text-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

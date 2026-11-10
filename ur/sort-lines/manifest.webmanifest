@@ -1,0 +1,29 @@
+{
+  "name": "Loona سطریں آن لائن ترتیب دیں",
+  "short_name": "سطریں آن لائن ترتیب دیں",
+  "description": "متن کی سطروں کو حروفِ تہجی کی ترتیب سے (A-Z یا Z-A)، لمبائی کے حساب سے، الٹی ترتیب میں یا بے ترتیب پھینٹ کر ترتیب دیں۔ مفت آن لائن سطر ترتیب کنندہ - کوئی سائن اپ نہیں، فوری اور نجی۔",
+  "id": "/loona-text-tools/ur/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

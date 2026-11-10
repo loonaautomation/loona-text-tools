@@ -1,0 +1,29 @@
+{
+  "name": "Loona متن سے تقریر آن لائن مفت",
+  "short_name": "متن سے تقریر آن لائن مفت",
+  "description": "کسی بھی متن کو قدرتی بولی گئی آڈیو میں مفت آن لائن بدلیں - انگریزی اور اردو آوازیں، قابلِ ترتیب رفتار اور پچ۔ کوئی سائن اپ نہیں، کچھ اپ لوڈ نہیں، آپ کے براؤزر میں کام کرتا ہے۔",
+  "id": "/loona-text-tools/ur/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

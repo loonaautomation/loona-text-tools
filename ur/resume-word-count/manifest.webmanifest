@@ -1,0 +1,29 @@
+{
+  "name": "Loona ریزیومے کے الفاظ کی گنتی",
+  "short_name": "ریزیومے کے الفاظ کی گنتی",
+  "description": "ریزیومے کے الفاظ کی گنتی کا چیکر: لائیو گنتی ایک صفحے کے ہدف (400–600 الفاظ) کے ساتھ، صفحے کا اندازہ اور کاٹ چھانٹ کی رہنمائی۔",
+  "id": "/loona-text-tools/ur/resume-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

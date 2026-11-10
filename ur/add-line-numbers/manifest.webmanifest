@@ -1,0 +1,29 @@
+{
+  "name": "Loona آن لائن سطر نمبر شامل کریں",
+  "short_name": "آن لائن سطر نمبر شامل کریں",
+  "description": "اپنے متن کی ہر سطر پر نمبر شامل کریں، آغاز، قدم، پیڈنگ اور جداکار آپ کی پسند کے مطابق۔ مفت سطر نمبرنگ ٹول - کوئی سائن اپ نہیں، فوری اور نجی۔",
+  "id": "/loona-text-tools/ur/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

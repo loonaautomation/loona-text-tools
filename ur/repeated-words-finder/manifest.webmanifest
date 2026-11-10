@@ -1,0 +1,29 @@
+{
+  "name": "Loona دہرائے گئے الفاظ تلاش کنندہ آن لائن مفت",
+  "short_name": "دہرائے گئے الفاظ تلاش کنندہ آن لائن مفت",
+  "description": "اپنے متن میں ہر وہ لفظ تلاش کریں جو ایک سے زیادہ بار آیا ہو، اس حساب سے درجہ بند کہ وہ کتنی بار دہرایا گیا۔ اتفاقی دوہرے الفاظ اور زیادہ استعمال شدہ الفاظ پکڑیں۔ مفت، کوئی سائن اپ نہیں۔",
+  "id": "/loona-text-tools/ur/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

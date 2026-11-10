@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flesch–Kincaid گریڈ کیلکولیٹر",
+  "short_name": "Flesch–Kincaid گریڈ کیلکولیٹر",
+  "description": "مفت Flesch–Kincaid گریڈ کیلکولیٹر: گریڈ سطح اور مطالعہ آسانی اسکور کے لیے متن پیسٹ کریں، فی جملہ الفاظ اور فی لفظ ارکانِ صوت کے ساتھ۔",
+  "id": "/loona-text-tools/ur/flesch-kincaid-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB میٹا ڈیٹا ایڈیٹر مفت",
+  "short_name": "EPUB میٹا ڈیٹا ایڈیٹر مفت",
+  "description": "اپنے براؤزر میں EPUB میٹا ڈیٹا مفت ترمیم کریں: عنوان، مصنف، زبان، ناشر اور تفصیل، سرورق کی معلومات کے ساتھ۔ ابواب اچھوتے، کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
+  "id": "/loona-text-tools/ur/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

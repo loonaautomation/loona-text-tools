@@ -1,0 +1,29 @@
+{
+  "name": "Loona آن لائن نوٹ پیڈ مفت",
+  "short_name": "آن لائن نوٹ پیڈ مفت",
+  "description": "ایک مفت آن لائن نوٹ پیڈ جو آپ کے لکھتے ہی براؤزر میں خودکار محفوظ کرتا ہے - ڈاؤن لوڈ، پرنٹ اور الفاظ کی گنتی شامل۔ کوئی سائن اپ نہیں؛ آپ کے نوٹس کبھی آپ کے آلے سے باہر نہیں جاتے۔",
+  "id": "/loona-text-tools/ur/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

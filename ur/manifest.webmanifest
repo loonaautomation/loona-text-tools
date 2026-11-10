@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Tools",
+  "short_name": "Text Tools",
+  "description": "مفت آن لائن ٹیکسٹ ٹولز - الفاظ کاؤنٹر، کیس کنورٹر، متن سے تقریر، تقریر سے متن، رومن اردو سے اردو کنورٹر اور مزید۔ 100% مفت، کوئی سائن اپ نہیں، نجی۔",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "../icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-text-tools/ur/"
+}
