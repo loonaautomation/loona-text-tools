@@ -1,0 +1,29 @@
+{
+  "name": "Loona فاحص طول وسم العنوان",
+  "short_name": "فاحص طول وسم العنوان",
+  "description": "عدّاد فاحص طول وسم العنوان مجانًا: عدّ أحرف مباشر ضد حد الـ60 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
+  "id": "/loona-text-tools/ar/title-tag-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

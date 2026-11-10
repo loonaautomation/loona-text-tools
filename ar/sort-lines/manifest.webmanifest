@@ -1,0 +1,29 @@
+{
+  "name": "Loona فرز الأسطر عبر الإنترنت",
+  "short_name": "فرز الأسطر عبر الإنترنت",
+  "description": "فرز أسطر النص أبجديًا (A-Z أو Z-A) أو حسب الطول أو بترتيب معكوس أو مخلوطة عشوائيًا. فارز أسطر مجاني عبر الإنترنت - بلا تسجيل، فوري وخاص.",
+  "id": "/loona-text-tools/ar/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

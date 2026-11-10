@@ -1,0 +1,29 @@
+{
+  "name": "Loona البحث والاستبدال النصي عبر الإنترنت",
+  "short_name": "البحث والاستبدال النصي عبر الإنترنت",
+  "description": "ابحث عن كلمة أو عبارة واستبدل كل ظهور في نصك دفعة واحدة، مع خيارات حساسية الحالة والكلمة الكاملة والنمط. أداة مجانية عبر الإنترنت - بلا تسجيل.",
+  "id": "/loona-text-tools/ar/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

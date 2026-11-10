@@ -1,0 +1,443 @@
+[
+ {
+  "n": "عدّاد الكلمات",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "الكلمات والأحرف والجمل والفقرات ووقت القراءة - تُحسب مباشرة أثناء كتابتك.",
+  "k": "word counter word counter الكلمات والأحرف والجمل والفقرات ووقت القراءة تحسب مباشرة أثناء كتابتك",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "عدّاد الأحرف",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "الأحرف مع المسافات وبدونها، إضافة إلى حدود مباشرة لـX وSMS والنص التعريفي.",
+  "k": "character counter character counter الأحرف مع المسافات وبدونها، إضافة إلى حدود مباشرة لـx وsms والنص التعريفي",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "عدّاد الجمل",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "الجمل والفقرات والكلمات والأحرف في أي نص - تُحسب مباشرة أثناء كتابتك.",
+  "k": "sentence counter sentence counter الجمل والفقرات والكلمات والأحرف في أي نص تحسب مباشرة أثناء كتابتك",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "حاسبة وقت القراءة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "كم يستغرق أي نص للقراءة، بسرعات قراءة بطيئة ومتوسطة وسريعة.",
+  "k": "reading time calculator reading time calculator كم يستغرق أي نص للقراءة، بسرعات قراءة بطيئة ومتوسطة وسريعة",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "حاسبة وقت التحدث",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "كم يستغرق خطاب أو نص للإلقاء - إضافة إلى الكلمات اللازمة لوقت مستهدف.",
+  "k": "speaking time calculator speaking time calculator كم يستغرق خطاب أو نص للإلقاء إضافة إلى الكلمات اللازمة لوقت مستهدف",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "اختبار الكتابة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "اختبار كتابة لمدة 60 ثانية - سرعتك بوحدة WPM والدقة وCPM، مباشرة أثناء كتابتك.",
+  "k": "typing test typing test اختبار كتابة لمدة 60 ثانية سرعتك بوحدة wpm والدقة وcpm، مباشرة أثناء كتابتك",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل حالة الأحرف",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE وlowercase وTitle Case وSentence case وأكثر - نقرة واحدة لكل منها.",
+  "k": "case converter case converter uppercase وlowercase وtitle case وsentence case وأكثر نقرة واحدة لكل منها",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة الأسطر المكررة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "احذف الأسطر المكررة واحتفظ بكل سطر فريد مرة واحدة، بالترتيب.",
+  "k": "remove duplicate lines remove duplicate lines احذف الأسطر المكررة واحتفظ بكل سطر فريد مرة واحدة، بالترتيب",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "فرز الأسطر",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "رتّب الأسطر A-Z أو Z-A أو حسب الطول أو معكوسة أو مخلوطة عشوائيًا بعدالة.",
+  "k": "sort lines sort lines رتب الأسطر a z أو z a أو حسب الطول أو معكوسة أو مخلوطة عشوائيا بعدالة",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "عكس النص",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "اقلب النص للخلف - النص كله أو كل كلمة أو ترتيب الكلمات أو ترتيب الأسطر.",
+  "k": "reverse text reverse text اقلب النص للخلف النص كله أو كل كلمة أو ترتيب الكلمات أو ترتيب الأسطر",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة المسافات الزائدة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "اعصر المسافات المزدوجة وعلامات الجدولة والحواف المهترئة من نص منسوخ فوضوي.",
+  "k": "remove extra spaces remove extra spaces اعصر المسافات المزدوجة وعلامات الجدولة والحواف المهترئة من نص منسوخ فوضوي",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "البحث والاستبدال",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "بدّل كل ظهور لكلمة أو عبارة بأخرى، في تمريرة واحدة.",
+  "k": "find and replace find and replace بدل كل ظهور لكلمة أو عبارة بأخرى، في تمريرة واحدة",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل النص إلى كلام",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "اسمع أي نص يُقرأ بصوت عالٍ - أصوات الإنجليزية والأردية وأكثر، بسرعتك.",
+  "k": "text to speech text to speech اسمع أي نص يقرأ بصوت عال أصوات الإنجليزية والأردية وأكثر، بسرعتك",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل الكلام إلى نص",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "تحدّث وشاهد كلماتك تصبح نصًا - الإنجليزية والأردية وأكثر.",
+  "k": "speech to text speech to text تحدث وشاهد كلماتك تصبح نصا الإنجليزية والأردية وأكثر",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد كلمات المرور",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "كلمات مرور عشوائية قوية بالطول والرموز التي تختارها.",
+  "k": "password generator password generator كلمات مرور عشوائية قوية بالطول والرموز التي تختارها",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "مقارنة النصوص",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "ضع نصين جنبًا إلى جنب وشاهد بالضبط أي أسطر تغيّرت.",
+  "k": "text compare text compare ضع نصين جنبا إلى جنب وشاهد بالضبط أي أسطر تغيرت",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "تكرار الكلمات",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "جدول مرتّب لكلماتك الأكثر استخدامًا، مع الأعداد والنسب المئوية.",
+  "k": "word frequency word frequency جدول مرتب لكلماتك الأكثر استخداما، مع الأعداد والنسب المئوية",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة فواصل الأسطر",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "وصل أسطر مكسورة بأسلوب PDF مجددًا في فقرات نظيفة متدفقة.",
+  "k": "remove line breaks remove line breaks وصل أسطر مكسورة بأسلوب pdf مجددا في فقرات نظيفة متدفقة",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "إضافة أرقام الأسطر",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "رقّم كل سطر - اختر البداية والخطوة والحشو والفاصل.",
+  "k": "add line numbers add line numbers رقم كل سطر اختر البداية والخطوة والحشو والفاصل",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد لوريم إيبسوم",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "نص وهمي كلاسيكي حسب الفقرة أو الجملة أو الكلمة لتصميماتك.",
+  "k": "lorem ipsum generator lorem ipsum generator نص وهمي كلاسيكي حسب الفقرة أو الجملة أو الكلمة لتصميماتك",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد السلَغ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "حوّل أي عنوان إلى سلَغ URL نظيف وودود للبحث، مباشرة.",
+  "k": "slug generator slug generator حول أي عنوان إلى سلغ url نظيف وودود للبحث، مباشرة",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "مترجم شفرة مورس",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "نص إلى شفرة مورس والعودة - مع تشغيل صفير حقيقي.",
+  "k": "morse code translator morse code translator نص إلى شفرة مورس والعودة مع تشغيل صفير حقيقي",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل النص إلى النظام الثنائي",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "شاهد النص كـ0 و1 التي تخزّنها الحواسيب - وفُكّ الثنائي مجددًا.",
+  "k": "text to binary text to binary شاهد النص كـ0 و1 التي تخزنها الحواسيب وفك الثنائي مجددا",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "الأردية الرومانية إلى الأردية",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "حوّل 'mera naam Ahmed hai' إلى خط أردي صحيح، فورًا.",
+  "k": "roman urdu to urdu roman urdu to urdu حول mera naam ahmed hai إلى خط أردي صحيح، فورا",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "المفكرة عبر الإنترنت",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "مفكرة تحفظ تلقائيًا في متصفحك - مع التنزيل والطباعة.",
+  "k": "online notepad online notepad مفكرة تحفظ تلقائيا في متصفحك مع التنزيل والطباعة",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد النصوص المزخرفة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "نص عريض وخطي ومحاط بدوائر ومقلوب للسير والتعليقات.",
+  "k": "fancy text generator fancy text generator نص عريض وخطي ومحاط بدوائر ومقلوب للسير والتعليقات",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "عدّاد المقاطع",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "عُدّ المقاطع في كل كلمة وفي المجموع - مثالي للقصائد والهايكو وكلمات الأغاني.",
+  "k": "syllable counter syllable counter عد المقاطع في كل كلمة وفي المجموع مثالي للقصائد والهايكو وكلمات الأغاني",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "عدّاد الفقرات",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "عُدّ الفقرات، مع الكلمات والجمل لكل فقرة والأطول معلّم.",
+  "k": "paragraph counter paragraph counter عد الفقرات، مع الكلمات والجمل لكل فقرة والأطول معلم",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "حاسبة مستوى القراءة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "درجات Flesch Reading Ease ومستوى الصف، مع حكم بالإنجليزية العادية.",
+  "k": "reading level calculator reading level calculator درجات flesch reading ease ومستوى الصف، مع حكم بالإنجليزية العادية",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "فاحص الباليندروم",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "هل يُقرأ بالطريقة نفسها للخلف؟ تحقق من الكلمات والأرقام والجمل الكاملة.",
+  "k": "palindrome checker palindrome checker هل يقرأ بالطريقة نفسها للخلف؟ تحقق من الكلمات والأرقام والجمل الكاملة",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد الأناغرام",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "ابحث عن كلمات حقيقية مختبئة في أحرفك، واختبر أزواج الأناغرام فورًا.",
+  "k": "anagram generator anagram generator ابحث عن كلمات حقيقية مختبئة في أحرفك، واختبر أزواج الأناغرام فورا",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "الأبجدية الصوتية للناتو",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "هجّ أي شيء بطريقة الطيار - Alfa, Bravo, Charlie - وفُكّه مجددًا.",
+  "k": "nato phonetic alphabet nato phonetic alphabet هج أي شيء بطريقة الطيار alfa bravo charlie وفكه مجددا",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل النص إلى ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "الرموز العشرية والست عشرية والثمانية والثنائية وراء كل حرف، والعودة.",
+  "k": "text to ascii converter text to ascii converter الرموز العشرية والست عشرية والثمانية والثنائية وراء كل حرف، والعودة",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل النص إلى الست عشري",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "نص إلى بايتات ست عشرية والعودة، مع UTF-8 صحيح لكل لغة.",
+  "k": "text to hex converter text to hex converter نص إلى بايتات ست عشرية والعودة، مع utf 8 صحيح لكل لغة",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "الباحث عن الكلمات المكررة",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "كل كلمة استخدمتها أكثر من مرة، مرتّبة - إضافة إلى الكلمات المزدوجة العرضية.",
+  "k": "repeated words finder repeated words finder كل كلمة استخدمتها أكثر من مرة، مرتبة إضافة إلى الكلمات المزدوجة العرضية",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "فاحص الأحرف غير المرئية",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "اكشف الأحرف صفرية العرض والمخفية في نص منسوخ، وأزلها.",
+  "k": "invisible character checker invisible character checker اكشف الأحرف صفرية العرض والمخفية في نص منسوخ، وأزلها",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة علامات الترقيم",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "انزع علامات الترقيم من النص بنقرة واحدة، مع إبقاء الكلمات نظيفة.",
+  "k": "remove punctuation remove punctuation انزع علامات الترقيم من النص بنقرة واحدة، مع إبقاء الكلمات نظيفة",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "مستخرج البريد الإلكتروني",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "اسحب كل عنوان بريد إلكتروني من أي نص - مُزال التكرار، واحد في كل سطر.",
+  "k": "email extractor email extractor اسحب كل عنوان بريد إلكتروني من أي نص مزال التكرار، واحد في كل سطر",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل الصور إلى نص (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "استخرج نصًا قابلًا للتحرير من الصور الفوتوغرافية والمسوحات ولقطات الشاشة - OCR مجاني في متصفحك.",
+  "k": "image to text (ocr) image to text (ocr) استخرج نصا قابلا للتحرير من الصور الفوتوغرافية والمسوحات ولقطات الشاشة ocr مجاني في متصفحك",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل الصور إلى Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "حوّل صورة أو لقطة شاشة لجدول إلى ملف Excel حقيقي - تحقق من الخلايا وحرّرها، ثم نُزّل.",
+  "k": "image to excel converter image to excel converter حول صورة أو لقطة شاشة لجدول إلى ملف excel حقيقي تحقق من الخلايا وحررها، ثم نزل",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد الاستشهادات",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "استشهادات APA 7 وMLA 9 وشيكاغو للمواقع والكتب ومقالات المجلات.",
+  "k": "citation generator citation generator استشهادات apa 7 وmla 9 وشيكاغو للمواقع والكتب ومقالات المجلات",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "قارئ EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "افتح واقرأ كتب EPUB الإلكترونية مباشرة في متصفحك - قائمة فصول وحجم خط قابل للتعديل ووضع داكن.",
+  "k": "epub reader epub reader افتح واقرأ كتب epub الإلكترونية مباشرة في متصفحك قائمة فصول وحجم خط قابل للتعديل ووضع داكن",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل EPUB إلى نص",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "حوّل كتاب EPUB إلكتروني إلى ملف نص عادي نظيف - فصول بترتيب القراءة، عناوين محفوظة.",
+  "k": "epub to text epub to text حول كتاب epub إلكتروني إلى ملف نص عادي نظيف فصول بترتيب القراءة، عناوين محفوظة",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل EPUB إلى HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "حوّل كتاب EPUB إلكتروني إلى ملف HTML واحد مكتمل ذاتيًا مع صوره مضمّنة.",
+  "k": "epub to html epub to html حول كتاب epub إلكتروني إلى ملف html واحد مكتمل ذاتيا مع صوره مضمنة",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل CBZ إلى PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "حوّل أرشيف قصص مصوّرة إلى PDF - صفحات بالترتيب الطبيعي، صورة واحدة لكل صفحة.",
+  "k": "cbz to pdf cbz to pdf حول أرشيف قصص مصورة إلى pdf صفحات بالترتيب الطبيعي، صورة واحدة لكل صفحة",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل DOCX إلى EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "حوّل مستند Word إلى كتاب EPUB إلكتروني - العناوين تصبح فصولًا.",
+  "k": "docx to epub docx to epub حول مستند word إلى كتاب epub إلكتروني العناوين تصبح فصولا",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "محرّر بيانات EPUB الوصفية",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "عدّل عنوان كتاب إلكتروني ومؤلفه وناشره ووصفه - الفصول لم تُمس.",
+  "k": "epub metadata editor epub metadata editor عدل عنوان كتاب إلكتروني ومؤلفه وناشره ووصفه الفصول لم تمس",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "تحويل النص / Markdown إلى EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "حوّل نصًا عاديًا أو Markdown إلى كتاب EPUB إلكتروني صحيح ينفتح في أي قارئ.",
+  "k": "text / markdown to epub text / markdown to epub حول نصا عاديا أو markdown إلى كتاب epub إلكتروني صحيح ينفتح في أي قارئ",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد الموضوعات العشوائية",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ar/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 موضوع مقال وخطاب ومناظرة وقصة وأطفال مكتوب يدويًا في 9 فئات، مفلترة حسب المستوى المدرسي، دون تكرار.",
+  "k": "random topic generator random topic generator 900 موضوع مقال وخطاب ومناظرة وقصة وأطفال مكتوب يدويا في 9 فئات، مفلترة حسب المستوى المدرسي، دون تكرار",
+  "p": 148,
+  "c": "Tool"
+ }
+]

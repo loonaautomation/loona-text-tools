@@ -1,0 +1,29 @@
+{
+  "name": "Loona إزالة المسافات الزائدة عبر الإنترنت",
+  "short_name": "إزالة المسافات الزائدة عبر الإنترنت",
+  "description": "أزل المسافات الزائدة وعلامات الجدولة والأسطر الفارغة من النص بنقرة واحدة. رتّب نصًا منسوخًا من PDFs ورسائل بريد وصفحات ويب. مزيل مجاني عبر الإنترنت - لا حاجة للتسجيل.",
+  "id": "/loona-text-tools/ar/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
