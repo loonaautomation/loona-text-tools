@@ -1,0 +1,29 @@
+{
+  "name": "Loona Количество слов в романе по жанрам",
+  "short_name": "Количество слов в романе по жанрам",
+  "description": "Количество слов в романе по жанрам: для взрослых 70,000–120,000, YA 50,000–90,000, средний школьный возраст 20,000–55,000. Бесплатный счётчик в реальном времени с целями по жанрам.",
+  "id": "/loona-text-tools/ru/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

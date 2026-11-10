@@ -1,0 +1,29 @@
+{
+  "name": "Loona Речь на 10 минут",
+  "short_name": "Речь на 10 минут",
+  "description": "Сколько слов в речи на 10 минут? 1,100–1,800 слов (1,500 при разговорном темпе). Бесплатный счётчик в реальном времени с проверкой времени выступления.",
+  "id": "/loona-text-tools/ru/10-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

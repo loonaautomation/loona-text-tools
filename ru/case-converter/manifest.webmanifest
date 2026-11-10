@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер регистра онлайн",
+  "short_name": "Конвертер регистра онлайн",
+  "description": "Преобразуйте текст в UPPERCASE, строчные, Title Case, Sentence case, С Заглавной Буквы или aLtErNaTiNg регистр в один клик. Бесплатный онлайн-конвертер регистра - регистрация не нужна.",
+  "id": "/loona-text-tools/ru/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

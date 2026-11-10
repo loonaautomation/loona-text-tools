@@ -1,0 +1,29 @@
+{
+  "name": "Loona Эссе на 800 слов",
+  "short_name": "Эссе на 800 слов",
+  "description": "Бесплатный счётчик эссе на 800 слов: живой подсчёт слов до цели в 800 слов, страницы с одинарным и двойным интервалом, абзацы, время чтения и произнесения.",
+  "id": "/loona-text-tools/ru/800-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

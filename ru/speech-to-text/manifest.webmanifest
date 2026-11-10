@@ -1,0 +1,29 @@
+{
+  "name": "Loona Распознавание речи онлайн бесплатно",
+  "short_name": "Распознавание речи онлайн бесплатно",
+  "description": "Диктуйте голосом и наблюдайте, как он становится текстом - бесплатное онлайн-распознавание речи для английского, урду и других языков. Без регистрации; работает в Chrome и Edge.",
+  "id": "/loona-text-tools/ru/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

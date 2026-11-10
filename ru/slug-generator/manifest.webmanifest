@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор слагов онлайн",
+  "short_name": "Генератор слагов онлайн",
+  "description": "Превращайте любое название в чистый, дружественный к SEO URL-slug: нижний регистр, без пробелов, без специальных символов. Бесплатный онлайн-генератор slug с полным предпросмотром URL — без регистрации.",
+  "id": "/loona-text-tools/ru/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер регистра предложений",
+  "short_name": "Конвертер регистра предложений",
+  "description": "Бесплатный конвертер регистра предложений — вставьте текст и мгновенно получите регистр предложений. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
+  "id": "/loona-text-tools/ru/sentence-case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

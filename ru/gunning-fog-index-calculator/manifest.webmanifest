@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калькулятор индекса Gunning Fog",
+  "short_name": "Калькулятор индекса Gunning Fog",
+  "description": "Бесплатный калькулятор индекса Gunning Fog: вставьте текст, чтобы получить индекс Fog, количество сложных слов и годы школьного обучения, которые он подразумевает.",
+  "id": "/loona-text-tools/ru/gunning-fog-index-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

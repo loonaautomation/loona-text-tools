@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Счётчик слов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Слова, символы, предложения, абзацы и время чтения — подсчитываются в реальном времени по мере ввода.",
+  "k": "счётчик слов word counter word counter words characters sentences paragraphs and reading time counted live as you type абзацы в ввода времени время и мере по подсчитываются предложения реальном символы слов слова счётчик чтения",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Счётчик символов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Символы с пробелами и без пробелов, плюс живые лимиты для X, SMS и метатекста.",
+  "k": "счётчик символов character counter character counter characters with and without spaces plus live limits for x sms and meta text sms x без для живые и лимиты метатекста плюс пробелами пробелов с символов символы счётчик",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Счётчик предложений",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Предложения, абзацы, слова и символы в любом тексте — считаются в реальном времени по мере ввода.",
+  "k": "счётчик предложений sentence counter sentence counter sentences paragraphs words and characters in any text counted live as you type абзацы в ввода времени и любом мере по предложений предложения реальном символы слова считаются счётчик тексте",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор времени чтения",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Сколько времени занимает чтение любого текста при медленной, средней и быстрой скорости чтения.",
+  "k": "калькулятор времени чтения reading time calculator reading time calculator how long any text takes to read at slow average and fast reading speeds быстрой времени занимает и калькулятор любого медленной при сколько скорости средней текста чтение чтения",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор времени выступления",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Сколько времени занимает произнесение речи или сценария — плюс количество слов для целевого времени.",
+  "k": "калькулятор времени выступления speaking time calculator speaking time calculator how long a speech or script takes to deliver plus words needed for a target time времени выступления для занимает или калькулятор количество плюс произнесение речи сколько слов сценария целевого",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест печати",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Тест печати на 60 секунд - ваша скорость в WPM, точность и CPM в реальном времени по мере ввода.",
+  "k": "тест печати typing test typing test a 60 second typing test your speed in wpm accuracy and cpm live as you type 60 cpm wpm в ваша ввода времени и мере на печати по реальном секунд скорость тест точность",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер регистра",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE, строчные, Title Case, Sentence case и другие — по одному щелчку каждый.",
+  "k": "конвертер регистра case converter case converter uppercase lowercase title case sentence case and more one click each case sentence title uppercase другие и каждый конвертер одному по регистра строчные щелчку",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Удаление повторяющихся строк",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Удаляйте повторяющиеся строки и сохраняйте каждую уникальную строку один раз, по порядку.",
+  "k": "удаление повторяющихся строк remove duplicate lines remove duplicate lines delete repeated lines and keep each unique line once in order и каждую один по повторяющиеся повторяющихся порядку раз сохраняйте строк строки строку удаление удаляйте уникальную",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Сортировка строк",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Упорядочивайте строки от A до Z, от Z до A, по длине, в обратном порядке или честно перемешанными случайно.",
+  "k": "сортировка строк sort lines sort lines order lines a z z a by length reversed or fairly shuffled at random a z в длине до или обратном от перемешанными по порядке случайно сортировка строк строки упорядочивайте честно",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Обращение текста",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Переверните текст задом наперёд - весь текст, каждое слово, порядок слов или порядок строк.",
+  "k": "обращение текста reverse text reverse text flip text backwards whole text each word word order or line order весь задом или каждое наперёд обращение переверните порядок слов слово строк текст текста",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Удаление лишних пробелов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Выжимайте двойные пробелы, табуляции и неровные края из неаккуратного скопированного текста.",
+  "k": "удаление лишних пробелов remove extra spaces remove extra spaces squeeze double spaces tabs and ragged edges out of messy copied text выжимайте двойные и из края лишних неаккуратного неровные пробелов пробелы скопированного табуляции текста удаление",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Найти и заменить",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Заменяйте каждое вхождение слова или фразы другим за один проход.",
+  "k": "найти и заменить find and replace find and replace swap every occurrence of a word or phrase for another in one pass вхождение другим за заменить заменяйте и или каждое найти один проход слова фразы",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Синтез речи",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Слушайте любой текст вслух — голоса на английском, урду и многих других языках, с вашей скоростью.",
+  "k": "синтез речи text to speech text to speech hear any text read aloud english urdu and more voices your speed английском вашей вслух голоса других и любой многих на речи с синтез скоростью слушайте текст урду языках",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Распознавание речи",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Говорите и смотрите, как ваши слова становятся текстом, — английский, урду и другие.",
+  "k": "распознавание речи speech to text speech to text speak and watch your words become text english urdu and more английский ваши говорите другие и как распознавание речи слова смотрите становятся текстом урду",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор паролей",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Надёжные случайные пароли с длиной и символами на ваш выбор.",
+  "k": "генератор паролей password generator password generator strong random passwords with the length and symbols you choose ваш выбор генератор длиной и на надёжные паролей пароли с символами случайные",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Сравнение текстов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Выстройте два текста и увидьте точно, какие строки изменились.",
+  "k": "сравнение текстов text compare text compare line up two texts and see exactly which lines changed выстройте два и изменились какие сравнение строки текста текстов точно увидьте",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Частота слов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Ранжированная таблица ваших самых используемых слов с количеством и процентами.",
+  "k": "частота слов word frequency word frequency a ranked table of your most used words with counts and percentages ваших и используемых количеством процентами ранжированная с самых слов таблица частота",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Удаление разрывов строк",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Соединяйте строки, разорванные в стиле PDF, обратно в чистые, плавные абзацы.",
+  "k": "удаление разрывов строк remove line breaks remove line breaks join pdf style broken lines back into clean flowing paragraphs pdf абзацы в обратно плавные разорванные разрывов соединяйте стиле строк строки удаление чистые",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Добавить номера строк",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Нумеруйте каждую строку: выбирайте начало, шаг, заполнение и разделитель.",
+  "k": "добавить номера строк add line numbers add line numbers number every line choose the start step padding and separator выбирайте добавить заполнение и каждую начало номера нумеруйте разделитель строк строку шаг",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Классический текст-заполнитель по абзацам, предложениям или словам для ваших дизайнов.",
+  "k": "генератор lorem ipsum lorem ipsum generator lorem ipsum generator classic dummy text by the paragraph sentence or word for your designs ipsum lorem абзацам ваших генератор дизайнов для или классический по предложениям словам текст-заполнитель",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор слагов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Превращайте любое название в чистый, дружественный к поиску URL-slug, в реальном времени.",
+  "k": "генератор слагов slug generator slug generator turn any title into a clean search friendly url slug live url-slug в времени генератор дружественный к любое название поиску превращайте реальном слагов чистый",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Переводчик азбуки Морзе",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Текст в код Морзе и обратно - с настоящим воспроизведением звуковых сигналов.",
+  "k": "переводчик азбуки морзе morse code translator morse code translator text to morse code and back with real beep playback азбуки в воспроизведением звуковых и код морзе настоящим обратно переводчик с сигналов текст",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст в двоичный код",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Увидьте текст как 0 и 1, которые сохраняют компьютеры, — и декодируйте двоичный код обратно.",
+  "k": "текст в двоичный код text to binary text to binary see text as the 0s and 1s computers store and decode binary back 0 1 в двоичный декодируйте и как код компьютеры которые обратно сохраняют текст увидьте",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "С Roman Urdu на урду",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Превратите 'mera naam Ahmed hai' в правильную письменность урду, мгновенно.",
+  "k": "с roman urdu на урду roman urdu to urdu roman urdu to urdu turn mera naam ahmed hai into proper urdu script instantly ahmed hai mera naam roman urdu в мгновенно на письменность правильную превратите с урду",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Онлайн-блокнот",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Блокнот, который автоматически сохраняется в вашем браузере, - скачивание и печать включены.",
+  "k": "онлайн-блокнот online notepad online notepad a notepad that auto saves in your browser download and print included автоматически блокнот браузере в вашем включены и который онлайн-блокнот печать скачивание сохраняется",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор декоративного текста",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Жирный, рукописный, обведённый и перевёрнутый текст для биографий и подписей.",
+  "k": "генератор декоративного текста fancy text generator fancy text generator bold script circled and upside down text for bios and captions биографий генератор декоративного для жирный и обведённый перевёрнутый подписей рукописный текст текста",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Счётчик слогов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Считайте слоги в каждом слове и в общей сложности - идеально для стихов, хайку и текстов песен.",
+  "k": "счётчик слогов syllable counter syllable counter count syllables in every word and in total perfect for poems haiku and lyrics в для и идеально каждом общей песен слове слоги слогов сложности стихов считайте счётчик текстов хайку",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Счётчик абзацев",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Считайте абзацы, со словами и предложениями на абзац и отмеченным самым длинным.",
+  "k": "счётчик абзацев paragraph counter paragraph counter count paragraphs with words and sentences per paragraph and the longest one flagged абзац абзацев абзацы длинным и на отмеченным предложениями самым словами со считайте счётчик",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор уровня чтения",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Оценки Flesch Reading Ease и уровня класса, с вердиктом на простом английском.",
+  "k": "калькулятор уровня чтения reading level calculator reading level calculator flesch reading ease and grade level scores with a plain english verdict ease flesch reading английском вердиктом и калькулятор класса на оценки простом с уровня чтения",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Проверка палиндромов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Читается ли это одинаково в обратную сторону? Проверяйте слова, числа и целые предложения.",
+  "k": "проверка палиндромов palindrome checker palindrome checker does it read the same backwards check words numbers and whole sentences в и ли обратную одинаково палиндромов предложения проверка проверяйте слова сторону целые числа читается это",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор анаграмм",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Находите настоящие слова, скрытые в ваших буквах, и мгновенно проверяйте пары анаграмм.",
+  "k": "генератор анаграмм anagram generator anagram generator find real words hidden in your letters and test anagram pairs instantly анаграмм буквах в ваших генератор и мгновенно настоящие находите пары проверяйте скрытые слова",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Фонетический алфавит НАТО",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Произносите по буквам что угодно на манер пилотов — Alfa, Bravo, Charlie — и декодируйте обратно.",
+  "k": "фонетический алфавит нато nato phonetic alphabet nato phonetic alphabet converter spell anything the pilot way alfa bravo charlie and decode it back alfa bravo charlie алфавит буквам декодируйте и манер на нато обратно пилотов по произносите угодно фонетический что",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер текста в ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Десятичные, шестнадцатеричные, восьмеричные и двоичные коды, стоящие за каждым символом, и обратно.",
+  "k": "конвертер текста в ascii text to ascii converter text to ascii converter the decimal hex octal and binary codes behind every character and back ascii в восьмеричные двоичные десятичные за и каждым коды конвертер обратно символом стоящие текста шестнадцатеричные",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер текста в шестнадцатеричный код",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Текст в шестнадцатеричные байты и обратно, с полноценной поддержкой UTF-8 для каждого языка.",
+  "k": "конвертер текста в шестнадцатеричный код text to hex converter text to hex converter text to hexadecimal bytes and back with proper utf 8 for every language utf-8 байты в для и каждого код конвертер обратно поддержкой полноценной с текст текста шестнадцатеричные шестнадцатеричный языка",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Поиск повторяющихся слов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Каждое слово, которое вы использовали более одного раза, в рейтинге - плюс случайные двойные слова.",
+  "k": "поиск повторяющихся слов repeated words finder repeated words finder every word you used more than once ranked plus accidental double words более в вы двойные использовали каждое которое одного плюс повторяющихся поиск раза рейтинге слов слова слово случайные",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Проверка невидимых символов",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Выявляйте символы нулевой ширины и скрытые символы в скопированном тексте и удаляйте их.",
+  "k": "проверка невидимых символов invisible character checker invisible character checker reveal zero width and hidden characters in copied text and remove them в выявляйте и их невидимых нулевой проверка символов символы скопированном скрытые тексте удаляйте ширины",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Удаление знаков препинания",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Убирайте знаки препинания из текста в один клик, сохраняя слова чистыми.",
+  "k": "удаление знаков препинания remove punctuation remove punctuation strip punctuation from text in one click keeping the words clean в знаки знаков из клик один препинания слова сохраняя текста убирайте удаление чистыми",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Извлечение адресов электронной почты",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Извлекайте каждый адрес электронной почты из любого текста: без дубликатов, по одному на строку.",
+  "k": "извлечение адресов электронной почты email extractor email extractor pull every email address out of any text deduplicated one per line адрес адресов без дубликатов из извлекайте извлечение каждый любого на одному по почты строку текста электронной",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Изображение в текст (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Извлекайте редактируемый текст из фотографий, сканов и скриншотов - бесплатное OCR в вашем браузере.",
+  "k": "изображение в текст (ocr) image to text ocr image to text converter extract editable text from photos scans and screenshots free ocr in your browser ocr бесплатное браузере в вашем и из извлекайте изображение редактируемый сканов скриншотов текст фотографий",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер изображений в Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Превратите фотографию или снимок экрана таблицы в настоящий файл Excel — проверьте и отредактируйте ячейки, затем скачайте.",
+  "k": "конвертер изображений в excel image to excel converter image to excel converter turn a photo or screenshot of a table into a real excel file check and edit the cells then download excel в затем и изображений или конвертер настоящий отредактируйте превратите проверьте скачайте снимок таблицы файл фотографию экрана ячейки",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор цитат",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Ссылки APA 7, MLA 9 и Chicago для веб-сайтов, книг и журнальных статей.",
+  "k": "генератор цитат citation generator citation generator apa 7th mla 9th and chicago citations for websites books and journal articles 7 9 apa chicago mla веб-сайтов генератор для журнальных и книг ссылки статей цитат",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Читалка EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Открывайте и читайте электронные книги EPUB прямо в вашем браузере — список глав, регулируемый размер шрифта и тёмный режим.",
+  "k": "читалка epub epub reader epub reader open and read epub ebooks right in your browser chapter list adjustable font size and dark mode epub браузере в вашем глав и книги открывайте прямо размер регулируемый режим список тёмный читайте читалка шрифта электронные",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB в текст",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Превратите электронную книгу EPUB в чистый файл простого текста — главы в порядке чтения, заголовки сохранены.",
+  "k": "epub в текст epub to text epub to text turn an epub ebook into a clean plain text file chapters in reading order headings preserved epub в главы заголовки книгу порядке превратите простого сохранены текст текста файл чистый чтения электронную",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB в HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Превратите электронную книгу EPUB в один автономный файл HTML со встроенными изображениями.",
+  "k": "epub в html epub to html epub to html turn an epub ebook into one self contained html file with its pictures embedded epub html автономный в встроенными изображениями книгу один превратите со файл электронную",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ в PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Превратите архив комиксов в PDF — страницы в естественном порядке, по одному изображению на страницу.",
+  "k": "cbz в pdf cbz to pdf cbz to pdf turn a comic archive into a pdf pages in natural order one image per page cbz pdf архив в естественном изображению комиксов на одному по порядке превратите страницу страницы",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX to EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Превратите документ Word в электронную книгу EPUB — заголовки становятся главами.",
+  "k": "docx to epub docx to epub docx to epub turn a word document into an epub ebook headings become chapters docx epub to word в главами документ заголовки книгу превратите становятся электронную",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Редактор метаданных EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Отредактируйте название, автора, издателя и описание электронной книги - главы нетронуты.",
+  "k": "редактор метаданных epub epub metadata editor epub metadata editor edit an ebook s title author publisher and description chapters untouched epub автора главы и издателя книги метаданных название нетронуты описание отредактируйте редактор электронной",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст / Markdown в EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Превращайте простой текст или Markdown в настоящую электронную книгу EPUB, которая открывается в любой читалке.",
+  "k": "текст / markdown в epub text markdown to epub text to epub turn plain text or markdown into a proper epub ebook that opens in any reader epub markdown в или книгу которая любой настоящую открывается превращайте простой текст читалке электронную",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор случайных тем",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ru/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 тем для эссе, речей, дебатов, рассказов и детских сочинений, написанных вручную, в 9 категориях, с фильтром по школьному уровню, без повторов.",
+  "k": "генератор случайных тем random topic generator essay topics speech topics debate topics writing prompts story ideas paragraph topics presentation topics 9 900 без в вручную генератор дебатов детских для и категориях написанных по повторов рассказов речей с случайных сочинений тем уровню фильтром школьному эссе",
+  "p": 148,
+  "c": "Tool"
+ }
+]

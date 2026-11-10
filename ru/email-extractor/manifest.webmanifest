@@ -1,0 +1,29 @@
+{
+  "name": "Loona Извлечение адресов электронной почты онлайн бесплатно",
+  "short_name": "Извлечение адресов электронной почты онлайн бесплатно",
+  "description": "Извлекайте каждый адрес электронной почты из любого текста, документа или содержимого веб-страницы - без дубликатов и по одному на строке. Работает на 100% в вашем браузере. Бесплатно, без регистрации.",
+  "id": "/loona-text-tools/ru/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

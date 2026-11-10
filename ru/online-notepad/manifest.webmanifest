@@ -1,0 +1,29 @@
+{
+  "name": "Loona Онлайн-блокнот бесплатно",
+  "short_name": "Онлайн-блокнот бесплатно",
+  "description": "Бесплатный онлайн-блокнот, который автоматически сохраняется в вашем браузере по мере ввода - скачивание, печать и подсчёт слов включены. Без регистрации; ваши заметки никогда не покидают ваше устройство.",
+  "id": "/loona-text-tools/ru/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
