@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zufallsthemen-Generator online kostenlos",
+  "short_name": "Zufallsthemen-Generator",
+  "description": "Zufällige Themen für Aufsätze, Reden, Debatten, Absätze, Präsentationen und Geschichten generieren - 900 handgeschriebene Themen in 9 Kategorien, nach Stufe gefiltert. Kostenlos, ohne Anmeldung.",
+  "id": "/loona-text-tools/de/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
