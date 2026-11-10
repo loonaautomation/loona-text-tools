@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Kelime Sayacı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Kelimeler, karakterler, cümleler, paragraflar ve okuma süresi - siz yazarken canlı sayılır.",
+  "k": "word counter word counter kelimeler karakterler cumleler paragraflar ve okuma suresi siz yazarken canli sayilir",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Karakter Sayacı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Boşluklu ve boşluksuz karakterler, ayrıca X, SMS ve meta metni için canlı sınırlar.",
+  "k": "character counter character counter bosluklu ve bosluksuz karakterler ayrica x sms ve meta metni icin canli sinirlar",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Cümle Sayacı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir metindeki cümleler, paragraflar, kelimeler ve karakterler - siz yazarken canlı sayılır.",
+  "k": "sentence counter sentence counter herhangi bir metindeki cumleler paragraflar kelimeler ve karakterler siz yazarken canli sayilir",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Okuma Süresi Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir metnin yavaş, ortalama ve hızlı okuma hızlarında okunmasının ne kadar sürdüğü.",
+  "k": "reading time calculator reading time calculator herhangi bir metnin yavas ortalama ve hizli okuma hizlarinda okunmasinin ne kadar surdugu",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Konuşma Süresi Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Bir konuşmanın veya metnin sunulmasının ne kadar sürdüğü - artı hedef süre için gereken kelimeler.",
+  "k": "speaking time calculator speaking time calculator bir konusmanin veya metnin sunulmasinin ne kadar surdugu arti hedef sure icin gereken kelimeler",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Yazma Testi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60 saniyelik bir yazma testi - yazarken canlı olarak WPM cinsinden hızınız, doğruluğunuz ve CPM değeriniz.",
+  "k": "typing test typing test 60 saniyelik bir yazma testi yazarken canli olarak wpm cinsinden hiziniz dogrulugunuz ve cpm degeriniz",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Harf Düzeni Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "BÜYÜK HARF, küçük harf, Başlık Düzeni, Cümle düzeni ve daha fazlası - her biri tek tıkla.",
+  "k": "case converter case converter buyuk harf kucuk harf baslik duzeni cumle duzeni ve daha fazlasi her biri tek tikla",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Yinelenen Satırları Kaldır",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Yinelenen satırları silin ve her benzersiz satırı sırayla bir kez tutun.",
+  "k": "remove duplicate lines remove duplicate lines yinelenen satirlari silin ve her benzersiz satiri sirayla bir kez tutun",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Satırları Sırala",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Satırları A-Z, Z-A, uzunluğa göre, ters veya adil şekilde rastgele karıştırılmış olarak sıralayın.",
+  "k": "sort lines sort lines satirlari a z z a uzunluga gore ters veya adil sekilde rastgele karistirilmis olarak siralayin",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Metni Ters Çevir",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Metni ters çevirin - tüm metin, her kelime, kelime sırası veya satır sırası.",
+  "k": "reverse text reverse text metni ters cevirin tum metin her kelime kelime sirasi veya satir sirasi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Fazla Boşlukları Kaldır",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Dağınık kopyalanmış metinden çift boşlukları, sekmeleri ve düzensiz kenarları sıkın.",
+  "k": "remove extra spaces remove extra spaces daginik kopyalanmis metinden cift bosluklari sekmeleri ve duzensiz kenarlari sikin",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Bul ve Değiştir",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Bir kelimenin veya ifadenin her geçişini tek seferde başka biriyle değiştirin.",
+  "k": "find and replace find and replace bir kelimenin veya ifadenin her gecisini tek seferde baska biriyle degistirin",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Metinden Konuşmaya",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir metni sesli dinleyin - İngilizce, Urduca ve daha fazla ses, sizin hızınız.",
+  "k": "text to speech text to speech herhangi bir metni sesli dinleyin ingilizce urduca ve daha fazla ses sizin hiziniz",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Konuşmadan Metne",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Konuşun ve kelimelerinizin metne dönüşmesini izleyin - İngilizce, Urduca ve daha fazlası.",
+  "k": "speech to text speech to text konusun ve kelimelerinizin metne donusmesini izleyin ingilizce urduca ve daha fazlasi",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Parola Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Seçtiğiniz uzunluk ve sembollerle güçlü rastgele parolalar.",
+  "k": "password generator password generator sectiginiz uzunluk ve sembollerle guclu rastgele parolalar",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Metin Karşılaştırma",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "İki metni yan yana getirin ve hangi satırların değiştiğini tam olarak görün.",
+  "k": "text compare text compare iki metni yan yana getirin ve hangi satirlarin degistigini tam olarak gorun",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Kelime Sıklığı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "En çok kullandığınız kelimelerin, sayıları ve yüzdeleriyle sıralı tablosu.",
+  "k": "word frequency word frequency en cok kullandiginiz kelimelerin sayilari ve yuzdeleriyle sirali tablosu",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Satır Sonlarını Kaldır",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "PDF tarzı bozuk satırları temiz, akıcı paragraflarda yeniden birleştirin.",
+  "k": "remove line breaks remove line breaks pdf tarzi bozuk satirlari temiz akici paragraflarda yeniden birlestirin",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Satır Numarası Ekle",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Her satırı numaralandırın - başlangıcı, adımı, dolguyu ve ayırıcıyı seçin.",
+  "k": "add line numbers add line numbers her satiri numaralandirin baslangici adimi dolguyu ve ayiriciyi secin",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Tasarımlarınız için paragraf, cümle ya da kelime bazında klasik sahte metin.",
+  "k": "lorem ipsum generator lorem ipsum generator tasarimlariniz icin paragraf cumle ya da kelime bazinda klasik sahte metin",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Slug Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir başlığı canlı olarak temiz, arama dostu bir URL slug'a dönüştürün.",
+  "k": "slug generator slug generator herhangi bir basligi canli olarak temiz arama dostu bir url slug a donusturun",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Mors Kodu Çevirici",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Metinden Mors koduna ve geri - gerçek bip çalmayla.",
+  "k": "morse code translator morse code translator metinden mors koduna ve geri gercek bip calmayla",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Metinden İkiliye",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Metni, bilgisayarların sakladığı 0'lar ve 1'ler olarak görün - ve ikili kodu geri çözün.",
+  "k": "text to binary text to binary metni bilgisayarlarin sakladigi 0 lar ve 1 ler olarak gorun ve ikili kodu geri cozun",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Roman Urdu'dan Urduca'ya",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "'mera naam Ahmed hai'yi anında düzgün Urduca yazıya dönüştürün.",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai yi aninda duzgun urduca yaziya donusturun",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Çevrimiçi Not Defteri",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Tarayıcınızda otomatik kaydeden bir not defteri - indirme ve yazdırma dahil.",
+  "k": "online notepad online notepad tarayicinizda otomatik kaydeden bir not defteri indirme ve yazdirma dahil",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Süslü Metin Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Biyografiler ve açıklamalar için kalın, el yazısı, daireli ve ters metin.",
+  "k": "fancy text generator fancy text generator biyografiler ve aciklamalar icin kalin el yazisi daireli ve ters metin",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Hece Sayacı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Her kelimedeki ve toplamdaki heceleri sayın - şiirler, haikular ve şarkı sözleri için mükemmel.",
+  "k": "syllable counter syllable counter her kelimedeki ve toplamdaki heceleri sayin siirler haikular ve sarki sozleri icin mukemmel",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Paragraf Sayacı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Paragrafları sayın; paragraf başına kelimeler ve cümleler ile en uzunu işaretlenmiş.",
+  "k": "paragraph counter paragraph counter paragraflari sayin paragraf basina kelimeler ve cumleler ile en uzunu isaretlenmis",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Okuma Düzeyi Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Okuma Kolaylığı ve sınıf düzeyi puanları, sade bir değerlendirmeyle.",
+  "k": "reading level calculator reading level calculator flesch okuma kolayligi ve sinif duzeyi puanlari sade bir degerlendirmeyle",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Palindrom Denetleyici",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Tersten aynı mı okunuyor? Kelimeleri, sayıları ve tüm cümleleri kontrol edin.",
+  "k": "palindrome checker palindrome checker tersten ayni mi okunuyor kelimeleri sayilari ve tum cumleleri kontrol edin",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagram Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Harflerinizin içinde gizli gerçek kelimeleri bulun ve anagram çiftlerini anında test edin.",
+  "k": "anagram generator anagram generator harflerinizin icinde gizli gercek kelimeleri bulun ve anagram ciftlerini aninda test edin",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO Fonetik Alfabesi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir şeyi pilot yoluyla kodlayın - Alfa, Bravo, Charlie - ve onu geri çözün.",
+  "k": "nato phonetic alphabet nato phonetic alphabet herhangi bir seyi pilot yoluyla kodlayin alfa bravo charlie ve onu geri cozun",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Metinden ASCII'ye Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Her karakterin arkasındaki ondalık, hex, sekizlik ve ikili kodlar ve geri.",
+  "k": "text to ascii converter text to ascii converter her karakterin arkasindaki ondalik hex sekizlik ve ikili kodlar ve geri",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Metinden Hex'e Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Metinden onaltılık baytlara ve geri, her dil için düzgün UTF-8 ile.",
+  "k": "text to hex converter text to hex converter metinden onaltilik baytlara ve geri her dil icin duzgun utf 8 ile",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Yinelenen Kelime Bulucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Birden çok kez kullandığınız her kelime, sıralı - artı kazara ikilenmiş kelimeler.",
+  "k": "repeated words finder repeated words finder birden cok kez kullandiginiz her kelime sirali arti kazara ikilenmis kelimeler",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Görünmez Karakter Denetleyici",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Kopyalanmış metindeki sıfır genişlikli ve gizli karakterleri ortaya çıkarın ve onları kaldırın.",
+  "k": "invisible character checker invisible character checker kopyalanmis metindeki sifir genislikli ve gizli karakterleri ortaya cikarin ve onlari kaldirin",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Noktalama İşaretlerini Kaldır",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Kelimeleri temiz tutarak tek tıklamayla metinden noktalama işaretlerini çıkarın.",
+  "k": "remove punctuation remove punctuation kelimeleri temiz tutarak tek tiklamayla metinden noktalama isaretlerini cikarin",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "E-posta Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Herhangi bir metinden her e-posta adresini çekin - yinelenenleri kaldırılmış, her satırda bir tane.",
+  "k": "email extractor email extractor herhangi bir metinden her e posta adresini cekin yinelenenleri kaldirilmis her satirda bir tane",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Görüntüden Metne (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Fotoğraflardan, taramalardan ve ekran görüntülerinden düzenlenebilir metin çıkarın - tarayıcınızda ücretsiz OCR.",
+  "k": "image to text (ocr) image to text (ocr) fotograflardan taramalardan ve ekran goruntulerinden duzenlenebilir metin cikarin tarayicinizda ucretsiz ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Görüntüden Excel'e Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Bir tablonun fotoğrafını veya ekran görüntüsünü gerçek bir Excel dosyasına dönüştürün - hücreleri kontrol edip düzenleyin, sonra indirin.",
+  "k": "image to excel converter image to excel converter bir tablonun fotografini veya ekran goruntusunu gercek bir excel dosyasina donusturun hucreleri kontrol edip duzenleyin sonra indirin",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Alıntı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Web siteleri, kitaplar ve dergi makaleleri için APA 7., MLA 9. ve Chicago alıntıları.",
+  "k": "citation generator citation generator web siteleri kitaplar ve dergi makaleleri icin apa 7 mla 9 ve chicago alintilari",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB Okuyucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "EPUB e-kitaplarını doğrudan tarayıcınızda açın ve okuyun - bölüm listesi, ayarlanabilir yazı tipi boyutu ve koyu mod.",
+  "k": "epub reader epub reader epub e kitaplarini dogrudan tarayicinizda acin ve okuyun bolum listesi ayarlanabilir yazi tipi boyutu ve koyu mod",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB'dan Metne",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Bir EPUB e-kitabı temiz bir düz metin dosyasına dönüştürün - bölümler okuma sırasında, başlıklar korunarak.",
+  "k": "epub to text epub to text bir epub e kitabi temiz bir duz metin dosyasina donusturun bolumler okuma sirasinda basliklar korunarak",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB'dan HTML'ye",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Bir EPUB e-kitabı, resimleri gömülü, bağımsız tek bir HTML dosyasına dönüştürün.",
+  "k": "epub to html epub to html bir epub e kitabi resimleri gomulu bagimsiz tek bir html dosyasina donusturun",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ'den PDF'ye",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Bir çizgi roman arşivini PDF'e dönüştürün - sayfalar doğal sırada, sayfa başına bir görsel.",
+  "k": "cbz to pdf cbz to pdf bir cizgi roman arsivini pdf e donusturun sayfalar dogal sirada sayfa basina bir gorsel",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX'ten EPUB'a",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Bir Word belgesini EPUB e-kitaba dönüştürün - başlıklar bölümler olur.",
+  "k": "docx to epub docx to epub bir word belgesini epub e kitaba donusturun basliklar bolumler olur",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB Üst Veri Düzenleyici",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Bir e-kitabın başlığını, yazarını, yayınevini ve açıklamasını düzenleyin - bölümler dokunulmamış.",
+  "k": "epub metadata editor epub metadata editor bir e kitabin basligini yazarini yayinevini ve aciklamasini duzenleyin bolumler dokunulmamis",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Metin / Markdown'dan EPUB'a",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Düz metni veya Markdown'u, herhangi bir okuyucuda açılan düzgün bir EPUB e-kitaba dönüştürün.",
+  "k": "text / markdown to epub text / markdown to epub duz metni veya markdown u herhangi bir okuyucuda acilan duzgun bir epub e kitaba donusturun",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Rastgele Konu Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/tr/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "9 kategoride, okul düzeyine göre filtrelenmiş, tekrarsız 900 elle yazılmış deneme, konuşma, münazara, hikâye ve çocuk konusu.",
+  "k": "random topic generator random topic generator 9 kategoride okul duzeyine gore filtrelenmis tekrarsiz 900 elle yazilmis deneme konusma munazara hikaye ve cocuk konusu",
+  "p": 148,
+  "c": "Tool"
+ }
+]

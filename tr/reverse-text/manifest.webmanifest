@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metni Çevrimiçi Ters Çevirin",
+  "short_name": "Metni Çevrimiçi Ters Çevirin",
+  "description": "Metni dört şekilde ters çevirin: tüm metin tersten, her kelime tersten, kelime sırası çevrilmiş veya satır sırası çevrilmiş. Ücretsiz çevrimiçi metin ters çevirici - kayıt gerekmez.",
+  "id": "/loona-text-tools/tr/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

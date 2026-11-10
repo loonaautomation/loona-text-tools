@@ -1,0 +1,29 @@
+{
+  "name": "Loona E-posta Çıkarıcı Çevrimiçi Ücretsiz",
+  "short_name": "E-posta Çıkarıcı Çevrimiçi Ücretsiz",
+  "description": "Herhangi bir metinden, belgeden veya web sayfası içeriğinden her e-posta adresini çıkarın - yinelenenleri kaldırılmış ve her satırda bir tane listelenmiş. Tarayıcınızda %100 çalışır. Ücretsiz, kayıt yok.",
+  "id": "/loona-text-tools/tr/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

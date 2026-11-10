@@ -1,0 +1,29 @@
+{
+  "name": "Loona Okuma Süresi Hesaplayıcı",
+  "short_name": "Okuma Süresi Hesaplayıcı",
+  "description": "Herhangi bir metni yapıştırın ve yavaş, ortalama ve hızlı hızlarda okumanın ne kadar sürdüğünü görün - ayrıca hedef bir okuma süresi için kaç kelime gerektiğini. Ücretsiz, kayıt yok.",
+  "id": "/loona-text-tools/tr/reading-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lorem Ipsum Oluşturucu Çevrimiçi",
+  "short_name": "Lorem Ipsum Oluşturucu Çevrimiçi",
+  "description": "Paragraf, cümle veya kelime bazında lorem ipsum sahte metni oluşturun - tasarımlara ve düzenlere yapıştırmaya hazır. Ücretsiz lorem ipsum oluşturucu, kayıt gerekmez.",
+  "id": "/loona-text-tools/tr/lorem-ipsum-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

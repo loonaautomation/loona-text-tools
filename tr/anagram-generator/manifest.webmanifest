@@ -1,0 +1,29 @@
+{
+  "name": "Loona Anagram Oluşturucu ve Denetleyici Çevrimiçi Ücretsiz",
+  "short_name": "Anagram Oluşturucu ve Denetleyici Çevrimiçi Ücretsiz",
+  "description": "Gerçek İngilizce kelimelerden herhangi bir kelimenin anagramlarını bulun ve iki kelimenin veya ifadenin birbirinin anagramı olup olmadığını kontrol edin. Ücretsiz anagram çözücü, kayıt yok.",
+  "id": "/loona-text-tools/tr/anagram-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

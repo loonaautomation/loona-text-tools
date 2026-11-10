@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metinden Konuşmaya Çevrimiçi Ücretsiz",
+  "short_name": "Metinden Konuşmaya Çevrimiçi Ücretsiz",
+  "description": "Herhangi bir metni çevrimiçi ücretsiz doğal konuşma sesine dönüştürün - İngilizce ve Urduca sesler, ayarlanabilir hız ve perde. Kayıt yok, yükleme yok, tarayıcınızda çalışır.",
+  "id": "/loona-text-tools/tr/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

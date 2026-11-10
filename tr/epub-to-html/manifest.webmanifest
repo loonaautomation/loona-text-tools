@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB'dan HTML'ye Dönüştürücü Ücretsiz",
+  "short_name": "EPUB'dan HTML'ye Dönüştürücü Ücretsiz",
+  "description": "EPUB e-kitaplarını tarayıcınızda ücretsiz olarak tek bir bağımsız HTML dosyasına dönüştürün. Bölümler sıralı, temel tipografi, küçük görseller gömülü. Yükleme yok, kayıt yok.",
+  "id": "/loona-text-tools/tr/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
