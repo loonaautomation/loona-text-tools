@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter alfabetu fonetycznego NATO",
+  "short_name": "Konwerter alfabetu fonetycznego NATO",
+  "description": "Zamień dowolny tekst na alfabet fonetyczny NATO (Alfa, Bravo, Charlie) i dekoduj zapis NATO z powrotem na zwykły tekst. Za darmo, natychmiast, bez rejestracji.",
+  "id": "/loona-text-tools/pl/nato-phonetic-alphabet-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

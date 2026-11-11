@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esej na 5,000 słów",
+  "short_name": "Esej na 5,000 słów",
+  "description": "Darmowy licznik esejów na 5,000 słów: liczenie słów na żywo do celu 5,000 słów, strony przy pojedynczej i podwójnej interlinii, akapity, czas czytania i mówienia.",
+  "id": "/loona-text-tools/pl/5000-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

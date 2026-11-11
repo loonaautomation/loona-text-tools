@@ -1,0 +1,29 @@
+{
+  "name": "Loona Usuwanie podziałów wierszy online",
+  "short_name": "Usuwanie podziałów wierszy online",
+  "description": "Usuwaj podziały wierszy i łącz połamane wiersze w czyste akapity - idealne do tekstu skopiowanego z plików PDF. Darmowe narzędzie online do usuwania podziałów wierszy, bez rejestracji, natychmiastowe wyniki.",
+  "id": "/loona-text-tools/pl/remove-line-breaks/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Tools",
+  "short_name": "Text Tools",
+  "description": "Darmowe narzędzia tekstowe online - licznik słów, konwerter wielkości liter, tekst na mowę, mowa na tekst, konwerter Roman Urdu na Urdu i więcej. 100% za darmo, bez rejestracji, prywatnie.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "../icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-text-tools/pl/"
+}

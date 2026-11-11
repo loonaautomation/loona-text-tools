@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Licznik słów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Słowa, znaki, zdania, akapity i czas czytania - liczone na żywo podczas pisania.",
+  "k": "word counter word counter s owa znaki zdania akapity i czas czytania liczone na zywo podczas pisania",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Licznik znaków",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Znaki ze spacjami i bez spacji, a do tego limity na żywo dla X, SMS i tekstu meta.",
+  "k": "character counter character counter znaki ze spacjami i bez spacji a do tego limity na zywo dla x sms i tekstu meta",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Licznik zdań",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Zdania, akapity, słowa i znaki w dowolnym tekście - liczone na żywo podczas pisania.",
+  "k": "sentence counter sentence counter zdania akapity s owa i znaki w dowolnym tekscie liczone na zywo podczas pisania",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator czasu czytania",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Jak długo trwa przeczytanie dowolnego tekstu, przy wolnej, średniej i szybkiej prędkości czytania.",
+  "k": "reading time calculator reading time calculator jak d ugo trwa przeczytanie dowolnego tekstu przy wolnej sredniej i szybkiej predkosci czytania",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator czasu przemówienia",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Jak długo trwa wygłoszenie przemówienia lub tekstu wystąpienia - plus słowa potrzebne na docelowy czas.",
+  "k": "speaking time calculator speaking time calculator jak d ugo trwa wyg oszenie przemowienia lub tekstu wystapienia plus s owa potrzebne na docelowy czas",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Test pisania",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60-sekundowy test pisania - Twoja prędkość w WPM, dokładność i CPM, na żywo podczas pisania.",
+  "k": "typing test typing test 60 sekundowy test pisania twoja predkosc w wpm dok adnosc i cpm na zywo podczas pisania",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Konwerter wielkości liter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "WIELKIE LITERY, małe litery, zapis tytułowy, zapis jak w zdaniu i więcej - każde jednym kliknięciem.",
+  "k": "case converter case converter wielkie litery ma e litery zapis tytu owy zapis jak w zdaniu i wiecej kazde jednym kliknieciem",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Usuwanie duplikatów wierszy",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Usuń powtarzające się wiersze i zachowaj każdy unikalny wiersz jeden raz, w kolejności.",
+  "k": "remove duplicate lines remove duplicate lines usun powtarzajace sie wiersze i zachowaj kazdy unikalny wiersz jeden raz w kolejnosci",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Sortowanie wierszy",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Porządkuj wiersze A-Z, Z-A, według długości, odwrotnie albo uczciwie przetasowane losowo.",
+  "k": "sort lines sort lines porzadkuj wiersze a z z a wed ug d ugosci odwrotnie albo uczciwie przetasowane losowo",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Odwracanie tekstu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Odwracaj tekst wspak - cały tekst, każde słowo, kolejność słów lub kolejność wierszy.",
+  "k": "reverse text reverse text odwracaj tekst wspak ca y tekst kazde s owo kolejnosc s ow lub kolejnosc wierszy",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Usuwanie zbędnych spacji",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Wyciskaj podwójne spacje, tabulatory i postrzępione krawędzie z nieuporządkowanego skopiowanego tekstu.",
+  "k": "remove extra spaces remove extra spaces wyciskaj podwojne spacje tabulatory i postrzepione krawedzie z nieuporzadkowanego skopiowanego tekstu",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Znajdź i zamień",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Zamieniaj każde wystąpienie słowa lub frazy na inne, w jednym przebiegu.",
+  "k": "find and replace find and replace zamieniaj kazde wystapienie s owa lub frazy na inne w jednym przebiegu",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst na mowę",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Słuchaj dowolnego tekstu czytanego na głos - angielski, urdu i więcej głosów, Twoja prędkość.",
+  "k": "text to speech text to speech s uchaj dowolnego tekstu czytanego na g os angielski urdu i wiecej g osow twoja predkosc",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Mowa na tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Mów i obserwuj, jak Twoje słowa stają się tekstem - angielski, urdu i więcej.",
+  "k": "speech to text speech to text mow i obserwuj jak twoje s owa staja sie tekstem angielski urdu i wiecej",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator haseł",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Silne losowe hasła o wybranej przez Ciebie długości i z wybranymi symbolami.",
+  "k": "password generator password generator silne losowe has a o wybranej przez ciebie d ugosci i z wybranymi symbolami",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Porównywanie tekstu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Zestaw dwa teksty i zobacz dokładnie, które wiersze się zmieniły.",
+  "k": "text compare text compare zestaw dwa teksty i zobacz dok adnie ktore wiersze sie zmieni y",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Częstotliwość słów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Rankingowa tabela najczęściej używanych przez Ciebie słów, wraz z liczbami wystąpień i procentami.",
+  "k": "word frequency word frequency rankingowa tabela najczesciej uzywanych przez ciebie s ow wraz z liczbami wystapien i procentami",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Usuwanie podziałów wierszy",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Łącz połamane w stylu PDF wiersze z powrotem w czyste, płynne akapity.",
+  "k": "remove line breaks remove line breaks acz po amane w stylu pdf wiersze z powrotem w czyste p ynne akapity",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Dodawanie numerów wierszy",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Numeruj każdy wiersz - wybierz początek, krok, wypełnienie i separator.",
+  "k": "add line numbers add line numbers numeruj kazdy wiersz wybierz poczatek krok wype nienie i separator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Klasyczny tekst zastępczy co akapit, zdanie lub słowo do Twoich projektów.",
+  "k": "lorem ipsum generator lorem ipsum generator klasyczny tekst zastepczy co akapit zdanie lub s owo do twoich projektow",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator slugów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Zamień dowolny tytuł w czysty, przyjazny wyszukiwaniu slug URL, na żywo.",
+  "k": "slug generator slug generator zamien dowolny tytu w czysty przyjazny wyszukiwaniu slug url na zywo",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Tłumacz kodu Morse'a",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Tekst na kod Morse'a i z powrotem - z prawdziwym odtwarzaniem pików.",
+  "k": "morse code translator morse code translator tekst na kod morse a i z powrotem z prawdziwym odtwarzaniem pikow",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst na kod binarny",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Zobacz tekst jako 0 i 1, które przechowują komputery - i dekoduj kod binarny z powrotem.",
+  "k": "text to binary text to binary zobacz tekst jako 0 i 1 ktore przechowuja komputery i dekoduj kod binarny z powrotem",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Roman Urdu na Urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Zamień 'mera naam Ahmed hai' na właściwe pismo urdu, natychmiast.",
+  "k": "roman urdu to urdu roman urdu to urdu zamien mera naam ahmed hai na w asciwe pismo urdu natychmiast",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Notatnik online",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Notatnik, który automatycznie zapisuje się w Twojej przeglądarce - pobieranie i drukowanie w zestawie.",
+  "k": "online notepad online notepad notatnik ktory automatycznie zapisuje sie w twojej przegladarce pobieranie i drukowanie w zestawie",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator ozdobnego tekstu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Tekst pogrubiony, pisany, w kółkach i do góry nogami do bio i podpisów.",
+  "k": "fancy text generator fancy text generator tekst pogrubiony pisany w ko kach i do gory nogami do bio i podpisow",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Licznik sylab",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Licz sylaby w każdym słowie i łącznie - idealne do wierszy, haiku i tekstów piosenek.",
+  "k": "syllable counter syllable counter licz sylaby w kazdym s owie i acznie idealne do wierszy haiku i tekstow piosenek",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Licznik akapitów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Licz akapity, wraz ze słowami i zdaniami w każdym akapicie oraz oznaczonym najdłuższym.",
+  "k": "paragraph counter paragraph counter licz akapity wraz ze s owami i zdaniami w kazdym akapicie oraz oznaczonym najd uzszym",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator poziomu czytelności",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Wyniki Flesch Reading Ease i poziomu klasy, wraz z werdyktem prostym językiem.",
+  "k": "reading level calculator reading level calculator wyniki flesch reading ease i poziomu klasy wraz z werdyktem prostym jezykiem",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Sprawdzanie palindromów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Czy czyta się tak samo wspak? Sprawdź słowa, liczby i całe zdania.",
+  "k": "palindrome checker palindrome checker czy czyta sie tak samo wspak sprawdz s owa liczby i ca e zdania",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator anagramów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Znajduj prawdziwe słowa ukryte w Twoich literach i natychmiast testuj pary anagramów.",
+  "k": "anagram generator anagram generator znajduj prawdziwe s owa ukryte w twoich literach i natychmiast testuj pary anagramow",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Alfabet fonetyczny NATO",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Literuj cokolwiek w stylu pilotów - Alfa, Bravo, Charlie - i dekoduj z powrotem.",
+  "k": "nato phonetic alphabet nato phonetic alphabet literuj cokolwiek w stylu pilotow alfa bravo charlie i dekoduj z powrotem",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Konwerter tekstu na ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Kody dziesiętne, szesnastkowe, ósemkowe i binarne stojące za każdym znakiem, i z powrotem.",
+  "k": "text to ascii converter text to ascii converter kody dziesietne szesnastkowe osemkowe i binarne stojace za kazdym znakiem i z powrotem",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Konwerter tekstu na zapis szesnastkowy",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Tekst na bajty szesnastkowe i z powrotem, z poprawnym UTF-8 dla każdego języka.",
+  "k": "text to hex converter text to hex converter tekst na bajty szesnastkowe i z powrotem z poprawnym utf 8 dla kazdego jezyka",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Wyszukiwarka powtarzających się słów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Każde słowo, którego użyłeś więcej niż raz, w rankingu - plus przypadkowe podwójne słowa.",
+  "k": "repeated words finder repeated words finder kazde s owo ktorego uzy es wiecej niz raz w rankingu plus przypadkowe podwojne s owa",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Sprawdzanie niewidocznych znaków",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Odkrywaj znaki o zerowej szerokości i ukryte znaki w skopiowanym tekście i usuwaj je.",
+  "k": "invisible character checker invisible character checker odkrywaj znaki o zerowej szerokosci i ukryte znaki w skopiowanym tekscie i usuwaj je",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Usuwanie interpunkcji",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Usuwaj interpunkcję z tekstu jednym kliknięciem, zachowując słowa czyste.",
+  "k": "remove punctuation remove punctuation usuwaj interpunkcje z tekstu jednym kliknieciem zachowujac s owa czyste",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor adresów e-mail",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Wyciągaj każdy adres e-mail z dowolnego tekstu - bez duplikatów, po jednym w wierszu.",
+  "k": "email extractor email extractor wyciagaj kazdy adres e mail z dowolnego tekstu bez duplikatow po jednym w wierszu",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Obraz na tekst (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Wyodrębniaj edytowalny tekst ze zdjęć, skanów i zrzutów ekranu - darmowy OCR w Twojej przeglądarce.",
+  "k": "image to text (ocr) image to text (ocr) wyodrebniaj edytowalny tekst ze zdjec skanow i zrzutow ekranu darmowy ocr w twojej przegladarce",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Konwerter obrazu na Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Zamień zdjęcie lub zrzut ekranu tabeli w prawdziwy plik Excel - sprawdź i edytuj komórki, a następnie pobierz.",
+  "k": "image to excel converter image to excel converter zamien zdjecie lub zrzut ekranu tabeli w prawdziwy plik excel sprawdz i edytuj komorki a nastepnie pobierz",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator cytowań",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Cytowania APA wydanie 7, MLA wydanie 9 i Chicago dla stron internetowych, książek i artykułów w czasopismach.",
+  "k": "citation generator citation generator cytowania apa wydanie 7 mla wydanie 9 i chicago dla stron internetowych ksiazek i artyku ow w czasopismach",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Czytnik EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Otwieraj i czytaj e-booki EPUB wprost w swojej przeglądarce - lista rozdziałów, regulowany rozmiar czcionki i tryb ciemny.",
+  "k": "epub reader epub reader otwieraj i czytaj e booki epub wprost w swojej przegladarce lista rozdzia ow regulowany rozmiar czcionki i tryb ciemny",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB na tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Zamień e-book EPUB w czysty plik zwykłego tekstu - rozdziały w kolejności czytania, nagłówki zachowane.",
+  "k": "epub to text epub to text zamien e book epub w czysty plik zwyk ego tekstu rozdzia y w kolejnosci czytania nag owki zachowane",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB na HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Zamień e-book EPUB w jeden samodzielny plik HTML z osadzonymi obrazami.",
+  "k": "epub to html epub to html zamien e book epub w jeden samodzielny plik html z osadzonymi obrazami",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ na PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Zamień archiwum komiksu w plik PDF - strony w naturalnej kolejności, jeden obraz na stronę.",
+  "k": "cbz to pdf cbz to pdf zamien archiwum komiksu w plik pdf strony w naturalnej kolejnosci jeden obraz na strone",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX na EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Zamień dokument Worda w e-book EPUB - nagłówki stają się rozdziałami.",
+  "k": "docx to epub docx to epub zamien dokument worda w e book epub nag owki staja sie rozdzia ami",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Edytor metadanych EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Edytuj tytuł, autora, wydawcę i opis e-booka - rozdziały nietknięte.",
+  "k": "epub metadata editor epub metadata editor edytuj tytu autora wydawce i opis e booka rozdzia y nietkniete",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst / Markdown na EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Zamień zwykły tekst lub Markdown w porządny e-book EPUB, który otwiera się w każdym czytniku.",
+  "k": "text / markdown to epub text / markdown to epub zamien zwyk y tekst lub markdown w porzadny e book epub ktory otwiera sie w kazdym czytniku",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator losowych tematów",
+  "u": "https://loonaautomation.github.io/loona-text-tools/pl/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 ręcznie napisanych tematów esejów, przemówień, debat, opowiadań i tematów dla dzieci w 9 kategoriach, filtrowanych według poziomu szkolnego, bez powtórek.",
+  "k": "random topic generator random topic generator 900 recznie napisanych tematow esejow przemowien debat opowiadan i tematow dla dzieci w 9 kategoriach filtrowanych wed ug poziomu szkolnego bez powtorek",
+  "p": 148,
+  "c": "Tool"
+ }
+]

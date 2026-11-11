@@ -1,0 +1,29 @@
+{
+  "name": "Loona Odwracanie tekstu online",
+  "short_name": "Odwracanie tekstu online",
+  "description": "Odwracaj tekst na cztery sposoby: cały tekst wspak, każde słowo wspak, odwrócona kolejność słów lub odwrócona kolejność wierszy. Darmowe narzędzie online do odwracania tekstu - rejestracja niepotrzebna.",
+  "id": "/loona-text-tools/pl/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

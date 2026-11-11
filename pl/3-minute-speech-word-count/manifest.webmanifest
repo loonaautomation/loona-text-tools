@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przemówienie na 3 minuty",
+  "short_name": "Przemówienie na 3 minuty",
+  "description": "Ile słów ma przemówienie na 3 minuty? 330–540 słów (450 przy tempie konwersacyjnym). Darmowy licznik na żywo ze sprawdzaniem czasu mówienia.",
+  "id": "/loona-text-tools/pl/3-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

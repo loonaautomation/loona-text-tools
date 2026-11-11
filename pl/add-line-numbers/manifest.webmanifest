@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dodawanie numerów wierszy online",
+  "short_name": "Dodawanie numerów wierszy online",
+  "description": "Dodawaj numery do każdego wiersza swojego tekstu, z wybranym przez Ciebie początkiem, krokiem, wypełnieniem i separatorem. Darmowe narzędzie do numerowania wierszy - bez rejestracji, natychmiastowe i prywatne.",
+  "id": "/loona-text-tools/pl/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
