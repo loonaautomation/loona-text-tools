@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Teks Bergaya Online",
+  "short_name": "Pembuat Teks Bergaya Online",
+  "description": "Ubah teks biasa menjadi font Unicode bergaya - tebal, skrip, fraktur, melingkar, kapital kecil dan lainnya - untuk bio, keterangan dan nama pengguna. Pembuat teks bergaya gratis.",
+  "id": "/loona-text-tools/id/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

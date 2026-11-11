@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esai 1.500 Kata",
+  "short_name": "Esai 1.500 Kata",
+  "description": "Penghitung esai 1.500 kata gratis: hitungan kata langsung menuju target 1.500 kata, halaman spasi tunggal dan ganda, paragraf, waktu membaca dan berbicara.",
+  "id": "/loona-text-tools/id/1500-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengonversi EPUB ke Teks Gratis",
+  "short_name": "Pengonversi EPUB ke Teks Gratis",
+  "description": "Konversi ebook EPUB ke teks biasa bersih (.txt) gratis, di browser Anda. Bab dalam urutan membaca, judul dipertahankan, daftar bab dan jumlah kata ditampilkan terlebih dahulu. Tanpa unggah, tanpa pendaftaran.",
+  "id": "/loona-text-tools/id/epub-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

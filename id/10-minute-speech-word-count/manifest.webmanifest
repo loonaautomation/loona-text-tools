@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pidato 10 Menit",
+  "short_name": "Pidato 10 Menit",
+  "description": "Berapa banyak kata dalam pidato 10 menit? 1.100–1.800 kata (1.500 pada kecepatan percakapan). Penghitung langsung gratis dengan pemeriksaan waktu berbicara.",
+  "id": "/loona-text-tools/id/10-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

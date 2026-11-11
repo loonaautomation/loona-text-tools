@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penghitung Kata Online Gratis",
+  "short_name": "Penghitung Kata Online Gratis",
+  "description": "Hitung kata, karakter, kalimat dan paragraf dalam teks apa pun secara instan, dengan waktu membaca dan waktu berbicara. Penghitung kata gratis, tanpa pendaftaran, bekerja offline.",
+  "id": "/loona-text-tools/id/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

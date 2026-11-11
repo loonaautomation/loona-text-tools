@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penghitung Suku Kata Online Gratis",
+  "short_name": "Penghitung Suku Kata Online Gratis",
+  "description": "Hitung suku kata dalam kata, kalimat atau teks penuh apa pun secara instan - total suku kata, rincian per kata dan rata-rata. Penghitung suku kata gratis, tanpa pendaftaran, bekerja offline.",
+  "id": "/loona-text-tools/id/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

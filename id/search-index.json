@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Penghitung Kata",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Kata, karakter, kalimat, paragraf dan waktu membaca - dihitung langsung saat Anda mengetik.",
+  "k": "word counter word counter kata karakter kalimat paragraf dan waktu membaca dihitung langsung saat anda mengetik",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Penghitung Karakter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Karakter dengan dan tanpa spasi, ditambah batas langsung untuk X, SMS dan teks meta.",
+  "k": "character counter character counter karakter dengan dan tanpa spasi ditambah batas langsung untuk x sms dan teks meta",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Penghitung Kalimat",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Kalimat, paragraf, kata dan karakter dalam teks apa pun - dihitung langsung saat Anda mengetik.",
+  "k": "sentence counter sentence counter kalimat paragraf kata dan karakter dalam teks apa pun dihitung langsung saat anda mengetik",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Waktu Membaca",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Berapa lama teks apa pun dibaca, pada kecepatan membaca lambat, rata-rata dan cepat.",
+  "k": "reading time calculator reading time calculator berapa lama teks apa pun dibaca pada kecepatan membaca lambat rata rata dan cepat",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Waktu Berbicara",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Berapa lama pidato atau naskah disampaikan - ditambah kata yang dibutuhkan untuk waktu target.",
+  "k": "speaking time calculator speaking time calculator berapa lama pidato atau naskah disampaikan ditambah kata yang dibutuhkan untuk waktu target",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Tes Mengetik",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Tes mengetik 60 detik - kecepatan Anda dalam WPM, akurasi dan CPM, langsung saat Anda mengetik.",
+  "k": "typing test typing test tes mengetik 60 detik kecepatan anda dalam wpm akurasi dan cpm langsung saat anda mengetik",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengonversi Huruf",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "HURUF BESAR, huruf kecil, Huruf Judul, Huruf kalimat dan lainnya - satu klik masing-masing.",
+  "k": "case converter case converter huruf besar huruf kecil huruf judul huruf kalimat dan lainnya satu klik masing masing",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Hapus Baris Duplikat",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Hapus baris berulang dan simpan setiap baris unik sekali, secara berurutan.",
+  "k": "remove duplicate lines remove duplicate lines hapus baris berulang dan simpan setiap baris unik sekali secara berurutan",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Urutkan Baris",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Urutkan baris A-Z, Z-A, berdasarkan panjang, dibalik, atau diacak secara adil secara acak.",
+  "k": "sort lines sort lines urutkan baris a z z a berdasarkan panjang dibalik atau diacak secara adil secara acak",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Balik Teks",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Balik teks ke belakang - seluruh teks, setiap kata, urutan kata atau urutan baris.",
+  "k": "reverse text reverse text balik teks ke belakang seluruh teks setiap kata urutan kata atau urutan baris",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Hapus Spasi Berlebih",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Peras spasi ganda, tab dan tepi tidak rata dari teks salinan yang berantakan.",
+  "k": "remove extra spaces remove extra spaces peras spasi ganda tab dan tepi tidak rata dari teks salinan yang berantakan",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Temukan dan Ganti",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Tukar setiap kemunculan kata atau frasa dengan yang lain, dalam sekali jalan.",
+  "k": "find and replace find and replace tukar setiap kemunculan kata atau frasa dengan yang lain dalam sekali jalan",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Teks ke Ucapan",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Dengarkan teks apa pun dibacakan - suara Inggris, Urdu dan lainnya, kecepatan Anda.",
+  "k": "text to speech text to speech dengarkan teks apa pun dibacakan suara inggris urdu dan lainnya kecepatan anda",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Ucapan ke Teks",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Bicaralah dan saksikan kata-kata Anda menjadi teks - Inggris, Urdu dan lainnya.",
+  "k": "speech to text speech to text bicaralah dan saksikan kata kata anda menjadi teks inggris urdu dan lainnya",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Kata Sandi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Kata sandi acak kuat dengan panjang dan simbol pilihan Anda.",
+  "k": "password generator password generator kata sandi acak kuat dengan panjang dan simbol pilihan anda",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Bandingkan Teks",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Sejajarkan dua teks dan lihat dengan tepat baris mana yang berubah.",
+  "k": "text compare text compare sejajarkan dua teks dan lihat dengan tepat baris mana yang berubah",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Frekuensi Kata",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Tabel peringkat kata-kata yang paling sering Anda gunakan, dengan jumlah dan persentase.",
+  "k": "word frequency word frequency tabel peringkat kata kata yang paling sering anda gunakan dengan jumlah dan persentase",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Hapus Pemisah Baris",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Gabungkan baris rusak gaya PDF kembali menjadi paragraf bersih yang mengalir.",
+  "k": "remove line breaks remove line breaks gabungkan baris rusak gaya pdf kembali menjadi paragraf bersih yang mengalir",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Tambah Nomor Baris",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Beri nomor setiap baris - pilih awal, langkah, padding dan pemisah.",
+  "k": "add line numbers add line numbers beri nomor setiap baris pilih awal langkah padding dan pemisah",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Teks contoh klasik per paragraf, kalimat atau kata untuk desain Anda.",
+  "k": "lorem ipsum generator lorem ipsum generator teks contoh klasik per paragraf kalimat atau kata untuk desain anda",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Slug",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Ubah judul apa pun menjadi slug URL yang bersih dan ramah pencarian, secara langsung.",
+  "k": "slug generator slug generator ubah judul apa pun menjadi slug url yang bersih dan ramah pencarian secara langsung",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Penerjemah Kode Morse",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Teks ke kode Morse dan kembali - dengan pemutaran bunyi bip asli.",
+  "k": "morse code translator morse code translator teks ke kode morse dan kembali dengan pemutaran bunyi bip asli",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Teks ke Biner",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Lihat teks sebagai 0 dan 1 yang disimpan komputer - dan dekode biner kembali.",
+  "k": "text to binary text to binary lihat teks sebagai 0 dan 1 yang disimpan komputer dan dekode biner kembali",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Roman Urdu ke Urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Ubah 'mera naam Ahmed hai' menjadi aksara Urdu yang benar, secara instan.",
+  "k": "roman urdu to urdu roman urdu to urdu ubah mera naam ahmed hai menjadi aksara urdu yang benar secara instan",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Notepad Online",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Notepad yang menyimpan otomatis di browser Anda - termasuk unduh dan cetak.",
+  "k": "online notepad online notepad notepad yang menyimpan otomatis di browser anda termasuk unduh dan cetak",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Teks Bergaya",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Teks tebal, skrip, melingkar dan terbalik untuk bio dan keterangan.",
+  "k": "fancy text generator fancy text generator teks tebal skrip melingkar dan terbalik untuk bio dan keterangan",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Penghitung Suku Kata",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Hitung suku kata dalam setiap kata dan total - sempurna untuk puisi, haiku dan lirik.",
+  "k": "syllable counter syllable counter hitung suku kata dalam setiap kata dan total sempurna untuk puisi haiku dan lirik",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Penghitung Paragraf",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Hitung paragraf, dengan kata dan kalimat per paragraf dan yang terpanjang ditandai.",
+  "k": "paragraph counter paragraph counter hitung paragraf dengan kata dan kalimat per paragraf dan yang terpanjang ditandai",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Tingkat Bacaan",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Skor Flesch Reading Ease dan tingkat kelas, dengan penilaian bahasa Inggris sederhana.",
+  "k": "reading level calculator reading level calculator skor flesch reading ease dan tingkat kelas dengan penilaian bahasa inggris sederhana",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Palindrom",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Apakah dibaca sama dari belakang? Periksa kata, angka dan kalimat utuh.",
+  "k": "palindrome checker palindrome checker apakah dibaca sama dari belakang periksa kata angka dan kalimat utuh",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Anagram",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Temukan kata asli yang tersembunyi dalam huruf Anda, dan uji pasangan anagram secara instan.",
+  "k": "anagram generator anagram generator temukan kata asli yang tersembunyi dalam huruf anda dan uji pasangan anagram secara instan",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Alfabet Fonetik NATO",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Eja apa pun dengan cara pilot - Alfa, Bravo, Charlie - dan dekode kembali.",
+  "k": "nato phonetic alphabet nato phonetic alphabet eja apa pun dengan cara pilot alfa bravo charlie dan dekode kembali",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengonversi Teks ke ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Kode desimal, heks, oktal dan biner di balik setiap karakter, dan kembali.",
+  "k": "text to ascii converter text to ascii converter kode desimal heks oktal dan biner di balik setiap karakter dan kembali",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengonversi Teks ke Heksadesimal",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Teks ke byte heksadesimal dan kembali, dengan UTF-8 yang benar untuk setiap bahasa.",
+  "k": "text to hex converter text to hex converter teks ke byte heksadesimal dan kembali dengan utf 8 yang benar untuk setiap bahasa",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Pencari Kata Berulang",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Setiap kata yang Anda gunakan lebih dari sekali, diperingkat - ditambah kata ganda yang tidak disengaja.",
+  "k": "repeated words finder repeated words finder setiap kata yang anda gunakan lebih dari sekali diperingkat ditambah kata ganda yang tidak disengaja",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Karakter Tak Terlihat",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Ungkap karakter lebar-nol dan tersembunyi dalam teks yang disalin, dan hapus mereka.",
+  "k": "invisible character checker invisible character checker ungkap karakter lebar nol dan tersembunyi dalam teks yang disalin dan hapus mereka",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Hapus Tanda Baca",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Buang tanda baca dari teks dalam satu klik, menjaga kata-kata tetap bersih.",
+  "k": "remove punctuation remove punctuation buang tanda baca dari teks dalam satu klik menjaga kata kata tetap bersih",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengekstrak Email",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Tarik setiap alamat email dari teks apa pun - deduplikasi, satu per baris.",
+  "k": "email extractor email extractor tarik setiap alamat email dari teks apa pun deduplikasi satu per baris",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Gambar ke Teks (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Ekstrak teks yang dapat diedit dari foto, pindaian dan tangkapan layar - OCR gratis di browser Anda.",
+  "k": "image to text (ocr) image to text (ocr) ekstrak teks yang dapat diedit dari foto pindaian dan tangkapan layar ocr gratis di browser anda",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengonversi Gambar ke Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Ubah foto atau tangkapan layar tabel menjadi file Excel asli - periksa dan edit selnya, lalu unduh.",
+  "k": "image to excel converter image to excel converter ubah foto atau tangkapan layar tabel menjadi file excel asli periksa dan edit selnya lalu unduh",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Sitasi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Sitasi APA 7, MLA 9 dan Chicago untuk situs web, buku dan artikel jurnal.",
+  "k": "citation generator citation generator sitasi apa 7 mla 9 dan chicago untuk situs web buku dan artikel jurnal",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembaca EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Buka dan baca ebook EPUB langsung di browser Anda - daftar bab, ukuran font yang dapat disesuaikan dan mode gelap.",
+  "k": "epub reader epub reader buka dan baca ebook epub langsung di browser anda daftar bab ukuran font yang dapat disesuaikan dan mode gelap",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB ke Teks",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Ubah ebook EPUB menjadi file teks biasa bersih - bab dalam urutan membaca, judul dipertahankan.",
+  "k": "epub to text epub to text ubah ebook epub menjadi file teks biasa bersih bab dalam urutan membaca judul dipertahankan",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB ke HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Ubah ebook EPUB menjadi satu file HTML mandiri dengan gambarnya disematkan.",
+  "k": "epub to html epub to html ubah ebook epub menjadi satu file html mandiri dengan gambarnya disematkan",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ ke PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Ubah arsip komik menjadi PDF - halaman dalam urutan alami, satu gambar per halaman.",
+  "k": "cbz to pdf cbz to pdf ubah arsip komik menjadi pdf halaman dalam urutan alami satu gambar per halaman",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX ke EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Ubah dokumen Word menjadi ebook EPUB - judul menjadi bab.",
+  "k": "docx to epub docx to epub ubah dokumen word menjadi ebook epub judul menjadi bab",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Editor Metadata EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Edit judul, penulis, penerbit dan deskripsi ebook - bab tidak tersentuh.",
+  "k": "epub metadata editor epub metadata editor edit judul penulis penerbit dan deskripsi ebook bab tidak tersentuh",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Teks / Markdown ke EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Ubah teks biasa atau Markdown menjadi ebook EPUB yang benar yang terbuka di pembaca mana pun.",
+  "k": "text / markdown to epub text / markdown to epub ubah teks biasa atau markdown menjadi ebook epub yang benar yang terbuka di pembaca mana pun",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Topik Acak",
+  "u": "https://loonaautomation.github.io/loona-text-tools/id/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 topik esai, pidato, debat, cerita dan anak yang ditulis tangan dalam 9 kategori, difilter menurut tingkat sekolah, tanpa pengulangan.",
+  "k": "random topic generator random topic generator 900 topik esai pidato debat cerita dan anak yang ditulis tangan dalam 9 kategori difilter menurut tingkat sekolah tanpa pengulangan",
+  "p": 148,
+  "c": "Tool"
+ }
+]

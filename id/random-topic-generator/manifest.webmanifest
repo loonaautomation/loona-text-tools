@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Topik Acak Online Gratis",
+  "short_name": "Pembuat Topik Acak Online Gratis",
+  "description": "Buat topik acak untuk esai, pidato, debat, paragraf, presentasi dan cerita - 900 topik tulisan tangan dalam 9 kategori, difilter berdasarkan level. Gratis, tanpa pendaftaran.",
+  "id": "/loona-text-tools/id/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
