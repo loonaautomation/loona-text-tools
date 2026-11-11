@@ -1,0 +1,29 @@
+{
+  "name": "Loona จำนวนคำของนวนิยายตามแนว",
+  "short_name": "จำนวนคำของนวนิยายตามแนว",
+  "description": "จำนวนคำของนวนิยายตามแนว: ผู้ใหญ่ 70,000–120,000, วัยรุ่น 50,000–90,000, ระดับกลาง 20,000–55,000. ตัวนับแบบสดฟรีพร้อมเป้าหมายตามแนว",
+  "id": "/loona-text-tools/th/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

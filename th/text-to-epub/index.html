@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ตัวแปลงข้อความเป็น EPUB ฟรี — สร้างอีบุ๊ก EPUB จากข้อความหรือ Markdown | Loona Text Tools</title>
+<meta name="description" content="แปลงข้อความธรรมดาหรือ Markdown เป็นอีบุ๊ก EPUB ที่ถูกต้องฟรี ในเบราว์เซอร์ของคุณ ชื่อเรื่องและผู้แต่ง บทจากหัวข้อ เปิดได้ในโปรแกรมอ่าน EPUB ทุกตัว ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-text-tools/text-to-epub/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-text-tools/es/text-to-epub/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-text-tools/de/text-to-epub/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-text-tools/fr/text-to-epub/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-text-tools/pt/text-to-epub/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-text-tools/it/text-to-epub/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-text-tools/nl/text-to-epub/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-text-tools/ar/text-to-epub/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-text-tools/ur/text-to-epub/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-text-tools/tr/text-to-epub/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-text-tools/ru/text-to-epub/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-text-tools/id/text-to-epub/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-text-tools/hi/text-to-epub/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-text-tools/bn/text-to-epub/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-text-tools/ja/text-to-epub/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-text-tools/ko/text-to-epub/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-text-tools/pl/text-to-epub/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-text-tools/vi/text-to-epub/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-text-tools/zh/text-to-epub/"><link rel="alternate" hreflang="th" href="https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-text-tools/text-to-epub/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Text Tools">
+<meta property="og:title" content="ตัวแปลงข้อความเป็น EPUB ฟรี — สร้างอีบุ๊ก EPUB จากข้อความหรือ Markdown | Loona Text Tools">
+<meta property="og:description" content="แปลงข้อความธรรมดาหรือ Markdown เป็นอีบุ๊ก EPUB ที่ถูกต้องฟรี ในเบราว์เซอร์ของคุณ ชื่อเรื่องและผู้แต่ง บทจากหัวข้อ เปิดได้ในโปรแกรมอ่าน EPUB ทุกตัว ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/"><meta property="og:locale" content="th_TH">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ตัวแปลงข้อความเป็น EPUB ฟรี — สร้างอีบุ๊ก EPUB จากข้อความหรือ Markdown | Loona Text Tools">
+<meta name="twitter:description" content="แปลงข้อความธรรมดาหรือ Markdown เป็นอีบุ๊ก EPUB ที่ถูกต้องฟรี ในเบราว์เซอร์ของคุณ ชื่อเรื่องและผู้แต่ง บทจากหัวข้อ เปิดได้ในโปรแกรมอ่าน EPUB ทุกตัว ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+</style>
+<style>
+.dropzone{border:2px dashed #cfc9ae;border-radius:14px;padding:30px 18px;text-align:center;background:#fdfcf7;cursor:pointer;transition:.15s}
+.dropzone:hover,.dropzone.over{border-color:var(--gold);background:#fff8e1}
+.dropzone .dz-ic{font-size:2.4rem;margin-bottom:6px}
+.dropzone p{color:var(--mut);font-size:.95rem;margin-top:8px}
+.outbox{white-space:pre-wrap;word-break:break-word;background:#fffdf6;border:1px solid var(--line);border-radius:12px;padding:14px 16px;max-height:420px;overflow:auto;font-size:.95rem;line-height:1.6}
+.chlist{margin:10px 0;padding-left:22px}.chlist li{margin-bottom:4px}
+
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"ข้อความ / Markdown เป็น EPUB - Loona Text Tools","url":"https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/","description":"แปลงข้อความธรรมดาหรือ Markdown เป็นอีบุ๊ก EPUB ที่ถูกต้องฟรี ในเบราว์เซอร์ของคุณ ชื่อเรื่องและผู้แต่ง บทจากหัวข้อ เปิดได้ในโปรแกรมอ่าน EPUB ทุกตัว ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"ต้องการ JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"หน้าแรก","item":"https://loonaautomation.github.io/loona-text-tools/th/"},{"@type":"ListItem","position":2,"name":"เครื่องมือข้อความ","item":"https://loonaautomation.github.io/loona-text-tools/th/"},{"@type":"ListItem","position":3,"name":"ข้อความ / Markdown เป็น EPUB","item":"https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ตัวแปลงข้อความเป็น EPUB นี้ฟรีหรือไม่?","acceptedAnswer":{"@type":"Answer","text":"ใช่ — ฟรีอย่างสมบูรณ์ ไม่ต้องสมัครสมาชิก ไม่มีบัญชี และไม่มีขีดจำกัด"}},{"@type":"Question","name":"ข้อความของฉันถูกอัปโหลดไปยังเซิร์ฟเวอร์หรือไม่?","acceptedAnswer":{"@type":"Answer","text":"ไม่ EPUB ถูกสร้าง 100% ในเบราว์เซอร์ของคุณด้วย JavaScript ข้อความของคุณไม่ออกจากอุปกรณ์ของคุณเลยและเราไม่เคยจัดเก็บ"}},{"@type":"Question","name":"บทถูกกำหนดอย่างไร?","acceptedAnswer":{"@type":"Answer","text":"ในโหมด Markdown บรรทัดที่ขึ้นต้นด้วย # หรือ ## จะเริ่มบทใหม่ ในโหมดข้อความธรรมดา บรรทัดอย่าง 'Chapter 2' จะเริ่มบทใหม่ และย่อหน้าแยกกันด้วยบรรทัดว่าง หากไม่มีบรรทัดบท ข้อความทั้งหมดจะกลายเป็นบทเดียว"}},{"@type":"Question","name":"รองรับ Markdown ใดบ้าง?","acceptedAnswer":{"@type":"Answer","text":"หัวข้อ (## และต่ำกว่าในบท, # / ## เป็นตัวแบ่งบท) ตัวหนา ตัวเอียง รายการแบบจุดและลำดับเลข บล็อกคำพูด โค้ดในบรรทัด และลิงก์เว็บแบบง่าย ตารางที่ซับซ้อนและรูปภาพไม่รองรับ"}},{"@type":"Question","name":"EPUB จะเปิดในโปรแกรมอ่านจริงหรือไม่?","acceptedAnswer":{"@type":"Answer","text":"ใช่ มันทำตามโครงสร้าง EPUB — mimetype ก่อนและเก็บไม่บีบอัด container.xml รายการ OPF และสันหนังสือ เอกสารนำทางของ EPUB 3 บวก NCX — และมันถูกทดสอบให้เปิดใน EPUB Reader ของเราเองบนเว็บไซต์นี้"}},{"@type":"Question","name":"ขีดจำกัดขนาดคือเท่าใด?","acceptedAnswer":{"@type":"Answer","text":"ข้อความหรือไฟล์ขนาดสูงสุด 20 MB จัดการได้ในเบราว์เซอร์ ข้อมูลที่ใหญ่กว่าจะได้รับข้อความที่ชัดเจน"}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="โลโก้ Loona Automation">Loona <span>เครื่องมือข้อความ</span></a>
+<nav class="main">
+<a href="../">หน้าแรก</a>
+<a href="../word-counter/">ตัวนับคำ</a>
+<a href="../case-converter/">ตัวแปลงตัวพิมพ์</a>
+<a href="../text-to-speech/">ข้อความเป็นเสียงพูด</a>
+<a href="../password-generator/">ตัวสร้างรหัสผ่าน</a>
+<a href="../about.html">เกี่ยวกับ</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">หน้าแรก</a> &rsaquo; <a href="../#tools">เครื่องมือข้อความ</a> &rsaquo; ข้อความ / Markdown เป็น EPUB</div>
+<main class="page">
+<h1 class="tool">ข้อความ / Markdown เป็น EPUB — สร้างอีบุ๊ก EPUB ของคุณเอง</h1>
+<div class="inshort"><strong>โดยสรุป:</strong> วางหรืออัปโหลดข้อความธรรมดาหรือ Markdown เพิ่มชื่อเรื่องและผู้แต่ง แล้วดาวน์โหลดอีบุ๊ก EPUB ที่ถูกต้อง — โครงสร้างที่ถูกต้อง (mimetype ก่อนและไม่บีบอัด container ไฟล์แพ็กเกจ เอกสารนำทาง และ NCX) บทแยกตามหัวข้อ Markdown พร้อมการจัดรูปแบบ Markdown พื้นฐาน (หัวข้อ ตัวหนา ตัวเอียง รายการ และย่อหน้า) คงอยู่ ผลลัพธ์เปิดใน EPUB Reader ของเราเองและในโปรแกรมอ่านอีบุ๊กมาตรฐาน</div>
+<p class="lede">นักเขียน ครู และนักเรียนมักมีข้อความที่เสร็จแล้วแต่ไม่มีอีบุ๊ก ตัวสร้างนี้เปลี่ยนข้อความนั้นให้เป็น EPUB จริง — ไม่ใช่ zip ที่เปลี่ยนชื่อ — โดยใช้กฎพอดีที่โปรแกรมอ่านอีบุ๊กคาดหวัง ทั้งหมดบนอุปกรณ์ของคุณ</p>
+<div class="panel">
+<div class="row">
+<div class="field"><label for="inpTitle">ชื่อหนังสือ</label><input type="text" id="inpTitle" placeholder="My Book"></div>
+<div class="field"><label for="inpAuthor">ผู้แต่ง (ไม่บังคับ)</label><input type="text" id="inpAuthor" placeholder="ชื่อของคุณ"></div>
+</div>
+<div class="field"><label for="inpText">ข้อความหรือ Markdown ของคุณ</label><textarea id="inpText" class="big" placeholder="# Chapter One&#10;&#10;วางหรือพิมพ์ข้อความของคุณที่นี่ ในโหมด Markdown หัวข้อ # และ ## จะเริ่มบทใหม่ รองรับ **ตัวหนา**, *ตัวเอียง* และรายการแบบ -"></textarea></div>
+<div class="row">
+<label class="check"><input type="checkbox" id="chkMd" checked> ถือว่าอินพุตเป็น Markdown (หัวข้อเริ่มบท)</label>
+</div>
+<div class="row">
+<label class="btn ghost" style="cursor:pointer">อัปโหลดไฟล์ .txt หรือ .md<input type="file" id="fileInp" accept=".txt,.md,.markdown,text/plain,text/markdown" hidden></label>
+<button class="btn" id="bBuild" type="button">สร้าง EPUB &amp; ดาวน์โหลด</button>
+</div>
+<div class="status" id="st"></div>
+<div id="result" hidden><div class="kv" id="metaKv"></div><h3 style="color:var(--teal);margin:16px 0 6px">บทที่สร้างแล้ว</h3><ol class="chlist" id="chList"></ol></div>
+</div>
+<div class="privacy-note"><strong>เป็นส่วนตัวโดยการออกแบบ:</strong> ทุกอย่างในเครื่องมือนี้เกิดขึ้น 100% ในเบราว์เซอร์ของคุณด้วย JavaScript ไฟล์ของคุณไม่เคยถูกอัปโหลดไปยังเซิร์ฟเวอร์ ไม่เคยถูกจัดเก็บ และไม่เคยถูกเห็นโดยเรา — ปิดแท็บแล้วทุกอย่างหายไป หนังสือที่ป้องกันด้วย DRM ไม่สามารถและจะไม่ถูกแปลง</div>
+<section class="block"><h2>วิธีใช้เครื่องมือนี้</h2><ol><li><strong>วางข้อความของคุณ</strong> ลงในกล่อง หรืออัปโหลด <strong>.txt / .md</strong> ไฟล์ (สูงสุด 20 MB)</li><li>เพิ่ม <strong>ชื่อเรื่อง</strong> และ ถ้าคุณชอบ <strong>ผู้แต่ง</strong>. ให้ติ๊ก Markdown ไว้สำหรับข้อความ .md: <strong>หัวข้อ # และ ## จะเริ่มบทใหม่</strong>. สำหรับข้อความธรรมดา บทจะเริ่มต้นที่บรรทัดอย่างเช่น &ldquo;Chapter 2&rdquo; และย่อหน้าจะแยกกันด้วยบรรทัดว่าง</li><li>คลิก <strong>สร้าง EPUB &amp; ดาวน์โหลด</strong>, ตรวจสอบรายการบท และเปิดไฟล์ในโปรแกรมอ่าน EPUB ใดก็ได้ รวมถึงโปรแกรมอ่าน EPUB ฟรีของเรา</li></ol></section>
+<section class="block"><h2>วิธีการทำงาน</h2><p>ตัวสร้างประกอบ EPUB ในลำดับเดียวที่มาตรฐานอนุญาต: รายการ mimetype เข้าไปใน zip ก่อนและไม่บีบอัด จากนั้น META-INF/container.xml ชี้ไปที่ไฟล์แพ็กเกจ (OPF) พร้อมชื่อเรื่อง ผู้แต่ง รายการเนื้อหา และลำดับการอ่าน (สันหนังสือ) มันเขียนทั้งเอกสารนำทางของ EPUB 3 และสารบัญ NCX รุ่นเก่า เพื่อให้โปรแกรมอ่านเก่าและใหม่ทำงานได้ทั้งคู่ บวกหน้าชื่อเรื่องและไฟล์ XHTML หนึ่งไฟล์ต่อบท Markdown ถูกแปลงอย่างปลอดภัย — ข้อความของคุณถูกหลบหลีกก่อน จากนั้นหัวข้อ ตัวหนา ตัวเอียง รายการ คำพูด และย่อหน้าถูกเปลี่ยนเป็น XHTML ที่สะอาด</p><h3>ตัวอย่างที่ทำแล้ว</h3><p>ครูวางเอกสารอ่านประกอบชั้นเรียนที่เขียนด้วย Markdown จำนวน 6 บท ตั้งชื่อว่า &ldquo;Class 6 Geography Notes&rdquo; และดาวน์โหลด EPUB หนึ่งไฟล์ นักเรียนเปิดใน Loona EPUB Reader บนโทรศัพท์ — รายการบท หัวข้อ และคำศัพท์สำคัญตัวหนาทั้งหมดยังคงอยู่</p></section>
+<section class="block"><h2>คำถามที่พบบ่อย</h2><details class="faq"><summary>ตัวแปลงข้อความเป็น EPUB นี้ฟรีหรือไม่?</summary><p>ใช่ — ฟรีอย่างสมบูรณ์ ไม่ต้องสมัครสมาชิก ไม่มีบัญชี และไม่มีขีดจำกัด</p></details><details class="faq"><summary>ข้อความของฉันถูกอัปโหลดไปยังเซิร์ฟเวอร์หรือไม่?</summary><p>ไม่ EPUB ถูกสร้าง 100% ในเบราว์เซอร์ของคุณด้วย JavaScript ข้อความของคุณไม่ออกจากอุปกรณ์ของคุณเลยและเราไม่เคยจัดเก็บ</p></details><details class="faq"><summary>บทถูกกำหนดอย่างไร?</summary><p>ในโหมด Markdown บรรทัดที่ขึ้นต้นด้วย # หรือ ## จะเริ่มบทใหม่ ในโหมดข้อความธรรมดา บรรทัดอย่าง 'Chapter 2' จะเริ่มบทใหม่ และย่อหน้าแยกกันด้วยบรรทัดว่าง หากไม่มีบรรทัดบท ข้อความทั้งหมดจะกลายเป็นบทเดียว</p></details><details class="faq"><summary>รองรับ Markdown ใดบ้าง?</summary><p>หัวข้อ (## และต่ำกว่าในบท, # / ## เป็นตัวแบ่งบท) ตัวหนา ตัวเอียง รายการแบบจุดและลำดับเลข บล็อกคำพูด โค้ดในบรรทัด และลิงก์เว็บแบบง่าย ตารางที่ซับซ้อนและรูปภาพไม่รองรับ</p></details><details class="faq"><summary>EPUB จะเปิดในโปรแกรมอ่านจริงหรือไม่?</summary><p>ใช่ มันทำตามโครงสร้าง EPUB — mimetype ก่อนและเก็บไม่บีบอัด container.xml รายการ OPF และสันหนังสือ เอกสารนำทางของ EPUB 3 บวก NCX — และมันถูกทดสอบให้เปิดใน EPUB Reader ของเราเองบนเว็บไซต์นี้</p></details><details class="faq"><summary>ขีดจำกัดขนาดคือเท่าใด?</summary><p>ข้อความหรือไฟล์ขนาดสูงสุด 20 MB จัดการได้ในเบราว์เซอร์ ข้อมูลที่ใหญ่กว่าจะได้รับข้อความที่ชัดเจน</p></details></section>
+<section class="block"><h2>เครื่องมือข้อความที่เกี่ยวข้อง</h2><div class="grid"><a class="card" href="../epub-reader/"><div class="ic">📖</div><h3>โปรแกรมอ่าน EPUB</h3><p>เปิด EPUB ที่คุณเพิ่งสร้าง — อ่านตรงนี้พร้อมรายการบทและโหมดมืด</p></a><a class="card" href="../epub-to-text/"><div class="ic">📄</div><h3>EPUB เป็นข้อความ</h3><p>เปลี่ยนอีบุ๊ก EPUB ให้เป็นไฟล์ข้อความธรรมดาที่สะอาด บทตามลำดับการอ่าน</p></a><a class="card" href="../epub-to-html/"><div class="ic">🌐</div><h3>EPUB เป็น HTML</h3><p>เปลี่ยนอีบุ๊ก EPUB ให้เป็นไฟล์ HTML ไฟล์เดียวที่ครบในตัวเองที่คุณเปิดได้ทุกที่</p></a><a class="card" href="../word-counter/"><div class="ic">🔢</div><h3>ตัวนับคำ</h3><p>นับคำ ตัวอักษร ประโยค และเวลาอ่านในข้อความใด ๆ</p></a></div></section>
+</main>
+</div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">ฝังเครื่องมือนี้บนเว็บไซต์ของคุณ — ฟรี</h2>
+<p style="margin:0 0 12px;line-height:1.6">เพิ่มเครื่องมือนี้ลงในเว็บไซต์หรือบล็อกของคุณเอง — ฟรีทั้งหมด ไม่ต้องสมัครสมาชิก และแสดงเวอร์ชันล่าสุดเสมอ คัดลอกโค้ดด้านล่างและวางลงในหน้าของคุณตรงตำแหน่งที่ต้องการให้เครื่องมือปรากฏ การคงบรรทัดเครดิตเล็ก ๆ &ldquo;Powered by Loona Automation&rdquo; ไว้ใต้ตัวฝังช่วยทำให้เครื่องมือนี้ยังคงฟรี &mdash; แต่คุณมีอิสระที่จะจัดรูปแบบหรือลบออก เครื่องมือทำงานได้ทั้งสองแบบ</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free Text / Markdown to EPUB by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;ขับเคลื่อนโดย &lt;a href="https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; ฟรี ข้อความ / Markdown เป็น EPUB&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">คัดลอกโค้ดฝัง</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='คัดลอกแล้ว!';setTimeout(function(){b.textContent='คัดลอกรหัสฝัง';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Text Tools</h4>
+<a href="../">เครื่องมือข้อความทั้งหมด</a>
+<a href="../about.html">เกี่ยวกับเรา</a>
+<a href="../contact.html">ติดต่อ</a></div>
+<div class="col"><h4>เครื่องมือยอดนิยม</h4><a href="../word-counter/">ตัวนับคำ</a><a href="../character-counter/">ตัวนับตัวอักษร</a><a href="../case-converter/">ตัวแปลงตัวพิมพ์</a><a href="../password-generator/">ตัวสร้างรหัสผ่าน</a><a href="../text-to-speech/">ข้อความเป็นเสียงพูด</a><a href="../speech-to-text/">เสียงพูดเป็นข้อความ</a></div>
+<div class="col"><h4>เครื่องมือเพิ่มเติม</h4><a href="../remove-duplicate-lines/">ลบบรรทัดที่ซ้ำกัน</a><a href="../text-compare/">เปรียบเทียบข้อความ</a><a href="../lorem-ipsum-generator/">ตัวสร้าง Lorem Ipsum</a><a href="../slug-generator/">ตัวสร้าง Slug</a><a href="../online-notepad/">สมุดบันทึกออนไลน์</a><a href="../fancy-text-generator/">ตัวสร้างข้อความตกแต่ง</a></div>
+<div class="col"><h4>กฎหมาย</h4>
+<a href="../privacy.html">นโยบายความเป็นส่วนตัว</a>
+<a href="../terms.html">เงื่อนไขการใช้งาน</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools. เครื่องมือข้อความออนไลน์ฟรีที่ทำงาน 100% ในเบราว์เซอร์ของคุณ</div></footer>
+<script src="../../lib/jszip.min.js"></script>
+<script>
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='status '+(ok===true?'ok':ok===false?'err':'');}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function download(name, blob){ var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name; document.body.appendChild(a); a.click(); setTimeout(function(){ URL.revokeObjectURL(a.href); a.remove(); },400); }
+function safeBase(name){ return String(name||'book').replace(/[^\w\- ]+/g,'').trim().replace(/\s+/g,'-').toLowerCase()||'book'; }
+var MAX_BYTES=20*1024*1024;
+$('#fileInp').addEventListener('change',function(){
+  var f=this.files&&this.files[0]; if(!f) return;
+  if(f.size>MAX_BYTES){ setStatus($('#st'),'ไฟล์นั้นเกินขีดจำกัด 20 MB สำหรับเครื่องมือเบราว์เซอร์นี้ โปรดใช้ไฟล์ข้อความที่เล็กกว่า',false); return; }
+  f.text().then(function(t){ $('#inpText').value=t; if(/\.md$/i.test(f.name)) $('#chkMd').checked=true; if(/\.txt$/i.test(f.name)&&!$('#inpTitle').value) $('#inpTitle').value=f.name.replace(/\.(txt|md|markdown)$/i,''); setStatus($('#st'),'ไฟล์โหลดแล้ว: '+f.name+' ('+t.split(/\s+/).filter(Boolean).length+' คำ)',true); });
+});
+$('#bBuild').addEventListener('click',function(){
+  var text=$('#inpText').value;
+  if(!text.trim()){ setStatus($('#st'),'โปรดวางหรืออัปโหลดข้อความก่อน',false); return; }
+  var title=$('#inpTitle').value.trim()||'ไม่มีชื่อ';
+  setStatus($('#st'),'กำลังสร้าง EPUB ของคุณ\u2026',null);
+  EpubBuild.buildEpub({title:title, author:$('#inpAuthor').value, text:text, isMarkdown:$('#chkMd').checked}).then(function(res){
+    $('#metaKv').innerHTML=[['ชื่อเรื่อง',res.title],['ผู้แต่ง',res.author||'ไม่ได้ตั้งค่า'],['บท',res.chapters.length],['ขนาดไฟล์',(res.blob.size/1024).toFixed(1)+' KB']].map(function(x){return '<div><b>'+escH(String(x[1]))+'</b>'+x[0]+'</div>';}).join('');
+    $('#chList').innerHTML=res.chapters.map(function(c){return '<li>'+escH(c.title)+'</li>';}).join('');
+    $('#result').hidden=false;
+    download(safeBase(title)+'.epub', res.blob);
+    setStatus($('#st'),'เสร็จ — EPUB ของคุณดาวน์โหลดแล้ว มันเปิดใน EPUB Reader ฟรีของเราและในโปรแกรมอ่านอีบุ๊กมาตรฐานใดก็ได้',true);
+  }).catch(function(e){ setStatus($('#st'),'ไม่สามารถสร้าง EPUB ได้ '+(e&&e.message?e.message:''),false); });
+});
+</script>
+<script>
+
+/*BUILD*/
+var EpubBuild=(function(){
+'use strict';
+function escXml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function inlineMd(t){
+  var s=escXml(t);
+  s=s.replace(/`([^`]+)`/g,'<code>$1</code>');
+  s=s.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+  s=s.replace(/__([^_]+)__/g,'<strong>$1</strong>');
+  s=s.replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<em>$2</em>');
+  s=s.replace(/(^|[^_])_([^_\n]+)_/g,'$1<em>$2</em>');
+  s=s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2">$1</a>');
+  return s;
+}
+function blocksToHtml(blocks){
+  var out=[]; var i=0;
+  while(i<blocks.length){
+    var b=blocks[i];
+    var lines=b.split('\n');
+    // list block?
+    if(lines.every(function(l){return /^\s*([-*]|\d+\.)\s+/.test(l);})){
+      var ordered=/^\s*\d+\./.test(lines[0]);
+      out.push((ordered?'<ol>':'<ul>')+lines.map(function(l){return '<li>'+inlineMd(l.replace(/^\s*([-*]|\d+\.)\s+/,''))+'</li>';}).join('')+(ordered?'</ol>':'</ul>'));
+      i++; continue;
+    }
+    var hm=/^(#{3,6})\s+(.*)$/.exec(b.trim());
+    if(hm){ var lvl=hm[1].length; out.push('<h'+lvl+'>'+inlineMd(hm[2].trim())+'</h'+lvl+'>'); i++; continue; }
+    if(/^>\s?/.test(b.trim())){ out.push('<blockquote><p>'+inlineMd(b.replace(/^>\s?/gm,''))+'</p></blockquote>'); i++; continue; }
+    out.push('<p>'+lines.map(inlineMd).join('<br/>')+'</p>'); i++;
+  }
+  return out.join('\n');
+}
+function splitBlocks(text){ return String(text).replace(/\r\n?/g,'\n').split(/\n{2,}/).map(function(b){return b.trim();}).filter(Boolean); }
+function splitChapters(text, isMarkdown){
+  text=String(text||'').replace(/\r\n?/g,'\n');
+  var chapters=[]; var cur=null;
+  function push(){ if(cur && (cur.title || cur.blocks.length)){ chapters.push(cur); } }
+  if(isMarkdown){
+    var lines=text.split('\n'); var buf=[];
+    function flushBuf(){ if(buf.join('').trim()){ if(!cur) cur={title:'',blocks:[]}; cur.blocks=cur.blocks.concat(splitBlocks(buf.join('\n'))); } buf=[]; }
+    for(var i=0;i<lines.length;i++){
+      var m=/^(#{1,2})\s+(.*)$/.exec(lines[i]);
+      if(m){ flushBuf(); push(); cur={title:m[2].trim(),blocks:[]}; }
+      else { buf.push(lines[i]); }
+    }
+    flushBuf(); push();
+  } else {
+    // Plain text: chapters start at a line like "Chapter 3" / "Chapter Three" / "Part 2";
+    // paragraphs are blank-line blocks. With no such lines the whole text is one chapter.
+    var lines2=text.split('\n'); var buf2=[];
+    function flush2(){ if(buf2.join('').trim()){ if(!cur) cur={title:'',blocks:[]}; cur.blocks=cur.blocks.concat(splitBlocks(buf2.join('\n'))); } buf2=[]; }
+    for(var j=0;j<lines2.length;j++){
+      if(/^(chapter|part)\s+[\w\-]+[.:]?\s*.*$/i.test(lines2[j].trim()) && lines2[j].trim().length<90){ flush2(); push(); cur={title:lines2[j].trim(),blocks:[]}; }
+      else { buf2.push(lines2[j]); }
+    }
+    flush2(); push();
+  }
+  if(!chapters.length){ chapters=[{title:'',blocks:['']}]; }
+  chapters.forEach(function(c,idx){ if(!c.title) c.title='บท '+(idx+1); c.html=blocksToHtml(c.blocks); });
+  return chapters;
+}
+function uuid(){ return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,function(c){ var r=Math.random()*16|0; var v=c==='x'?r:(r&0x3|0x8); return v.toString(16); }); }
+function buildEpub(opts){
+  var title=String(opts.title||'ไม่มีชื่อ').trim()||'ไม่มีชื่อ';
+  var author=String(opts.author||'').trim();
+  var chapters=splitChapters(opts.text||'', !!opts.isMarkdown);
+  var id='urn:uuid:'+uuid();
+  var modified=new Date().toISOString().replace(/\.\d+Z$/,'Z');
+  var zip=new JSZip();
+  // EPUB rule: mimetype MUST be the first entry and stored uncompressed.
+  zip.file('mimetype','application/epub+zip',{compression:'STORE'});
+  var container='<?xml version="1.0" encoding="UTF-8"?>\n<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>';
+  zip.file('META-INF/container.xml', container);
+  var manifestItems=['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>','<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>','<item id="css" href="style.css" media-type="text/css"/>'];
+  var spineItems=['<itemref idref="titlepage"/>'];
+  chapters.forEach(function(c,i){ manifestItems.push('<item id="chap'+(i+1)+'" href="chapter'+(i+1)+'.xhtml" media-type="application/xhtml+xml"/>'); spineItems.push('<itemref idref="chap'+(i+1)+'"/>'); });
+  manifestItems.push('<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>');
+  var opf='<?xml version="1.0" encoding="UTF-8"?>\n<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">\n<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n<dc:identifier id="bookid">'+id+'</dc:identifier>\n<dc:title>'+escXml(title)+'</dc:title>\n'+(author?('<dc:creator>'+escXml(author)+'</dc:creator>\n'):'')+'<dc:language>en</dc:language>\n<meta property="dcterms:modified">'+modified+'</meta>\n</metadata>\n<manifest>\n'+manifestItems.join('\n')+'\n</manifest>\n<spine toc="ncx">\n'+spineItems.join('\n')+'\n</spine>\n</package>';
+  zip.file('OEBPS/content.opf', opf);
+  var navItems=chapters.map(function(c,i){ return '<li><a href="chapter'+(i+1)+'.xhtml">'+escXml(c.title)+'</a></li>'; }).join('\n');
+  var nav='<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>Table of Contents</title></head><body><nav epub:type=\"toc\">\x3ch1>Table of Contents\x3c/h1><ol>\n'+navItems+'\n</ol></nav>\n</body></html>';
+  zip.file('OEBPS/nav.xhtml', nav);
+  var playOrder=1;
+  var ncxPoints='<navPoint id="titlepage" playOrder="'+(playOrder++)+'"><navLabel><text>'+escXml(title)+'</text></navLabel><content src="titlepage.xhtml"/></navPoint>'+chapters.map(function(c,i){ return '<navPoint id="chap'+(i+1)+'" playOrder="'+(playOrder++)+'"><navLabel><text>'+escXml(c.title)+'</text></navLabel><content src="chapter'+(i+1)+'.xhtml"/></navPoint>'; }).join('');
+  var ncx='<?xml version="1.0" encoding="UTF-8"?>\n<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="'+id+'"/></head><docTitle><text>'+escXml(title)+'</text></docTitle><navMap>'+ncxPoints+'</navMap></ncx>';
+  zip.file('OEBPS/toc.ncx', ncx);
+  zip.file('OEBPS/style.css','body{font-family:Georgia,serif;line-height:1.7;margin:5%}h1,h2{line-height:1.3}h1.title{text-align:center}p.author{text-align:center;color:#555}');
+  var tp='<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml"><head><title>'+escXml(title)+'</title><link rel="stylesheet" type="text/css" href="style.css"/></head><body>\x3ch1 class=\"title\">'+escXml(title)+'\x3c/h1>'+(author?('<p class="author">by '+escXml(author)+'</p>'):'')+'</body></html>';
+  zip.file('OEBPS/titlepage.xhtml', tp);
+  chapters.forEach(function(c,i){
+    var doc='<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml"><head><title>'+escXml(c.title)+'</title><link rel="stylesheet" type="text/css" href="style.css"/></head><body>\x3ch1>'+escXml(c.title)+'\x3c/h1>\n'+c.html+'\n</body></html>';
+    zip.file('OEBPS/chapter'+(i+1)+'.xhtml', doc);
+  });
+  return zip.generateAsync({type:'blob', mimeType:'application/epub+zip'}).then(function(blob){ return {blob:blob, chapters:chapters, title:title, author:author}; });
+}
+
+function buildEpubFromChapters(opts){
+  var title=String(opts.title||'ไม่มีชื่อ').trim()||'ไม่มีชื่อ';
+  var author=String(opts.author||'').trim();
+  var chapters=opts.chapters||[];
+  var images=opts.images||[]; // [{name:'docx-img-1.png', base64:'...', mediaType:'image/png'}]
+  var id='urn:uuid:'+uuid();
+  var modified=new Date().toISOString().replace(/\.\d+Z$/,'Z');
+  var zip=new JSZip();
+  zip.file('mimetype','application/epub+zip',{compression:'STORE'});
+  zip.file('META-INF/container.xml','<?xml version="1.0" encoding="UTF-8"?>\n<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>');
+  var manifestItems=['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>','<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>','<item id="css" href="style.css" media-type="text/css"/>','<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>'];
+  var spineItems=['<itemref idref="titlepage"/>'];
+  chapters.forEach(function(c,i){ manifestItems.push('<item id="chap'+(i+1)+'" href="chapter'+(i+1)+'.xhtml" media-type="application/xhtml+xml"/>'); spineItems.push('<itemref idref="chap'+(i+1)+'"/>'); });
+  images.forEach(function(im,i){ manifestItems.push('<item id="img'+(i+1)+'" href="'+im.name+'" media-type="'+im.mediaType+'"/>'); });
+  var opf='<?xml version="1.0" encoding="UTF-8"?>\n<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">\n<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n<dc:identifier id="bookid">'+id+'</dc:identifier>\n<dc:title>'+escXml(title)+'</dc:title>\n'+(author?('<dc:creator>'+escXml(author)+'</dc:creator>\n'):'')+'<dc:language>en</dc:language>\n<meta property="dcterms:modified">'+modified+'</meta>\n</metadata>\n<manifest>\n'+manifestItems.join('\n')+'\n</manifest>\n<spine toc="ncx">\n'+spineItems.join('\n')+'\n</spine>\n</package>';
+  zip.file('OEBPS/content.opf', opf);
+  var navItems=chapters.map(function(c,i){ return '<li><a href="chapter'+(i+1)+'.xhtml">'+escXml(c.title)+'</a></li>'; }).join('\n');
+  zip.file('OEBPS/nav.xhtml','<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>Table of Contents</title></head><body><nav epub:type="toc">\x3ch1>Table of Contents\x3c/h1><ol>\n'+navItems+'\n</ol></nav></body></html>');
+  var po=1; var pts='<navPoint id="titlepage" playOrder="'+(po++)+'"><navLabel><text>'+escXml(title)+'</text></navLabel><content src="titlepage.xhtml"/></navPoint>'+chapters.map(function(c,i){ return '<navPoint id="chap'+(i+1)+'" playOrder="'+(po++)+'"><navLabel><text>'+escXml(c.title)+'</text></navLabel><content src="chapter'+(i+1)+'.xhtml"/></navPoint>'; }).join('');
+  zip.file('OEBPS/toc.ncx','<?xml version="1.0" encoding="UTF-8"?>\n<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="'+id+'"/></head><docTitle><text>'+escXml(title)+'</text></docTitle><navMap>'+pts+'</navMap></ncx>');
+  zip.file('OEBPS/style.css','body{font-family:Georgia,serif;line-height:1.7;margin:5%}h1,h2{line-height:1.3}h1.title{text-align:center}p.author{text-align:center;color:#555}img{max-width:100%}');
+  zip.file('OEBPS/titlepage.xhtml','<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml"><head><title>'+escXml(title)+'</title><link rel="stylesheet" type="text/css" href="style.css"/></head><body>\x3ch1 class="title">'+escXml(title)+'\x3c/h1>'+(author?('<p class="author">by '+escXml(author)+'</p>'):'')+'</body></html>');
+  chapters.forEach(function(c,i){
+    zip.file('OEBPS/chapter'+(i+1)+'.xhtml','<?xml version="1.0" encoding="UTF-8"?>\n<html xmlns="http://www.w3.org/1999/xhtml"><head><title>'+escXml(c.title)+'</title><link rel="stylesheet" type="text/css" href="style.css"/></head><body>\x3ch1>'+escXml(c.title)+'\x3c/h1>\n'+c.html+'\n</body></html>');
+  });
+  images.forEach(function(im){ zip.file('OEBPS/'+im.name, im.base64, {base64:true}); });
+  return zip.generateAsync({type:'blob', mimeType:'application/epub+zip'}).then(function(blob){ return {blob:blob, chapters:chapters, title:title, author:author}; });
+}
+return {buildEpub:buildEpub, buildEpubFromChapters:buildEpubFromChapters, splitChapters:splitChapters, blocksToHtml:blocksToHtml, inlineMd:inlineMd};
+})();
+/*/BUILD*/
+
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' ติดตั้งแอป';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('ติดตั้งแอปนี้: แตะปุ่มแชร์ จากนั้นเลือก "Add to Home Screen"');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

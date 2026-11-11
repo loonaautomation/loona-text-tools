@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวค้นหาคำที่ซ้ำกันออนไลน์ฟรี",
+  "short_name": "ตัวค้นหาคำที่ซ้ำกันออนไลน์ฟรี",
+  "description": "ค้นหาทุกคำที่ปรากฏมากกว่าหนึ่งครั้งในข้อความของคุณ จัดอันดับตามความถี่ที่ซ้ำ จับคำซ้ำโดยไม่ตั้งใจและคำที่ใช้มากเกินไป ฟรี ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-text-tools/th/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

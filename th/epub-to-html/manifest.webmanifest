@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง EPUB เป็น HTML ฟรี",
+  "short_name": "ตัวแปลง EPUB เป็น HTML ฟรี",
+  "description": "แปลงอีบุ๊ก EPUB เป็นไฟล์ HTML เดี่ยวที่ครบในตัวเองฟรี ในเบราว์เซอร์ของคุณ บทตามลำดับ การจัดตัวอักษรพื้นฐาน รูปภาพขนาดเล็กฝังอยู่ ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-text-tools/th/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

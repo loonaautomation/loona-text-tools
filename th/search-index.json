@@ -1,0 +1,443 @@
+[
+ {
+  "n": "ตัวนับคำ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "คำ ตัวอักษร ประโยค ย่อหน้า และเวลาอ่าน — นับสดขณะที่คุณพิมพ์",
+  "k": "word counter word counter ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวนับตัวอักษร",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "ตัวอักษรมีและไม่มีช่องว่าง พร้อมขีดจำกัดแบบสดสำหรับ X, SMS และข้อความเมทา",
+  "k": "character counter character counter x sms",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวนับประโยค",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "ประโยค ย่อหน้า คำ และตัวอักษรในข้อความใด ๆ — นับแบบสดขณะที่คุณพิมพ์",
+  "k": "sentence counter sentence counter ",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวคำนวณเวลาอ่าน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "ข้อความใด ๆ ใช้เวลาอ่านนานแค่ไหน ที่ความเร็วในการอ่านช้า ปานกลาง และเร็ว",
+  "k": "reading time calculator reading time calculator ",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวคำนวณเวลาพูด",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "สุนทรพจน์หรือบทใช้เวลาพูดนานแค่ไหน — บวกคำที่ต้องใช้สำหรับเวลาที่ตั้งเป้า",
+  "k": "speaking time calculator speaking time calculator ",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบการพิมพ์",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "แบบทดสอบการพิมพ์ 60 วินาที — ความเร็วเป็น WPM ความแม่นยำ และ CPM ของคุณ แบบสดขณะที่คุณพิมพ์",
+  "k": "typing test typing test 60 wpm cpm",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงตัวพิมพ์",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "ตัวพิมพ์ใหญ่ทั้งหมด ตัวพิมพ์เล็ก ตัวพิมพ์แบบชื่อเรื่อง ตัวพิมพ์แบบประโยค และอื่น ๆ — คลิกเดียวแต่ละอย่าง",
+  "k": "case converter case converter ",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "ลบบรรทัดที่ซ้ำกัน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "ลบบรรทัดที่ซ้ำและเก็บบรรทัดที่ไม่ซ้ำแต่ละบรรทัดไว้เพียงครั้งเดียว ตามลำดับ",
+  "k": "remove duplicate lines remove duplicate lines ",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "เรียงบรรทัด",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "จัดลำดับบรรทัด A-Z, Z-A, ตามความยาว, กลับด้าน หรือสุ่มอย่างเป็นธรรม",
+  "k": "sort lines sort lines a z z a",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "กลับข้อความ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "พลิกข้อความย้อนกลับ — ทั้งข้อความ แต่ละคำ ลำดับคำ หรือลำดับบรรทัด",
+  "k": "reverse text reverse text ",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "ลบช่องว่างส่วนเกิน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "บีบช่องว่างคู่ แท็บ และขอบที่ขาดออกจากข้อความที่คัดลอกมาอย่างยุ่งเหยิง",
+  "k": "remove extra spaces remove extra spaces ",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "ค้นหาและแทนที่",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "สลับทุกตำแหน่งที่ปรากฏของคำหรือวลีเป็นอีกอัน ในหนึ่งรอบ",
+  "k": "find and replace find and replace ",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "ข้อความเป็นเสียงพูด",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "ฟังข้อความใด ๆ อ่านออกเสียง — เสียงภาษาอังกฤษ อูรดู และอื่น ๆ ความเร็วของคุณ",
+  "k": "text to speech text to speech ",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "เสียงพูดเป็นข้อความ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "พูดและดูคำของคุณกลายเป็นข้อความ — ภาษาอังกฤษ อูรดู และอื่น ๆ",
+  "k": "speech to text speech to text ",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างรหัสผ่าน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "รหัสผ่านสุ่มที่แข็งแรงพร้อมความยาวและสัญลักษณ์ที่คุณเลือก",
+  "k": "password generator password generator ",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "เปรียบเทียบข้อความ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "วางสองข้อความเทียบกันแล้วดูว่าบรรทัดใดเปลี่ยนไป",
+  "k": "text compare text compare ",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "ความถี่ของคำ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "ตารางจัดอันดับคำที่คุณใช้บ่อยที่สุด พร้อมจำนวนและเปอร์เซ็นต์",
+  "k": "word frequency word frequency ",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "ลบการขึ้นบรรทัดใหม่",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "รวมบรรทัดที่ขาดแบบ PDF กลับเป็นย่อหน้าที่สะอาดและไหลลื่น",
+  "k": "remove line breaks remove line breaks pdf",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "เพิ่มหมายเลขบรรทัด",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "กำหนดหมายเลขทุกบรรทัด — เลือกจุดเริ่ม ขั้น การเติมเลขศูนย์นำหน้า และตัวคั่น",
+  "k": "add line numbers add line numbers ",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "ข้อความตัวอย่างคลาสสิกตามย่อหน้า ประโยค หรือคำ สำหรับงานออกแบบของคุณ",
+  "k": "lorem ipsum generator lorem ipsum generator ",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง Slug",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนชื่อเรื่องใด ๆ ให้เป็น slug URL ที่สะอาดและเป็นมิตรกับการค้นหา แบบสด",
+  "k": "slug generator slug generator slug url",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลรหัสมอร์ส",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "ข้อความเป็นรหัสมอร์สและกลับ — พร้อมการเล่นเสียงจริง",
+  "k": "morse code translator morse code translator ",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ข้อความเป็นไบนารี",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "ดูข้อความเป็นเลข 0 และ 1 ที่คอมพิวเตอร์เก็บ — และถอดรหัสไบนารีกลับ",
+  "k": "text to binary text to binary 0 1",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "โรมันอูรดูเป็นอูรดู",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยน 'mera naam Ahmed hai' ให้เป็นอักษรอูรดูที่ถูกต้อง ทันที",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "สมุดบันทึกออนไลน์",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "สมุดบันทึกที่บันทึกอัตโนมัติในเบราว์เซอร์ของคุณ — มีดาวน์โหลดและพิมพ์รวมอยู่ด้วย",
+  "k": "online notepad online notepad ",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างข้อความตกแต่ง",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "ข้อความตัวหนา ตัวเขียน ตัวในวงกลม และตัวกลับหัว สำหรับประวัติและคำบรรยาย",
+  "k": "fancy text generator fancy text generator ",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวนับพยางค์",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "นับพยางค์ในทุกคำและรวมทั้งหมด — เหมาะสำหรับบทกวี ไฮกุ และเนื้อเพลง",
+  "k": "syllable counter syllable counter ",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวนับย่อหน้า",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "นับย่อหน้า พร้อมคำและประโยคต่อย่อหน้า และย่อหน้าที่ยาวที่สุดถูกทำเครื่องหมายไว้",
+  "k": "paragraph counter paragraph counter ",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวคำนวณระดับการอ่าน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "คะแนน Flesch Reading Ease และระดับชั้น พร้อมคำตัดสินที่เข้าใจง่าย",
+  "k": "reading level calculator reading level calculator flesch reading ease",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบพาลินโดรม",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "มันอ่านย้อนกลับได้เหมือนกันหรือไม่? ตรวจสอบคำ ตัวเลข และประโยคทั้งหมด",
+  "k": "palindrome checker palindrome checker ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างแอนนาแกรม",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "ค้นหาคำจริงที่ซ่อนอยู่ในตัวอักษรของคุณ และทดสอบคู่แอนนาแกรมทันที",
+  "k": "anagram generator anagram generator ",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวอักษรสัทอักษร NATO",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "สะกดอะไรก็ได้แบบนักบิน — Alfa, Bravo, Charlie — และถอดรหัสกลับ",
+  "k": "nato phonetic alphabet nato phonetic alphabet alfa bravo charlie",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงข้อความเป็น ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "รหัสเลขฐานสิบ เลขฐานสิบหก เลขฐานแปด และไบนารีเบื้องหลังทุกตัวอักษร และกลับ",
+  "k": "text to ascii converter text to ascii converter ",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงข้อความเป็นเลขฐานสิบหก",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "ข้อความเป็นไบต์เลขฐานสิบหกและกลับ พร้อม UTF-8 ที่ถูกต้องสำหรับทุกภาษา",
+  "k": "text to hex converter text to hex converter utf 8",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวค้นหาคำที่ซ้ำกัน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "ทุกคำที่คุณใช้มากกว่าหนึ่งครั้ง จัดอันดับ — บวกคำซ้ำโดยไม่ตั้งใจ",
+  "k": "repeated words finder repeated words finder ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบตัวอักษรที่มองไม่เห็น",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "เปิดเผยอักขระที่มีความกว้างเป็นศูนย์และตัวอักษรที่ซ่อนอยู่ในข้อความที่คัดลอก และลบออก",
+  "k": "invisible character checker invisible character checker ",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "ลบเครื่องหมายวรรคตอน",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "ถอดเครื่องหมายวรรคตอนออกจากข้อความในคลิกเดียว ทำให้คำสะอาด",
+  "k": "remove punctuation remove punctuation ",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกอีเมล",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "ดึงที่อยู่อีเมลทุกที่อยู่ออกจากข้อความใด ๆ — ลบรายการซ้ำ หนึ่งที่อยู่ต่อหนึ่งบรรทัด",
+  "k": "email extractor email extractor ",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "รูปภาพเป็นข้อความ (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "แยกข้อความที่แก้ไขได้จากภาพถ่าย ภาพสแกน และภาพหน้าจอ — OCR ฟรีในเบราว์เซอร์ของคุณ",
+  "k": "image to text (ocr) image to text (ocr) ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงรูปภาพเป็น Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนรูปภาพหรือภาพหน้าจอของตารางให้เป็นไฟล์ Excel จริง — ตรวจสอบและแก้ไขเซลล์ จากนั้นดาวน์โหลด",
+  "k": "image to excel converter image to excel converter excel",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างการอ้างอิง",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "การอ้างอิง APA ฉบับที่ 7, MLA ฉบับที่ 9 และ Chicago สำหรับเว็บไซต์ หนังสือ และบทความวารสาร",
+  "k": "citation generator citation generator apa 7 mla 9 chicago",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมอ่าน EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "เปิดและอ่านอีบุ๊ก EPUB ตรงในเบราว์เซอร์ของคุณ — รายการบท ขนาดตัวอักษรที่ปรับได้ และโหมดมืด",
+  "k": "epub reader epub reader epub",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB เป็นข้อความ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนอีบุ๊ก EPUB ให้เป็นไฟล์ข้อความธรรมดาที่สะอาด — บทตามลำดับการอ่าน หัวข้อคงอยู่",
+  "k": "epub to text epub to text epub",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB เป็น HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนอีบุ๊ก EPUB ให้เป็นไฟล์ HTML ไฟล์เดียวที่ครบในตัวเองพร้อมรูปภาพฝังอยู่",
+  "k": "epub to html epub to html epub html",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ เป็น PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนไฟล์เก็บถาวรการ์ตูนให้เป็น PDF — หน้าตามลำดับธรรมชาติ หนึ่งรูปต่อหน้า",
+  "k": "cbz to pdf cbz to pdf pdf",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX เป็น EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนเอกสาร Word ให้เป็นอีบุ๊ก EPUB — หัวข้อกลายเป็นบท",
+  "k": "docx to epub docx to epub word epub",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแก้ไขเมทาดาทา EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "แก้ไขชื่อเรื่อง ผู้แต่ง สำนักพิมพ์ และคำอธิบายของอีบุ๊ก — บทไม่ถูกแตะต้อง",
+  "k": "epub metadata editor epub metadata editor ",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "ข้อความ / Markdown เป็น EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "เปลี่ยนข้อความธรรมดาหรือ Markdown ให้เป็นอีบุ๊ก EPUB ที่เหมาะสมซึ่งเปิดในโปรแกรมอ่านใดก็ได้",
+  "k": "text / markdown to epub text / markdown to epub markdown epub",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างหัวข้อสุ่ม",
+  "u": "https://loonaautomation.github.io/loona-text-tools/th/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 หัวข้อเรียงความ สุนทรพจน์ โต้วาที เรื่องราว และหัวข้อเด็กที่เขียนด้วยมือใน 9 หมวดหมู่ กรองตามระดับชั้น โดยไม่ซ้ำ",
+  "k": "random topic generator random topic generator 900 9",
+  "p": 148,
+  "c": "Tool"
+ }
+]

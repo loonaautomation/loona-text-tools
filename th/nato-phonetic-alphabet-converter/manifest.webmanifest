@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลงตัวอักษรสัทอักษร NATO",
+  "short_name": "ตัวแปลงตัวอักษรสัทอักษร NATO",
+  "description": "แปลงข้อความใด ๆ เป็นตัวอักษรสัทอักษร NATO (Alfa, Bravo, Charlie) และถอดรหัสการสะกดแบบ NATO กลับเป็นข้อความธรรมดา ฟรี ทันที ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-text-tools/th/nato-phonetic-alphabet-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้างหัวข้อสุ่มออนไลน์ฟรี",
+  "short_name": "ตัวสร้างหัวข้อสุ่มออนไลน์ฟรี",
+  "description": "สร้างหัวข้อสุ่มสำหรับเรียงความ สุนทรพจน์ การโต้วาที ย่อหน้า การนำเสนอ และเรื่องเล่า — หัวข้อที่เขียนด้วยมือ 900 หัวข้อใน 9 หมวดหมู่ กรองตามระดับ ฟรี ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-text-tools/th/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

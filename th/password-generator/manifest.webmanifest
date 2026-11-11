@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้างรหัสผ่านออนไลน์",
+  "short_name": "ตัวสร้างรหัสผ่านออนไลน์",
+  "description": "สร้างรหัสผ่านที่แข็งแรงและสุ่มด้วยความยาวและสัญลักษณ์ที่คุณเลือก พร้อมมาตรวัดความแข็งแรงที่ซื่อสัตย์ ตัวสร้างรหัสผ่านฟรี — สร้างบนอุปกรณ์ของคุณเท่านั้น",
+  "id": "/loona-text-tools/th/password-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
