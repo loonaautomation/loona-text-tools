@@ -1,0 +1,29 @@
+{
+  "name": "Loona অক্ষর গণক অনলাইন",
+  "short_name": "অক্ষর গণক অনলাইন",
+  "description": "ফাঁকসহ ও ফাঁক ছাড়া অক্ষর গুনুন আর X (Twitter), SMS, মেটা বিবরণসহ আরও অনেক কিছুর সীমা যাচাই করুন। বিনামূল্যের অনলাইন অক্ষর গণক - কোনো সাইন-আপ লাগে না।",
+  "id": "/loona-text-tools/bn/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

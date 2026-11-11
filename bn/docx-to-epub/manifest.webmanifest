@@ -1,0 +1,29 @@
+{
+  "name": "Loona DOCX থেকে EPUB কনভার্টার বিনামূল্যে",
+  "short_name": "DOCX থেকে EPUB কনভার্টার বিনামূল্যে",
+  "description": "আপনার ব্রাউজারে DOCX Word নথি বিনামূল্যে EPUB ইবুকে রূপান্তর করুন। শিরোনাম অধ্যায় হয়; গাঢ়, ইটালিক, তালিকা ও ছবি রূপান্তরিত হয়। কোনো আপলোড নেই, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/docx-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

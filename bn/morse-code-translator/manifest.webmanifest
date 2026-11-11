@@ -1,0 +1,29 @@
+{
+  "name": "Loona মোর্স কোড অনুবাদক অনলাইন",
+  "short_name": "মোর্স কোড অনুবাদক অনলাইন",
+  "description": "টেক্সট মোর্স কোডে আর মোর্স কোড আবার টেক্সটে অনুবাদ করুন, আর আসল বিপ হিসেবে শুনুন। বিনামূল্যের অনলাইন মোর্স কোড অনুবাদক - কোনো সাইন-আপ নেই, আপনার ব্রাউজারে কাজ করে।",
+  "id": "/loona-text-tools/bn/morse-code-translator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona কেস কনভার্টার অনলাইন",
+  "short_name": "কেস কনভার্টার অনলাইন",
+  "description": "এক ক্লিকে টেক্সট UPPERCASE, lowercase, Title Case, Sentence case, Capitalized বা aLtErNaTiNg case-এ রূপান্তর করুন। বিনামূল্যের অনলাইন কেস কনভার্টার - কোনো সাইন-আপ লাগে না।",
+  "id": "/loona-text-tools/bn/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

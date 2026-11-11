@@ -1,0 +1,29 @@
+{
+  "name": "Loona টেক্সট থেকে হেক্স কনভার্টার অনলাইনে বিনামূল্যে",
+  "short_name": "টেক্সট থেকে হেক্স কনভার্টার অনলাইনে বিনামূল্যে",
+  "description": "টেক্সট হেক্সাডেসিমালে রূপান্তর করুন আর হেক্স আবার টেক্সটে, উচ্চারণচিহ্নযুক্ত অক্ষর, উর্দু ও ইমোজির জন্য UTF-8 সঠিকভাবে সামলে। বিনামূল্যের হেক্স কনভার্টার, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

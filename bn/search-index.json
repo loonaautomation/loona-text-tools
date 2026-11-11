@@ -1,0 +1,443 @@
+[
+ {
+  "n": "শব্দ গণক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "শব্দ, অক্ষর, বাক্য, অনুচ্ছেদ ও পঠন সময় - আপনি টাইপ করার সঙ্গে সঙ্গে সরাসরি গোনা।",
+  "k": "word counter word counter শব্দ অক্ষর বাক্য অনুচ্ছেদ ও পঠন সময় আপনি টাইপ করার সঙ্গে সঙ্গে সরাসরি গোনা",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "অক্ষর গণক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "ফাঁকসহ ও ফাঁক ছাড়া অক্ষর, সঙ্গে X, SMS ও মেটা টেক্সটের সরাসরি সীমা।",
+  "k": "character counter character counter ফাঁকসহ ও ফাঁক ছাড়া অক্ষর সঙ্গে x sms ও মেটা টেক্সটের সরাসরি সীমা",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "বাক্য গণক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "যেকোনো টেক্সটে বাক্য, অনুচ্ছেদ, শব্দ ও অক্ষর - টাইপ করার সঙ্গে সঙ্গে সরাসরি গোনা।",
+  "k": "sentence counter sentence counter যেকোনো টেক্সটে বাক্য অনুচ্ছেদ শব্দ ও অক্ষর টাইপ করার সঙ্গে সঙ্গে সরাসরি গোনা",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "পঠন সময় ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "ধীর, গড় ও দ্রুত পঠন গতিতে যেকোনো টেক্সট পড়তে কত সময় লাগে।",
+  "k": "reading time calculator reading time calculator ধীর গড় ও দ্রুত পঠন গতিতে যেকোনো টেক্সট পড়তে কত সময় লাগে",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "বলার সময় ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "একটি বক্তৃতা বা স্ক্রিপ্ট উপস্থাপনে কত সময় লাগে - সঙ্গে লক্ষ্য সময়ের জন্য প্রয়োজনীয় শব্দ।",
+  "k": "speaking time calculator speaking time calculator একটি বক্তৃতা বা স্ক্রিপ্ট উপস্থাপনে কত সময় লাগে সঙ্গে লক্ষ্য সময়ের জন্য প্রয়োজনীয় শব্দ",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "টাইপিং পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60-সেকেন্ডের টাইপিং পরীক্ষা - টাইপ করার সঙ্গে সঙ্গে সরাসরি আপনার WPM গতি, নির্ভুলতা আর CPM।",
+  "k": "typing test typing test 60 সেকেন্ডের টাইপিং পরীক্ষা টাইপ করার সঙ্গে সঙ্গে সরাসরি আপনার wpm গতি নির্ভুলতা আর cpm",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "কেস কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE, lowercase, Title Case, Sentence case আরও অনেক - প্রতিটিতে একটি ক্লিক।",
+  "k": "case converter case converter uppercase lowercase title case sentence case আরও অনেক প্রতিটিতে একটি ক্লিক",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "ডুপ্লিকেট লাইন সরান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "পুনরাবৃত্ত লাইন মুছুন আর প্রতিটি অনন্য লাইন ক্রমে একবার রাখুন।",
+  "k": "remove duplicate lines remove duplicate lines পুনরাবৃত্ত লাইন মুছুন আর প্রতিটি অনন্য লাইন ক্রমে একবার রাখুন",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "লাইন সাজান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "লাইন A-Z, Z-A, দৈর্ঘ্য অনুযায়ী, উল্টো, অথবা ন্যায্যভাবে এলোমেলো ওলটপালট করে সাজান।",
+  "k": "sort lines sort lines লাইন a z z a দৈর্ঘ্য অনুযায়ী উল্টো অথবা ন্যায্যভাবে এলোমেলো ওলটপালট করে সাজান",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট উল্টান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "টেক্সট উল্টো করুন - পুরো টেক্সট, প্রতিটি শব্দ, শব্দের ক্রম বা লাইনের ক্রম।",
+  "k": "reverse text reverse text টেক্সট উল্টো করুন পুরো টেক্সট প্রতিটি শব্দ শব্দের ক্রম বা লাইনের ক্রম",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "অতিরিক্ত ফাঁক সরান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "এলোমেলো কপি করা টেক্সট থেকে দ্বিগুণ ফাঁক, ট্যাব ও এবড়োখেবড়ো ধার বের করে ফেলুন।",
+  "k": "remove extra spaces remove extra spaces এলোমেলো কপি করা টেক্সট থেকে দ্বিগুণ ফাঁক ট্যাব ও এবড়োখেবড়ো ধার বের করে ফেলুন",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "খুঁজুন ও বদলান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "একবারে একটি শব্দ বা বাক্যাংশের প্রতিটি উপস্থিতি অন্যটি দিয়ে বদলান।",
+  "k": "find and replace find and replace একবারে একটি শব্দ বা বাক্যাংশের প্রতিটি উপস্থিতি অন্যটি দিয়ে বদলান",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট থেকে বক্তৃতা",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "যেকোনো টেক্সট পড়ে শুনুন - ইংরেজি, উর্দু ও আরও কণ্ঠ, আপনার গতি।",
+  "k": "text to speech text to speech যেকোনো টেক্সট পড়ে শুনুন ইংরেজি উর্দু ও আরও কণ্ঠ আপনার গতি",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "বক্তৃতা থেকে টেক্সট",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "বলুন আর আপনার শব্দ টেক্সট হতে দেখুন - ইংরেজি, উর্দু আরও অনেক।",
+  "k": "speech to text speech to text বলুন আর আপনার শব্দ টেক্সট হতে দেখুন ইংরেজি উর্দু আরও অনেক",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "পাসওয়ার্ড জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "আপনার বেছে নেওয়া দৈর্ঘ্য ও চিহ্নসহ শক্তিশালী এলোমেলো পাসওয়ার্ড।",
+  "k": "password generator password generator আপনার বেছে নেওয়া দৈর্ঘ্য ও চিহ্নসহ শক্তিশালী এলোমেলো পাসওয়ার্ড",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট তুলনা",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "দুটি টেক্সট পাশাপাশি রাখুন আর ঠিক দেখুন কোন লাইন বদলেছে।",
+  "k": "text compare text compare দুটি টেক্সট পাশাপাশি রাখুন আর ঠিক দেখুন কোন লাইন বদলেছে",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "শব্দ পুনরাবৃত্তি",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "সংখ্যা ও শতাংশসহ আপনার সবচেয়ে বেশি ব্যবহৃত শব্দের ক্রমভিত্তিক টেবিল।",
+  "k": "word frequency word frequency সংখ্যা ও শতাংশসহ আপনার সবচেয়ে বেশি ব্যবহৃত শব্দের ক্রমভিত্তিক টেবিল",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "লাইন ভাঙন সরান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "PDF-ধরনের ভাঙা লাইন আবার পরিষ্কার, প্রবহমান অনুচ্ছেদে জুড়ুন।",
+  "k": "remove line breaks remove line breaks pdf ধরনের ভাঙা লাইন আবার পরিষ্কার প্রবহমান অনুচ্ছেদে জুড়ুন",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "লাইন নম্বর যোগ করুন",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "প্রতিটি লাইনে নম্বর দিন - শুরু, ধাপ, প্যাডিং ও বিভাজক বেছে নিন।",
+  "k": "add line numbers add line numbers প্রতিটি লাইনে নম্বর দিন শুরু ধাপ প্যাডিং ও বিভাজক বেছে নিন",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "আপনার নকশার জন্য অনুচ্ছেদ, বাক্য বা শব্দ অনুযায়ী ক্লাসিক ডামি টেক্সট।",
+  "k": "lorem ipsum generator lorem ipsum generator আপনার নকশার জন্য অনুচ্ছেদ বাক্য বা শব্দ অনুযায়ী ক্লাসিক ডামি টেক্সট",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "স্লাগ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "যেকোনো শিরোনামকে পরিষ্কার, অনুসন্ধান-বান্ধব URL স্লাগে বদলান, সরাসরি।",
+  "k": "slug generator slug generator যেকোনো শিরোনামকে পরিষ্কার অনুসন্ধান বান্ধব url স্লাগে বদলান সরাসরি",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "মোর্স কোড অনুবাদক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "টেক্সট মোর্স কোডে আর ফিরতি - আসল বিপ বাজানোসহ।",
+  "k": "morse code translator morse code translator টেক্সট মোর্স কোডে আর ফিরতি আসল বিপ বাজানোসহ",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট থেকে বাইনারি",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "টেক্সটকে কম্পিউটারের সংরক্ষণ করা 0 ও 1 হিসেবে দেখুন - আর বাইনারি আবার ডিকোড করুন।",
+  "k": "text to binary text to binary টেক্সটকে কম্পিউটারের সংরক্ষণ করা 0 ও 1 হিসেবে দেখুন আর বাইনারি আবার ডিকোড করুন",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "রোমান উর্দু থেকে উর্দু",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "'mera naam Ahmed hai'-কে তাৎক্ষণিক সঠিক উর্দু লিপিতে বদলান।",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai কে তাৎক্ষণিক সঠিক উর্দু লিপিতে বদলান",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "অনলাইন নোটপ্যাড",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "একটি নোটপ্যাড যা আপনার ব্রাউজারে স্বয়ংক্রিয়ভাবে সংরক্ষণ করে - ডাউনলোড ও প্রিন্টসহ।",
+  "k": "online notepad online notepad একটি নোটপ্যাড যা আপনার ব্রাউজারে স্বয়ংক্রিয়ভাবে সংরক্ষণ করে ডাউনলোড ও প্রিন্টসহ",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "ফ্যান্সি টেক্সট জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "বায়ো ও ক্যাপশনের জন্য গাঢ়, স্ক্রিপ্ট, বৃত্তাকার ও উল্টানো টেক্সট।",
+  "k": "fancy text generator fancy text generator বায়ো ও ক্যাপশনের জন্য গাঢ় স্ক্রিপ্ট বৃত্তাকার ও উল্টানো টেক্সট",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "সিলেবল গণক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "প্রতিটি শব্দে ও মোট সিলেবল গুনুন - কবিতা, হাইকু ও গানের কথার জন্য নিখুঁত।",
+  "k": "syllable counter syllable counter প্রতিটি শব্দে ও মোট সিলেবল গুনুন কবিতা হাইকু ও গানের কথার জন্য নিখুঁত",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "অনুচ্ছেদ গণক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "অনুচ্ছেদ গুনুন, প্রতি অনুচ্ছেদে শব্দ ও বাক্যসহ আর সবচেয়ে লম্বাটি চিহ্নিত করে।",
+  "k": "paragraph counter paragraph counter অনুচ্ছেদ গুনুন প্রতি অনুচ্ছেদে শব্দ ও বাক্যসহ আর সবচেয়ে লম্বাটি চিহ্নিত করে",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "পঠন স্তর ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Reading Ease ও grade-স্তরের স্কোর, সহজ-ইংরেজি রায়সহ।",
+  "k": "reading level calculator reading level calculator flesch reading ease ও grade স্তরের স্কোর সহজ ইংরেজি রায়সহ",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "প্যালিনড্রোম পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "এটি কি উল্টো একই পড়া যায়? শব্দ, সংখ্যা ও পুরো বাক্য যাচাই করুন।",
+  "k": "palindrome checker palindrome checker এটি কি উল্টো একই পড়া যায় শব্দ সংখ্যা ও পুরো বাক্য যাচাই করুন",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "অ্যানাগ্রাম জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "আপনার অক্ষরে লুকানো আসল শব্দ খুঁজুন, আর অ্যানাগ্রাম জোড়া তাৎক্ষণিক পরীক্ষা করুন।",
+  "k": "anagram generator anagram generator আপনার অক্ষরে লুকানো আসল শব্দ খুঁজুন আর অ্যানাগ্রাম জোড়া তাৎক্ষণিক পরীক্ষা করুন",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO ধ্বনিগত বর্ণমালা",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "পাইলটদের পদ্ধতিতে যেকোনো কিছু বানান করুন - Alfa, Bravo, Charlie - আর তা আবার ডিকোড করুন।",
+  "k": "nato phonetic alphabet nato phonetic alphabet পাইলটদের পদ্ধতিতে যেকোনো কিছু বানান করুন alfa bravo charlie আর তা আবার ডিকোড করুন",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট থেকে ASCII কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "প্রতিটি অক্ষরের পেছনের দশমিক, হেক্স, অক্টাল ও বাইনারি কোড, আর ফিরতি।",
+  "k": "text to ascii converter text to ascii converter প্রতিটি অক্ষরের পেছনের দশমিক হেক্স অক্টাল ও বাইনারি কোড আর ফিরতি",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট থেকে হেক্স কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "টেক্সট হেক্সাডেসিমাল বাইটে আর ফিরতি, প্রতিটি ভাষার জন্য সঠিক UTF-8-সহ।",
+  "k": "text to hex converter text to hex converter টেক্সট হেক্সাডেসিমাল বাইটে আর ফিরতি প্রতিটি ভাষার জন্য সঠিক utf 8 সহ",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "পুনরাবৃত্ত শব্দ সন্ধানী",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "আপনার একবারের বেশি ব্যবহৃত প্রতিটি শব্দ, ক্রম অনুযায়ী - সঙ্গে ভুলবশত দ্বিগুণ শব্দ।",
+  "k": "repeated words finder repeated words finder আপনার একবারের বেশি ব্যবহৃত প্রতিটি শব্দ ক্রম অনুযায়ী সঙ্গে ভুলবশত দ্বিগুণ শব্দ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "অদৃশ্য অক্ষর পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "কপি করা টেক্সটে zero-width ও লুকানো অক্ষর প্রকাশ করুন, আর সেগুলো সরান।",
+  "k": "invisible character checker invisible character checker কপি করা টেক্সটে zero width ও লুকানো অক্ষর প্রকাশ করুন আর সেগুলো সরান",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "যতিচিহ্ন সরান",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "শব্দ পরিষ্কার রেখে এক ক্লিকে টেক্সট থেকে যতিচিহ্ন ছেঁটে ফেলুন।",
+  "k": "remove punctuation remove punctuation শব্দ পরিষ্কার রেখে এক ক্লিকে টেক্সট থেকে যতিচিহ্ন ছেঁটে ফেলুন",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "ইমেইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "যেকোনো টেক্সট থেকে প্রতিটি ইমেইল ঠিকানা বের করুন - ডুপ্লিকেট সরিয়ে, প্রতি লাইনে একটি।",
+  "k": "email extractor email extractor যেকোনো টেক্সট থেকে প্রতিটি ইমেইল ঠিকানা বের করুন ডুপ্লিকেট সরিয়ে প্রতি লাইনে একটি",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "ছবি থেকে টেক্সট (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "ফটো, স্ক্যান ও স্ক্রিনশট থেকে সম্পাদনাযোগ্য টেক্সট বের করুন - আপনার ব্রাউজারে বিনামূল্যের OCR।",
+  "k": "image to text (ocr) image to text (ocr) ফটো স্ক্যান ও স্ক্রিনশট থেকে সম্পাদনাযোগ্য টেক্সট বের করুন আপনার ব্রাউজারে বিনামূল্যের ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "ছবি থেকে Excel কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "টেবিলের ছবি বা স্ক্রিনশটকে আসল Excel ফাইলে বদলান - ঘর যাচাই ও সম্পাদনা করুন, তারপর ডাউনলোড করুন।",
+  "k": "image to excel converter image to excel converter টেবিলের ছবি বা স্ক্রিনশটকে আসল excel ফাইলে বদলান ঘর যাচাই ও সম্পাদনা করুন তারপর ডাউনলোড করুন",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "উদ্ধৃতি জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "ওয়েবসাইট, বই আর জার্নাল নিবন্ধের জন্য APA 7th, MLA 9th ও Chicago উদ্ধৃতি।",
+  "k": "citation generator citation generator ওয়েবসাইট বই আর জার্নাল নিবন্ধের জন্য apa 7th mla 9th ও chicago উদ্ধৃতি",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB রিডার",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "সরাসরি আপনার ব্রাউজারে EPUB ইবুক খুলুন ও পড়ুন - অধ্যায় তালিকা, ঠিক করা যায় এমন ফন্ট আকার ও গাঢ় মোড।",
+  "k": "epub reader epub reader সরাসরি আপনার ব্রাউজারে epub ইবুক খুলুন ও পড়ুন অধ্যায় তালিকা ঠিক করা যায় এমন ফন্ট আকার ও গাঢ় মোড",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB থেকে টেক্সট",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "একটি EPUB ইবুককে পরিষ্কার সাধারণ-টেক্সট ফাইলে বদলান - অধ্যায় পাঠ ক্রমে, শিরোনাম সংরক্ষিত।",
+  "k": "epub to text epub to text একটি epub ইবুককে পরিষ্কার সাধারণ টেক্সট ফাইলে বদলান অধ্যায় পাঠ ক্রমে শিরোনাম সংরক্ষিত",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB থেকে HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "একটি EPUB ইবুককে ছবি এমবেড করা একটি স্বয়ংসম্পূর্ণ HTML ফাইলে বদলান।",
+  "k": "epub to html epub to html একটি epub ইবুককে ছবি এমবেড করা একটি স্বয়ংসম্পূর্ণ html ফাইলে বদলান",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ থেকে PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "একটি কমিক আর্কাইভকে PDF-এ বদলান - পৃষ্ঠা স্বাভাবিক ক্রমে, প্রতি পৃষ্ঠায় একটি ছবি।",
+  "k": "cbz to pdf cbz to pdf একটি কমিক আর্কাইভকে pdf এ বদলান পৃষ্ঠা স্বাভাবিক ক্রমে প্রতি পৃষ্ঠায় একটি ছবি",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX থেকে EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "একটি Word নথিকে EPUB ইবুকে বদলান - শিরোনাম অধ্যায় হয়।",
+  "k": "docx to epub docx to epub একটি word নথিকে epub ইবুকে বদলান শিরোনাম অধ্যায় হয়",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB মেটাডেটা এডিটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "একটি ইবুকের শিরোনাম, লেখক, প্রকাশক ও বিবরণ সম্পাদনা করুন - অধ্যায় অস্পৃষ্ট।",
+  "k": "epub metadata editor epub metadata editor একটি ইবুকের শিরোনাম লেখক প্রকাশক ও বিবরণ সম্পাদনা করুন অধ্যায় অস্পৃষ্ট",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "টেক্সট / Markdown থেকে EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "সাধারণ টেক্সট বা Markdown-কে সঠিক EPUB ইবুকে বদলান যা যেকোনো রিডারে খোলে।",
+  "k": "text / markdown to epub text / markdown to epub সাধারণ টেক্সট বা markdown কে সঠিক epub ইবুকে বদলান যা যেকোনো রিডারে খোলে",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "এলোমেলো বিষয় জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-text-tools/bn/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "9টি বিভাগে 900টি হাতে-লেখা প্রবন্ধ, বক্তৃতা, বিতর্ক, গল্প ও শিশুদের বিষয়, স্কুল স্তর অনুযায়ী ছাঁকা, পুনরাবৃত্তি ছাড়া।",
+  "k": "random topic generator random topic generator 9টি বিভাগে 900টি হাতে লেখা প্রবন্ধ বক্তৃতা বিতর্ক গল্প ও শিশুদের বিষয় স্কুল স্তর অনুযায়ী ছাঁকা পুনরাবৃত্তি ছাড়া",
+  "p": 148,
+  "c": "Tool"
+ }
+]

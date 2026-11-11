@@ -1,0 +1,29 @@
+{
+  "name": "Loona প্রতি পৃষ্ঠায় শব্দ ক্যালকুলেটর",
+  "short_name": "প্রতি পৃষ্ঠায় শব্দ ক্যালকুলেটর",
+  "description": "বিনামূল্যে প্রতি-পৃষ্ঠা শব্দ ক্যালকুলেটর: শব্দ, ফন্টের আকার ও লাইন ফাঁক লিখুন আর পৃষ্ঠা সংখ্যা ও প্রতি পৃষ্ঠায় শব্দ পান।",
+  "id": "/loona-text-tools/bn/words-per-page-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

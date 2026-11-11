@@ -1,0 +1,29 @@
+{
+  "name": "Loona PascalCase কনভার্টার",
+  "short_name": "PascalCase কনভার্টার",
+  "description": "বিনামূল্যে PascalCase কনভার্টার — টেক্সট পেস্ট করুন আর তাৎক্ষণিক PascalCase পান। আপনার ব্রাউজারে সরাসরি রূপান্তর, কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
+  "id": "/loona-text-tools/bn/pascalcase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

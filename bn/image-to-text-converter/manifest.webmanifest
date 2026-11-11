@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি থেকে টেক্সট কনভার্টার (OCR) অনলাইনে বিনামূল্যে",
+  "short_name": "ছবি থেকে টেক্সট কনভার্টার (OCR) অনলাইনে বিনামূল্যে",
+  "description": "ছবি ও ফটো থেকে সম্পাদনাযোগ্য টেক্সট বের করুন বিনামূল্যের OCR দিয়ে যা 100% আপনার ব্রাউজারে চলে। PNG, JPG, WebP ও BMP - আপনার ছবি কখনো আপলোড হয় না।",
+  "id": "/loona-text-tools/bn/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

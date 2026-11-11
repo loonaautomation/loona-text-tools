@@ -1,0 +1,29 @@
+{
+  "name": "Loona অনলাইনে বিনামূল্যে যতিচিহ্ন সরান",
+  "short_name": "অনলাইনে বিনামূল্যে যতিচিহ্ন সরান",
+  "description": "এক ক্লিকে যেকোনো টেক্সট থেকে যতিচিহ্ন সরান - পূর্ণবিরাম, কমা, উদ্ধৃতি আরও অনেক - অ্যাপস্ট্রফি ও হাইফেন রাখার অপশনসহ। বিনামূল্যে, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/remove-punctuation/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

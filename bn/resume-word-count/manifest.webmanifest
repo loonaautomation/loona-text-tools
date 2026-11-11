@@ -1,0 +1,29 @@
+{
+  "name": "Loona জীবনবৃত্তান্তের শব্দ সংখ্যা",
+  "short_name": "জীবনবৃত্তান্তের শব্দ সংখ্যা",
+  "description": "জীবনবৃত্তান্ত শব্দ সংখ্যা পরীক্ষক: এক-পৃষ্ঠা লক্ষ্য (400–600 শব্দ), পৃষ্ঠা হিসাব ও ছাঁটার নির্দেশনাসহ সরাসরি গণনা।",
+  "id": "/loona-text-tools/bn/resume-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

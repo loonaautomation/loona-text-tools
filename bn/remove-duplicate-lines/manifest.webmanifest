@@ -1,0 +1,29 @@
+{
+  "name": "Loona অনলাইনে ডুপ্লিকেট লাইন সরান",
+  "short_name": "অনলাইনে ডুপ্লিকেট লাইন সরান",
+  "description": "যেকোনো তালিকা বা টেক্সট থেকে ডুপ্লিকেট লাইন সরান আর শুধু অনন্য লাইন রাখুন, মূল ক্রমে। বিনামূল্যের ডুপ্লিকেট লাইন অপসারণকারী - কোনো সাইন-আপ নেই, তাৎক্ষণিক ফলাফল।",
+  "id": "/loona-text-tools/bn/remove-duplicate-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

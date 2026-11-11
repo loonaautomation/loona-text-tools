@@ -1,0 +1,29 @@
+{
+  "name": "Loona টাইপিং পরীক্ষা অনলাইনে বিনামূল্যে",
+  "short_name": "টাইপিং পরীক্ষা অনলাইনে বিনামূল্যে",
+  "description": "বিনামূল্যে 60-সেকেন্ডের টাইপিং পরীক্ষা: সহজ, মাঝারি ও কঠিন টেক্সটে আপনার টাইপিং গতি WPM, নির্ভুলতা ও প্রতি মিনিটে অক্ষরে মাপুন। কোনো সাইন-আপ নেই, 100% আপনার ব্রাউজারে চলে।",
+  "id": "/loona-text-tools/bn/typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

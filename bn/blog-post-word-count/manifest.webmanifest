@@ -1,0 +1,29 @@
+{
+  "name": "Loona ব্লগ পোস্টের শব্দ সংখ্যা",
+  "short_name": "ব্লগ পোস্টের শব্দ সংখ্যা",
+  "description": "ব্লগ পোস্টের শব্দ সংখ্যা পরীক্ষক: খবরের (300–500), মানক পোস্টের (1,000–1,500) আর গভীর নির্দেশিকার (2,000+) দৈর্ঘ্য ব্যান্ডসহ সরাসরি গণনা।",
+  "id": "/loona-text-tools/bn/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

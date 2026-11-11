@@ -1,0 +1,29 @@
+{
+  "name": "Loona NATO ধ্বনিগত বর্ণমালা কনভার্টার",
+  "short_name": "NATO ধ্বনিগত বর্ণমালা কনভার্টার",
+  "description": "যেকোনো টেক্সট NATO ধ্বনিগত বর্ণমালায় (Alfa, Bravo, Charlie) রূপান্তর করুন আর NATO বানান আবার সাধারণ টেক্সটে ডিকোড করুন। বিনামূল্যে, তাৎক্ষণিক, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/nato-phonetic-alphabet-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

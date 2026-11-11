@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lorem Ipsum জেনারেটর অনলাইন",
+  "short_name": "Lorem Ipsum জেনারেটর অনলাইন",
+  "description": "অনুচ্ছেদ, বাক্য বা শব্দ অনুযায়ী lorem ipsum ডামি টেক্সট তৈরি করুন - নকশা ও বিন্যাসে পেস্টের জন্য তৈরি। বিনামূল্যের lorem ipsum জেনারেটর, কোনো সাইন-আপ লাগে না।",
+  "id": "/loona-text-tools/bn/lorem-ipsum-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

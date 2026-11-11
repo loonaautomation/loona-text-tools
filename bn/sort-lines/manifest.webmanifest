@@ -1,0 +1,29 @@
+{
+  "name": "Loona অনলাইনে লাইন সাজান",
+  "short_name": "অনলাইনে লাইন সাজান",
+  "description": "টেক্সটের লাইন বর্ণানুক্রমে (A-Z বা Z-A), দৈর্ঘ্য অনুযায়ী, উল্টো ক্রমে বা এলোমেলো ওলটপালট করে সাজান। বিনামূল্যের অনলাইন লাইন সাজানোর টুল - কোনো সাইন-আপ নেই, তাৎক্ষণিক ও ব্যক্তিগত।",
+  "id": "/loona-text-tools/bn/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

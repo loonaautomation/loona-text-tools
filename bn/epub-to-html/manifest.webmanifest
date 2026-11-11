@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB থেকে HTML কনভার্টার বিনামূল্যে",
+  "short_name": "EPUB থেকে HTML কনভার্টার বিনামূল্যে",
+  "description": "আপনার ব্রাউজারে EPUB ইবুক বিনামূল্যে একটি একক স্বয়ংসম্পূর্ণ HTML ফাইলে রূপান্তর করুন। ক্রমে অধ্যায়, মৌলিক টাইপোগ্রাফি, ছোট ছবি এমবেড করা। কোনো আপলোড নেই, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

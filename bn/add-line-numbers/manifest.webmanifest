@@ -1,0 +1,29 @@
+{
+  "name": "Loona অনলাইনে লাইন নম্বর যোগ করুন",
+  "short_name": "অনলাইনে লাইন নম্বর যোগ করুন",
+  "description": "শুরু, ধাপ, প্যাডিং ও বিভাজকের নিজের পছন্দে আপনার টেক্সটের প্রতিটি লাইনে নম্বর যোগ করুন। বিনামূল্যের লাইন নম্বর টুল - কোনো সাইন-আপ নেই, তাৎক্ষণিক ও ব্যক্তিগত।",
+  "id": "/loona-text-tools/bn/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

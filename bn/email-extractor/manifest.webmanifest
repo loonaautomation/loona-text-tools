@@ -1,0 +1,29 @@
+{
+  "name": "Loona ইমেইল এক্সট্র্যাক্টর অনলাইনে বিনামূল্যে",
+  "short_name": "ইমেইল এক্সট্র্যাক্টর অনলাইনে বিনামূল্যে",
+  "description": "যেকোনো টেক্সট, নথি বা ওয়েব পৃষ্ঠার বিষয়বস্তু থেকে প্রতিটি ইমেইল ঠিকানা বের করুন - ডুপ্লিকেট সরিয়ে প্রতি লাইনে একটি করে তালিকাভুক্ত। 100% আপনার ব্রাউজারে চলে। বিনামূল্যে, কোনো সাইন-আপ নেই।",
+  "id": "/loona-text-tools/bn/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
