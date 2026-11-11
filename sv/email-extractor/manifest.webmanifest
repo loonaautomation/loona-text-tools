@@ -1,0 +1,29 @@
+{
+  "name": "Loona E-postextraherare online gratis",
+  "short_name": "E-postextraherare online gratis",
+  "description": "Extrahera varje e-postadress från vilken text, dokument eller webbsideinnehåll som helst - deduplicerad och listad en per rad. Körs till 100% i din webbläsare. Gratis, ingen registrering.",
+  "id": "/loona-text-tools/sv/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB-metadataredigerare gratis",
+  "short_name": "EPUB-metadataredigerare gratis",
+  "description": "Redigera EPUB-metadata gratis i din webbläsare: titel, författare, språk, utgivare och beskrivning, med omslagsinformation visad. Kapitel orörda, ingen uppladdning, ingen registrering.",
+  "id": "/loona-text-tools/sv/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

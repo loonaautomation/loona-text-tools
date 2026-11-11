@@ -1,0 +1,29 @@
+{
+  "name": "Loona Skrivtest online gratis",
+  "short_name": "Skrivtest online gratis",
+  "description": "Gratis skrivtest på 60 sekunder: mät din skrivhastighet i WPM, noggrannhet och tecken per minut med lätta, medelsvåra och svåra texter. Ingen registrering, körs till 100% i din webbläsare.",
+  "id": "/loona-text-tools/sv/typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

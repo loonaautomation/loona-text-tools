@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild till Excel-omvandlare online gratis",
+  "short_name": "Bild till Excel-omvandlare online gratis",
+  "description": "Omvandla ett foto, en skanning eller en skärmbild av en tabell till en riktig Excel-fil (.xlsx) med gratis OCR som körs till 100% i din webbläsare. Redigera tabellen innan du laddar ned - ingen uppladdning, ingen registrering.",
+  "id": "/loona-text-tools/sv/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

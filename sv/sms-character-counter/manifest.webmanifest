@@ -1,0 +1,29 @@
+{
+  "name": "Loona SMS-teckenräknare",
+  "short_name": "SMS-teckenräknare",
+  "description": "Gratis SMS-teckenräknare: GSM 7-bit mot Unicode-detektering, segmentantal och återstående tecken — live, i din webbläsare.",
+  "id": "/loona-text-tools/sv/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

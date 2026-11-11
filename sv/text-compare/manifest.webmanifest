@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jämför text online",
+  "short_name": "Jämför text online",
+  "description": "Jämför två texter rad för rad och se exakt vilka rader som lagts till, tagits bort eller behållits. Gratis diff-verktyg för text online - ingen registrering, privat i din webbläsare.",
+  "id": "/loona-text-tools/sv/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

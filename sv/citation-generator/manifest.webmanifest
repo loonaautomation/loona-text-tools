@@ -1,0 +1,29 @@
+{
+  "name": "Loona Referensgenerator online gratis",
+  "short_name": "Referensgenerator online gratis",
+  "description": "Generera korrekt formaterade referenser för webbplatser, böcker och tidskriftsartiklar i APA 7:e, MLA 9 och Chicago författare-årtal - gratis, omedelbart, i din webbläsare.",
+  "id": "/loona-text-tools/sv/citation-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
