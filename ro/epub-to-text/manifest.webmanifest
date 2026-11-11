@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor EPUB în text gratuit",
+  "short_name": "Convertor EPUB în text gratuit",
+  "description": "Convertește gratuit cărțile electronice EPUB în text simplu curat (.txt), în browserul tău. Capitole în ordinea de citire, titluri păstrate, lista capitolelor și numărul de cuvinte afișate primele. Fără încărcare, fără înregistrare.",
+  "id": "/loona-text-tools/ro/epub-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

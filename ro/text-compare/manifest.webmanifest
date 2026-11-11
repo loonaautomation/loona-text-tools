@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comparare text online",
+  "short_name": "Comparare text online",
+  "description": "Compară două texte linie cu linie și vezi exact ce linii au fost adăugate, eliminate sau păstrate. Instrument online gratuit de diferențe între texte - fără înregistrare, privat în browserul tău.",
+  "id": "/loona-text-tools/ro/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

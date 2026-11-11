@@ -1,0 +1,29 @@
+{
+  "name": "Loona Căutare și înlocuire text online",
+  "short_name": "Căutare și înlocuire text online",
+  "description": "Găsește un cuvânt sau o expresie și înlocuiește fiecare apariție din textul tău dintr-o dată, cu opțiuni sensibile la majuscule/minuscule, de cuvânt întreg și de model. Instrument online gratuit - fără înregistrare.",
+  "id": "/loona-text-tools/ro/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

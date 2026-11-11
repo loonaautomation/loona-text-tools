@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificator de palindroame online gratuit",
+  "short_name": "Verificator de palindroame online gratuit",
+  "description": "Verifică dacă orice cuvânt, număr sau propoziție este un palindrom - se citește la fel de la cap la coadă și de la coadă la cap. Afișează textul curățat și inversul lui. Gratuit, fără înregistrare.",
+  "id": "/loona-text-tools/ro/palindrome-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

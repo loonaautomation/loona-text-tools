@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contor de caractere pentru declarația personală UCAS",
+  "short_name": "Contor de caractere pentru declarația personală UCAS",
+  "description": "Contor gratuit de caractere pentru declarația personală UCAS: numărătoare de caractere în direct față de limita de 4,000 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
+  "id": "/loona-text-tools/ro/ucas-personal-statement-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

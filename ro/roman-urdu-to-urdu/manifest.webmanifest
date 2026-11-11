@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor din urdu romanizat în scriere urdu online gratuit",
+  "short_name": "Convertor din urdu romanizat în scriere urdu online gratuit",
+  "description": "Convertește urdu romanizat (litere latine) în scriere urdu corectă, instant - „mera naam” devine scriere urdu reală. Convertor gratuit din urdu romanizat în urdu, pentru Pakistan.",
+  "id": "/loona-text-tools/ro/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contor de caractere SMS",
+  "short_name": "Contor de caractere SMS",
+  "description": "Contor gratuit de caractere SMS: detectare GSM 7-bit versus Unicode, numărul de segmente și caractere rămase — în direct, în browserul tău.",
+  "id": "/loona-text-tools/ro/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

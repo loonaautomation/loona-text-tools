@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discurs de 10 minute",
+  "short_name": "Discurs de 10 minute",
+  "description": "Câte cuvinte într-un discurs de 10 minute? 1,100–1,800 de cuvinte (1,500 în ritm conversațional). Contor gratuit în direct, cu verificarea timpului de vorbire.",
+  "id": "/loona-text-tools/ro/10-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

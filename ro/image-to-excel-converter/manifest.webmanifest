@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor imagine în Excel online gratuit",
+  "short_name": "Convertor imagine în Excel online gratuit",
+  "description": "Convertește o fotografie, o scanare sau o captură de ecran a unui tabel într-un fișier Excel (.xlsx) real, cu OCR gratuit care rulează 100% în browserul tău. Editează tabelul înainte de descărcare - fără încărcare, fără înregistrare.",
+  "id": "/loona-text-tools/ro/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

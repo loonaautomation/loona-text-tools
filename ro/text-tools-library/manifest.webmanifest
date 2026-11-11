@@ -1,0 +1,29 @@
+{
+  "name": "Loona Biblioteca de instrumente de text",
+  "short_name": "Biblioteca de instrumente de text",
+  "description": "Biblioteca completă Loona Text Tools: convertoare de caz, contoare de cuvinte pentru eseuri și discursuri, verificatoare de limite de caractere ale platformelor și calculatoare de lizibilitate.",
+  "id": "/loona-text-tools/ro/text-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Convertor EPUB în text gratuit - Extrage text simplu din cărți electronice EPUB | Loona Text Tools</title>
+<meta name="description" content="Convertește gratuit cărțile electronice EPUB în text simplu curat (.txt), în browserul tău. Capitole în ordinea de citire, titluri păstrate, lista capitolelor și numărul de cuvinte afișate primele. Fără încărcare, fără înregistrare.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-text-tools/epub-to-text/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-text-tools/es/epub-to-text/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-text-tools/de/epub-to-text/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-text-tools/fr/epub-to-text/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-text-tools/pt/epub-to-text/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-text-tools/it/epub-to-text/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-text-tools/nl/epub-to-text/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-text-tools/ar/epub-to-text/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-text-tools/ur/epub-to-text/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-text-tools/tr/epub-to-text/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-text-tools/ru/epub-to-text/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-text-tools/hi/epub-to-text/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-text-tools/ko/epub-to-text/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-text-tools/ja/epub-to-text/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-text-tools/id/epub-to-text/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-text-tools/pl/epub-to-text/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-text-tools/vi/epub-to-text/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-text-tools/zh/epub-to-text/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-text-tools/bn/epub-to-text/"><link rel="alternate" hreflang="ro" href="https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-text-tools/epub-to-text/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Text Tools">
+<meta property="og:title" content="Convertor EPUB în text gratuit - Extrage text simplu din cărți electronice EPUB | Loona Text Tools">
+<meta property="og:description" content="Convertește gratuit cărțile electronice EPUB în text simplu curat (.txt), în browserul tău. Capitole în ordinea de citire, titluri păstrate, lista capitolelor și numărul de cuvinte afișate primele. Fără încărcare, fără înregistrare.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/"><meta property="og:locale" content="ro_RO">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Convertor EPUB în text gratuit - Extrage text simplu din cărți electronice EPUB | Loona Text Tools">
+<meta name="twitter:description" content="Convertește gratuit cărțile electronice EPUB în text simplu curat (.txt), în browserul tău. Capitole în ordinea de citire, titluri păstrate, lista capitolelor și numărul de cuvinte afișate primele. Fără încărcare, fără înregistrare.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+</style>
+<style>
+.dropzone{border:2px dashed #cfc9ae;border-radius:14px;padding:30px 18px;text-align:center;background:#fdfcf7;cursor:pointer;transition:.15s}
+.dropzone:hover,.dropzone.over{border-color:var(--gold);background:#fff8e1}
+.dropzone .dz-ic{font-size:2.4rem;margin-bottom:6px}
+.dropzone p{color:var(--mut);font-size:.95rem;margin-top:8px}
+.outbox{white-space:pre-wrap;word-break:break-word;background:#fffdf6;border:1px solid var(--line);border-radius:12px;padding:14px 16px;max-height:420px;overflow:auto;font-size:.95rem;line-height:1.6}
+.chlist{margin:10px 0;padding-left:22px}.chlist li{margin-bottom:4px}
+
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"EPUB în text - Loona Text Tools","url":"https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/","description":"Convertește gratuit cărțile electronice EPUB în text simplu curat (.txt), în browserul tău. Capitole în ordinea de citire, titluri păstrate, lista capitolelor și numărul de cuvinte afișate primele. Fără încărcare, fără înregistrare.","applicationCategory":"UtilitiesApplication","operatingSystem":"Any","browserRequirements":"Necesită JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://loonaautomation.github.io/loona-text-tools/ro/"},{"@type":"ListItem","position":2,"name":"Instrumente de text","item":"https://loonaautomation.github.io/loona-text-tools/ro/"},{"@type":"ListItem","position":3,"name":"EPUB în text","item":"https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Este acest convertor EPUB în text gratuit?","acceptedAnswer":{"@type":"Answer","text":"Da - complet gratuit, fără înregistrare, fără cont și fără limită."}},{"@type":"Question","name":"Este cartea mea electronică încărcată pe un server?","acceptedAnswer":{"@type":"Answer","text":"Nu. Fișierul este convertit 100% în browserul tău, cu JavaScript. Nu părăsește niciodată dispozitivul tău și nu este niciodată stocat de noi."}},{"@type":"Question","name":"De ce nu se convertește cartea mea? (DRM)","acceptedAnswer":{"@type":"Answer","text":"Majoritatea cărților electronice cumpărate din magazine precum Kindle, Kobo sau Apple Books sunt protejate prin DRM (protecție la copiere). Acest instrument nu poate și nu va converti cărți protejate prin DRM și nu elimină sau sparge DRM. Fișierele EPUB fără DRM se deschid și se convertesc normal."}},{"@type":"Question","name":"Care este limita mărimii fișierului?","acceptedAnswer":{"@type":"Answer","text":"Cărțile de până la 20 MB sunt tratate în browser. Un fișier mai mare primește un mesaj clar în loc de o conversie stricată - încearcă un EPUB mai mic, fără DRM."}},{"@type":"Question","name":"Se păstrează titlurile capitolelor și ordinea?","acceptedAnswer":{"@type":"Answer","text":"Da. Capitolele urmează coloana EPUB (ordinea de citire a editurii), fiecare capitol începe cu titlul său, iar lista capitolelor este afișată înainte de descărcare."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Logo Loona Automation">Loona <span>Instrumente de text</span></a>
+<nav class="main">
+<a href="../">Acasă</a>
+<a href="../word-counter/">Contor de cuvinte</a>
+<a href="../case-converter/">Convertor de majuscule/minuscule</a>
+<a href="../text-to-speech/">Text în voce</a>
+<a href="../password-generator/">Generator de parole</a>
+<a href="../about.html">Despre</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">Acasă</a> &rsaquo; <a href="../#tools">Instrumente de text</a> &rsaquo; EPUB în text</div>
+<main class="page">
+<h1 class="tool">EPUB în text - Extrage text simplu dintr-o carte electronică EPUB</h1>
+<div class="inshort"><strong>Pe scurt:</strong> alege un EPUB fără DRM și primește un fișier curat de text simplu (.txt): capitolele în ordinea de citire a cărții, titlurile capitolelor păstrate, HTML eliminat în siguranță și entitățile HTML decodificate. Vezi lista capitolelor și numărul total de cuvinte înainte de a descărca. Cărți de până la 20 MB; cărțile protejate DRM nu pot și nu vor fi convertite.</div>
+<p class="lede">Ai nevoie de o carte ca text simplu - pentru notițe, o numărătoare de cuvinte, text-în-voce sau citire pe un dispozitiv simplu? Acest convertor despachetează EPUB-ul pe propriul tău dispozitiv, parcurge capitolele în ordinea intenționată de editură și le scrie ca un singur fișier .txt ordonat.</p>
+<div class="panel">
+<div class="dropzone" id="dz">
+<div class="dz-ic">📚</div>
+<strong>Plasează aici fișierul tău .epub sau apasă pentru a-l alege</strong>
+<p>Cărți de până la 20 MB. Fișierul este procesat doar pe acest dispozitiv - nimic nu este încărcat.</p>
+<input type="file" id="fileInp" accept=".epub,application/epub+zip" hidden>
+</div>
+<div class="status" id="st"></div>
+<div id="result" hidden>
+<div class="kv" id="metaKv"></div>
+<h3 style="color:var(--teal);margin:16px 0 6px">Capitole în ordinea de citire</h3>
+<ol class="chlist" id="chList"></ol>
+<div class="row"><button class="btn" id="bDownload" type="button">Descarcă fișierul .txt</button></div>
+<div class="outbox" id="preview" hidden></div>
+</div>
+</div>
+<div class="privacy-note"><strong>Privat prin concepție:</strong> tot ce se întâmplă în acest instrument se petrece 100% în browserul tău, cu JavaScript. Fișierele tale nu sunt niciodată încărcate pe un server, niciodată stocate și niciodată văzute de noi - închide fila și totul dispare. Cărțile protejate DRM nu pot și nu vor fi convertite.</div>
+<section class="block"><h2>Cum să folosești acest instrument</h2><ol><li>Apasă caseta de mai sus (sau trage și plasează) și alege un fișier fără DRM <strong>.epub</strong> fișier de până la 20 MB.</li><li>Verifică <strong>listă de capitole și număr de cuvinte</strong> afișată după conversie - previzualizarea arată începutul textului.</li><li>Apasă <strong>Descarcă fișierul .txt</strong> pentru a salva textul simplu.</li></ol></section>
+<section class="block"><h2>Cum funcționează</h2><p>Un EPUB este un set arhivat de capitole XHTML plus un fișier-pachet (OPF) care listează ordinea corectă de citire. Acest instrument refolosește același analizor testat ca Cititorul EPUB al nostru: citește containerul și OPF-ul, urmează coloana în ordine, curăță fiecare capitol (scripturile și marcajele nesigure sunt eliminate), convertește HTML-ul curățat în text - sfârșiturile de bloc devin întreruperi de linie, entitățile HTML precum &amp;amp; și caracterele accentuate sunt decodificate - și unește capitolele sub titlurile lor.</p><h3>Exemplu lucrat</h3><p>Descarci un roman gratuit din domeniul public de la Project Gutenberg. Convertorul îi listează cele 24 de capitole, raportează 88,410 cuvinte, iar fișierul .txt descărcat se deschide cu titlul cărții, autorul, apoi Capitolul 1 sub propriul său titlu - gata de lipit într-un contor de cuvinte sau într-un instrument text-în-voce.</p></section>
+<section class="block"><h2>Întrebări frecvente</h2><details class="faq"><summary>Este acest convertor EPUB în text gratuit?</summary><p>Da - complet gratuit, fără înregistrare, fără cont și fără limită.</p></details><details class="faq"><summary>Este cartea mea electronică încărcată pe un server?</summary><p>Nu. Fișierul este convertit 100% în browserul tău, cu JavaScript. Nu părăsește niciodată dispozitivul tău și nu este niciodată stocat de noi.</p></details><details class="faq"><summary>De ce nu se convertește cartea mea? (DRM)</summary><p>Majoritatea cărților electronice cumpărate din magazine precum Kindle, Kobo sau Apple Books sunt protejate prin DRM (protecție la copiere). Acest instrument nu poate și nu va converti cărți protejate prin DRM și nu elimină sau sparge DRM. Fișierele EPUB fără DRM se deschid și se convertesc normal.</p></details><details class="faq"><summary>Care este limita mărimii fișierului?</summary><p>Cărțile de până la 20 MB sunt tratate în browser. Un fișier mai mare primește un mesaj clar în loc de o conversie stricată - încearcă un EPUB mai mic, fără DRM.</p></details><details class="faq"><summary>Se păstrează titlurile capitolelor și ordinea?</summary><p>Da. Capitolele urmează coloana EPUB (ordinea de citire a editurii), fiecare capitol începe cu titlul său, iar lista capitolelor este afișată înainte de descărcare.</p></details></section>
+<section class="block"><h2>Instrumente de text înrudite</h2><div class="grid"><a class="card" href="../epub-to-html/"><div class="ic">🌐</div><h3>EPUB în HTML</h3><p>Transformă o carte electronică EPUB într-un singur fișier HTML autonom pe care îl poți deschide oriunde.</p></a><a class="card" href="../text-to-epub/"><div class="ic">📕</div><h3>Text / Markdown în EPUB</h3><p>Transformă textul simplu sau Markdown într-o carte electronică EPUB corespunzătoare, pe care o poți citi în orice cititor.</p></a><a class="card" href="../epub-reader/"><div class="ic">📖</div><h3>Cititor EPUB</h3><p>Deschide și citește cărți electronice EPUB chiar în browserul tău - listă de capitole și mod întunecat.</p></a><a class="card" href="../epub-metadata-editor/"><div class="ic">🏷️</div><h3>Editor de metadate EPUB</h3><p>Editează titlul, autorul și descrierea unei cărți electronice - capitole neatins.</p></a><a class="card" href="../word-counter/"><div class="ic">🔢</div><h3>Contor de cuvinte</h3><p>Numără cuvintele, caracterele, propozițiile și timpul de citire din orice text.</p></a></div></section>
+</main>
+</div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Încorporează acest instrument pe site-ul tău — gratuit</h2>
+<p style="margin:0 0 12px;line-height:1.6">Adaugă acest instrument pe propriul tău site web sau blog — este complet gratuit, nu necesită înregistrare și arată întotdeauna cea mai recentă versiune. Copiază codul de mai jos și lipește-l în pagina ta, acolo unde vrei să apară instrumentul. Păstrarea micului rând de credit &ldquo;Powered by Loona Automation&rdquo; sub încorporare ajută la menținerea gratuității acestui instrument &mdash; dar ești liber să îl stilizezi sau să îl elimini; instrumentul funcționează oricum.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free EPUB to Text by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Oferit de &lt;a href="https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; gratuit EPUB în text&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Copiază codul de încorporare</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='Copiat!';setTimeout(function(){b.textContent='Copiază codul de încorporare';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Text Tools</h4>
+<a href="../">Toate instrumentele de text</a>
+<a href="../about.html">Despre noi</a>
+<a href="../contact.html">Contact</a></div>
+<div class="col"><h4>Instrumente populare</h4><a href="../word-counter/">Contor de cuvinte</a><a href="../character-counter/">Contor de caractere</a><a href="../case-converter/">Convertor de majuscule/minuscule</a><a href="../password-generator/">Generator de parole</a><a href="../text-to-speech/">Text în voce</a><a href="../speech-to-text/">Voce în text</a></div>
+<div class="col"><h4>Mai multe instrumente</h4><a href="../remove-duplicate-lines/">Eliminare linii duplicate</a><a href="../text-compare/">Comparare text</a><a href="../lorem-ipsum-generator/">Generator Lorem Ipsum</a><a href="../slug-generator/">Generator de slug-uri</a><a href="../online-notepad/">Blocnotes online</a><a href="../fancy-text-generator/">Generator de text decorativ</a></div>
+<div class="col"><h4>Juridic</h4>
+<a href="../privacy.html">Politica de confidențialitate</a>
+<a href="../terms.html">Termeni de utilizare</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools. Instrumente de text online gratuite, care rulează 100% în browserul tău.</div></footer>
+<script src="../../lib/jszip.min.js"></script>
+<script>
+/*CORE*/
+var EpubCore=(function(){
+'use strict';
+function decodeEntities(s){
+  return String(s).replace(/&(#x[0-9a-fA-F]+|#\d+|amp|lt|gt|quot|apos|nbsp);/g,function(m,g){
+    if(g.charAt(0)==='#'){
+      var code=(g.charAt(1)==='x'||g.charAt(1)==='X')?parseInt(g.slice(2),16):parseInt(g.slice(1),10);
+      return isNaN(code)?m:String.fromCharCode(code);
+    }
+    switch(g){
+      case 'amp':return '&'; case 'lt':return '<'; case 'gt':return '>';
+      case 'quot':return '"'; case 'apos':return "'"; case 'nbsp':return ' ';
+    }
+    return m;
+  });
+}
+function findTagEnd(s,i){
+  var q=null;
+  for(var j=i+1;j<s.length;j++){
+    var c=s.charAt(j);
+    if(q){ if(c===q)q=null; }
+    else if(c==='"'||c==="'"){ q=c; }
+    else if(c==='>'){ return j; }
+  }
+  return s.length-1;
+}
+function parseAttrs(str){
+  var attrs={};
+  var re=/([^\s=\/>]+)\s*=\s*(?:"([^"]*)"|'([^']*)')/g;
+  var m;
+  while((m=re.exec(str))!==null){
+    attrs[m[1].toLowerCase()]=decodeEntities(m[2]!==undefined?m[2]:m[3]);
+  }
+  return attrs;
+}
+var VOID_TAGS={area:1,base:1,br:1,col:1,embed:1,hr:1,img:1,input:1,link:1,meta:1,param:1,source:1,track:1,wbr:1};
+function parseXml(str){
+  str=String(str);
+  var root={name:'#root',attrs:{},children:[],text:''};
+  var stack=[root];
+  function top(){return stack[stack.length-1];}
+  function addText(t){ if(t){ top().text+=decodeEntities(t); } }
+  var pos=0,len=str.length;
+  while(pos<len){
+    var lt=str.indexOf('<',pos);
+    if(lt===-1){ addText(str.slice(pos)); break; }
+    if(lt>pos){ addText(str.slice(pos,lt)); }
+    if(str.substr(lt,4)==='<!--'){ var e1=str.indexOf('-->',lt+4); pos=(e1===-1)?len:e1+3; continue; }
+    if(str.substr(lt,9)==='<![CDATA['){ var e2=str.indexOf(']]>',lt+9); var cd=(e2===-1)?str.slice(lt+9):str.slice(lt+9,e2); top().text+=cd; pos=(e2===-1)?len:e2+3; continue; }
+    if(str.substr(lt,2)==='<?'){ var e3=str.indexOf('?>',lt+2); pos=(e3===-1)?len:e3+2; continue; }
+    if(str.substr(lt,2)==='<!'){ var e4=str.indexOf('>',lt+2); pos=(e4===-1)?len:e4+1; continue; }
+    var gt=findTagEnd(str,lt);
+    var inside=str.slice(lt+1,gt);
+    pos=gt+1;
+    if(inside.charAt(0)==='/'){
+      var cname=inside.slice(1).trim().toLowerCase();
+      for(var i=stack.length-1;i>0;i--){ if(stack[i].name===cname){ stack.length=i; break; } }
+      continue;
+    }
+    var selfClose=/\/\s*$/.test(inside);
+    if(selfClose){ inside=inside.replace(/\/\s*$/,''); }
+    var sp=inside.search(/\s/);
+    var name=(sp===-1?inside:inside.slice(0,sp)).toLowerCase();
+    if(!name){ continue; }
+    var el={name:name,attrs:parseAttrs(sp===-1?'':inside.slice(sp+1)),children:[],text:''};
+    top().children.push(el);
+    if(!selfClose&&!VOID_TAGS[name]){ stack.push(el); }
+  }
+  return root.children.length?root.children[0]:root;
+}
+function localName(n){ var i=String(n).indexOf(':'); return i===-1?String(n):String(n).slice(i+1); }
+function childrenNamed(el,name){
+  var out=[];
+  for(var i=0;i<el.children.length;i++){ if(localName(el.children[i].name)===name){ out.push(el.children[i]); } }
+  return out;
+}
+function firstDesc(el,name){
+  for(var i=0;i<el.children.length;i++){
+    var c=el.children[i];
+    if(localName(c.name)===name){ return c; }
+    var r=firstDesc(c,name);
+    if(r){ return r; }
+  }
+  return null;
+}
+function allDesc(el,name,acc){
+  acc=acc||[];
+  for(var i=0;i<el.children.length;i++){
+    var c=el.children[i];
+    if(localName(c.name)===name){ acc.push(c); }
+    allDesc(c,name,acc);
+  }
+  return acc;
+}
+function textOf(el){
+  var t=el.text||'';
+  for(var i=0;i<el.children.length;i++){ t+=textOf(el.children[i]); }
+  return t;
+}
+function getAttr(el,name){
+  if(!el){ return null; }
+  if(el.attrs[name]!==undefined){ return el.attrs[name]; }
+  for(var k in el.attrs){ if(localName(k)===name){ return el.attrs[k]; } }
+  return null;
+}
+function collapseWs(s){ return String(s).replace(/\s+/g,' ').trim(); }
+function dirname(p){ var i=String(p).lastIndexOf('/'); return i===-1?'':String(p).slice(0,i); }
+function resolvePath(baseDir,href){
+  href=String(href||'');
+  var frag='';
+  var hi=href.indexOf('#');
+  if(hi!==-1){ frag=href.slice(hi+1); href=href.slice(0,hi); }
+  try{ href=decodeURIComponent(href); }catch(e){}
+  if(!href){ return {path:'',fragment:frag}; }
+  var parts;
+  if(href.charAt(0)==='/'){ parts=href.split('/'); }
+  else{ parts=(baseDir?baseDir.split('/'):[]).concat(href.split('/')); }
+  var out=[];
+  for(var i=0;i<parts.length;i++){
+    var p=parts[i];
+    if(p===''||p==='.'){ continue; }
+    if(p==='..'){ out.pop(); } else { out.push(p); }
+  }
+  return {path:out.join('/'),fragment:frag};
+}
+function extractBody(html){
+  html=String(html);
+  var m=html.match(/<body\b[^>]*>([\s\S]*?)<\/body\s*>/i);
+  if(m){ return m[1]; }
+  return html
+    .replace(/<\?xml[\s\S]*?\?>/g,'')
+    .replace(/<!DOCTYPE[^>]*>/gi,'')
+    .replace(/<head\b[^>]*>[\s\S]*?<\/head\s*>/i,'')
+    .replace(/<\/?(html|body)\b[^>]*>/gi,'');
+}
+var DROP_WITH_CONTENT=/<(script|style|iframe|object|form|textarea|select|button|noscript|svg|title|frameset|applet)\b[^>]*>[\s\S]*?<\/\1\s*>/gi;
+var DROP_TAG=/<(script|style|iframe|object|embed|form|input|link|meta|base|textarea|select|button|noscript|svg|title|frame|applet)\b[^>]*\/?>/gi;
+function sanitizeHtml(html,rewrite){
+  html=String(html);
+  html=html.replace(/<!--[\s\S]*?-->/g,'');
+  html=html.replace(DROP_WITH_CONTENT,'');
+  html=html.replace(DROP_TAG,'');
+  var out='',i=0,len=html.length;
+  while(i<len){
+    var lt=html.indexOf('<',i);
+    if(lt===-1){ out+=html.slice(i); break; }
+    out+=html.slice(i,lt);
+    var gt=findTagEnd(html,lt);
+    var inside=html.slice(lt+1,gt);
+    i=gt+1;
+    if(inside.charAt(0)==='!'){ continue; }
+    var closing=inside.charAt(0)==='/';
+    var body=closing?inside.slice(1):inside;
+    var selfClose=/\/\s*$/.test(body);
+    if(selfClose){ body=body.replace(/\/\s*$/,''); }
+    var sp=body.search(/\s/);
+    var name=(sp===-1?body:body.slice(0,sp)).toLowerCase();
+    if(!name||name==='html'||name==='body'||name==='head'){ continue; }
+    if(closing){ out+='</'+name+'>'; continue; }
+    var attrs=parseAttrs(sp===-1?'':body.slice(sp+1));
+    var kept='';
+    for(var k in attrs){
+      var v=attrs[k];
+      var lk=k.toLowerCase();
+      if(lk.indexOf('on')===0){ continue; }
+      if(lk==='style'||lk==='srcset'||lk==='xmlns'||lk.indexOf('xmlns:')===0){ continue; }
+      if(lk==='action'||lk==='formaction'||lk==='ping'||lk==='background'){ continue; }
+      if(lk==='href'||lk==='src'||lk==='xlink:href'||lk==='poster'){
+        if(/^\s*(javascript|vbscript|data)\s*:/i.test(v)&&!(name==='img'||name==='image')){ continue; }
+        if(name==='img'||name==='image'||name==='source'||name==='audio'||name==='video'){
+          var kind=(name==='img'||name==='image')?'image':'media';
+          var rep=rewrite?rewrite(kind,v):null;
+          if(rep===null||rep===undefined){ continue; }
+          v=rep;
+        } else if(lk!=='href'){
+          continue;
+        }
+      }
+      kept+=' '+k+'="'+String(v).replace(/&/g,'&amp;').replace(/"/g,'&quot;')+'"';
+    }
+    out+='<'+name+kept+(selfClose?'/>':'>');
+  }
+  return out;
+}
+function collectMediaRefs(html,baseDir){
+  var refs=[],seen={};
+  var re=/<(img|image|source|audio|video)\b[^>]*>/gi;
+  var m;
+  while((m=re.exec(String(html)))!==null){
+    var am=/\b(?:src|xlink:href|href|poster)\s*=\s*(?:"([^"]*)"|'([^']*)')/i.exec(m[0]);
+    if(!am){ continue; }
+    var url=am[1]!==undefined?am[1]:am[2];
+    if(!url||/^\s*(https?:|data:|blob:)/i.test(url)){ continue; }
+    var r=resolvePath(baseDir,url);
+    if(r.path&&!seen[r.path]){ seen[r.path]=1; refs.push(r.path); }
+  }
+  return refs;
+}
+function htmlToText(html){
+  var t=String(html)
+    .replace(/<br\s*\/?>/gi,'\n')
+    .replace(/<\/(p|div|h[1-6]|li|tr|blockquote|section|article)>/gi,'\n')
+    .replace(/<[^>]*>/g,' ');
+  t=decodeEntities(t);
+  return t.replace(/[ \t]+/g,' ').replace(/\n\s*\n+/g,'\n').trim();
+}
+function tocFromNav(navRoot,navDir){
+  var navs=allDesc(navRoot,'nav');
+  var chosen=null,i;
+  for(i=0;i<navs.length;i++){
+    var t=getAttr(navs[i],'type');
+    if(t&&t.split(/\s+/).indexOf('toc')!==-1){ chosen=navs[i]; break; }
+  }
+  if(!chosen){ chosen=navs[0]||null; }
+  if(!chosen){ return []; }
+  var ol=firstDesc(chosen,'ol');
+  if(!ol){ return []; }
+  var out=[];
+  (function walkOl(olEl,depth){
+    var lis=childrenNamed(olEl,'li');
+    for(var j=0;j<lis.length;j++){
+      var li=lis[j];
+      var a=firstDesc(li,'a');
+      if(a){
+        var r=resolvePath(navDir,getAttr(a,'href')||'');
+        out.push({label:collapseWs(textOf(a)),path:r.path,fragment:r.fragment,depth:depth});
+      }
+      var sub=childrenNamed(li,'ol')[0];
+      if(sub){ walkOl(sub,depth+1); }
+    }
+  })(ol,0);
+  return out;
+}
+function tocFromNcx(ncxRoot,ncxDir){
+  var map=firstDesc(ncxRoot,'navmap');
+  if(!map){ return []; }
+  var out=[];
+  (function walk(parent,depth){
+    var points=childrenNamed(parent,'navpoint');
+    for(var j=0;j<points.length;j++){
+      var p=points[j];
+      var labelEl=firstDesc(p,'navlabel');
+      var contentEl=firstDesc(p,'content');
+      var src=contentEl?(getAttr(contentEl,'src')||''):'';
+      var r=resolvePath(ncxDir,src);
+      out.push({label:labelEl?collapseWs(textOf(labelEl)):'',path:r.path,fragment:r.fragment,depth:depth});
+      walk(p,depth+1);
+    }
+  })(map,0);
+  return out;
+}
+function parseEpub(zip){
+  return Promise.resolve().then(function(){
+    var containerFile=zip.file('META-INF/container.xml');
+    if(!containerFile){ throw new Error('Acesta nu este un fișier EPUB valid (META-INF/container.xml lipsește).'); }
+    return containerFile.async('string');
+  }).then(function(containerStr){
+    var container=parseXml(containerStr);
+    var rootfile=firstDesc(container,'rootfile');
+    var opfPath=rootfile?getAttr(rootfile,'full-path'):null;
+    if(!opfPath){ throw new Error('Acest EPUB nu are niciun fișier de pachet (OPF) listat în containerul său.'); }
+    var opfFile=zip.file(opfPath);
+    if(!opfFile){ throw new Error('Fișierul de pachet EPUB lipsește: '+opfPath); }
+    return opfFile.async('string').then(function(opfStr){
+      var opf=parseXml(opfStr);
+      var opfDir=dirname(opfPath);
+      var metadata=firstDesc(opf,'metadata');
+      var titleEl=metadata?firstDesc(metadata,'title'):null;
+      var creatorEl=metadata?firstDesc(metadata,'creator'):null;
+      var langEl=metadata?firstDesc(metadata,'language'):null;
+      var manifest={};
+      var items=allDesc(opf,'item');
+      var i,it;
+      for(i=0;i<items.length;i++){
+        it=items[i];
+        var id=getAttr(it,'id');
+        if(!id){ continue; }
+        var href=getAttr(it,'href')||'';
+        manifest[id]={
+          id:id,
+          href:href,
+          path:resolvePath(opfDir,href).path,
+          mediaType:getAttr(it,'media-type')||'',
+          properties:getAttr(it,'properties')||''
+        };
+      }
+      var spineEl=firstDesc(opf,'spine');
+      var tocId=spineEl?getAttr(spineEl,'toc'):null;
+      var chapters=[];
+      if(spineEl){
+        var refs=childrenNamed(spineEl,'itemref');
+        for(i=0;i<refs.length;i++){
+          if(getAttr(refs[i],'linear')==='no'){ continue; }
+          var mit=manifest[getAttr(refs[i],'idref')];
+          if(!mit){ continue; }
+          if(mit.mediaType==='application/xhtml+xml'||mit.mediaType==='text/html'){
+            chapters.push({id:mit.id,path:mit.path,mediaType:mit.mediaType});
+          }
+        }
+      }
+      var book={
+        title:titleEl?collapseWs(textOf(titleEl)):'',
+        creator:creatorEl?collapseWs(textOf(creatorEl)):'',
+        language:langEl?collapseWs(textOf(langEl)):'',
+        opfPath:opfPath,
+        baseDir:opfDir,
+        manifest:manifest,
+        chapters:chapters,
+        toc:[],
+        drm:!!zip.file('META-INF/encryption.xml'),
+        zip:zip
+      };
+      var navItem=null;
+      for(var key in manifest){
+        if((manifest[key].properties||'').split(/\s+/).indexOf('nav')!==-1){ navItem=manifest[key]; break; }
+      }
+      var tocPromise;
+      if(navItem&&zip.file(navItem.path)){
+        tocPromise=zip.file(navItem.path).async('string').then(function(navStr){
+          book.toc=tocFromNav(parseXml(navStr),dirname(navItem.path));
+        }).catch(function(){ book.toc=[]; });
+      } else if(tocId&&manifest[tocId]&&zip.file(manifest[tocId].path)){
+        var ncxItem=manifest[tocId];
+        tocPromise=zip.file(ncxItem.path).async('string').then(function(ncxStr){
+          book.toc=tocFromNcx(parseXml(ncxStr),dirname(ncxItem.path));
+        }).catch(function(){ book.toc=[]; });
+      } else {
+        tocPromise=Promise.resolve();
+      }
+      return tocPromise.then(function(){ return book; });
+    });
+  });
+}
+function loadChapter(book,index,rewrite){
+  var ch=book.chapters[index];
+  if(!ch){ return Promise.resolve(null); }
+  var f=book.zip.file(ch.path);
+  if(!f){ return Promise.reject(new Error('Un fișier de capitol lipsește din acest EPUB: '+ch.path)); }
+  return f.async('string').then(function(raw){
+    var body=extractBody(raw);
+    var dir=dirname(ch.path);
+    var clean=sanitizeHtml(body,function(kind,url){
+      var r=resolvePath(dir,url);
+      return rewrite?rewrite(kind,r.path,url):null;
+    });
+    return {html:clean,text:htmlToText(clean),dir:dir,path:ch.path};
+  });
+}
+return {
+  parseXml:parseXml,
+  parseEpub:parseEpub,
+  loadChapter:loadChapter,
+  sanitizeHtml:sanitizeHtml,
+  extractBody:extractBody,
+  htmlToText:htmlToText,
+  collectMediaRefs:collectMediaRefs,
+  resolvePath:resolvePath,
+  dirname:dirname,
+  decodeEntities:decodeEntities
+};
+})();
+/*/CORE*/
+</script>
+<script>
+
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='status '+(ok===true?'ok':ok===false?'err':'');}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+var MAX_BYTES=20*1024*1024;
+function checkFile(file){
+  if(!/\.epub$/i.test(file.name)&&file.type!=='application/epub+zip'){ return 'Te rugăm să alegi un fișier .epub.'; }
+  if(file.size>MAX_BYTES){ return 'Acest fișier are '+(file.size/1048576).toFixed(1)+' MB, ceea ce depășește limita de 20 MB pentru acest instrument de browser. Te rugăm să încerci un EPUB mai mic, fără DRM.'; }
+  return null;
+}
+function wireDrop(dz,inp,fn){
+  dz.addEventListener('click',function(){ inp.click(); });
+  inp.addEventListener('change',function(){ if(inp.files&&inp.files[0]){ fn(inp.files[0]); } });
+  ['dragenter','dragover'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.add('over'); }); });
+  ['dragleave','drop'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.remove('over'); }); });
+  dz.addEventListener('drop',function(e){ var f=e.dataTransfer&&e.dataTransfer.files&&e.dataTransfer.files[0]; if(f){ fn(f); } });
+}
+function download(name, content, mime){
+  var blob = content instanceof Blob ? content : new Blob([content],{type:mime||'text/plain;charset=utf-8'});
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=name;
+  document.body.appendChild(a); a.click(); setTimeout(function(){ URL.revokeObjectURL(a.href); a.remove(); },400);
+}
+function safeBase(name){ return String(name||'book').replace(/[^\w\- ]+/g,'').trim().replace(/\s+/g,'-').toLowerCase()||'book'; }
+
+
+/*CONVERT*/
+var EpubConvert=(function(){
+'use strict';
+function headingFor(book, ch, cleanHtml, idx){
+  for(var j=0;j<(book.toc||[]).length;j++){ if(book.toc[j].path===ch.path && book.toc[j].label){ return book.toc[j].label; } }
+  var m=/<h[1-3]\b[^>]*>([\s\S]*?)<\/h[1-3]>/i.exec(cleanHtml||'');
+  if(m){ var t=EpubCore.htmlToText(m[1]); if(t){ return t; } }
+  return 'Capitolul '+(idx+1);
+}
+function chapterLabel(book, idx){
+  var ch=book.chapters[idx]; if(!ch) return 'Capitolul '+(idx+1);
+  for(var j=0;j<(book.toc||[]).length;j++){ if(book.toc[j].path===ch.path && book.toc[j].label){ return book.toc[j].label; } }
+  return 'Capitolul '+(idx+1);
+}
+function buildText(book){
+  var parts=[]; var headings=[];
+  var title=book.title||'Fără titlu';
+  var head=title+(book.creator?('\nde '+book.creator):'');
+  var chain=Promise.resolve();
+  book.chapters.forEach(function(ch,idx){
+    chain=chain.then(function(){
+      return EpubCore.loadChapter(book, idx, null).then(function(res){
+        var h=headingFor(book,ch,res.html,idx); headings.push(h);
+        var text=res.text||'';
+        // Whitespace rule (documented): htmlToText collapses runs of spaces/tabs to one space,
+        // turns block endings into single newlines and trims the chapter. If the chapter text
+        // already starts with its heading, the heading is not duplicated.
+        var body=text;
+        if(body.toLowerCase().indexOf(h.toLowerCase())===0){ body=body.slice(h.length).replace(/^\s+/,''); }
+        parts.push(h+'\n\n'+body);
+      });
+    });
+  });
+  return chain.then(function(){
+    var full=head+'\n\n'+parts.join('\n\n');
+    var words=full.split(/\s+/).filter(Boolean).length;
+    return {text:full, headings:headings, wordCount:words, chapterCount:book.chapters.length, title:title, creator:book.creator||''};
+  });
+}
+var MIME_BY_EXT={png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',gif:'image/gif',svg:'image/svg+xml',webp:'image/webp',bmp:'image/bmp'};
+function neutraliseLinks(htmlStr){
+  // Drop every href/src on anchors (internal book links do not work in a single file);
+  // keep http/https links as plain text anchors without href too, for a clean standalone file.
+  return String(htmlStr).replace(/<a\b[^>]*>/gi,function(tag){
+    var keep=tag.replace(/\s+(href|target|rel)\s*=\s*(?:"[^"]*"|'[^']*')/gi,'');
+    return keep;
+  });
+}
+function buildHtml(book){
+  var sections=[]; var headings=[];
+  var chain=Promise.resolve();
+  book.chapters.forEach(function(ch,idx){
+    chain=chain.then(function(){
+      var rawFile=book.zip.file(ch.path);
+      return rawFile.async('string').then(function(raw){
+        var body=EpubCore.extractBody(raw);
+        var dir=EpubCore.dirname(ch.path);
+        var refs=EpubCore.collectMediaRefs(body, dir);
+        var map={};
+        var jobs=refs.map(function(p){
+          var f=book.zip.file(p); if(!f) return Promise.resolve();
+          // Embed images as data URIs where small/feasible: up to 1.5 MB per image.
+          return f.async('arraybuffer').then(function(ab){
+            if(ab.byteLength>1572864){ return; }
+            return f.async('base64').then(function(b64){
+              var ext=(p.split('.').pop()||'').toLowerCase();
+              map[p]='data:'+(MIME_BY_EXT[ext]||'application/octet-stream')+';base64,'+b64;
+            });
+          }).catch(function(){});
+        });
+        return Promise.all(jobs).then(function(){
+          return EpubCore.loadChapter(book, idx, function(kind,path){ return map[path]||null; }).then(function(res){
+            var h=headingFor(book,ch,res.html,idx); headings.push(h);
+            sections.push('<section class="chapter" id="chapter-'+(idx+1)+'">\n'+neutraliseLinks(res.html)+'\n</section>');
+          });
+        });
+      });
+    });
+  });
+  return chain.then(function(){
+    var title=book.title||'Fără titlu';
+    var doc='<!DOCTYPE html>\n<html lang="ro">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>'+title.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</title>\n<style>body{font-family:Georgia,serif;max-width:720px;margin:0 auto;padding:28px 18px;line-height:1.75;color:#1c2422;background:#fffdf6}h1.booktitle{font-size:2rem;line-height:1.25;text-align:center}p.bookauthor{text-align:center;color:#5a6d68}section.chapter{margin:2.2em 0;padding-top:1em;border-top:1px solid #e3ddc9}img{max-width:100%;height:auto;display:block;margin:14px auto}blockquote{margin:1em 0;padding:4px 16px;border-left:3px solid #c9a227}</style>\n</head>\n<body>\n\x3ch1 class=\"booktitle\">'+title.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'\x3c/h1>\n'+(book.creator?('<p class="bookauthor">de '+book.creator.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</p>\n'):'')+sections.join('\n')+'\n\n</body>\n</html>\n';
+    return {html:doc, headings:headings, chapterCount:book.chapters.length, title:title, creator:book.creator||''};
+  });
+}
+return {buildText:buildText, buildHtml:buildHtml, headingFor:headingFor, neutraliseLinks:neutraliseLinks};
+})();
+/*/CONVERT*/
+
+var generated=null, genName='book.txt';
+function handle(file){
+  generated=null; document.getElementById('result').hidden=true;
+  var err=checkFile(file);
+  if(err){ setStatus($('#st'),err,false); return; }
+  setStatus($('#st'),'Se citește „'+file.name+'"\u2026',null);
+  file.arrayBuffer().then(function(buf){ return JSZip.loadAsync(buf); }).then(function(zip){ return EpubCore.parseEpub(zip); }).then(function(book){
+    if(book.drm){ setStatus($('#st'),'Această carte este protejată DRM. Cărțile protejate DRM nu pot și nu vor fi convertite de acest instrument.',false); return; }
+    if(!book.chapters.length){ setStatus($('#st'),'Acest EPUB nu are capitole lizibile. Poate fi deteriorat sau poate fi protejat de DRM.',false); return; }
+    return EpubConvert.buildText(book).then(function(res){
+      generated=res; genName=safeBase(book.title||file.name.replace(/\.epub$/i,''))+'.txt';
+      $('#metaKv').innerHTML=[['Titlu',res.title||'Fără titlu'],['Autor',res.creator||'Necunoscut'],['Capitole',res.chapterCount]].concat(res.wordCount?[['Cuvinte',res.wordCount]]:[]).map(function(x){return '<div><b>'+escH(String(x[1]))+'</b>'+x[0]+'</div>';}).join('');
+      $('#chList').innerHTML=res.headings.map(function(h){return '<li>'+escH(h)+'</li>';}).join('');
+      var pv=$('#preview');
+      if(res.text){ pv.textContent=res.text.slice(0,2000)+(res.text.length>2000?'\n\u2026':''); pv.hidden=false; } else { pv.hidden=true; }
+      $('#result').hidden=false;
+      setStatus($('#st'),'Gata - verifică lista capitolelor și numărătorile de mai sus, apoi descarcă.',true);
+    });
+  }).catch(function(e){ setStatus($('#st'),'Acest fișier nu a putut fi convertit. '+(e&&e.message?e.message:'Te rugăm să verifici că este un fișier EPUB valid, fără DRM.'),false); });
+}
+wireDrop($('#dz'),$('#fileInp'),handle);
+$('#bDownload').addEventListener('click',function(){ if(!generated) return; download(genName, generated.text||generated.html, 'txt'==='txt'?'text/plain;charset=utf-8':'text/html;charset=utf-8'); });
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Instalează aplicația';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Instalează această aplicație: atinge butonul Partajează, apoi alege „Adaugă pe ecranul principal”.');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

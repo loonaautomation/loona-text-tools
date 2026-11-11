@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discurs de 2 minute",
+  "short_name": "Discurs de 2 minute",
+  "description": "Câte cuvinte într-un discurs de 2 minute? 220–360 de cuvinte (300 în ritm conversațional). Contor gratuit în direct, cu verificarea timpului de vorbire.",
+  "id": "/loona-text-tools/ro/2-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

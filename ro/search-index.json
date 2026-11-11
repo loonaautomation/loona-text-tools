@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Contor de cuvinte",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Cuvinte, caractere, propoziții, paragrafe și timp de citire - numărate în direct pe măsură ce tastezi.",
+  "k": "word counter word counter cuvinte caractere propozitii paragrafe si timp de citire numarate in direct pe masura ce tastezi",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Contor de caractere",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Caractere cu și fără spații, plus limite în direct pentru X, SMS și text meta.",
+  "k": "character counter character counter caractere cu si fara spatii plus limite in direct pentru x sms si text meta",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Contor de propoziții",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Propoziții, paragrafe, cuvinte și caractere în orice text - numărate în direct pe măsură ce tastezi.",
+  "k": "sentence counter sentence counter propozitii paragrafe cuvinte si caractere in orice text numarate in direct pe masura ce tastezi",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator al timpului de citire",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Cât durează citirea oricărui text, la viteze de citire lentă, medie și rapidă.",
+  "k": "reading time calculator reading time calculator cat dureaza citirea oricarui text la viteze de citire lenta medie si rapida",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator al timpului de vorbire",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Cât durează rostirea unui discurs sau scenariu - plus cuvintele necesare pentru un timp țintă.",
+  "k": "speaking time calculator speaking time calculator cat dureaza rostirea unui discurs sau scenariu plus cuvintele necesare pentru un timp tinta",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de tastare",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Un test de tastare de 60 de secunde - viteza ta în WPM, acuratețea și CPM-ul, în direct, pe măsură ce tastezi.",
+  "k": "typing test typing test un test de tastare de 60 de secunde viteza ta in wpm acuratetea si cpm ul in direct pe masura ce tastezi",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertor de majuscule/minuscule",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE, lowercase, Title Case, Sentence case și altele - câte un clic fiecare.",
+  "k": "case converter case converter uppercase lowercase title case sentence case si altele cate un clic fiecare",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Eliminare linii duplicate",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Șterge liniile repetate și păstrează fiecare linie unică o singură dată, în ordine.",
+  "k": "remove duplicate lines remove duplicate lines sterge liniile repetate si pastreaza fiecare linie unica o singura data in ordine",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Sortare linii",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Ordonează liniile A-Z, Z-A, după lungime, inversat sau amestecate aleatoriu în mod corect.",
+  "k": "sort lines sort lines ordoneaza liniile a z z a dupa lungime inversat sau amestecate aleatoriu in mod corect",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Inversare text",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Întoarce textul invers - tot textul, fiecare cuvânt, ordinea cuvintelor sau ordinea liniilor.",
+  "k": "reverse text reverse text intoarce textul invers tot textul fiecare cuvant ordinea cuvintelor sau ordinea liniilor",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Eliminare spații suplimentare",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Stoarce spațiile duble, taburile și marginile neuniforme din textul copiat dezordonat.",
+  "k": "remove extra spaces remove extra spaces stoarce spatiile duble taburile si marginile neuniforme din textul copiat dezordonat",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Căutare și înlocuire",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Înlocuiește fiecare apariție a unui cuvânt sau a unei expresii cu alta, într-o singură trecere.",
+  "k": "find and replace find and replace inlocuieste fiecare aparitie a unui cuvant sau a unei expresii cu alta intr o singura trecere",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Text în voce",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Ascultă orice text citit cu voce tare - engleză, urdu și alte voci, viteza ta.",
+  "k": "text to speech text to speech asculta orice text citit cu voce tare engleza urdu si alte voci viteza ta",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Voce în text",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Vorbește și privește cum cuvintele tale devin text - engleză, urdu și altele.",
+  "k": "speech to text speech to text vorbeste si priveste cum cuvintele tale devin text engleza urdu si altele",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de parole",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Parole aleatorii puternice, cu lungimea și simbolurile alese de tine.",
+  "k": "password generator password generator parole aleatorii puternice cu lungimea si simbolurile alese de tine",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Comparare text",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Aliniază două texte și vezi exact ce linii s-au schimbat.",
+  "k": "text compare text compare aliniaza doua texte si vezi exact ce linii s au schimbat",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Frecvența cuvintelor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Un tabel clasat al cuvintelor tale cele mai folosite, cu numărători și procentaje.",
+  "k": "word frequency word frequency un tabel clasat al cuvintelor tale cele mai folosite cu numaratori si procentaje",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Eliminare întreruperi de linie",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Unește liniile rupte în stil PDF înapoi în paragrafe curate și curgătoare.",
+  "k": "remove line breaks remove line breaks uneste liniile rupte in stil pdf inapoi in paragrafe curate si curgatoare",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Adăugare numere de linie",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Numerotează fiecare linie - alege startul, pasul, completarea și separatorul.",
+  "k": "add line numbers add line numbers numeroteaza fiecare linie alege startul pasul completarea si separatorul",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Text fals clasic, pe paragraf, propoziție sau cuvânt, pentru desenele tale.",
+  "k": "lorem ipsum generator lorem ipsum generator text fals clasic pe paragraf propozitie sau cuvant pentru desenele tale",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de slug-uri",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Transformă orice titlu într-un slug URL curat și prietenos cu căutarea, în direct.",
+  "k": "slug generator slug generator transforma orice titlu intr un slug url curat si prietenos cu cautarea in direct",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Traducător cod Morse",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Text în cod Morse și înapoi - cu redare reală în bipuri.",
+  "k": "morse code translator morse code translator text in cod morse si inapoi cu redare reala in bipuri",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Text în binar",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Vezi textul ca 0-urile și 1-urile pe care le stochează computerele - și decodifică codul binar înapoi.",
+  "k": "text to binary text to binary vezi textul ca 0 urile si 1 urile pe care le stocheaza computerele si decodifica codul binar inapoi",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Urdu romanizat în urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Transformă „mera naam Ahmed hai” în scriere urdu corectă, instant.",
+  "k": "roman urdu to urdu roman urdu to urdu transforma mera naam ahmed hai in scriere urdu corecta instant",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Blocnotes online",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Un blocnotes care salvează automat în browserul tău - descărcare și imprimare incluse.",
+  "k": "online notepad online notepad un blocnotes care salveaza automat in browserul tau descarcare si imprimare incluse",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de text decorativ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Text aldin, de mână, încercuit și răsturnat, pentru biografii și descrieri.",
+  "k": "fancy text generator fancy text generator text aldin de mana incercuit si rasturnat pentru biografii si descrieri",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Contor de silabe",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Numără silabele din fiecare cuvânt și în total - perfect pentru poezii, haiku și versuri.",
+  "k": "syllable counter syllable counter numara silabele din fiecare cuvant si in total perfect pentru poezii haiku si versuri",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Contor de paragrafe",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Numără paragrafele, cu cuvinte și propoziții pe paragraf și cel mai lung semnalat.",
+  "k": "paragraph counter paragraph counter numara paragrafele cu cuvinte si propozitii pe paragraf si cel mai lung semnalat",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator al nivelului de lectură",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Scoruri Flesch Reading Ease și de nivel de clasă, cu un verdict în engleză simplă.",
+  "k": "reading level calculator reading level calculator scoruri flesch reading ease si de nivel de clasa cu un verdict in engleza simpla",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de palindroame",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Se citește la fel de la coadă la cap? Verifică cuvinte, numere și propoziții întregi.",
+  "k": "palindrome checker palindrome checker se citeste la fel de la coada la cap verifica cuvinte numere si propozitii intregi",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de anagrame",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Găsește cuvinte reale ascunse în literele tale și testează perechi de anagrame instant.",
+  "k": "anagram generator anagram generator gaseste cuvinte reale ascunse in literele tale si testeaza perechi de anagrame instant",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Alfabet fonetic NATO",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Rostește orice în modul piloților - Alfa, Bravo, Charlie - și decodifică-l înapoi.",
+  "k": "nato phonetic alphabet nato phonetic alphabet rosteste orice in modul pilotilor alfa bravo charlie si decodifica l inapoi",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertor text în ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Codurile zecimale, hex, octale și binare din spatele fiecărui caracter, și înapoi.",
+  "k": "text to ascii converter text to ascii converter codurile zecimale hex octale si binare din spatele fiecarui caracter si inapoi",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertor text în hexazecimal",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Text în octeți hexazecimali și înapoi, cu UTF-8 corect pentru fiecare limbă.",
+  "k": "text to hex converter text to hex converter text in octeti hexazecimali si inapoi cu utf 8 corect pentru fiecare limba",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Găsitor de cuvinte repetate",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Fiecare cuvânt pe care l-ai folosit de mai multe ori, clasat - plus cuvintele duble accidentale.",
+  "k": "repeated words finder repeated words finder fiecare cuvant pe care l ai folosit de mai multe ori clasat plus cuvintele duble accidentale",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de caractere invizibile",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Dezvăluie caracterele cu lățime zero și ascunse din textul copiat și elimină-le.",
+  "k": "invisible character checker invisible character checker dezvaluie caracterele cu latime zero si ascunse din textul copiat si elimina le",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Eliminare punctuație",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Scoate punctuația din text cu un clic, păstrând cuvintele curate.",
+  "k": "remove punctuation remove punctuation scoate punctuatia din text cu un clic pastrand cuvintele curate",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de e-mailuri",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Scoate fiecare adresă de e-mail din orice text - deduplicată, câte una pe linie.",
+  "k": "email extractor email extractor scoate fiecare adresa de e mail din orice text deduplicata cate una pe linie",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Imagine în text (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Extrage text editabil din fotografii, scanări și capturi de ecran - OCR gratuit în browserul tău.",
+  "k": "image to text (ocr) image to text (ocr) extrage text editabil din fotografii scanari si capturi de ecran ocr gratuit in browserul tau",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertor imagine în Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Transformă o fotografie sau o captură de ecran a unui tabel într-un fișier Excel real - verifică și editează celulele, apoi descarcă.",
+  "k": "image to excel converter image to excel converter transforma o fotografie sau o captura de ecran a unui tabel intr un fisier excel real verifica si editeaza celulele apoi descarca",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de citări",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Citări APA ediția a 7-a, MLA ediția a 9-a și Chicago pentru site-uri web, cărți și articole de jurnal.",
+  "k": "citation generator citation generator citari apa editia a 7 a mla editia a 9 a si chicago pentru site uri web carti si articole de jurnal",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Cititor EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Deschide și citește cărți electronice EPUB chiar în browserul tău - listă de capitole, mărime a fontului reglabilă și mod întunecat.",
+  "k": "epub reader epub reader deschide si citeste carti electronice epub chiar in browserul tau lista de capitole marime a fontului reglabila si mod intunecat",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB în text",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Transformă o carte electronică EPUB într-un fișier text simplu curat - capitole în ordinea de citire, titluri păstrate.",
+  "k": "epub to text epub to text transforma o carte electronica epub intr un fisier text simplu curat capitole in ordinea de citire titluri pastrate",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB în HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Transformă o carte electronică EPUB într-un singur fișier HTML autonom, cu imaginile ei încorporate.",
+  "k": "epub to html epub to html transforma o carte electronica epub intr un singur fisier html autonom cu imaginile ei incorporate",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ în PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Transformă o arhivă de benzi desenate într-un PDF - pagini în ordine naturală, câte o imagine pe pagină.",
+  "k": "cbz to pdf cbz to pdf transforma o arhiva de benzi desenate intr un pdf pagini in ordine naturala cate o imagine pe pagina",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX în EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Transformă un document Word într-o carte electronică EPUB - titlurile devin capitole.",
+  "k": "docx to epub docx to epub transforma un document word intr o carte electronica epub titlurile devin capitole",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Editor de metadate EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Editează titlul, autorul, editura și descrierea unei cărți electronice - capitole neatins.",
+  "k": "epub metadata editor epub metadata editor editeaza titlul autorul editura si descrierea unei carti electronice capitole neatins",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Text / Markdown în EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Transformă textul simplu sau Markdown într-o carte electronică EPUB corespunzătoare, care se deschide în orice cititor.",
+  "k": "text / markdown to epub text / markdown to epub transforma textul simplu sau markdown intr o carte electronica epub corespunzatoare care se deschide in orice cititor",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator aleatoriu de subiecte",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ro/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 de subiecte pentru eseuri, discursuri, dezbateri, povești și pentru copii, scrise de mână, în 9 categorii, filtrate după nivelul școlar, fără repetări.",
+  "k": "random topic generator random topic generator 900 de subiecte pentru eseuri discursuri dezbateri povesti si pentru copii scrise de mana in 9 categorii filtrate dupa nivelul scolar fara repetari",
+  "p": 148,
+  "c": "Tool"
+ }
+]
