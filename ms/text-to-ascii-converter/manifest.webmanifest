@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengonversi Teks ke ASCII Dalam talian Percuma",
+  "short_name": "Pengonversi Teks ke ASCII Dalam talian Percuma",
+  "description": "Penukaran teks ke kod ASCII (desimal, heks, oktal dan biner untuk setiap aksara) dan penukaran kod ASCII kembali ke teks. Percuma, serta-merta, tanpa pendaftaran.",
+  "id": "/loona-text-tools/ms/text-to-ascii-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

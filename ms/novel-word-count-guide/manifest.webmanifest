@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jumlah Perkataan Novel berdasarkan Genre",
+  "short_name": "Jumlah Perkataan Novel berdasarkan Genre",
+  "description": "Jumlah perkataan novel berdasarkan genre: dewasa 70.000–120.000, YA 50.000–90.000, kelas menengah 20.000–55.000. Pengira langsung percuma dengan target genre.",
+  "id": "/loona-text-tools/ms/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

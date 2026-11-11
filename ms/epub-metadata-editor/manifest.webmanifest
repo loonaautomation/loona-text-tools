@@ -1,0 +1,29 @@
+{
+  "name": "Loona Editor Metadata EPUB Percuma",
+  "short_name": "Editor Metadata EPUB Percuma",
+  "description": "Edit metadata EPUB percuma di pelayar anda: tajuk, penulis, bahasa, penerbit dan deskripsi, dengan maklumat sampul ditampilkan. Bab tidak tersentuh, tanpa muat naik, tanpa pendaftaran.",
+  "id": "/loona-text-tools/ms/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

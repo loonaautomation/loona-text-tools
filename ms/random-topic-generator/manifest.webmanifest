@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Topik Rawak Dalam talian Percuma",
+  "short_name": "Penjana Topik Rawak Dalam talian Percuma",
+  "description": "Buat topik rawak untuk esei, ucapan, debat, perenggan, pembentangan dan cerita - 900 topik tulisan tangan dalam 9 kategori, ditapis berdasarkan tahap. Percuma, tanpa pendaftaran.",
+  "id": "/loona-text-tools/ms/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

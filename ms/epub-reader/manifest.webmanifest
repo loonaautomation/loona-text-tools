@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembaca EPUB Dalam talian Percuma",
+  "short_name": "Pembaca EPUB Dalam talian Percuma",
+  "description": "Buka dan baca ebook EPUB dalam talian percuma, langsung di pelayar anda. Senarai bab, saiz fon yang dapat disesuaikan dan mod gelap. 100% peribadi - ebook anda tidak pernah meninggalkan peranti anda. Tanpa pendaftaran.",
+  "id": "/loona-text-tools/ms/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengonversi Aksara Roman Urdu ke Urdu Dalam talian Percuma",
+  "short_name": "Pengonversi Aksara Roman Urdu ke Urdu Dalam talian Percuma",
+  "description": "Penukaran Roman Urdu (huruf Latin) menjadi aksara Urdu yang benar serta-merta - 'mera naam' menjadi tulisan Urdu asli. Pengonversi Roman Urdu ke Urdu percuma untuk Pakistan.",
+  "id": "/loona-text-tools/ms/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
