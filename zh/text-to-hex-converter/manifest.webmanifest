@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线文本转十六进制转换器,免费",
+  "short_name": "在线文本转十六进制转换器,免费",
+  "description": "将文本转换为十六进制,并将十六进制转换回文本,正确处理带重音字母、乌尔都语和表情符号的 UTF-8。免费的十六进制转换器,无需注册。",
+  "id": "/loona-text-tools/zh/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

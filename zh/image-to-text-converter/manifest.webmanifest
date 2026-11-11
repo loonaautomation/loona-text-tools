@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线图片转文字转换器 (OCR),免费",
+  "short_name": "在线图片转文字转换器 (OCR),免费",
+  "description": "用 100% 在您浏览器中运行的免费 OCR,从图片和照片中提取可编辑的文本。PNG、JPG、WebP 和 BMP——您的图片永远不会被上传。",
+  "id": "/loona-text-tools/zh/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

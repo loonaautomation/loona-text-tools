@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线随机话题生成器,免费",
+  "short_name": "在线随机话题生成器,免费",
+  "description": "为作文、演讲、辩论、段落、演示和故事生成随机话题——900 个手工编写的话题,分 9 个类别,按级别过滤。免费,无需注册。",
+  "id": "/loona-text-tools/zh/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

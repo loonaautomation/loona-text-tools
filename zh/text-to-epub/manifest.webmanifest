@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文本转 EPUB 转换器,免费",
+  "short_name": "文本转 EPUB 转换器,免费",
+  "description": "免费将纯文本或 Markdown 转换为有效的 EPUB 电子书,在您的浏览器中完成。标题和作者,章节来自标题,可在任何 EPUB 阅读器中打开。不上传,无需注册。",
+  "id": "/loona-text-tools/zh/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

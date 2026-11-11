@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线语音转文字,免费",
+  "short_name": "在线语音转文字,免费",
+  "description": "用您的声音听写,看着它变成文本——免费的在线语音转文字,适用于英语、乌尔都语和更多语言。无需注册;在 Chrome 和 Edge 中工作。",
+  "id": "/loona-text-tools/zh/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

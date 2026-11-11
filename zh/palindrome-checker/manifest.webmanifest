@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线回文检查器,免费",
+  "short_name": "在线回文检查器,免费",
+  "description": "检查任何单词、数字或句子是否为回文——正读反读都一样。显示清理后的文本及其倒序。免费,无需注册。",
+  "id": "/loona-text-tools/zh/palindrome-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

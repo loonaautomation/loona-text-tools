@@ -1,0 +1,29 @@
+{
+  "name": "Loona 演讲时间计算器",
+  "short_name": "演讲时间计算器",
+  "description": "粘贴您的演讲或讲稿,查看在慢速、对话式和快速语速下讲完需要多长时间——外加目标时间能容纳多少词。免费,无需注册。",
+  "id": "/loona-text-tools/zh/speaking-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

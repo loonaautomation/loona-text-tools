@@ -1,0 +1,29 @@
+{
+  "name": "Loona 变位词生成器和检查器,在线免费",
+  "short_name": "变位词生成器和检查器,在线免费",
+  "description": "从真正的英语单词中查找任何单词的变位词,并检查两个单词或短语是否互为变位词。免费的变位词求解器,无需注册。",
+  "id": "/loona-text-tools/zh/anagram-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

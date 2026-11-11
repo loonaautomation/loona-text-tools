@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线 EPUB 阅读器,免费",
+  "short_name": "在线 EPUB 阅读器,免费",
+  "description": "在线免费打开和阅读 EPUB 电子书,就在您的浏览器中。章节列表、可调字号和深色模式。100% 私密——您的电子书永远不会离开您的设备。无需注册。",
+  "id": "/loona-text-tools/zh/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

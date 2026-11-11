@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线大小写转换器",
+  "short_name": "在线大小写转换器",
+  "description": "一键将文本转换为 UPPERCASE、小写、标题大小写、句子大小写、首字母大写或 aLtErNaTiNg 大小写。免费在线大小写转换器——无需注册。",
+  "id": "/loona-text-tools/zh/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

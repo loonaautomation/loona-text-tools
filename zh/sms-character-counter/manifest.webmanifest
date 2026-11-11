@@ -1,0 +1,29 @@
+{
+  "name": "Loona 短信字符计数器",
+  "short_name": "短信字符计数器",
+  "description": "免费的短信字符计数器:GSM 7 位与 Unicode 检测、分段计数和剩余字符数——在您的浏览器中实时进行。",
+  "id": "/loona-text-tools/zh/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线打字测试,免费",
+  "short_name": "在线打字测试,免费",
+  "description": "免费的 60 秒打字测试:用简单、中等和困难文本测量您的打字速度(WPM)、准确率和每分钟字符数。无需注册,100% 在您的浏览器中运行。",
+  "id": "/loona-text-tools/zh/typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

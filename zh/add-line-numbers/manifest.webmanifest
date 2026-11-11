@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线添加行号",
+  "short_name": "在线添加行号",
+  "description": "为文本的每一行添加数字,可自由选择起始值、步长、填充和分隔符。免费的行编号工具——无需注册,即时且私密。",
+  "id": "/loona-text-tools/zh/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

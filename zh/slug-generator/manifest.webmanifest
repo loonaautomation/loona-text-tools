@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线 Slug 生成器",
+  "short_name": "在线 Slug 生成器",
+  "description": "把任何标题变成干净、对 SEO 友好的 URL slug:小写、无空格、无特殊字符。免费在线 slug 生成器,带完整的 URL 预览——无需注册。",
+  "id": "/loona-text-tools/zh/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

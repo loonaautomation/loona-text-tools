@@ -1,0 +1,29 @@
+{
+  "name": "Loona 元描述长度检查器",
+  "short_name": "元描述长度检查器",
+  "description": "免费的 元描述长度检查器 计数器:输入时实时统计字符数,对照 160 字符的限制,并显示词数和剩余字符数。",
+  "id": "/loona-text-tools/zh/meta-description-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

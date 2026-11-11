@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线文本对比",
+  "short_name": "在线文本对比",
+  "description": "逐行比较两段文本,确切查看哪些行被添加、删除或保留。免费在线文本比较工具——无需注册,在您的浏览器中私密进行。",
+  "id": "/loona-text-tools/zh/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

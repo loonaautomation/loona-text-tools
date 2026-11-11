@@ -1,0 +1,29 @@
+{
+  "name": "Loona 在线查找与替换文本",
+  "short_name": "在线查找与替换文本",
+  "description": "查找一个词或短语,一次性替换文本中的每处出现,带有区分大小写、全词和模式选项。免费在线工具——无需注册。",
+  "id": "/loona-text-tools/zh/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
