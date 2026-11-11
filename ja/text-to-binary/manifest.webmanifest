@@ -1,0 +1,29 @@
+{
+  "name": "Loona テキストからバイナリへの変換ツールオンライン",
+  "short_name": "テキストからバイナリへの変換ツールオンライン",
+  "description": "テキストをバイナリコード（0 と 1）に変換し、バイナリを読み取り可能なテキストに戻します。完全な Unicode 対応。無料のテキストからバイナリへの変換ツール — CS の学生に最適です。",
+  "id": "/loona-text-tools/ja/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

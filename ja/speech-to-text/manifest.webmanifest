@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音声からテキストへオンラインフリー",
+  "short_name": "音声からテキストへオンラインフリー",
+  "description": "声で口述し、それがテキストになる様子をご覧ください — 英語、ウルドゥー語、その他の言語のための無料オンライン音声テキスト変換。登録不要。Chrome と Edge で動作します。",
+  "id": "/loona-text-tools/ja/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

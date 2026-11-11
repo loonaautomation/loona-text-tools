@@ -1,0 +1,29 @@
+{
+  "name": "Loona 単語カウンターオンラインフリー",
+  "short_name": "単語カウンターオンラインフリー",
+  "description": "任意のテキストの単語、文字、文、段落を即座に数え、読書時間と話す時間も表示します。無料単語カウンター、登録不要、オフラインで動作します。",
+  "id": "/loona-text-tools/ja/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

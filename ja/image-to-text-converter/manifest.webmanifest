@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像からテキストへの変換ツール（OCR）オンラインフリー",
+  "short_name": "画像からテキストへの変換ツール（OCR）オンラインフリー",
+  "description": "ブラウザーで100%動作する無料 OCR で、画像や写真から編集可能なテキストを抽出します。PNG、JPG、WebP、BMP — あなたの画像がアップロードされることは決してありません。",
+  "id": "/loona-text-tools/ja/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

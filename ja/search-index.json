@@ -1,0 +1,443 @@
+[
+ {
+  "n": "単語カウンター",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "入力すると、単語、文字、文、段落、読書時間がライブで数えられます。",
+  "k": "word counter word counter ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "文字数カウンター",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "スペースあり・なしの文字数に、X、SMS、メタテキストのライブ制限も加わります。",
+  "k": "character counter character counter x sms",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "文カウンター",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "入力すると、任意のテキストの文、段落、単語、文字がライブで数えられます。",
+  "k": "sentence counter sentence counter ",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "読書時間計算ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "遅い、平均、速いの読書速度で、任意のテキストを読むのにかかる時間。",
+  "k": "reading time calculator reading time calculator ",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "発表時間計算ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "スピーチや原稿の発表にかかる時間 - さらに目標時間に必要な単語数。",
+  "k": "speaking time calculator speaking time calculator ",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "タイピングテスト",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60秒のタイピングテスト — 入力しながらリアルタイムで WPM の速度、正確さ、CPM を表示します。",
+  "k": "typing test typing test 60 wpm cpm",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "ケース変換ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE、lowercase、Title Case、Sentence case など - それぞれワンクリック。",
+  "k": "case converter case converter uppercase lowercase title case sentence case",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "重複行を削除",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "繰り返し行を削除し、各ユニークな行を順序通りに一度だけ保持します。",
+  "k": "remove duplicate lines remove duplicate lines ",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "行を並べ替え",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "行を A-Z、Z-A、長さ順、逆順、または公平にランダムにシャッフルされた順に並べてください。",
+  "k": "sort lines sort lines a z z a",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "テキスト反転",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "テキストを逆向きに反転します - テキスト全体、各単語、単語の順序、行の順序。",
+  "k": "reverse text reverse text ",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "余分なスペースを削除",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "乱れたコピーテキストから二重スペース、タブ、不揃いな端を取り除きます。",
+  "k": "remove extra spaces remove extra spaces ",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "検索と置換",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "一回の処理で、単語やフレーズのすべての出現箇所を別のものに取り替えます。",
+  "k": "find and replace find and replace ",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "テキスト読み上げ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "任意のテキストを読み上げて聞いてください - 英語、ウルドゥー語、その他の音声、あなたの速度で。",
+  "k": "text to speech text to speech ",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "音声からテキストへ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "話すとあなたの言葉がテキストになる様子をご覧ください - 英語、ウルドゥー語、その他。",
+  "k": "speech to text speech to text ",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "パスワード生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "選んだ長さと記号で強力なランダムパスワード。",
+  "k": "password generator password generator ",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "テキスト比較",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "二つのテキストを並べて、どの行が変わったかを正確に確認します。",
+  "k": "text compare text compare ",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "単語頻度",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "最もよく使う単語のランキング表（カウントとパーセンテージ付き）です。",
+  "k": "word frequency word frequency ",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "改行を削除",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "PDF 形式に壊れた行を、きれいで流れるような段落につなぎ直します。",
+  "k": "remove line breaks remove line breaks pdf",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "行番号を追加",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "すべての行に番号を付ける - 開始、ステップ、ゼロ埋め、区切りを選んでください。",
+  "k": "add line numbers add line numbers ",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum 生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "段落、文、単語ごとのクラシックなダミーテキスト（デザイン用）。",
+  "k": "lorem ipsum generator lorem ipsum generator ",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "スラッグ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "任意のタイトルを、きれいな検索フレンドリーな URL スラッグに変えます、ライブで。",
+  "k": "slug generator slug generator url",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "モールス信号変換ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "テキストからモールス信号へ＆戻す - 本物のビープ再生付き。",
+  "k": "morse code translator morse code translator ",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "テキストからバイナリへ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "コンピューターが保存する 0 と 1 としてテキストを見て、バイナリをデコードして戻します。",
+  "k": "text to binary text to binary 0 1",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "ローマ字ウルドゥーからウルドゥーへ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "'mera naam Ahmed hai' を適切なウルドゥー文字に変えます、即座に。",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "オンラインメモ帳",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "ブラウザーに自動保存されるメモ帳 — ダウンロードと印刷付きです。",
+  "k": "online notepad online notepad ",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "おしゃれ文字生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "プロフィールやキャプションのための太字、筆記体、丸囲み、逆さまのテキスト。",
+  "k": "fancy text generator fancy text generator ",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "音節カウンター",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "すべての単語と合計の音節を数えます — 詩、俳句、歌詞に最適です。",
+  "k": "syllable counter syllable counter ",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "段落カウンター",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "段落を数え、段落ごとの単語と文も表示し、最長のものを示します。",
+  "k": "paragraph counter paragraph counter ",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "読解レベル計算ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "任意のテキストの Flesch Reading Ease と学年レベルスコア、平易な英語の判定付き。",
+  "k": "reading level calculator reading level calculator flesch reading ease",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "回文チェッカー",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "後ろから読んでも同じですか？単語、数字、文全体をチェックします。",
+  "k": "palindrome checker palindrome checker ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "アナグラム生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "文字の中に隠れた本物の単語を見つけ、アナグラムペアを即座にテストします。",
+  "k": "anagram generator anagram generator ",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO フォネティックアルファベット",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "パイロットの方法で何でも綴ってください - Alfa、Bravo、Charlie - そしてデコードして戻してください。",
+  "k": "nato phonetic alphabet nato phonetic alphabet alfa bravo charlie",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "テキストから ASCII への変換ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "すべての文字の背後にある十進数、十六進数、八進数、二進数のコード、そして戻すこと。",
+  "k": "text to ascii converter text to ascii converter ",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "テキストから十六進数への変換ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "すべての言語に適切な UTF-8 を備えた、テキストから十六進数バイトへ＆戻す。",
+  "k": "text to hex converter text to hex converter utf 8",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "繰り返し単語検索ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "二回以上使ったすべての単語をランキング — 偶然の二重単語も加えて。",
+  "k": "repeated words finder repeated words finder ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "不可視文字チェッカー",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "コピーされたテキストのゼロ幅・隠れた文字を明らかにし、削除します。",
+  "k": "invisible character checker invisible character checker ",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "句読点を削除",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "ワンクリックでテキストから句読点を剥がし、単語をきれいに保ちます。",
+  "k": "remove punctuation remove punctuation ",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "メール抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "あらゆるテキストからすべてのメールアドレスを引き出します - 重複を除き、一行ずつ。",
+  "k": "email extractor email extractor ",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "画像からテキストへ（OCR）",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "写真、スキャン、スクリーンショットから編集可能なテキストを抽出します — ブラウザーで無料 OCR。",
+  "k": "image to text (ocr) image to text (ocr) ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "画像から Excel への変換ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "表の写真やスクリーンショットを本物の Excel ファイルに変えます - セルを確認して編集し、それからダウンロードしてください。",
+  "k": "image to excel converter image to excel converter excel",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "引用生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Webサイト、書籍、学術誌記事のための APA 第7版、MLA 第9版、シカゴ引用。",
+  "k": "citation generator citation generator web apa 7 mla 9",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB リーダー",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "EPUB 電子書籍をブラウザーでそのまま開いて読んでください - 章リスト、調整可能なフォントサイズ、ダークモード。",
+  "k": "epub reader epub reader epub",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB からテキストへ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "EPUB 電子書籍をきれいなプレーンテキストファイルに変えます - 読書順の章、保持された見出し。",
+  "k": "epub to text epub to text epub",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB から HTML へ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "EPUB 電子書籍を、画像が埋め込まれた一つの自己完結型 HTML ファイルに変えます。",
+  "k": "epub to html epub to html epub html",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ から PDF へ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "コミックアーカイブを PDF に変えます - 自然な順序のページ、一ページに一つの画像。",
+  "k": "cbz to pdf cbz to pdf pdf",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX から EPUB へ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Word 文書を EPUB 電子書籍に変えます - 見出しが章になります。",
+  "k": "docx to epub docx to epub word epub",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB メタデータ編集ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "電子書籍のタイトル、著者、出版社、説明を編集します — 章はそのまま。",
+  "k": "epub metadata editor epub metadata editor ",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "テキスト / Markdown から EPUB へ",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "プレーンテキストまたは Markdown を、どのリーダーでも開ける適切な EPUB 電子書籍に変えます。",
+  "k": "text / markdown to epub text / markdown to epub markdown epub",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "ランダムトピック生成ツール",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ja/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "学校レベルで絞り込める、手書きのエッセイ、スピーチ、ディベート、物語、子ども向けトピック900件（9カテゴリー）。繰り返しはありません。",
+  "k": "random topic generator random topic generator 900 9",
+  "p": 148,
+  "c": "Tool"
+ }
+]

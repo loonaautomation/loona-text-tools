@@ -1,0 +1,29 @@
+{
+  "name": "Loona 読解レベル計算ツール",
+  "short_name": "読解レベル計算ツール",
+  "description": "Flesch Reading Ease スケールと Flesch-Kincaid Grade Level で任意のテキストを、標準の公式を使って評価します。あなたの文章がどれくらい読みやすいか確認してください。無料。",
+  "id": "/loona-text-tools/ja/reading-level-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

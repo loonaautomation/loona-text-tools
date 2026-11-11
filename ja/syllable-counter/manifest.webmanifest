@@ -1,0 +1,29 @@
+{
+  "name": "Loona 音節カウンターオンラインフリー",
+  "short_name": "音節カウンターオンラインフリー",
+  "description": "任意の単語、文、テキスト全体の音節を即座に数えます — 音節の合計、単語ごとの内訳、平均。無料音節カウンター、登録不要、オフラインで動作します。",
+  "id": "/loona-text-tools/ja/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona オンラインメモ帳無料",
+  "short_name": "オンラインメモ帳無料",
+  "description": "入力するとブラウザーに自動保存される無料オンラインメモ帳 — ダウンロード、印刷、単語数カウント付き。登録不要で、メモがあなたの端末から離れることはありません。",
+  "id": "/loona-text-tools/ja/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

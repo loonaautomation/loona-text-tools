@@ -1,0 +1,29 @@
+{
+  "name": "Loona テキスト検索と置換オンライン",
+  "short_name": "テキスト検索と置換オンライン",
+  "description": "単語やフレーズを検索し、テキスト内のすべての出現箇所を一度に置換します。大文字・小文字を区別、単語全体、パターンのオプション付き。無料オンラインツール — 登録不要。",
+  "id": "/loona-text-tools/ja/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

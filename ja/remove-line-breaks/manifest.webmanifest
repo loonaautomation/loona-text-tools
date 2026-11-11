@@ -1,0 +1,29 @@
+{
+  "name": "Loona 改行を削除オンライン",
+  "short_name": "改行を削除オンライン",
+  "description": "改行を削除し、壊れた行をきれいな段落につなぎます - PDF からコピーされたテキストに最適です。無料オンライン改行削除ツール、登録不要、即時結果。",
+  "id": "/loona-text-tools/ja/remove-line-breaks/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

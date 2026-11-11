@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像から Excel への変換ツールオンラインフリー",
+  "short_name": "画像から Excel への変換ツールオンラインフリー",
+  "description": "表の写真、スキャン、スクリーンショットを、ブラウザーで100%動作する無料 OCR で本物の Excel（.xlsx）ファイルに変換します。ダウンロード前に表を編集できます — アップロードなし、登録なし。",
+  "id": "/loona-text-tools/ja/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB から HTML への変換ツール無料",
+  "short_name": "EPUB から HTML への変換ツール無料",
+  "description": "EPUB 電子書籍をブラウザーで無料で、単一の自己完結型 HTML ファイルに変換します。順序通りの章、基本的なタイポグラフィ、小さな画像の埋め込み。アップロードなし、登録なし。",
+  "id": "/loona-text-tools/ja/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
