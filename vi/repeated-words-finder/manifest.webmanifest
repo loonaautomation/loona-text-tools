@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ tìm từ lặp lại trực tuyến miễn phí",
+  "short_name": "Công cụ tìm từ lặp lại trực tuyến miễn phí",
+  "description": "Tìm mỗi từ xuất hiện nhiều hơn một lần trong văn bản của bạn, xếp hạng theo tần suất lặp lại. Bắt các từ gấp đôi vô tình và các từ dùng quá nhiều. Miễn phí, không đăng ký.",
+  "id": "/loona-text-tools/vi/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

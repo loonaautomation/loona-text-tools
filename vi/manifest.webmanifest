@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Tools",
+  "short_name": "Text Tools",
+  "description": "Công cụ văn bản trực tuyến miễn phí - bộ đếm từ, công cụ chuyển đổi kiểu chữ, chuyển văn bản thành giọng nói, chuyển giọng nói thành văn bản, công cụ chuyển đổi Roman Urdu sang Urdu và hơn nữa. Miễn phí 100%, không đăng ký, riêng tư.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "../icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-text-tools/vi/"
+}

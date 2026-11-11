@@ -1,0 +1,29 @@
+{
+  "name": "Loona So sánh văn bản trực tuyến",
+  "short_name": "So sánh văn bản trực tuyến",
+  "description": "So sánh hai văn bản theo từng dòng và xem chính xác dòng nào đã được thêm, loại bỏ hoặc giữ lại. Công cụ so sánh văn bản trực tuyến miễn phí - không cần đăng ký, riêng tư trong trình duyệt của bạn.",
+  "id": "/loona-text-tools/vi/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

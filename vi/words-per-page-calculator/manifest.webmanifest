@@ -1,0 +1,29 @@
+{
+  "name": "Loona Máy tính từ mỗi trang",
+  "short_name": "Máy tính từ mỗi trang",
+  "description": "Máy tính từ-mỗi-trang miễn phí: nhập số từ, cỡ chữ và giãn dòng để nhận số trang và số từ mỗi trang.",
+  "id": "/loona-text-tools/vi/words-per-page-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bài kiểm tra tốc độ đánh máy trực tuyến miễn phí",
+  "short_name": "Bài kiểm tra tốc độ đánh máy trực tuyến miễn phí",
+  "description": "Bài kiểm tra đánh máy 60 giây miễn phí: đo tốc độ đánh máy của bạn theo WPM, độ chính xác và số ký tự mỗi phút với các văn bản dễ, trung bình và khó. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-text-tools/vi/typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

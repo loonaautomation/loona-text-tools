@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình đọc EPUB trực tuyến miễn phí",
+  "short_name": "Trình đọc EPUB trực tuyến miễn phí",
+  "description": "Mở và đọc sách điện tử EPUB trực tuyến miễn phí, ngay trong trình duyệt của bạn. Danh sách chương, cỡ chữ có thể điều chỉnh và chế độ tối. Riêng tư 100% - sách điện tử của bạn không bao giờ rời khỏi thiết bị. Không đăng ký.",
+  "id": "/loona-text-tools/vi/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

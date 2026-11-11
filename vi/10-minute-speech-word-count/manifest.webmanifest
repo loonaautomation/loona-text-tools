@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bài nói 10 phút",
+  "short_name": "Bài nói 10 phút",
+  "description": "Bao nhiêu từ trong một bài nói 10 phút? 1,100–1,800 từ (1,500 với tốc độ trò chuyện). Bộ đếm trực tiếp miễn phí với kiểm tra thời gian nói.",
+  "id": "/loona-text-tools/vi/10-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

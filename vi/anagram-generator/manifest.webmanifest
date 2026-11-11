@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo đảo chữ & công cụ kiểm tra trực tuyến miễn phí",
+  "short_name": "Trình tạo đảo chữ & công cụ kiểm tra trực tuyến miễn phí",
+  "description": "Tìm đảo chữ của bất kỳ từ nào từ các từ tiếng Anh thực sự, và kiểm tra xem hai từ hoặc cụm từ có phải là đảo chữ của nhau không. Công cụ giải đảo chữ miễn phí, không đăng ký.",
+  "id": "/loona-text-tools/vi/anagram-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

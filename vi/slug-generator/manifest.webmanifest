@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo Slug trực tuyến",
+  "short_name": "Trình tạo Slug trực tuyến",
+  "description": "Biến bất kỳ tiêu đề nào thành một slug URL sạch, thân thiện với SEO: chữ thường, không khoảng trắng, không ký tự đặc biệt. Trình tạo slug trực tuyến miễn phí với xem trước URL đầy đủ - không đăng ký.",
+  "id": "/loona-text-tools/vi/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

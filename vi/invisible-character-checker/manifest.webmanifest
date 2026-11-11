@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ kiểm tra ký tự ẩn",
+  "short_name": "Công cụ kiểm tra ký tự ẩn",
+  "description": "Tiết lộ các ký tự ẩn trốn trong văn bản của bạn - khoảng trắng độ rộng bằng không, BOM, khoảng trắng không ngắt và dấu định hướng - và loại bỏ chúng chỉ trong một cú nhấp chuột. Miễn phí.",
+  "id": "/loona-text-tools/vi/invisible-character-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

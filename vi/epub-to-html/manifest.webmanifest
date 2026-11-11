@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ chuyển đổi EPUB sang HTML miễn phí",
+  "short_name": "Công cụ chuyển đổi EPUB sang HTML miễn phí",
+  "description": "Chuyển đổi sách điện tử EPUB sang một tệp HTML tự chứa duy nhất miễn phí, trong trình duyệt của bạn. Các chương theo thứ tự, kiểu chữ cơ bản, hình ảnh nhỏ được nhúng. Không tải lên, không đăng ký.",
+  "id": "/loona-text-tools/vi/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

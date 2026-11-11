@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo trích dẫn trực tuyến miễn phí",
+  "short_name": "Trình tạo trích dẫn trực tuyến miễn phí",
+  "description": "Tạo trích dẫn được định dạng đúng cho trang web, sách và bài báo tạp chí trong APA 7, MLA 9 và Chicago tác giả-ngày - miễn phí, tức thì, trong trình duyệt của bạn.",
+  "id": "/loona-text-tools/vi/citation-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

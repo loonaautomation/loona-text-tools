@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tìm và thay thế văn bản trực tuyến",
+  "short_name": "Tìm và thay thế văn bản trực tuyến",
+  "description": "Tìm một từ hoặc cụm từ và thay thế mỗi lần xuất hiện trong văn bản của bạn cùng một lúc, với các tùy chọn phân biệt chữ hoa-thường, từ nguyên và mẫu. Công cụ trực tuyến miễn phí - không đăng ký.",
+  "id": "/loona-text-tools/vi/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
