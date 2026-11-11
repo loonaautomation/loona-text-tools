@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1 分鐘演講——需要多少詞?",
+  "short_name": "1 分鐘演講——需要多少詞?",
+  "description": "1 分鐘的演講有多少詞?110–180 個詞(對話語速下為 150 詞)。免費實時計數器,附演講時間檢查。",
+  "id": "/loona-text-tools/zh-hant/1-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

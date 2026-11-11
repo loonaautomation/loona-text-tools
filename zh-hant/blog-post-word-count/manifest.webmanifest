@@ -1,0 +1,29 @@
+{
+  "name": "Loona 部落格文章詞數——文章應該多長?",
+  "short_name": "部落格文章詞數——文章應該多長?",
+  "description": "部落格文章詞數檢查器:實時計數,帶有新聞(300–500)、標準文章(1,000–1,500)和深入指南(2,000+)的長度區間。",
+  "id": "/loona-text-tools/zh-hant/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

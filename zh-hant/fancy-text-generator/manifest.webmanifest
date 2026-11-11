@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上花式文字生成器",
+  "short_name": "線上花式文字生成器",
+  "description": "把純文字變成時尚的 Unicode 字型——粗體、花體、哥特體、圓圈、小型大寫等等——用於個人簡介、標題和使用者名稱。免費的花式文字生成器。",
+  "id": "/loona-text-tools/zh-hant/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

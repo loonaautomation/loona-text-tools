@@ -1,0 +1,29 @@
+{
+  "name": "Loona CBZ 轉 PDF 轉換器,免費",
+  "short_name": "CBZ 轉 PDF 轉換器,免費",
+  "description": "在瀏覽器中免費將 CBZ 和 ZIP 漫畫壓縮包轉換為 PDF。頁面按自然順序(1、2、10),每頁一張全尺寸圖片。不上傳,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/cbz-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

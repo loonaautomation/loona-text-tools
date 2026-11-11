@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gunning Fog 指數計算器",
+  "short_name": "Gunning Fog 指數計算器",
+  "description": "免費的 Gunning Fog 指數計算器:貼上文字,得到 Fog 指數、複雜詞計數及其隱含的受教育年限。",
+  "id": "/loona-text-tools/zh-hant/gunning-fog-index-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

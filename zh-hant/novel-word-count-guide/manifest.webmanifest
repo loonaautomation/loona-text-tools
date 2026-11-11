@@ -1,0 +1,29 @@
+{
+  "name": "Loona 按型別劃分的小說詞數",
+  "short_name": "按型別劃分的小說詞數",
+  "description": "按型別劃分的小說詞數:成人 70,000–120,000,YA 50,000–90,000,中年級 20,000–55,000。免費實時計數器,附型別目標。",
+  "id": "/loona-text-tools/zh-hant/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

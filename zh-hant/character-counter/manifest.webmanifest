@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上字元計數器",
+  "short_name": "線上字元計數器",
+  "description": "統計含空格和不含空格的字元數,並檢查 X(Twitter)、簡訊、元描述等的限制。免費線上字元計數器——無需註冊。",
+  "id": "/loona-text-tools/zh-hant/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

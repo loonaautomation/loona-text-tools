@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上刪除換行符",
+  "short_name": "線上刪除換行符",
+  "description": "刪除換行符,把破碎的行連線成乾淨的段落——非常適合從 PDF 複製的文字。免費線上換行刪除器,無需註冊,即時結果。",
+  "id": "/loona-text-tools/zh-hant/remove-line-breaks/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

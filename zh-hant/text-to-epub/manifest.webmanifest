@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文字轉 EPUB 轉換器,免費",
+  "short_name": "文字轉 EPUB 轉換器,免費",
+  "description": "免費將純文字或 Markdown 轉換為有效的 EPUB 電子書,在您的瀏覽器中完成。標題和作者,章節來自標題,可在任何 EPUB 閱讀器中開啟。不上傳,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

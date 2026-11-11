@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上刪除多餘空格",
+  "short_name": "線上刪除多餘空格",
+  "description": "一鍵從文字中刪除多餘空格、製表符和空行。整理從 PDF、電子郵件和網頁複製的文字。免費線上刪除器——無需註冊。",
+  "id": "/loona-text-tools/zh-hant/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

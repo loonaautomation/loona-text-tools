@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB 轉文字轉換器,免費",
+  "short_name": "EPUB 轉文字轉換器,免費",
+  "description": "免費將 EPUB 電子書轉換為乾淨的純文字(.txt),在您的瀏覽器中完成。章節按閱讀順序,標題保留,先顯示章節列表和詞數。不上傳,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/epub-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上文字轉十六進位制轉換器,免費",
+  "short_name": "線上文字轉十六進位制轉換器,免費",
+  "description": "將文字轉換為十六進位制,並將十六進位制轉換回文字,正確處理帶重音字母、烏爾都語和表情符號的 UTF-8。免費的十六進位制轉換器,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

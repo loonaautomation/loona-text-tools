@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上圖片轉 Excel 轉換器,免費",
+  "short_name": "線上圖片轉 Excel 轉換器,免費",
+  "description": "將一張表格的照片、掃描件或截圖轉換為真正的 Excel(.xlsx)檔案,使用 100% 在您瀏覽器中執行的免費 OCR。下載前可編輯表格——不上傳,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

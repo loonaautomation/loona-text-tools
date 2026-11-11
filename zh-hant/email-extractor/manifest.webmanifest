@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上郵箱提取器,免費",
+  "short_name": "線上郵箱提取器,免費",
+  "description": "從任何文字、文件或網頁內容中提取每個電子郵件地址——去重並逐行列出。100% 在您的瀏覽器中執行。免費,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

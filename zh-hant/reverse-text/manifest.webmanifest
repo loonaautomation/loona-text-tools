@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上文字倒序",
+  "short_name": "線上文字倒序",
+  "description": "以四種方式倒序文字:全文向後、每個單詞向後、詞序翻轉或行序翻轉。免費線上文字倒序器——無需註冊。",
+  "id": "/loona-text-tools/zh-hant/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

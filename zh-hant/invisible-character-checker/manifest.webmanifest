@@ -1,0 +1,29 @@
+{
+  "name": "Loona 隱形字元檢查器",
+  "short_name": "隱形字元檢查器",
+  "description": "揭示藏在您文字中的隱形字元——零寬空格、BOM、不間斷空格和方向標記——並一鍵刪除它們。免費。",
+  "id": "/loona-text-tools/zh-hant/invisible-character-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上文字對比",
+  "short_name": "線上文字對比",
+  "description": "逐行比較兩段文字,確切檢視哪些行被新增、刪除或保留。免費線上文字比較工具——無需註冊,在您的瀏覽器中私密進行。",
+  "id": "/loona-text-tools/zh-hant/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

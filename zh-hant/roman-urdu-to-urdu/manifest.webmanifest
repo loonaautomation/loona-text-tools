@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上羅馬烏爾都語轉烏爾都文字轉換器,免費",
+  "short_name": "線上羅馬烏爾都語轉烏爾都文字轉換器,免費",
+  "description": "立即將羅馬烏爾都語(拉丁字母)轉換為正確的烏爾都文字——'mera naam' 變成真正的烏爾都書寫。免費的羅馬烏爾都語轉烏爾都語轉換器,服務巴基斯坦。",
+  "id": "/loona-text-tools/zh-hant/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

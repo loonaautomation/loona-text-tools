@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上刪除標點符號,免費",
+  "short_name": "線上刪除標點符號,免費",
+  "description": "一鍵從任何文字中刪除標點符號——句號、逗號、引號等——帶有保留撇號和連字元的選項。免費,無需註冊。",
+  "id": "/loona-text-tools/zh-hant/remove-punctuation/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
