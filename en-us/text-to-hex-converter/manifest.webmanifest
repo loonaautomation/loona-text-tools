@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text to Hex Converter - Hexadecimal, Done Properly",
+  "short_name": "Text to Hex Converter - Hexadecimal, Done Properly",
+  "description": "Convert text to hexadecimal and hex back to text, correctly handling UTF-8 for accented letters, Urdu and emoji. Free hex converter, no sign-up.",
+  "id": "/loona-text-tools/en-us/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

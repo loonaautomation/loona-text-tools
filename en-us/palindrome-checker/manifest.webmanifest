@@ -1,0 +1,29 @@
+{
+  "name": "Loona Palindrome Checker - Does It Read the Same Backwards?",
+  "short_name": "Palindrome Checker - Does It Read the Same Backwards?",
+  "description": "Check if any word, number or sentence is a palindrome - reads the same forwards and backwards. Shows the cleaned text and its reverse. Free, no sign-up.",
+  "id": "/loona-text-tools/en-us/palindrome-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

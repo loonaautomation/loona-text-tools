@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reverse Text - Letters, Words or Whole Lines",
+  "short_name": "Reverse Text - Letters, Words or Whole Lines",
+  "description": "Reverse text four ways: whole text backwards, each word backwards, word order flipped, or line order flipped. Free online text reverser - no sign-up needed.",
+  "id": "/loona-text-tools/en-us/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Character Counter - With & Without Spaces",
+  "short_name": "Character Counter - With & Without Spaces",
+  "description": "Count characters with and without spaces and check limits for X (Twitter), SMS, meta descriptions and more. Free online character counter - no sign-up needed.",
+  "id": "/loona-text-tools/en-us/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

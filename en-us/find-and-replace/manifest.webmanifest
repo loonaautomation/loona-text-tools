@@ -1,0 +1,29 @@
+{
+  "name": "Loona Find and Replace - Change Words in Bulk",
+  "short_name": "Find and Replace - Change Words in Bulk",
+  "description": "Find a word or phrase and replace every occurrence in your text at once, with case-sensitive, whole-word and pattern options. Free online tool - no sign-up.",
+  "id": "/loona-text-tools/en-us/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

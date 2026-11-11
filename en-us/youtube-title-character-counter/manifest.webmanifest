@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Counter - Count Words, Characters & Reading Time",
+  "short_name": "Word Counter - Count Words, Characters & Reading Time",
+  "description": "Free YouTube Title Character Counter counter: live character count against the 100-character limit, with words and remaining characters shown as you type.",
+  "id": "/loona-text-tools/en-us/youtube-title-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Random Topic Generator - 900 Topics for Essays, Speeches & Stories",
+  "short_name": "Random Topic Generator - 900 Topics for Essays, Speeches & Stories",
+  "description": "Generate random topics for essays, speeches, debates, paragraphs, presentations and stories - 900 hand-written topics in 9 categories, filtered by level. Free, no sign-up.",
+  "id": "/loona-text-tools/en-us/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
