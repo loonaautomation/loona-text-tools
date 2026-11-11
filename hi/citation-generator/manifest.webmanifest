@@ -1,0 +1,29 @@
+{
+  "name": "Loona उद्धरण जनरेटर ऑनलाइन मुफ़्त",
+  "short_name": "उद्धरण जनरेटर ऑनलाइन मुफ़्त",
+  "description": "APA 7th, MLA 9 और Chicago लेखक-तिथि में वेबसाइट, पुस्तकों और जर्नल लेखों के लिए सही फ़ॉर्मेट किए उद्धरण जनरेट करें - मुफ़्त, तुरंत, आपके ब्राउज़र में।",
+  "id": "/loona-text-tools/hi/citation-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

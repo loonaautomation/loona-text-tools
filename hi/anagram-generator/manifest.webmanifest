@@ -1,0 +1,29 @@
+{
+  "name": "Loona एनाग्राम जनरेटर और जांचक ऑनलाइन मुफ़्त",
+  "short_name": "एनाग्राम जनरेटर और जांचक ऑनलाइन मुफ़्त",
+  "description": "असली अंग्रेज़ी शब्दों से किसी भी शब्द के एनाग्राम खोजें, और जांचें कि दो शब्द या वाक्यांश एक-दूसरे के एनाग्राम हैं या नहीं। मुफ़्त एनाग्राम हलकर्ता, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/anagram-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona भाषण से टेक्स्ट ऑनलाइन मुफ़्त",
+  "short_name": "भाषण से टेक्स्ट ऑनलाइन मुफ़्त",
+  "description": "अपनी आवाज़ से बोलें और उसे टेक्स्ट बनते देखें - English, Urdu और अधिक भाषाओं के लिए मुफ़्त ऑनलाइन भाषण से टेक्स्ट। कोई साइन-अप नहीं; Chrome और Edge में काम करता है।",
+  "id": "/loona-text-tools/hi/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

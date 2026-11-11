@@ -1,0 +1,29 @@
+{
+  "name": "Loona टेक्स्ट ऑनलाइन उल्टा करें",
+  "short_name": "टेक्स्ट ऑनलाइन उल्टा करें",
+  "description": "टेक्स्ट को चार तरीकों से उलटें: पूरा टेक्स्ट पीछे की ओर, हर शब्द पीछे की ओर, शब्द क्रम पलटा हुआ, या लाइन क्रम पलटा हुआ। मुफ़्त ऑनलाइन टेक्स्ट उलटक - साइन-अप की ज़रूरत नहीं।",
+  "id": "/loona-text-tools/hi/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

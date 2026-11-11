@@ -1,0 +1,29 @@
+{
+  "name": "Loona अक्षर गणक ऑनलाइन",
+  "short_name": "अक्षर गणक ऑनलाइन",
+  "description": "स्पेस के साथ और बिना अक्षर गिनें और X (Twitter), SMS, मेटा विवरण और अधिक के लिए सीमाएँ जांचें। मुफ़्त ऑनलाइन अक्षर गणक - साइन-अप की ज़रूरत नहीं।",
+  "id": "/loona-text-tools/hi/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona path/case कन्वर्टर",
+  "short_name": "path/case कन्वर्टर",
+  "description": "मुफ़्त path/case कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत path/case पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
+  "id": "/loona-text-tools/hi/path-case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

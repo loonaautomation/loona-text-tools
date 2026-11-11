@@ -1,0 +1,29 @@
+{
+  "name": "Loona फ़ैंसी टेक्स्ट जनरेटर ऑनलाइन",
+  "short_name": "फ़ैंसी टेक्स्ट जनरेटर ऑनलाइन",
+  "description": "सादे टेक्स्ट को स्टाइलिश Unicode फ़ॉन्ट में बदलें - बोल्ड, स्क्रिप्ट, fraktur, घेरे वाले, small caps और अधिक - बायो, कैप्शन और उपयोगकर्ता नामों के लिए। मुफ़्त फ़ैंसी टेक्स्ट जनरेटर।",
+  "id": "/loona-text-tools/hi/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

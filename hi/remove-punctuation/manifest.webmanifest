@@ -1,0 +1,29 @@
+{
+  "name": "Loona विराम चिह्न ऑनलाइन मुफ़्त हटाएँ",
+  "short_name": "विराम चिह्न ऑनलाइन मुफ़्त हटाएँ",
+  "description": "किसी भी टेक्स्ट से एक क्लिक में विराम चिह्न हटाएँ - पूर्ण विराम, अल्पविराम, उद्धरण और अधिक - अपोस्ट्रफ़ी और हाइफ़न रखने के विकल्पों के साथ। मुफ़्त, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/remove-punctuation/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

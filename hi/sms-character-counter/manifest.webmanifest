@@ -1,0 +1,29 @@
+{
+  "name": "Loona SMS अक्षर गणक",
+  "short_name": "SMS अक्षर गणक",
+  "description": "मुफ़्त SMS अक्षर गणक: GSM 7-बिट बनाम Unicode पहचान, सेगमेंट गणना और शेष अक्षर — लाइव, आपके ब्राउज़र में।",
+  "id": "/loona-text-tools/hi/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

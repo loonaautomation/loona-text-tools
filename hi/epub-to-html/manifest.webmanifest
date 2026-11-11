@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB से HTML कन्वर्टर मुफ़्त",
+  "short_name": "EPUB से HTML कन्वर्टर मुफ़्त",
+  "description": "EPUB ईबुक को एकल स्व-निहित HTML फ़ाइल में मुफ़्त बदलें, अपने ब्राउज़र में। अध्याय क्रम में, बुनियादी टाइपोग्राफ़ी, छोटी छवियाँ एम्बेड की हुई। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

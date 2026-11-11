@@ -1,0 +1,29 @@
+{
+  "name": "Loona टेक्स्ट टूल लाइब्रेरी",
+  "short_name": "टेक्स्ट टूल लाइब्रेरी",
+  "description": "पूर्ण Loona Text Tools लाइब्रेरी: केस कन्वर्टर, निबंध और भाषण शब्द गणक, प्लेटफ़ॉर्म अक्षर-सीमा जांचक और पठनीयता कैलकुलेटर।",
+  "id": "/loona-text-tools/hi/text-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

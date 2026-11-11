@@ -1,0 +1,29 @@
+{
+  "name": "Loona शब्द आवृत्ति गणक ऑनलाइन",
+  "short_name": "शब्द आवृत्ति गणक ऑनलाइन",
+  "description": "गिनें कि हर शब्द आपके टेक्स्ट में कितनी बार आता है और प्रतिशत के साथ क्रमबद्ध आवृत्ति तालिका देखें। मुफ़्त ऑनलाइन शब्द आवृत्ति गणक - कोई साइन-अप नहीं, तुरंत।",
+  "id": "/loona-text-tools/hi/word-frequency/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

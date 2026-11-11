@@ -1,0 +1,29 @@
+{
+  "name": "Loona टेक्स्ट से Hex कन्वर्टर ऑनलाइन मुफ़्त",
+  "short_name": "टेक्स्ट से Hex कन्वर्टर ऑनलाइन मुफ़्त",
+  "description": "टेक्स्ट को हेक्साडेसिमल में बदलें और hex को वापस टेक्स्ट में, उच्चारण-चिह्न वाले अक्षरों, उर्दू और इमोजी के लिए UTF-8 को सही ढंग से संभालते हुए। मुफ़्त hex कन्वर्टर, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

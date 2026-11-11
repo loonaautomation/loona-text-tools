@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज से Excel कन्वर्टर ऑनलाइन मुफ़्त",
+  "short_name": "इमेज से Excel कन्वर्टर ऑनलाइन मुफ़्त",
+  "description": "तालिका की फ़ोटो, स्कैन या स्क्रीनशॉट को मुफ़्त OCR के साथ असली Excel (.xlsx) फ़ाइल में बदलें जो आपके ब्राउज़र में 100% चलता है। डाउनलोड करने से पहले तालिका संपादित करें - कोई अपलोड नहीं, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

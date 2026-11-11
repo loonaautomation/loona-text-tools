@@ -1,0 +1,29 @@
+{
+  "name": "Loona टेक्स्ट से बाइनरी कन्वर्टर ऑनलाइन",
+  "short_name": "टेक्स्ट से बाइनरी कन्वर्टर ऑनलाइन",
+  "description": "टेक्स्ट को बाइनरी कोड (0 और 1) में बदलें और बाइनरी को वापस पठनीय टेक्स्ट में, पूर्ण Unicode समर्थन के साथ। मुफ़्त टेक्स्ट से बाइनरी कन्वर्टर - CS छात्रों के लिए बढ़िया।",
+  "id": "/loona-text-tools/hi/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona वाक्य गणक ऑनलाइन मुफ़्त",
+  "short_name": "वाक्य गणक ऑनलाइन मुफ़्त",
+  "description": "किसी भी टेक्स्ट में वाक्य, अनुच्छेद, शब्द और अक्षर तुरंत गिनें, औसत वाक्य लंबाई के साथ। मुफ़्त वाक्य गणक, कोई साइन-अप नहीं, आपके ब्राउज़र में काम करता है।",
+  "id": "/loona-text-tools/hi/sentence-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

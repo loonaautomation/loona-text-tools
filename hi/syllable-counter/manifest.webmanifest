@@ -1,0 +1,29 @@
+{
+  "name": "Loona सिलेबल गणक ऑनलाइन मुफ़्त",
+  "short_name": "सिलेबल गणक ऑनलाइन मुफ़्त",
+  "description": "किसी भी शब्द, वाक्य या पूरे टेक्स्ट में सिलेबल तुरंत गिनें - कुल सिलेबल, प्रति-शब्द विवरण और औसत। मुफ़्त सिलेबल गणक, कोई साइन-अप नहीं, ऑफ़लाइन काम करता है।",
+  "id": "/loona-text-tools/hi/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona TikTok कैप्शन अक्षर गणक",
+  "short_name": "TikTok कैप्शन अक्षर गणक",
+  "description": "मुफ़्त TikTok कैप्शन अक्षर गणक गणक: 2,200-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
+  "id": "/loona-text-tools/hi/tiktok-caption-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona मेटा विवरण लंबाई जांचक",
+  "short_name": "मेटा विवरण लंबाई जांचक",
+  "description": "मुफ़्त मेटा विवरण लंबाई जांचक गणक: 160-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
+  "id": "/loona-text-tools/hi/meta-description-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

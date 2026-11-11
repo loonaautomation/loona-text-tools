@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text Tools",
+  "short_name": "Text Tools",
+  "description": "मुफ़्त ऑनलाइन टेक्स्ट टूल - शब्द गणक, केस कन्वर्टर, टेक्स्ट से भाषण, भाषण से टेक्स्ट, रोमन उर्दू से उर्दू कन्वर्टर और अधिक। 100% मुफ़्त, कोई साइन-अप नहीं, निजी।",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "../icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-text-tools/hi/"
+}

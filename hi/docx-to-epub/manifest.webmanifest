@@ -1,0 +1,29 @@
+{
+  "name": "Loona DOCX से EPUB कन्वर्टर मुफ़्त",
+  "short_name": "DOCX से EPUB कन्वर्टर मुफ़्त",
+  "description": "DOCX Word दस्तावेज़ों को अपने ब्राउज़र में मुफ़्त EPUB ईबुक में बदलें। शीर्षक अध्याय बन जाते हैं; बोल्ड, इटैलिक, सूचियाँ और छवियाँ बदल जाती हैं। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
+  "id": "/loona-text-tools/hi/docx-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
