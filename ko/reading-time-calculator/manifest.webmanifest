@@ -1,0 +1,29 @@
+{
+  "name": "Loona 읽기 시간 계산기",
+  "short_name": "읽기 시간 계산기",
+  "description": "모든 텍스트를 붙여 넣고 느린, 평균, 빠른 속도로 읽는 데 걸리는 시간을 확인하세요 - 목표 읽기 시간에 필요한 단어 수와 함께예요. 무료, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/reading-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지를 텍스트로 변환 (OCR) 온라인 무료",
+  "short_name": "이미지를 텍스트로 변환 (OCR) 온라인 무료",
+  "description": "브라우저에서 100% 실행되는 무료 OCR로 이미지와 사진에서 편집 가능한 텍스트를 추출하세요. PNG, JPG, WebP, BMP - 이미지는 업로드되지 않아요.",
+  "id": "/loona-text-tools/ko/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

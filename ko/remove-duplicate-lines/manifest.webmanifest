@@ -1,0 +1,29 @@
+{
+  "name": "Loona 중복 줄 제거 온라인",
+  "short_name": "중복 줄 제거 온라인",
+  "description": "모든 목록이나 텍스트에서 중복 줄을 제거하고 원래 순서대로 고유한 줄만 유지하세요. 무료 중복 줄 제거기 - 회원가입 없음, 즉시 결과예요.",
+  "id": "/loona-text-tools/ko/remove-duplicate-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

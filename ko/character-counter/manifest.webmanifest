@@ -1,0 +1,29 @@
+{
+  "name": "Loona 문자 수 세기 온라인",
+  "short_name": "문자 수 세기 온라인",
+  "description": "공백 포함 및 제외 문자 수를 세고 X(Twitter), SMS, 메타 설명 등의 제한을 확인하세요. 무료 온라인 문자 수 세기 - 회원가입이 필요 없어요.",
+  "id": "/loona-text-tools/ko/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

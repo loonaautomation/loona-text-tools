@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram 캡션 문자 수 세기",
+  "short_name": "Instagram 캡션 문자 수 세기",
+  "description": "무료 Instagram 캡션 문자 수 세기 카운터: 2,200자 제한에 대한 실시간 문자 수예요. 입력하는 동안 단어와 남은 문자가 표시돼요.",
+  "id": "/loona-text-tools/ko/instagram-caption-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

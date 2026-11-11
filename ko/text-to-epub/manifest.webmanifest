@@ -1,0 +1,29 @@
+{
+  "name": "Loona 텍스트를 EPUB로 변환기 무료",
+  "short_name": "텍스트를 EPUB로 변환기 무료",
+  "description": "브라우저에서 일반 텍스트나 Markdown을 유효한 EPUB 전자책으로 무료 변환하세요. 제목과 저자, 제목에서 만든 장, 모든 EPUB 리더에서 열려요. 업로드 없음, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

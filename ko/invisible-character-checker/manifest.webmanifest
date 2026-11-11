@@ -1,0 +1,29 @@
+{
+  "name": "Loona 보이지 않는 문자 검사기",
+  "short_name": "보이지 않는 문자 검사기",
+  "description": "텍스트에 숨어 있는 보이지 않는 문자를 드러내세요 - 너비가 없는 공백, BOM, 줄 바꿈 없는 공백, 방향 표시 - 그리고 클릭 한 번으로 제거하세요. 무료예요.",
+  "id": "/loona-text-tools/ko/invisible-character-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 메타 설명 길이 검사기",
+  "short_name": "메타 설명 길이 검사기",
+  "description": "무료 메타 설명 길이 검사기 카운터: 160자 제한에 대한 실시간 문자 수예요. 입력하는 동안 단어와 남은 문자가 표시돼요.",
+  "id": "/loona-text-tools/ko/meta-description-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

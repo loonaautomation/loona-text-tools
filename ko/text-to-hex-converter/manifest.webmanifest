@@ -1,0 +1,29 @@
+{
+  "name": "Loona 텍스트를 십육진수로 변환 온라인 무료",
+  "short_name": "텍스트를 십육진수로 변환 온라인 무료",
+  "description": "텍스트를 십육진수로 변환하고 십육진수를 다시 텍스트로 변환하세요. 악센트 글자, 우르두어, 이모지에 대해 UTF-8을 올바르게 처리해요. 무료 십육진수 변환기, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

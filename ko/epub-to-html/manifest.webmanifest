@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB를 HTML로 변환기 무료",
+  "short_name": "EPUB를 HTML로 변환기 무료",
+  "description": "브라우저에서 EPUB 전자책을 하나의 자체 포함 HTML 파일로 무료 변환하세요. 순서대로 장, 기본 타이포그래피, 작은 이미지 임베드예요. 업로드 없음, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

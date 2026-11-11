@@ -1,0 +1,29 @@
+{
+  "name": "Loona 불필요한 공백 제거 온라인",
+  "short_name": "불필요한 공백 제거 온라인",
+  "description": "클릭 한 번으로 텍스트에서 불필요한 공백, 탭, 빈 줄을 제거하세요. PDF, 이메일, 웹 페이지에서 복사한 텍스트를 정리하세요. 무료 온라인 제거기 - 회원가입이 필요 없어요.",
+  "id": "/loona-text-tools/ko/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

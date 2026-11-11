@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB 메타데이터 편집기 무료",
+  "short_name": "EPUB 메타데이터 편집기 무료",
+  "description": "브라우저에서 EPUB 메타데이터를 무료로 편집하세요: 제목, 저자, 언어, 출판사, 설명이에요. 표지 정보가 표시돼요. 장은 건드려지지 않고, 업로드 없음, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

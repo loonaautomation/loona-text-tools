@@ -1,0 +1,443 @@
+[
+ {
+  "n": "단어 수 세기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "단어, 문자, 문장, 단락, 읽기 시간 - 입력하는 동안 실시간으로 세어져요.",
+  "k": "word counter word counter ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "문자 수 세기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "공백 포함 및 제외 문자 수와 X, SMS, 메타 텍스트의 실시간 제한이에요.",
+  "k": "character counter character counter x sms",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "문장 수 세기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "모든 텍스트의 문장, 단락, 단어, 문자 - 입력하는 동안 실시간으로 세어져요.",
+  "k": "sentence counter sentence counter ",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "읽기 시간 계산기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "모든 텍스트를 느린, 평균, 빠른 읽기 속도로 읽는 데 걸리는 시간이에요.",
+  "k": "reading time calculator reading time calculator ",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "말하기 시간 계산기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "연설이나 원고를 발표하는 데 걸리는 시간 - 목표 시간에 필요한 단어와 함께예요.",
+  "k": "speaking time calculator speaking time calculator ",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "타자 테스트",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60초 타자 테스트 - 입력하는 동안 실시간으로 WPM 속도, 정확도와 CPM을 보여줘요.",
+  "k": "typing test typing test 60 wpm cpm",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "대소문자 변환기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE, 소문자, Title Case, Sentence case 등 - 각각 클릭 한 번이에요.",
+  "k": "case converter case converter uppercase title case sentence case",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "중복 줄 제거",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "반복되는 줄을 삭제하고 고유한 줄을 순서대로 한 번씩 유지하세요.",
+  "k": "remove duplicate lines remove duplicate lines ",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "줄 정렬",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "줄을 A-Z, Z-A, 길이순, 역순, 또는 공정하게 무작위로 섞어서 정렬하세요.",
+  "k": "sort lines sort lines a z z a",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트 뒤집기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "텍스트를 뒤집으세요 - 전체 텍스트, 각 단어, 단어 순서, 줄 순서예요.",
+  "k": "reverse text reverse text ",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "불필요한 공백 제거",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "엉망으로 복사한 텍스트에서 이중 공백, 탭, 들쭉날쭉한 가장자리를 짜내세요.",
+  "k": "remove extra spaces remove extra spaces ",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "찾기 및 바꾸기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "단어나 구의 모든 출현을 한 번에 다른 것으로 바꾸세요.",
+  "k": "find and replace find and replace ",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트를 음성으로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "모든 텍스트를 소리 내어 읽는 것을 들으세요 - 영어, 우르두어 등 다양한 음성, 자신의 속도예요.",
+  "k": "text to speech text to speech ",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "음성을 텍스트로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "말하고 단어가 텍스트가 되는 것을 보세요 - 영어, 우르두어 등 다양해요.",
+  "k": "speech to text speech to text ",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "비밀번호 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "선택한 길이와 기호로 강력한 무작위 비밀번호예요.",
+  "k": "password generator password generator ",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트 비교",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "두 텍스트를 나란히 놓고 어떤 줄이 변경됐는지 정확히 확인하세요.",
+  "k": "text compare text compare ",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "단어 빈도",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "가장 많이 사용한 단어의 순위표예요. 개수와 백분율이 함께 나와요.",
+  "k": "word frequency word frequency ",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "줄 바꿈 제거",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "PDF 스타일로 깨진 줄을 깔끔하고 흐르는 단락으로 다시 합치세요.",
+  "k": "remove line breaks remove line breaks pdf",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "줄 번호 추가",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "모든 줄에 번호를 매기세요 - 시작, 단계, 자리 채움, 구분 기호를 선택하세요.",
+  "k": "add line numbers add line numbers ",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "디자인을 위한 단락, 문장, 단어별 고전적인 더미 텍스트예요.",
+  "k": "lorem ipsum generator lorem ipsum generator ",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "슬러그 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "모든 제목을 깔끔하고 검색 친화적인 URL 슬러그로 바꾸세요. 실시간이에요.",
+  "k": "slug generator slug generator url",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "모스 부호 번역기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "텍스트를 모스 부호로, 그리고 돌아오기 - 진짜 비프 재생과 함께예요.",
+  "k": "morse code translator morse code translator ",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트를 이진수로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "컴퓨터가 저장하는 0과 1로 텍스트를 보세요 - 그리고 이진수를 다시 디코딩하세요.",
+  "k": "text to binary text to binary 0 1",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "로마 우르두어를 우르두어로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "'mera naam Ahmed hai'를 적절한 우르두어 문자로 바꾸세요. 즉시예요.",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "온라인 메모장",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "브라우저에 자동 저장되는 메모장 - 다운로드와 인쇄가 포함돼요.",
+  "k": "online notepad online notepad ",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "멋진 텍스트 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "소개와 캡션을 위한 굵은, 스크립트, 원형, 뒤집힌 텍스트예요.",
+  "k": "fancy text generator fancy text generator ",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "음절 수 세기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "모든 단어와 전체 음절을 세세요 - 시, 하이쿠, 가사에 완벽해요.",
+  "k": "syllable counter syllable counter ",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "단락 수 세기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "단락을 세세요. 단락당 단어와 문장, 가장 긴 단락이 표시돼요.",
+  "k": "paragraph counter paragraph counter ",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "읽기 수준 계산기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Reading Ease와 학년 수준 점수예요. 쉬운 영어 판정과 함께예요.",
+  "k": "reading level calculator reading level calculator flesch reading ease",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "회문 검사기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "앞뒤로 똑같이 읽히나요? 단어, 숫자, 전체 문장을 확인하세요.",
+  "k": "palindrome checker palindrome checker ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "애너그램 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "글자 속에 숨은 진짜 단어를 찾고, 애너그램 쌍을 즉시 테스트하세요.",
+  "k": "anagram generator anagram generator ",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO 음성 알파벳",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "조종사 방식으로 모든 것을 말하세요 - Alfa, Bravo, Charlie - 그리고 다시 디코딩하세요.",
+  "k": "nato phonetic alphabet nato phonetic alphabet alfa bravo charlie",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트를 ASCII로 변환",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "모든 문자 뒤의 십진수, 십육진수, 팔진수, 이진수 코드, 그리고 돌아오기예요.",
+  "k": "text to ascii converter text to ascii converter ",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트를 십육진수로 변환",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "텍스트를 십육진수 바이트로, 그리고 돌아오기. 모든 언어에 대한 적절한 UTF-8과 함께예요.",
+  "k": "text to hex converter text to hex converter utf 8",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "반복 단어 찾기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "한 번 이상 사용한 모든 단어, 순위별로 - 우발적인 이중 단어와 함께예요.",
+  "k": "repeated words finder repeated words finder ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "보이지 않는 문자 검사기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "복사한 텍스트에서 너비가 없는 문자와 숨은 문자를 드러내고, 제거하세요.",
+  "k": "invisible character checker invisible character checker ",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "구두점 제거",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "클릭 한 번으로 텍스트에서 구두점을 제거하세요. 단어를 깔끔하게 유지해요.",
+  "k": "remove punctuation remove punctuation ",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "이메일 추출기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "모든 텍스트에서 모든 이메일 주소를 뽑아내세요 - 중복을 제거하고, 한 줄에 하나예요.",
+  "k": "email extractor email extractor ",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "이미지를 텍스트로 (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "사진, 스캔, 스크린샷에서 편집 가능한 텍스트를 추출하세요 - 브라우저에서 무료 OCR이에요.",
+  "k": "image to text (ocr) image to text (ocr) ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "이미지를 Excel로 변환",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "표의 사진이나 스크린샷을 진짜 Excel 파일로 바꾸세요 - 셀을 확인하고 편집한 다음, 다운로드하세요.",
+  "k": "image to excel converter image to excel converter excel",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "인용 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "웹사이트, 책, 학술지 논문에 대한 APA 7판, MLA 9판, Chicago 인용이에요.",
+  "k": "citation generator citation generator apa 7 mla 9 chicago",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB 리더",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "브라우저에서 바로 EPUB 전자책을 열고 읽으세요 - 장 목록, 조절 가능한 글꼴 크기, 다크 모드예요.",
+  "k": "epub reader epub reader epub",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB를 텍스트로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "EPUB 전자책을 깔끔한 일반 텍스트 파일로 바꾸세요 - 읽기 순서의 장, 제목이 유지돼요.",
+  "k": "epub to text epub to text epub",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB를 HTML로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "EPUB 전자책을 그림이 임베드된 하나의 자체 포함 HTML 파일로 바꾸세요.",
+  "k": "epub to html epub to html epub html",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ를 PDF로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "만화 아카이브를 PDF로 바꾸세요 - 자연 순서의 페이지, 페이지마다 이미지 하나예요.",
+  "k": "cbz to pdf cbz to pdf pdf",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX를 EPUB로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Word 문서를 EPUB 전자책으로 바꾸세요 - 제목이 장이 돼요.",
+  "k": "docx to epub docx to epub word epub",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB 메타데이터 편집기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "전자책의 제목, 저자, 출판사, 설명을 편집하세요 - 장은 건드려지지 않아요.",
+  "k": "epub metadata editor epub metadata editor ",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "텍스트 / Markdown을 EPUB로",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "일반 텍스트나 Markdown을 모든 리더에서 열리는 적절한 EPUB 전자책으로 바꾸세요.",
+  "k": "text / markdown to epub text / markdown to epub markdown epub",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "랜덤 주제 생성기",
+  "u": "https://loonaautomation.github.io/loona-text-tools/ko/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "학교 수준별로 필터링한 9개 카테고리의 손으로 쓴 에세이, 연설, 토론, 이야기, 어린이 주제 900개, 중복 없어요.",
+  "k": "random topic generator random topic generator 9 900",
+  "p": 148,
+  "c": "Tool"
+ }
+]

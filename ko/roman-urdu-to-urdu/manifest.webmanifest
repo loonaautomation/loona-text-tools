@@ -1,0 +1,29 @@
+{
+  "name": "Loona 로마 우르두어를 우르두어 문자로 변환기 온라인 무료",
+  "short_name": "로마 우르두어를 우르두어 문자로 변환기 온라인 무료",
+  "description": "로마 우르두어(라틴 글자)를 적절한 우르두어 문자로 즉시 변환하세요 - 'mera naam'이 진짜 우르두어 글쓰기가 돼요. 파키스탄을 위한 무료 로마 우르두어-우르두어 변환기예요.",
+  "id": "/loona-text-tools/ko/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

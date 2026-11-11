@@ -1,0 +1,29 @@
+{
+  "name": "Loona DOCX를 EPUB로 변환기 무료",
+  "short_name": "DOCX를 EPUB로 변환기 무료",
+  "description": "브라우저에서 DOCX Word 문서를 EPUB 전자책으로 무료 변환하세요. 제목이 장이 돼요; 굵은, 이탤릭, 목록, 이미지가 변환돼요. 업로드 없음, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/docx-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

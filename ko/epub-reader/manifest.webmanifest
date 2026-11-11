@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB 리더 온라인 무료",
+  "short_name": "EPUB 리더 온라인 무료",
+  "description": "온라인에서 EPUB 전자책을 무료로 열고 읽으세요. 브라우저에서 바로예요. 장 목록, 조절 가능한 글꼴 크기, 다크 모드예요. 100% 비공개 - 전자책이 기기를 떠나지 않아요. 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

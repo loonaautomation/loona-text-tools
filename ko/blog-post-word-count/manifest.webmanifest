@@ -1,0 +1,29 @@
+{
+  "name": "Loona 블로그 게시물 단어 수",
+  "short_name": "블로그 게시물 단어 수",
+  "description": "블로그 게시물 단어 수 검사기: 뉴스(300–500), 표준 게시물(1,000–1,500), 깊이 있는 가이드(2,000+)의 길이 밴드와 함께 실시간 개수예요.",
+  "id": "/loona-text-tools/ko/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

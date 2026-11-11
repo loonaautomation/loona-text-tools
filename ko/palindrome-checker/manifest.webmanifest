@@ -1,0 +1,29 @@
+{
+  "name": "Loona 회문 검사기 온라인 무료",
+  "short_name": "회문 검사기 온라인 무료",
+  "description": "단어, 숫자, 문장이 회문인지 확인하세요 - 앞뒤로 똑같이 읽혀요. 정리된 텍스트와 뒤집힌 텍스트를 보여줘요. 무료, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/palindrome-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

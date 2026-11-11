@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이메일 추출기 온라인 무료",
+  "short_name": "이메일 추출기 온라인 무료",
+  "description": "모든 텍스트, 문서, 웹 페이지 내용에서 모든 이메일 주소를 추출하세요 - 중복을 제거하고 한 줄에 하나씩 나열해요. 브라우저에서 100% 실행돼요. 무료, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

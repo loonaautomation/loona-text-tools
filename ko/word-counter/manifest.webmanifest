@@ -1,0 +1,29 @@
+{
+  "name": "Loona 단어 수 세기 온라인 무료",
+  "short_name": "단어 수 세기 온라인 무료",
+  "description": "모든 텍스트의 단어, 문자, 문장, 단락을 즉시 세세요. 읽기 시간과 말하기 시간과 함께예요. 무료 단어 수 세기, 회원가입 없음, 오프라인으로 작동해요.",
+  "id": "/loona-text-tools/ko/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

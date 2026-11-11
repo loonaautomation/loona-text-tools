@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1,200단어 에세이",
+  "short_name": "1,200단어 에세이",
+  "description": "무료 1,200단어 에세이 카운터: 1,200단어 목표까지 실시간 단어 수, 한 줄 및 두 줄 간격 페이지, 단락, 읽기 및 말하기 시간이에요.",
+  "id": "/loona-text-tools/ko/1200-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

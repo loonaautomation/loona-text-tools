@@ -1,0 +1,29 @@
+{
+  "name": "Loona 텍스트 뒤집기 온라인",
+  "short_name": "텍스트 뒤집기 온라인",
+  "description": "텍스트를 네 가지 방식으로 뒤집으세요: 전체 텍스트 거꾸로, 각 단어 거꾸로, 단어 순서 뒤집기, 또는 줄 순서 뒤집기예요. 무료 온라인 텍스트 뒤집기 - 회원가입이 필요 없어요.",
+  "id": "/loona-text-tools/ko/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 반복 단어 찾기 온라인 무료",
+  "short_name": "반복 단어 찾기 온라인 무료",
+  "description": "텍스트에서 두 번 이상 나타나는 모든 단어를 찾으세요. 반복 횟수 순으로 순위가 매겨져요. 우발적인 이중 단어와 과도하게 사용된 단어를 잡으세요. 무료, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

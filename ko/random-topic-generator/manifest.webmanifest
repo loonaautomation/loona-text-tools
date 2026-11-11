@@ -1,0 +1,29 @@
+{
+  "name": "Loona 랜덤 주제 생성기 온라인 무료",
+  "short_name": "랜덤 주제 생성기 온라인 무료",
+  "description": "에세이, 연설, 토론, 단락, 프레젠테이션, 이야기를 위한 무작위 주제를 생성하세요 - 9개 카테고리에 직접 쓴 주제 900개, 수준별로 필터링돼요. 무료, 회원가입 없음이에요.",
+  "id": "/loona-text-tools/ko/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

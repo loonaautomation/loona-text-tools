@@ -1,0 +1,29 @@
+{
+  "name": "Loona 온라인 줄 번호 추가",
+  "short_name": "온라인 줄 번호 추가",
+  "description": "시작, 단계, 자리 채움, 구분 기호를 선택해서 텍스트의 모든 줄에 번호를 추가하세요. 무료 줄 번호 매기기 도구 - 회원가입 없음, 즉시, 비공개예요.",
+  "id": "/loona-text-tools/ko/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

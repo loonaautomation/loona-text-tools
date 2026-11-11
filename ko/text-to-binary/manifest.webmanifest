@@ -1,0 +1,29 @@
+{
+  "name": "Loona 텍스트를 이진수로 변환기 온라인",
+  "short_name": "텍스트를 이진수로 변환기 온라인",
+  "description": "텍스트를 이진 코드(0과 1)로 변환하고 이진수를 다시 읽을 수 있는 텍스트로 변환하세요. 전체 Unicode 지원이에요. 무료 텍스트-이진수 변환기 - CS 학생에게 좋아요.",
+  "id": "/loona-text-tools/ko/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
