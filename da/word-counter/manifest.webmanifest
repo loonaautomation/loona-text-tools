@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ordtæller online gratis",
+  "short_name": "Ordtæller online gratis",
+  "description": "Tæl ord, tegn, sætninger og afsnit i enhver tekst øjeblikkeligt, med læsetid og taletid. Gratis ordtæller, ingen tilmelding, virker offline.",
+  "id": "/loona-text-tools/da/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

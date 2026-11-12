@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tale til tekst online gratis",
+  "short_name": "Tale til tekst online gratis",
+  "description": "Diktér med din stemme og se den blive til tekst - gratis online tale til tekst til engelsk, urdu og flere sprog. Ingen tilmelding; virker i Chrome og Edge.",
+  "id": "/loona-text-tools/da/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

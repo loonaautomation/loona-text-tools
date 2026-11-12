@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB til tekst-konverter gratis",
+  "short_name": "EPUB til tekst-konverter gratis",
+  "description": "Konvertér EPUB-e-bøger til ren almindelig tekst (.txt) gratis i din browser. Kapitler i læserækkefølge, overskrifter bevaret, kapitelliste og ordantal vist først. Ingen upload, ingen tilmelding.",
+  "id": "/loona-text-tools/da/epub-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

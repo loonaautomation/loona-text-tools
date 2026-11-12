@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Ordtæller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Ord, tegn, sætninger, afsnit og læsetid - talt live, mens du skriver.",
+  "k": "word counter word counter ord tegn s tninger afsnit og l setid talt live mens du skriver",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Tegntæller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tegn med og uden mellemrum plus live grænser for X, SMS og metatekst.",
+  "k": "character counter character counter tegn med og uden mellemrum plus live gr nser for x sms og metatekst",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Sætningstæller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Sætninger, afsnit, ord og tegn i enhver tekst - talt live, mens du skriver.",
+  "k": "sentence counter sentence counter s tninger afsnit ord og tegn i enhver tekst talt live mens du skriver",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Læsetidsberegner",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Hvor lang tid enhver tekst tager at læse, ved langsomme, gennemsnitlige og hurtige læsehastigheder.",
+  "k": "reading time calculator reading time calculator hvor lang tid enhver tekst tager at l se ved langsomme gennemsnitlige og hurtige l sehastigheder",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Taletidsberegner",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Hvor lang tid en tale eller et manuskript tager at levere - plus ord, der skal bruges til en ønsket tid.",
+  "k": "speaking time calculator speaking time calculator hvor lang tid en tale eller et manuskript tager at levere plus ord der skal bruges til en nsket tid",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Skrivehastighedstest",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "En tasteprøve på 60 sekunder - din hastighed i WPM, nøjagtighed og CPM, live mens du skriver.",
+  "k": "typing test typing test en tastepr ve pa 60 sekunder din hastighed i wpm n jagtighed og cpm live mens du skriver",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Store/små bogstaver-konverter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "STORE BOGSTAVER, små bogstaver, Title Case, Sætningsstil og mere - ét klik hver.",
+  "k": "case converter case converter store bogstaver sma bogstaver title case s tningsstil og mere et klik hver",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Fjern dubletlinjer",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Slet gentagne linjer og behold hver unik linje én gang, i rækkefølge.",
+  "k": "remove duplicate lines remove duplicate lines slet gentagne linjer og behold hver unik linje en gang i r kkef lge",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Sortér linjer",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Ordn linjer A-Z, Z-A, efter længde, omvendt eller fair blandet tilfældigt.",
+  "k": "sort lines sort lines ordn linjer a z z a efter l ngde omvendt eller fair blandet tilf ldigt",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Vend tekst om",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Vend tekst baglæns - hele teksten, hvert ord, ordrækkefølge eller linjerækkefølge.",
+  "k": "reverse text reverse text vend tekst bagl ns hele teksten hvert ord ordr kkef lge eller linjer kkef lge",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Fjern ekstra mellemrum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Pres dobbelte mellemrum, tabulatorer og ujævne kanter ud af rodet kopieret tekst.",
+  "k": "remove extra spaces remove extra spaces pres dobbelte mellemrum tabulatorer og uj vne kanter ud af rodet kopieret tekst",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Find og erstat",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Byt hver forekomst af et ord eller en sætning ud med en anden, i ét strøg.",
+  "k": "find and replace find and replace byt hver forekomst af et ord eller en s tning ud med en anden i et str g",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst til tale",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Hør enhver tekst læst op - engelsk, urdu og flere stemmer, din hastighed.",
+  "k": "text to speech text to speech h r enhver tekst l st op engelsk urdu og flere stemmer din hastighed",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Tale til tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Tal og se dine ord blive til tekst - engelsk, urdu og mere.",
+  "k": "speech to text speech to text tal og se dine ord blive til tekst engelsk urdu og mere",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Adgangskodegenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Stærke tilfældige adgangskoder med den længde og de symboler, du vælger.",
+  "k": "password generator password generator st rke tilf ldige adgangskoder med den l ngde og de symboler du v lger",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekstsammenligning",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Stil to tekster op ved siden af hinanden og se præcis, hvilke linjer der ændrede sig.",
+  "k": "text compare text compare stil to tekster op ved siden af hinanden og se pr cis hvilke linjer der ndrede sig",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Ordfrekvens",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "En rangeret tabel over dine mest brugte ord, med antal og procenter.",
+  "k": "word frequency word frequency en rangeret tabel over dine mest brugte ord med antal og procenter",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Fjern linjeskift",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Forbind PDF-agtige ødelagte linjer tilbage til rene, flydende afsnit.",
+  "k": "remove line breaks remove line breaks forbind pdf agtige delagte linjer tilbage til rene flydende afsnit",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Tilføj linjenumre",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Nummerér hver linje - vælg start, trin, udfyldning og separator.",
+  "k": "add line numbers add line numbers nummerer hver linje v lg start trin udfyldning og separator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum-generator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Klassisk pladsholdertekst pr. afsnit, sætning eller ord til dine designs.",
+  "k": "lorem ipsum generator lorem ipsum generator klassisk pladsholdertekst pr afsnit s tning eller ord til dine designs",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Slug-generator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Gør enhver titel til en ren, søgevenlig URL-slug, live.",
+  "k": "slug generator slug generator g r enhver titel til en ren s gevenlig url slug live",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Morsekodeoversætter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Tekst til morsekode og tilbage - med rigtig bip-afspilning.",
+  "k": "morse code translator morse code translator tekst til morsekode og tilbage med rigtig bip afspilning",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst til binær",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Se tekst som de 0'er og 1'er, computere gemmer - og afkod binær tilbage.",
+  "k": "text to binary text to binary se tekst som de 0 er og 1 er computere gemmer og afkod bin r tilbage",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Roman Urdu to Urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Gør 'mera naam Ahmed hai' til ordentlig urdu-skrift, øjeblikkeligt.",
+  "k": "roman urdu to urdu roman urdu to urdu g r mera naam ahmed hai til ordentlig urdu skrift jeblikkeligt",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Online notesblok",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "En notesblok, der automatisk gemmer i din browser - download og udskrivning inkluderet.",
+  "k": "online notepad online notepad en notesblok der automatisk gemmer i din browser download og udskrivning inkluderet",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Dekorativ tekstgenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Fed, skrift, cirklet og på-hovedet tekst til bioer og billedtekster.",
+  "k": "fancy text generator fancy text generator fed skrift cirklet og pa hovedet tekst til bioer og billedtekster",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Stavelsestæller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tæl stavelser i hvert ord og i alt - perfekt til digte, haiku og sangtekster.",
+  "k": "syllable counter syllable counter t l stavelser i hvert ord og i alt perfekt til digte haiku og sangtekster",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Afsnitstæller",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Tæl afsnit, med ord og sætninger pr. afsnit og det længste markeret.",
+  "k": "paragraph counter paragraph counter t l afsnit med ord og s tninger pr afsnit og det l ngste markeret",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Læseniveauberegner",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Reading Ease og klassetrinsscorer, med en dom på almindeligt engelsk.",
+  "k": "reading level calculator reading level calculator flesch reading ease og klassetrinsscorer med en dom pa almindeligt engelsk",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Palindromkontrol",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Læses den ens bagfra? Tjek ord, tal og hele sætninger.",
+  "k": "palindrome checker palindrome checker l ses den ens bagfra tjek ord tal og hele s tninger",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagramgenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Find rigtige ord skjult i dine bogstaver, og test anagrampar øjeblikkeligt.",
+  "k": "anagram generator anagram generator find rigtige ord skjult i dine bogstaver og test anagrampar jeblikkeligt",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO fonetisk alfabet",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Stav ethvert den pilotmåde - Alfa, Bravo, Charlie - og afkod det tilbage.",
+  "k": "nato phonetic alphabet nato phonetic alphabet stav ethvert den pilotmade alfa bravo charlie og afkod det tilbage",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst til ASCII-konverter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Decimal-, hex-, oktal- og binærkoderne bag hvert tegn, og tilbage.",
+  "k": "text to ascii converter text to ascii converter decimal hex oktal og bin rkoderne bag hvert tegn og tilbage",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst til hex-konverter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Tekst til hexadecimale bytes og tilbage, med ordentlig UTF-8 til hvert sprog.",
+  "k": "text to hex converter text to hex converter tekst til hexadecimale bytes og tilbage med ordentlig utf 8 til hvert sprog",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Find gentagne ord",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Hvert ord, du brugte mere end én gang, rangeret - plus utilsigtede dobbeltord.",
+  "k": "repeated words finder repeated words finder hvert ord du brugte mere end en gang rangeret plus utilsigtede dobbeltord",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Kontrol af usynlige tegn",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Afslør tegn med nuls bredde og skjulte tegn i kopieret tekst, og fjern dem.",
+  "k": "invisible character checker invisible character checker afsl r tegn med nuls bredde og skjulte tegn i kopieret tekst og fjern dem",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Fjern tegnsætning",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Fjern tegnsætning fra tekst med ét klik, og hold ordene rene.",
+  "k": "remove punctuation remove punctuation fjern tegns tning fra tekst med et klik og hold ordene rene",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "E-mailudtrækker",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Træk hver e-mailadresse ud af enhver tekst - deduplikeret, én pr. linje.",
+  "k": "email extractor email extractor tr k hver e mailadresse ud af enhver tekst deduplikeret en pr linje",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Billede til tekst (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Udtræk redigerbar tekst fra fotos, scanninger og skærmbilleder - gratis OCR i din browser.",
+  "k": "image to text (ocr) image to text (ocr) udtr k redigerbar tekst fra fotos scanninger og sk rmbilleder gratis ocr i din browser",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Billede til Excel-konverter",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Gør et foto eller skærmbillede af en tabel til en rigtig Excel-fil - tjek og rediger cellerne, og download derefter.",
+  "k": "image to excel converter image to excel converter g r et foto eller sk rmbillede af en tabel til en rigtig excel fil tjek og rediger cellerne og download derefter",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Kildegenerator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "APA 7., MLA 9. og Chicago-henvisninger til websteder, bøger og tidsskriftsartikler.",
+  "k": "citation generator citation generator apa 7 mla 9 og chicago henvisninger til websteder b ger og tidsskriftsartikler",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-læser",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Åbn og læs EPUB-e-bøger direkte i din browser - kapitelliste, justerbar skriftstørrelse og mørk tilstand.",
+  "k": "epub reader epub reader abn og l s epub e b ger direkte i din browser kapitelliste justerbar skriftst rrelse og m rk tilstand",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB til tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Gør en EPUB-e-bog til en ren almindelig tekstfil - kapitler i læserækkefølge, overskrifter bevaret.",
+  "k": "epub to text epub to text g r en epub e bog til en ren almindelig tekstfil kapitler i l ser kkef lge overskrifter bevaret",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB til HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Gør en EPUB-e-bog til én selvstændig HTML-fil med dens billeder indlejret.",
+  "k": "epub to html epub to html g r en epub e bog til en selvst ndig html fil med dens billeder indlejret",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ til PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Gør et tegneseriearkiv til en PDF - sider i naturlig rækkefølge, ét billede pr. side.",
+  "k": "cbz to pdf cbz to pdf g r et tegneseriearkiv til en pdf sider i naturlig r kkef lge et billede pr side",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX til EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Gør et Word-dokument til en EPUB-e-bog - overskrifter bliver til kapitler.",
+  "k": "docx to epub docx to epub g r et word dokument til en epub e bog overskrifter bliver til kapitler",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-metadataeditor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Rediger en e-bogs titel, forfatter, forlag og beskrivelse - kapitler urørte.",
+  "k": "epub metadata editor epub metadata editor rediger en e bogs titel forfatter forlag og beskrivelse kapitler ur rte",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst / Markdown til EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Gør almindelig tekst eller Markdown til en ordentlig EPUB-e-bog, der åbner i enhver læser.",
+  "k": "text / markdown to epub text / markdown to epub g r almindelig tekst eller markdown til en ordentlig epub e bog der abner i enhver l ser",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator til tilfældige emner",
+  "u": "https://loonaautomation.github.io/loona-text-tools/da/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 håndskrevne emner til essays, taler, debatter, historier og børn i 9 kategorier, filtreret efter skoleniveau, uden gentagelser.",
+  "k": "random topic generator random topic generator 900 handskrevne emner til essays taler debatter historier og b rn i 9 kategorier filtreret efter skoleniveau uden gentagelser",
+  "p": 148,
+  "c": "Tool"
+ }
+]

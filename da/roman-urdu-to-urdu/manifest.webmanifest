@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter fra roman urdu til urdu-skrift online gratis",
+  "short_name": "Konverter fra roman urdu til urdu-skrift online gratis",
+  "description": "Konvertér roman urdu (latinske bogstaver) til ordentlig urdu-skrift øjeblikkeligt - 'mera naam' bliver til rigtig urdu-skrivning. Gratis konverter fra roman urdu til urdu til Pakistan.",
+  "id": "/loona-text-tools/da/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

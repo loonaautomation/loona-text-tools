@@ -1,0 +1,29 @@
+{
+  "name": "Loona DOCX til EPUB-konverter gratis",
+  "short_name": "DOCX til EPUB-konverter gratis",
+  "description": "Konvertér DOCX Word-dokumenter til EPUB-e-bøger gratis i din browser. Overskrifter bliver til kapitler; fed, kursiv, lister og billeder konverteres. Ingen upload, ingen tilmelding.",
+  "id": "/loona-text-tools/da/docx-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

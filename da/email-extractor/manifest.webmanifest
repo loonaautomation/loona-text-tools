@@ -1,0 +1,29 @@
+{
+  "name": "Loona E-mailudtrækker online gratis",
+  "short_name": "E-mailudtrækker online gratis",
+  "description": "Udtræk hver e-mailadresse fra enhver tekst, ethvert dokument eller websideindhold - deduplikeret og opremset én pr. linje. Kører 100 % i din browser. Gratis, ingen tilmelding.",
+  "id": "/loona-text-tools/da/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

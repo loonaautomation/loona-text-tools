@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tekst til binær-konverter online",
+  "short_name": "Tekst til binær-konverter online",
+  "description": "Konvertér tekst til binær kode (0'er og 1'er) og binær tilbage til læsbar tekst, med fuld Unicode-understøttelse. Gratis konverter fra tekst til binær - fantastisk til datalogistuderende.",
+  "id": "/loona-text-tools/da/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

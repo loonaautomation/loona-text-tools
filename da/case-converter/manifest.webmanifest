@@ -1,0 +1,29 @@
+{
+  "name": "Loona Store/små bogstaver-konverter online",
+  "short_name": "Store/små bogstaver-konverter online",
+  "description": "Konvertér tekst til STORE BOGSTAVER, små bogstaver, Title Case, Sætningsstil, Store begyndelsesbogstaver eller aLtErNaTiNg-stil med ét klik. Gratis online konverter til store/små bogstaver - ingen tilmelding nødvendig.",
+  "id": "/loona-text-tools/da/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
