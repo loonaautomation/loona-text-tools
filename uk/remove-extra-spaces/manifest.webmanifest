@@ -1,0 +1,29 @@
+{
+  "name": "Loona Видалити зайві пробіли онлайн",
+  "short_name": "Видалити зайві пробіли онлайн",
+  "description": "Видаліть зайві пробіли, табуляції та порожні рядки з тексту одним кліком. Приберіть текст, скопійований із PDF, електронних листів і вебсторінок. Безкоштовне онлайн-видалення — реєстрація не потрібна.",
+  "id": "/loona-text-tools/uk/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

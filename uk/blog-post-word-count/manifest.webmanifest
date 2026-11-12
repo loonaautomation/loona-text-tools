@@ -1,0 +1,29 @@
+{
+  "name": "Loona Кількість слів допису блогу",
+  "short_name": "Кількість слів допису блогу",
+  "description": "Перевірка кількості слів допису блогу: підрахунок наживо з діапазонами довжини для новин (300–500), стандартних дописів (1,000–1,500) і глибоких посібників (2,000+).",
+  "id": "/loona-text-tools/uk/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

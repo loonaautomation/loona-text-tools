@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер DOCX у EPUB безкоштовно",
+  "short_name": "Конвертер DOCX у EPUB безкоштовно",
+  "description": "Перетворюйте документи Word DOCX у електронні книги EPUB безкоштовно у своєму браузері. Заголовки стають розділами; жирний, курсив, списки та зображення перетворюються. Без завантаження на сервер, без реєстрації.",
+  "id": "/loona-text-tools/uk/docx-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

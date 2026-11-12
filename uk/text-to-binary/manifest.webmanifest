@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер тексту в двійковий код онлайн",
+  "short_name": "Конвертер тексту в двійковий код онлайн",
+  "description": "Перетворюйте текст у двійковий код (0 та 1) і двійковий назад у читабельний текст, з повною підтримкою Unicode. Безкоштовний конвертер тексту в двійковий код — чудово для студентів інформатики.",
+  "id": "/loona-text-tools/uk/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

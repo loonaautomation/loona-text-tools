@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер малих літер",
+  "short_name": "Конвертер малих літер",
+  "description": "Безкоштовний конвертер малих літер — вставте текст і отримайте малі літери миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
+  "id": "/loona-text-tools/uk/lowercase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

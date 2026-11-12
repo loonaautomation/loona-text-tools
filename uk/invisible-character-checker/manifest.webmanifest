@@ -1,0 +1,29 @@
+{
+  "name": "Loona Перевірка невидимих символів",
+  "short_name": "Перевірка невидимих символів",
+  "description": "Виявляйте невидимі символи, що ховаються у вашому тексті, — пробіли нульової ширини, BOM, нерозривні пробіли та позначки напрямку — і видаляйте їх одним кліком. Безкоштовно.",
+  "id": "/loona-text-tools/uk/invisible-character-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

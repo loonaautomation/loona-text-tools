@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор випадкових тем онлайн безкоштовно",
+  "short_name": "Генератор випадкових тем онлайн безкоштовно",
+  "description": "Генеруйте випадкові теми для есе, промов, дебатів, абзаців, презентацій і оповідань — 900 власноруч написаних тем у 9 категоріях, відфільтрованих за рівнем. Безкоштовно, без реєстрації.",
+  "id": "/loona-text-tools/uk/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

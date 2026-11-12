@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер EPUB у текст безкоштовно",
+  "short_name": "Конвертер EPUB у текст безкоштовно",
+  "description": "Перетворюйте електронні книги EPUB у чистий звичайний текст (.txt) безкоштовно у своєму браузері. Розділи в порядку читання, заголовки збережено, список розділів і кількість слів показано першими. Без завантаження на сервер, без реєстрації.",
+  "id": "/loona-text-tools/uk/epub-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Лічильник слів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Слова, символи, речення, абзаци та час читання — усе підраховується наживо, поки ви друкуєте.",
+  "k": "word counter word counter ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Лічильник символів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Символи з пробілами та без пробілів, плюс ліміти наживо для X, SMS і метатексту.",
+  "k": "character counter character counter x sms",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Лічильник речень",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Речення, абзаци, слова та символи в будь-якому тексті — рахуються наживо під час введення.",
+  "k": "sentence counter sentence counter ",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор часу читання",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Скільки часу займає читання будь-якого тексту, за повільної, середньої та швидкої швидкості читання.",
+  "k": "reading time calculator reading time calculator ",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор часу виступу",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Скільки часу займає промова або сценарій — плюс слова, потрібні для цільового часу.",
+  "k": "speaking time calculator speaking time calculator ",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест друку",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "60-секундний тест друку — ваша швидкість у словах/хв, точність і CPM, наживо під час введення.",
+  "k": "typing test typing test 60 cpm",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер регістру",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "ВЕЛИКІ, малі, регістр заголовка, регістр речення тощо — по одному кліку кожен.",
+  "k": "case converter case converter ",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Видалити повторювані рядки",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Видаліть повторювані рядки й збережіть кожен унікальний рядок один раз, по порядку.",
+  "k": "remove duplicate lines remove duplicate lines ",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Сортувати рядки",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Сортуйте рядки А-Я, Я-А, за довжиною, перевернуті або справедливо перемішані випадково.",
+  "k": "sort lines sort lines ",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Перевернути текст",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Переверніть текст назад — весь текст, кожне слово, порядок слів або порядок рядків.",
+  "k": "reverse text reverse text ",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Видалити зайві пробіли",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Вичавіть подвійні пробіли, табуляції та нерівні краї з безладного скопійованого тексту.",
+  "k": "remove extra spaces remove extra spaces ",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Знайти й замінити",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Міняйте кожен випадок слова або фрази на інший, за один прохід.",
+  "k": "find and replace find and replace ",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст у мовлення",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Почуйте будь-який текст, прочитаний вголос — англійська, урду та інші голоси, ваша швидкість.",
+  "k": "text to speech text to speech ",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Мовлення в текст",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Говоріть і дивіться, як ваші слова стають текстом — англійська, урду та інші.",
+  "k": "speech to text speech to text ",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор паролів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Сильні випадкові паролі з довжиною та символами, які ви обираєте.",
+  "k": "password generator password generator ",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Порівняння текстів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Вирівняйте два тексти й побачте, які рядки саме змінилися.",
+  "k": "text compare text compare ",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Частота слів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Рейтингова таблиця ваших найуживаніших слів із кількістю та відсотками.",
+  "k": "word frequency word frequency ",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Видалити розриви рядків",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "З’єднайте зламані рядки у стилі PDF назад у чисті, плинні абзаци.",
+  "k": "remove line breaks remove line breaks pdf",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Додати номери рядків",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Пронумеруйте кожен рядок — оберіть початок, крок, доповнення та роздільник.",
+  "k": "add line numbers add line numbers ",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Класичний текст-заповнювач за абзацом, реченням або словом для ваших дизайнів.",
+  "k": "lorem ipsum generator lorem ipsum generator ",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор slug-адрес",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Перетворюйте будь-яку назву на чистий, дружній до пошуку slug URL, наживо.",
+  "k": "slug generator slug generator slug url",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Перекладач азбуки Морзе",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Текст у код Морзе й назад — зі справжнім відтворенням звуку.",
+  "k": "morse code translator morse code translator ",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст у двійковий код",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Побачте текст як 0 та 1, які зберігають комп’ютери, — і декодуйте двійкове назад.",
+  "k": "text to binary text to binary 0 1",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Романська урду в урду",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть «mera naam Ahmed hai» у належне письмо урду, миттєво.",
+  "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Онлайн-блокнот",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Блокнот, який автоматично зберігається у вашому браузері — із завантаженням і друком.",
+  "k": "online notepad online notepad ",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор стильного тексту",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Жирний, рукописний, обведений і перевернутий текст для біографій і підписів.",
+  "k": "fancy text generator fancy text generator ",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Лічильник складів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Рахуйте склади в кожному слові та загалом — ідеально для віршів, хайку та пісень.",
+  "k": "syllable counter syllable counter ",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Лічильник абзаців",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Рахуйте абзаци, зі словами та реченнями на абзац і позначеним найдовшим.",
+  "k": "paragraph counter paragraph counter ",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор рівня читання",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Оцінки легкості читання Flesch і рівня класу, з вердиктом звичайною англійською.",
+  "k": "reading level calculator reading level calculator flesch",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Перевірка паліндромів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Чи читається він однаково назад? Перевірте слова, числа та цілі речення.",
+  "k": "palindrome checker palindrome checker ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор анаграм",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Знайдіть справжні слова, сховані у ваших літерах, і миттєво перевіряйте пари анаграм.",
+  "k": "anagram generator anagram generator ",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Фонетичний алфавіт НАТО",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Промовляйте будь-що способом пілотів — Alfa, Bravo, Charlie — і декодуйте назад.",
+  "k": "nato phonetic alphabet nato phonetic alphabet alfa bravo charlie",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер тексту в ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Десяткові, шістнадцяткові, вісімкові та двійкові коди за кожним символом і назад.",
+  "k": "text to ascii converter text to ascii converter ",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер тексту в Hex",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Текст у шістнадцяткові байти й назад, із належним UTF-8 для кожної мови.",
+  "k": "text to hex converter text to hex converter utf 8",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Пошук повторюваних слів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Кожне слово, яке ви використали більше одного разу, у рейтингу — плюс випадкові подвоєні слова.",
+  "k": "repeated words finder repeated words finder ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Перевірка невидимих символів",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Виявляйте символи нульової ширини та приховані символи у скопійованому тексті й видаляйте їх.",
+  "k": "invisible character checker invisible character checker ",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Видалити пунктуацію",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Прибирайте пунктуацію з тексту одним кліком, зберігаючи слова чистими.",
+  "k": "remove punctuation remove punctuation ",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Видобування email-адрес",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Витягніть кожну email-адресу з будь-якого тексту — дедупліковано, по одній на рядок.",
+  "k": "email extractor email extractor email",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Зображення в текст (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Видобувайте редагований текст із фото, сканів і знімків екрана — безкоштовне OCR у вашому браузері.",
+  "k": "image to text (ocr) image to text (ocr) ocr",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертер зображення в Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть фото або знімок екрана таблиці на справжній файл Excel — перевірте та відредагуйте клітинки, потім завантажте.",
+  "k": "image to excel converter image to excel converter excel",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор цитат",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Цитати за APA 7, MLA 9 та Chicago для вебсайтів, книг і журнальних статей.",
+  "k": "citation generator citation generator apa 7 mla 9 chicago",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Читалка EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Відкривайте та читайте електронні книги EPUB просто у своєму браузері — список розділів, регульований розмір шрифту та темний режим.",
+  "k": "epub reader epub reader epub",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB у текст",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть електронну книгу EPUB на чистий файл звичайного тексту — розділи в порядку читання, заголовки збережено.",
+  "k": "epub to text epub to text epub",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB у HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть електронну книгу EPUB в один автономний файл HTML із вбудованими малюнками.",
+  "k": "epub to html epub to html epub html",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ у PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть архів коміксів на PDF — сторінки в природному порядку, одне зображення на сторінку.",
+  "k": "cbz to pdf cbz to pdf pdf",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX у EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Перетворіть документ Word на електронну книгу EPUB — заголовки стають розділами.",
+  "k": "docx to epub docx to epub word epub",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Редактор метаданих EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Відредагуйте назву, автора, видавця та опис електронної книги — розділи недоторкані.",
+  "k": "epub metadata editor epub metadata editor ",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Текст / Markdown у EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Перетворюйте звичайний текст або Markdown у належну електронну книгу EPUB, яка відкривається в будь-якій читалці.",
+  "k": "text / markdown to epub text / markdown to epub markdown epub",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор випадкових тем",
+  "u": "https://loonaautomation.github.io/loona-text-tools/uk/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 власноруч написаних тем для есе, промов, дебатів, оповідань і дитячих творів у 9 категоріях, відібраних за рівнем школи, без повторів.",
+  "k": "random topic generator random topic generator 900 9",
+  "p": 148,
+  "c": "Tool"
+ }
+]

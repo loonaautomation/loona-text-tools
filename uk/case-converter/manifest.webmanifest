@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер регістру онлайн",
+  "short_name": "Конвертер регістру онлайн",
+  "description": "Перетворюйте текст у ВЕЛИКІ ЛІТЕРИ, малі літери, регістр заголовка, регістр речення, з великої літери або ЧеРгУвАнНя одним кліком. Безкоштовний онлайн-конвертер регістру — реєстрація не потрібна.",
+  "id": "/loona-text-tools/uk/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
