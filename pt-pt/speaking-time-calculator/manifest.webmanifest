@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de Tempo de Fala",
+  "short_name": "Calculadora de Tempo de Fala",
+  "description": "Cole o seu discurso ou guião e veja quanto tempo demora a apresentar a ritmos lento, de conversa e rápido - mais quantas palavras cabem num tempo pretendido. Grátis, sem registo.",
+  "id": "/loona-text-tools/pt-pt/speaking-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

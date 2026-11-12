@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Texto para EPUB Grátis",
+  "short_name": "Conversor de Texto para EPUB Grátis",
+  "description": "Converta texto simples ou Markdown num ebook EPUB válido grátis, no seu navegador. Título e autor, capítulos a partir de títulos, abre em qualquer leitor de EPUB. Sem carregamento, sem registo.",
+  "id": "/loona-text-tools/pt-pt/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

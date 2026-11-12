@@ -1,0 +1,29 @@
+{
+  "name": "Loona Biblioteca de Ferramentas de Texto",
+  "short_name": "Biblioteca de Ferramentas de Texto",
+  "description": "A biblioteca completa do Loona Text Tools: conversores de caixa, contadores de palavras para ensaios e discursos, verificadores de limites de caracteres de plataformas e calculadoras de legibilidade.",
+  "id": "/loona-text-tools/pt-pt/text-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

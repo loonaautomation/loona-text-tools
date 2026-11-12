@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ordenar Linhas Online",
+  "short_name": "Ordenar Linhas Online",
+  "description": "Ordene linhas de texto alfabeticamente (A-Z ou Z-A), por comprimento, por ordem inversa ou misturadas aleatoriamente. Ordenador de linhas online gratuito - sem registo, instantâneo e privado.",
+  "id": "/loona-text-tools/pt-pt/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

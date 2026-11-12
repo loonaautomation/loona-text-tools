@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Maiúsculas e Minúsculas Online",
+  "short_name": "Conversor de Maiúsculas e Minúsculas Online",
+  "description": "Converta texto para UPPERCASE, lowercase, Title Case, Sentence case, Capitalized ou aLtErNaTiNg case com um clique. Conversor de caixa online gratuito - sem registo.",
+  "id": "/loona-text-tools/pt-pt/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
