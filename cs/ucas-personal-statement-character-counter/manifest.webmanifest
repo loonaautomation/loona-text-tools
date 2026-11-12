@@ -1,0 +1,29 @@
+{
+  "name": "Loona Počítadlo znaků osobního prohlášení UCAS",
+  "short_name": "Počítadlo znaků osobního prohlášení UCAS",
+  "description": "Bezplatné počítadlo znaků osobního prohlášení UCAS: živý počet znaků vůči limitu 4,000 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
+  "id": "/loona-text-tools/cs/ucas-personal-statement-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

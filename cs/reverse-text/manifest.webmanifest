@@ -1,0 +1,29 @@
+{
+  "name": "Loona Obrátit text online",
+  "short_name": "Obrátit text online",
+  "description": "Obraťte text čtyřmi způsoby: celý text pozpátku, každé slovo pozpátku, převrácené pořadí slov, nebo převrácené pořadí řádků. Bezplatný online obraceč textu - registrace není potřeba.",
+  "id": "/loona-text-tools/cs/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

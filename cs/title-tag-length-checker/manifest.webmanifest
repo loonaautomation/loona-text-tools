@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kontrola délky značky title",
+  "short_name": "Kontrola délky značky title",
+  "description": "Bezplatná kontrola délky značky title: živý počet znaků vůči limitu 60 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
+  "id": "/loona-text-tools/cs/title-tag-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

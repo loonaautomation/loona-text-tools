@@ -1,0 +1,29 @@
+{
+  "name": "Loona Převodník velikosti písmen online",
+  "short_name": "Převodník velikosti písmen online",
+  "description": "Převeďte text na VELKÁ PÍSMENA, malá písmena, Title Case, Sentence case, Capitalized nebo sTřÍdAvOu velikost jedním kliknutím. Bezplatný online převodník velikosti písmen - registrace není potřeba.",
+  "id": "/loona-text-tools/cs/case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

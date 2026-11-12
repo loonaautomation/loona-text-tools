@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vyhledávač opakovaných slov online zdarma",
+  "short_name": "Vyhledávač opakovaných slov online zdarma",
+  "description": "Najděte každé slovo, které se ve vašem textu objeví vícekrát, seřazené podle toho, jak často se opakuje. Odhalte náhodná zdvojená slova a nadužívaná slova. Zdarma, bez registrace.",
+  "id": "/loona-text-tools/cs/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

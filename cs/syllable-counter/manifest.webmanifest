@@ -1,0 +1,29 @@
+{
+  "name": "Loona Počítadlo slabik online zdarma",
+  "short_name": "Počítadlo slabik online zdarma",
+  "description": "Počítejte slabiky v jakémkoli slově, větě nebo celém textu okamžitě - celkový počet slabik, rozpis podle slov a průměry. Bezplatné počítadlo slabik, bez registrace, funguje offline.",
+  "id": "/loona-text-tools/cs/syllable-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

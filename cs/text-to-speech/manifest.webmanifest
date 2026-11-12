@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text na řeč online zdarma",
+  "short_name": "Text na řeč online zdarma",
+  "description": "Proměňte jakýkoli text v přirozený mluvený zvuk zdarma online - anglické a urdské hlasy, nastavitelná rychlost a výška. Bez registrace, nic se nenahrává, funguje ve vašem prohlížeči.",
+  "id": "/loona-text-tools/cs/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

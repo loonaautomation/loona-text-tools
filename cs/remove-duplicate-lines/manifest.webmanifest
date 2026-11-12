@@ -1,0 +1,29 @@
+{
+  "name": "Loona Odstranit duplicitní řádky online",
+  "short_name": "Odstranit duplicitní řádky online",
+  "description": "Odstraňte duplicitní řádky z jakéhokoli seznamu nebo textu a ponechte pouze jedinečné řádky, v původním pořadí. Bezplatný odstraňovač duplicitních řádků - bez registrace, okamžité výsledky.",
+  "id": "/loona-text-tools/cs/remove-duplicate-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

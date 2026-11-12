@@ -1,0 +1,29 @@
+{
+  "name": "Loona Seřadit řádky online",
+  "short_name": "Seřadit řádky online",
+  "description": "Řaďte řádky textu abecedně (A-Z nebo Z-A), podle délky, v obráceném pořadí nebo náhodně zamíchané. Bezplatný online řadič řádků - bez registrace, okamžitě a soukromě.",
+  "id": "/loona-text-tools/cs/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

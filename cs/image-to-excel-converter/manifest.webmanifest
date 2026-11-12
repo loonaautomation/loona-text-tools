@@ -1,0 +1,29 @@
+{
+  "name": "Loona Převodník obrázků do Excelu online zdarma",
+  "short_name": "Převodník obrázků do Excelu online zdarma",
+  "description": "Převeďte fotografii, sken nebo snímek obrazovky tabulky na skutečný soubor Excel (.xlsx) pomocí bezplatného OCR, které běží 100% ve vašem prohlížeči. Tabulku před stažením upravte - bez nahrávání, bez registrace.",
+  "id": "/loona-text-tools/cs/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

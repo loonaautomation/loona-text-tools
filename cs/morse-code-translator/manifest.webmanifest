@@ -1,0 +1,29 @@
+{
+  "name": "Loona Překladač Morseovy abecedy online",
+  "short_name": "Překladač Morseovy abecedy online",
+  "description": "Překládejte text do Morseova kódu a Morseův kód zpět na text a poslouchejte ho jako skutečné pípání. Bezplatný online překladač Morseova kódu - bez registrace, funguje ve vašem prohlížeči.",
+  "id": "/loona-text-tools/cs/morse-code-translator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

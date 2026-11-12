@@ -1,0 +1,29 @@
+{
+  "name": "Loona Počítadlo četnosti slov online",
+  "short_name": "Počítadlo četnosti slov online",
+  "description": "Počítejte, jak často se každé slovo ve vašem textu vyskytuje, a prohlédněte si seřazenou tabulku četnosti s procenty. Bezplatné online počítadlo četnosti slov - bez registrace, okamžitě.",
+  "id": "/loona-text-tools/cs/word-frequency/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
