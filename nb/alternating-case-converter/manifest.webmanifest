@@ -1,0 +1,29 @@
+{
+  "name": "Loona aLtErNaTiNg CaSe-omformer",
+  "short_name": "aLtErNaTiNg CaSe-omformer",
+  "description": "Gratis aLtErNaTiNg CaSe-omformer — lim inn tekst og få aLtErNaTiNg CaSe øyeblikkelig. Direkte konvertering i nettleseren din, ingen registrering, ingen opplasting.",
+  "id": "/loona-text-tools/nb/alternating-case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

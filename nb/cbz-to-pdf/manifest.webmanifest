@@ -1,0 +1,29 @@
+{
+  "name": "Loona CBZ til PDF-omformer gratis",
+  "short_name": "CBZ til PDF-omformer gratis",
+  "description": "Konverter CBZ- og ZIP-tegneseriearkiver til PDF gratis i nettleseren din. Sider i naturlig rekkefølge (1, 2, 10), ett bilde per side i full størrelse. Ingen opplasting, ingen registrering.",
+  "id": "/loona-text-tools/nb/cbz-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

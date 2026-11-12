@@ -1,0 +1,29 @@
+{
+  "name": "Loona Omformer fra bilde til Excel gratis på nett",
+  "short_name": "Omformer fra bilde til Excel gratis på nett",
+  "description": "Konverter et bilde, en skanning eller et skjermbilde av en tabell til en virkelig Excel-fil (.xlsx) med gratis OCR som kjører 100% i nettleseren din. Rediger tabellen før du laster ned - ingen opplasting, ingen registrering.",
+  "id": "/loona-text-tools/nb/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

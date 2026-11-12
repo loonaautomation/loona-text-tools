@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tekst til tale gratis på nett",
+  "short_name": "Tekst til tale gratis på nett",
+  "description": "Gjør enhver tekst til naturlig talt lyd gratis på nett - engelske og urdu-stemmer, justerbar hastighet og tonehøyde. Ingen registrering, ingenting lastet opp, virker i nettleseren din.",
+  "id": "/loona-text-tools/nb/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

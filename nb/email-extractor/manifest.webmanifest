@@ -1,0 +1,29 @@
+{
+  "name": "Loona E-postuttrekker gratis på nett",
+  "short_name": "E-postuttrekker gratis på nett",
+  "description": "Trekk ut hver e-postadresse fra enhver tekst, dokument eller nettsideinnhold - deduplisert og listet én per linje. Kjører 100% i nettleseren din. Gratis, ingen registrering.",
+  "id": "/loona-text-tools/nb/email-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

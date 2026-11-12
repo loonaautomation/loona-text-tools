@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tale på 1 minutt",
+  "short_name": "Tale på 1 minutt",
+  "description": "Hvor mange ord i en tale på 1 minutt? 110–180 ord (150 i samtaletempo). Gratis direkte teller med sjekk av taletid.",
+  "id": "/loona-text-tools/nb/1-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

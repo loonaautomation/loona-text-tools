@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB til HTML-omformer gratis",
+  "short_name": "EPUB til HTML-omformer gratis",
+  "description": "Konverter EPUB-e-bøker til én enkelt selvstendig HTML-fil gratis, i nettleseren din. Kapitler i rekkefølge, grunnleggende typografi, små bilder innebygd. Ingen opplasting, ingen registrering.",
+  "id": "/loona-text-tools/nb/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

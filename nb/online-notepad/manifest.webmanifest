@@ -1,0 +1,29 @@
+{
+  "name": "Loona Notatblokk på nett gratis",
+  "short_name": "Notatblokk på nett gratis",
+  "description": "Et gratis notatblokk på nett som lagrer automatisk i nettleseren mens du skriver - nedlasting, utskrift og ordtelling inkludert. Ingen registrering; notatene dine forlater aldri enheten din.",
+  "id": "/loona-text-tools/nb/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

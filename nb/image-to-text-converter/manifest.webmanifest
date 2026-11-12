@@ -1,0 +1,29 @@
+{
+  "name": "Loona Omformer fra bilde til tekst (OCR) gratis på nett",
+  "short_name": "Omformer fra bilde til tekst (OCR) gratis på nett",
+  "description": "Trekk ut redigerbar tekst fra bilder og foto med gratis OCR som kjører 100% i nettleseren din. PNG, JPG, WebP og BMP - bildet ditt lastes aldri opp.",
+  "id": "/loona-text-tools/nb/image-to-text-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

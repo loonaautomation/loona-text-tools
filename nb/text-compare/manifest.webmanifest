@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sammenlign tekster på nett",
+  "short_name": "Sammenlign tekster på nett",
+  "description": "Sammenlign to tekster linje for linje og se nøyaktig hvilke linjer som ble lagt til, fjernet eller beholdt. Gratis verktøy for tekstdiff på nett - ingen registrering, privat i nettleseren din.",
+  "id": "/loona-text-tools/nb/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

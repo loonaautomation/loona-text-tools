@@ -1,0 +1,29 @@
+{
+  "name": "Loona Anagramgenerator og -sjekker gratis på nett",
+  "short_name": "Anagramgenerator og -sjekker gratis på nett",
+  "description": "Finn anagrammer av ethvert ord fra virkelige engelske ord, og sjekk om to ord eller fraser er anagrammer av hverandre. Gratis anagramløser, ingen registrering.",
+  "id": "/loona-text-tools/nb/anagram-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

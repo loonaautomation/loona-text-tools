@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fjern ekstra mellomrom på nett",
+  "short_name": "Fjern ekstra mellomrom på nett",
+  "description": "Fjern ekstra mellomrom, tabulatorer og tomme linjer fra tekst med ett klikk. Rydd tekst kopiert fra PDF-er, e-poster og nettsider. Gratis fjerner på nett - ingen registrering nødvendig.",
+  "id": "/loona-text-tools/nb/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

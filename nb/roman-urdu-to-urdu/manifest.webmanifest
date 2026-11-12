@@ -1,0 +1,29 @@
+{
+  "name": "Loona Omformer fra romanisert urdu til urdu-skrift gratis på nett",
+  "short_name": "Omformer fra romanisert urdu til urdu-skrift gratis på nett",
+  "description": "Konverter romanisert urdu (latinske bokstaver) til ordentlig urdu-skrift øyeblikkelig - 'mera naam' blir til virkelig urdu-skrift. Gratis omformer fra romanisert urdu til urdu for Pakistan.",
+  "id": "/loona-text-tools/nb/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
