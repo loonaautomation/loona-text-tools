@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pronalazač ponovljenih riječi na mreži besplatno",
+  "short_name": "Pronalazač ponovljenih riječi na mreži besplatno",
+  "description": "Pronađite svaku riječ koja se u vašem tekstu pojavljuje više od jednom, rangiranu prema učestalosti ponavljanja. Uočite slučajne dvostruke riječi i prečesto korištene riječi. Besplatno, bez registracije.",
+  "id": "/loona-text-tools/hr/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

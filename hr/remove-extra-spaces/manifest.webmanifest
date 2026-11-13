@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukloni suvišne razmake na mreži",
+  "short_name": "Ukloni suvišne razmake na mreži",
+  "description": "Uklonite suvišne razmake, tabove i prazne retke iz teksta u jednom kliku. Uredite tekst kopiran iz PDF-ova, e-pošte i web stranica. Besplatan mrežni uklanjač - registracija nije potrebna.",
+  "id": "/loona-text-tools/hr/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

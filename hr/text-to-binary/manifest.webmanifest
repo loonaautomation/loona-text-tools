@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač teksta u binarno na mreži",
+  "short_name": "Pretvarač teksta u binarno na mreži",
+  "description": "Pretvorite tekst u binarni kod (0 i 1) i binarni kod natrag u čitljiv tekst, s punom podrškom za Unicode. Besplatan pretvarač teksta u binarni kod – odličan za studente računarstva.",
+  "id": "/loona-text-tools/hr/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

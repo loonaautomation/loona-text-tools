@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator citata na mreži besplatno",
+  "short_name": "Generator citata na mreži besplatno",
+  "description": "Generirajte ispravno oblikovane citate za web stranice, knjige i članke u časopisima u APA 7th, MLA 9 i Chicago autor-datum - besplatno, trenutačno, u vašem pregledniku.",
+  "id": "/loona-text-tools/hr/citation-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

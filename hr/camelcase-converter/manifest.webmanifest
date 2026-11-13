@@ -1,0 +1,29 @@
+{
+  "name": "Loona camelCase pretvarač",
+  "short_name": "camelCase pretvarač",
+  "description": "Besplatan camelCase pretvarač — zalijepite tekst i trenutačno dobijte camelCase. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
+  "id": "/loona-text-tools/hr/camelcase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

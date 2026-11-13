@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator ukrasnog teksta na mreži",
+  "short_name": "Generator ukrasnog teksta na mreži",
+  "description": "Pretvorite običan tekst u elegantne Unicode fontove - podebljano, script, fraktur, zaokruženo, mala velika slova i još mnogo toga - za biografije, opise i korisnička imena. Besplatan generator ukrasnog teksta.",
+  "id": "/loona-text-tools/hr/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

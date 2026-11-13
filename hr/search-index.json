@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Brojač riječi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Riječi, znakovi, rečenice, odlomci i vrijeme čitanja - broje se uživo dok tipkate.",
+  "k": "word counter word counter rijeci znakovi recenice odlomci i vrijeme citanja broje se uzivo dok tipkate",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Brojač znakova",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Znakovi s razmacima i bez njih, plus ograničenja uživo za X, SMS i meta tekst.",
+  "k": "character counter character counter znakovi s razmacima i bez njih plus ogranicenja uzivo za x sms i meta tekst",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Brojač rečenica",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Rečenice, odlomci, riječi i znakovi u bilo kojem tekstu - broje se uživo dok tipkate.",
+  "k": "sentence counter sentence counter recenice odlomci rijeci i znakovi u bilo kojem tekstu broje se uzivo dok tipkate",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator vremena čitanja",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Koliko traje čitanje bilo kojeg teksta, pri sporoj, prosječnoj i brzoj brzini čitanja.",
+  "k": "reading time calculator reading time calculator koliko traje citanje bilo kojeg teksta pri sporoj prosjecnoj i brzoj brzini citanja",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator vremena govora",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Koliko traje izvođenje govora ili scenarija - plus riječi potrebne za ciljano vrijeme.",
+  "k": "speaking time calculator speaking time calculator koliko traje izvo enje govora ili scenarija plus rijeci potrebne za ciljano vrijeme",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Test tipkanja",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Test tipkanja od 60 sekundi – vaša brzina u WPM, točnost i CPM, uživo dok tipkate.",
+  "k": "typing test typing test test tipkanja od 60 sekundi vasa brzina u wpm tocnost i cpm uzivo dok tipkate",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Pretvarač veličine slova",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "VELIKA SLOVA, mala slova, Naslovna velika slova, Veliko slovo rečenice i još mnogo toga - po jedan klik za svako.",
+  "k": "case converter case converter velika slova mala slova naslovna velika slova veliko slovo recenice i jos mnogo toga po jedan klik za svako",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Ukloni duplicirane retke",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Izbrišite ponovljene retke i zadržite svaki jedinstveni redak jednom, redom.",
+  "k": "remove duplicate lines remove duplicate lines izbrisite ponovljene retke i zadrzite svaki jedinstveni redak jednom redom",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Razvrstaj retke",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Razvrstajte retke A-Z, Z-A, po duljini, obrnuto ili pošteno nasumično izmiješano.",
+  "k": "sort lines sort lines razvrstajte retke a z z a po duljini obrnuto ili posteno nasumicno izmijesano",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Obrnuti tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Okrenite tekst unatrag - cijeli tekst, svaku riječ, redoslijed riječi ili redoslijed redaka.",
+  "k": "reverse text reverse text okrenite tekst unatrag cijeli tekst svaku rijec redoslijed rijeci ili redoslijed redaka",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Ukloni suvišne razmake",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Istisnite dvostruke razmake, tabove i neravne rubove iz neurednog kopiranog teksta.",
+  "k": "remove extra spaces remove extra spaces istisnite dvostruke razmake tabove i neravne rubove iz neurednog kopiranog teksta",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Pronađi i zamijeni",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Zamijenite svako pojavljivanje riječi ili izraza drugim, u jednom prolazu.",
+  "k": "find and replace find and replace zamijenite svako pojavljivanje rijeci ili izraza drugim u jednom prolazu",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst u govor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Čujte bilo koji tekst pročitan naglas - engleski, urdu i još glasova, vašom brzinom.",
+  "k": "text to speech text to speech cujte bilo koji tekst procitan naglas engleski urdu i jos glasova vasom brzinom",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Govor u tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Govorite i gledajte kako vaše riječi postaju tekst - engleski, urdu i još mnogo toga.",
+  "k": "speech to text speech to text govorite i gledajte kako vase rijeci postaju tekst engleski urdu i jos mnogo toga",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator lozinki",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Jake nasumične lozinke duljine i simbola koje odaberete.",
+  "k": "password generator password generator jake nasumicne lozinke duljine i simbola koje odaberete",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Usporedba teksta",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Poravnajte dva teksta i pogledajte točno koji su se retci promijenili.",
+  "k": "text compare text compare poravnajte dva teksta i pogledajte tocno koji su se retci promijenili",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Učestalost riječi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Poredana tablica vaših najčešće korištenih riječi, s brojevima i postocima.",
+  "k": "word frequency word frequency poredana tablica vasih najcesce koristenih rijeci s brojevima i postocima",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Ukloni prijelome redaka",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Spojite retke pokvarene u PDF stilu natrag u čiste, tečne odlomke.",
+  "k": "remove line breaks remove line breaks spojite retke pokvarene u pdf stilu natrag u ciste tecne odlomke",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Dodaj brojeve redaka",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Numerirajte svaki redak - odaberite početak, korak, dopunjavanje i razdjelnik.",
+  "k": "add line numbers add line numbers numerirajte svaki redak odaberite pocetak korak dopunjavanje i razdjelnik",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum generator",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Klasični tekst za popunjavanje po odlomku, rečenici ili riječi za vaše dizajne.",
+  "k": "lorem ipsum generator lorem ipsum generator klasicni tekst za popunjavanje po odlomku recenici ili rijeci za vase dizajne",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator sluga",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite bilo koji naslov u čist URL slug prilagođen pretraživanju, uživo.",
+  "k": "slug generator slug generator pretvorite bilo koji naslov u cist url slug prilago en pretrazivanju uzivo",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevoditelj Morseova koda",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Tekst u Morseov kod i natrag - s pravom zvučnom reprodukcijom.",
+  "k": "morse code translator morse code translator tekst u morseov kod i natrag s pravom zvucnom reprodukcijom",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst u binarno",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Pogledajte tekst kao 0 i 1 koje računala pohranjuju - i dekodirajte binarno natrag.",
+  "k": "text to binary text to binary pogledajte tekst kao 0 i 1 koje racunala pohranjuju i dekodirajte binarno natrag",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Rimski urdu na urdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite 'mera naam Ahmed hai' u pravo urdu pismo, trenutačno.",
+  "k": "roman urdu to urdu roman urdu to urdu pretvorite mera naam ahmed hai u pravo urdu pismo trenutacno",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Mrežna bilježnica",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Bilježnica koja se automatski sprema u vašem pregledniku – preuzimanje i ispis uključeni.",
+  "k": "online notepad online notepad biljeznica koja se automatski sprema u vasem pregledniku preuzimanje i ispis ukljuceni",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator ukrasnog teksta",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Podebljani, pisani, zaokruženi i naopaki tekst za biografije i opise.",
+  "k": "fancy text generator fancy text generator podebljani pisani zaokruzeni i naopaki tekst za biografije i opise",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Brojač slogova",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Brojite slogove u svakoj riječi i ukupno – savršeno za pjesme, haiku i tekstove pjesama.",
+  "k": "syllable counter syllable counter brojite slogove u svakoj rijeci i ukupno savrseno za pjesme haiku i tekstove pjesama",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Brojač odlomaka",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Brojite odlomke, s riječima i rečenicama po odlomku i označenim najduljim.",
+  "k": "paragraph counter paragraph counter brojite odlomke s rijecima i recenicama po odlomku i oznacenim najduljim",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator razine čitanja",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Rezultati Fleschove lakoće čitanja i razine razreda, uz presudu na običnom engleskom.",
+  "k": "reading level calculator reading level calculator rezultati fleschove lakoce citanja i razine razreda uz presudu na obicnom engleskom",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Provjerivač palindroma",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Čita li se isto unatrag? Provjerite riječi, brojeve i cijele rečenice.",
+  "k": "palindrome checker palindrome checker cita li se isto unatrag provjerite rijeci brojeve i cijele recenice",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator anagrama",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Pronađite prave riječi skrivene u svojim slovima i trenutačno testirajte parove anagrama.",
+  "k": "anagram generator anagram generator prona ite prave rijeci skrivene u svojim slovima i trenutacno testirajte parove anagrama",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO fonetska abeceda",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Sricajte bilo što na pilotski način - Alfa, Bravo, Charlie - i dekodirajte natrag.",
+  "k": "nato phonetic alphabet nato phonetic alphabet sricajte bilo sto na pilotski nacin alfa bravo charlie i dekodirajte natrag",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Pretvarač teksta u ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Decimalni, heksadecimalni, oktalni i binarni kodovi iza svakog znaka, i natrag.",
+  "k": "text to ascii converter text to ascii converter decimalni heksadecimalni oktalni i binarni kodovi iza svakog znaka i natrag",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Pretvarač teksta u hex",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Tekst u heksadecimalne bajtove i natrag, s pravim UTF-8 za svaki jezik.",
+  "k": "text to hex converter text to hex converter tekst u heksadecimalne bajtove i natrag s pravim utf 8 za svaki jezik",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Pronalazač ponovljenih riječi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Svaka riječ koju ste upotrijebili više od jednom, rangirana - plus slučajne dvostruke riječi.",
+  "k": "repeated words finder repeated words finder svaka rijec koju ste upotrijebili vise od jednom rangirana plus slucajne dvostruke rijeci",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Provjerivač nevidljivih znakova",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Otkrijte znakove nulte širine i skrivene znakove u kopiranom tekstu i uklonite ih.",
+  "k": "invisible character checker invisible character checker otkrijte znakove nulte sirine i skrivene znakove u kopiranom tekstu i uklonite ih",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Ukloni interpunkciju",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Skinite interpunkciju s teksta u jednom kliku, držeći riječi čistima.",
+  "k": "remove punctuation remove punctuation skinite interpunkciju s teksta u jednom kliku drzeci rijeci cistima",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Izdvajač e-pošte",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Izvucite svaku adresu e-pošte iz bilo kojeg teksta - bez duplikata, po jedna u retku.",
+  "k": "email extractor email extractor izvucite svaku adresu e poste iz bilo kojeg teksta bez duplikata po jedna u retku",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Slika u tekst (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Izdvojite tekst koji se može uređivati iz fotografija, skenova i snimki zaslona - besplatan OCR u vašem pregledniku.",
+  "k": "image to text (ocr) image to text (ocr) izdvojite tekst koji se moze ure ivati iz fotografija skenova i snimki zaslona besplatan ocr u vasem pregledniku",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Pretvarač slike u Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite fotografiju ili snimku zaslona tablice u pravu Excel datoteku - provjerite i uredite ćelije, zatim preuzmite.",
+  "k": "image to excel converter image to excel converter pretvorite fotografiju ili snimku zaslona tablice u pravu excel datoteku provjerite i uredite celije zatim preuzmite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator citata",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Citati APA 7., MLA 9. i Chicago za mrežne stranice, knjige i članke u časopisima.",
+  "k": "citation generator citation generator citati apa 7 mla 9 i chicago za mrezne stranice knjige i clanke u casopisima",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB čitač",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Otvorite i čitajte EPUB e-knjige izravno u pregledniku - popis poglavlja, prilagodljiva veličina fonta i tamni način.",
+  "k": "epub reader epub reader otvorite i citajte epub e knjige izravno u pregledniku popis poglavlja prilagodljiva velicina fonta i tamni nacin",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB u tekst",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite EPUB e-knjigu u čistu datoteku običnog teksta - poglavlja u redoslijedu čitanja, naslovi sačuvani.",
+  "k": "epub to text epub to text pretvorite epub e knjigu u cistu datoteku obicnog teksta poglavlja u redoslijedu citanja naslovi sacuvani",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB u HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite EPUB e-knjigu u jednu samostalnu HTML datoteku s umetnutim slikama.",
+  "k": "epub to html epub to html pretvorite epub e knjigu u jednu samostalnu html datoteku s umetnutim slikama",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ u PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite arhivu stripa u PDF - stranice prirodnim redoslijedom, jedna slika po stranici.",
+  "k": "cbz to pdf cbz to pdf pretvorite arhivu stripa u pdf stranice prirodnim redoslijedom jedna slika po stranici",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX u EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite Word dokument u EPUB e-knjigu - naslovi postaju poglavlja.",
+  "k": "docx to epub docx to epub pretvorite word dokument u epub e knjigu naslovi postaju poglavlja",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Uređivač EPUB metapodataka",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Uredite naslov, autora, izdavača i opis e-knjige - poglavlja netaknuta.",
+  "k": "epub metadata editor epub metadata editor uredite naslov autora izdavaca i opis e knjige poglavlja netaknuta",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Tekst / Markdown u EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Pretvorite običan tekst ili Markdown u pravu EPUB e-knjigu koja se otvara u bilo kojem čitaču.",
+  "k": "text / markdown to epub text / markdown to epub pretvorite obican tekst ili markdown u pravu epub e knjigu koja se otvara u bilo kojem citacu",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator nasumičnih tema",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hr/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 ručno napisanih tema za eseje, govore, debate, priče i dječje teme u 9 kategorija, razvrstanih prema školskoj razini, bez ponavljanja.",
+  "k": "random topic generator random topic generator 900 rucno napisanih tema za eseje govore debate price i djecje teme u 9 kategorija razvrstanih prema skolskoj razini bez ponavljanja",
+  "p": 148,
+  "c": "Tool"
+ }
+]

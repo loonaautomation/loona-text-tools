@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esej od 1,000 riječi",
+  "short_name": "Esej od 1,000 riječi",
+  "description": "Besplatan brojač eseja od 1,000 riječi: broj riječi uživo do cilja od 1,000 riječi, stranice s jednostrukim i dvostrukim proredom, odlomci, vrijeme čitanja i govora.",
+  "id": "/loona-text-tools/hr/1000-word-essay-word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

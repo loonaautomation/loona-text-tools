@@ -1,0 +1,29 @@
+{
+  "name": "Loona Obrnuti tekst na mreži",
+  "short_name": "Obrnuti tekst na mreži",
+  "description": "Obrnite tekst na četiri načina: cijeli tekst unatrag, svaka riječ unatrag, redoslijed riječi okrenut ili redoslijed redaka okrenut. Besplatno mrežno okretanje teksta - registracija nije potrebna.",
+  "id": "/loona-text-tools/hr/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

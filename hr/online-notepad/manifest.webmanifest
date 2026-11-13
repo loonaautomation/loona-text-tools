@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mrežna bilježnica besplatno",
+  "short_name": "Mrežna bilježnica besplatno",
+  "description": "Besplatna mrežna bilježnica koja se automatski sprema u vašem pregledniku dok tipkate – preuzimanje, ispis i brojanje riječi uključeni. Bez registracije; vaše bilješke nikada ne napuštaju vaš uređaj.",
+  "id": "/loona-text-tools/hr/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
