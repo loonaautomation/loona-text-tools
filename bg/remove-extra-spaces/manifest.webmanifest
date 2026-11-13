@@ -1,0 +1,29 @@
+{
+  "name": "Loona Премахване на излишни интервали онлайн",
+  "short_name": "Премахване на излишни интервали онлайн",
+  "description": "Премахвайте излишни интервали, табулации и празни редове от текст с едно щракване. Подреждайте текст, копиран от PDF файлове, имейли и уеб страници. Безплатно онлайн премахване - без нужда от регистрация.",
+  "id": "/loona-text-tools/bg/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

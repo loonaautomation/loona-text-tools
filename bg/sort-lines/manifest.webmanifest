@@ -1,0 +1,29 @@
+{
+  "name": "Loona Подреждане на редове онлайн",
+  "short_name": "Подреждане на редове онлайн",
+  "description": "Подреждайте редове текст по азбучен ред (A-Z или Z-A), по дължина, в обратен ред или разбъркани на случаен принцип. Безплатно онлайн подреждане на редове - без регистрация, мигновено и поверително.",
+  "id": "/loona-text-tools/bg/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

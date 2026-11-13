@@ -1,0 +1,29 @@
+{
+  "name": "Loona Преводач на морзов код онлайн",
+  "short_name": "Преводач на морзов код онлайн",
+  "description": "Превеждайте текст в морзов код и морзов код обратно в текст и го чуйте като истински звукови сигнали. Безплатен онлайн преводач на морзов код - без регистрация, работи във вашия браузър.",
+  "id": "/loona-text-tools/bg/morse-code-translator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

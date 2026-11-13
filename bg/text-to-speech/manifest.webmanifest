@@ -1,0 +1,29 @@
+{
+  "name": "Loona Текст към реч онлайн безплатно",
+  "short_name": "Текст към реч онлайн безплатно",
+  "description": "Превърнете всеки текст в естествено говорено аудио безплатно онлайн - гласове на английски и урду, регулируема скорост и височина на тона. Без регистрация, нищо не се качва, работи във вашия браузър.",
+  "id": "/loona-text-tools/bg/text-to-speech/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

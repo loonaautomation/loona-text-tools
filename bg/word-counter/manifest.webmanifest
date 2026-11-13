@@ -1,0 +1,29 @@
+{
+  "name": "Loona Брояч на думи онлайн безплатно",
+  "short_name": "Брояч на думи онлайн безплатно",
+  "description": "Бройте думи, знаци, изречения и абзаци във всеки текст мигновено, с време за четене и време за говорене. Безплатен брояч на думи, без регистрация, работи офлайн.",
+  "id": "/loona-text-tools/bg/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

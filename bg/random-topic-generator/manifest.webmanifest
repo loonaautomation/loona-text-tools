@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на случайни теми онлайн безплатно",
+  "short_name": "Генератор на случайни теми онлайн безплатно",
+  "description": "Генерирайте случайни теми за есета, речи, дебати, абзаци, презентации и разкази - 900 ръчно написани теми в 9 категории, филтрирани по ниво. Безплатно, без регистрация.",
+  "id": "/loona-text-tools/bg/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на ефектен текст онлайн",
+  "short_name": "Генератор на ефектен текст онлайн",
+  "description": "Превърнете обикновен текст в стилни шрифтове на Unicode - удебелен, ръкописен, фрактур, ограден в кръг, малки главни и още - за биографии, надписи и потребителски имена. Безплатен генератор на ефектен текст.",
+  "id": "/loona-text-tools/bg/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

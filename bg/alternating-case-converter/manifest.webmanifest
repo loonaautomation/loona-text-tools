@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор РеДуВаЩ сЕ РеГиСтЪр",
+  "short_name": "Конвертор РеДуВаЩ сЕ РеГиСтЪр",
+  "description": "Безплатен конвертор РеДуВаЩ сЕ РеГиСтЪр — поставете текст и получете РеДуВаЩ сЕ РеГиСтЪр мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
+  "id": "/loona-text-tools/bg/alternating-case-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

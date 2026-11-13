@@ -1,0 +1,29 @@
+{
+  "name": "Loona Брояч на абзаци онлайн безплатно",
+  "short_name": "Брояч на абзаци онлайн безплатно",
+  "description": "Бройте абзаци във всеки текст мигновено, с изречения и думи на абзац и най-дългия и най-краткия абзац. Безплатен брояч на абзаци, без регистрация.",
+  "id": "/loona-text-tools/bg/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

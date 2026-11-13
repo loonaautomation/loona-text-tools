@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от текст към EPUB безплатно",
+  "short_name": "Конвертор от текст към EPUB безплатно",
+  "description": "Преобразувайте обикновен текст или Markdown във валидна електронна книга EPUB безплатно, във вашия браузър. Заглавие и автор, глави от заглавия, отваря се във всеки четец на EPUB. Без качване, без регистрация.",
+  "id": "/loona-text-tools/bg/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

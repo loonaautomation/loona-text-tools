@@ -1,0 +1,29 @@
+{
+  "name": "Loona Брой думи в публикация в блог",
+  "short_name": "Брой думи в публикация в блог",
+  "description": "Проверка на броя думи в публикация в блог: броене на живо с диапазоните на дължина за новини (300–500), стандартни публикации (1,000–1,500) и задълбочени ръководства (2,000+).",
+  "id": "/loona-text-tools/bg/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
