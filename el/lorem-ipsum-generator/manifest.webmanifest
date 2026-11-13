@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Lorem Ipsum Online",
+  "short_name": "Γεννήτρια Lorem Ipsum Online",
+  "description": "Δημιουργήστε εικονικό κείμενο lorem ipsum ανά παράγραφο, πρόταση ή λέξη - έτοιμο για επικόλληση σε σχέδια και διατάξεις. Δωρεάν γεννήτρια lorem ipsum, δεν χρειάζεται εγγραφή.",
+  "id": "/loona-text-tools/el/lorem-ipsum-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

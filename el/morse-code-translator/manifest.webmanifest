@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μεταφραστής Κώδικα Μορς Online",
+  "short_name": "Μεταφραστής Κώδικα Μορς Online",
+  "description": "Μεταφράστε κείμενο σε κώδικα Morse και κώδικα Morse πίσω σε κείμενο, και ακούστε το ως πραγματικά μπιπ. Δωρεάν online μεταφραστής κώδικα Morse - χωρίς εγγραφή, λειτουργεί στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-text-tools/el/morse-code-translator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

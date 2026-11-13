@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Τυχαίων Θεμάτων Online Δωρεάν",
+  "short_name": "Γεννήτρια Τυχαίων Θεμάτων Online Δωρεάν",
+  "description": "Δημιουργήστε τυχαία θέματα για εκθέσεις, ομιλίες, αντιλογίες, παραγράφους, παρουσιάσεις και ιστορίες - 900 χειρόγραφα θέματα σε 9 κατηγορίες, φιλτραρισμένα κατά επίπεδο. Δωρεάν, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

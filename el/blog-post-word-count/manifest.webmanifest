@@ -1,0 +1,29 @@
+{
+  "name": "Loona Πλήθος Λέξεων Άρθρου Ιστολογίου",
+  "short_name": "Πλήθος Λέξεων Άρθρου Ιστολογίου",
+  "description": "Έλεγχος πλήθους λέξεων άρθρου ιστολογίου: ζωντανή μέτρηση με τις ζώνες μήκους για ειδήσεις (300–500), τυπικά άρθρα (1,000–1,500) και σε βάθος οδηγούς (2,000+).",
+  "id": "/loona-text-tools/el/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

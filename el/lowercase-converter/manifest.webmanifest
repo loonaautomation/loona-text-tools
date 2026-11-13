@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας σε Πεζά",
+  "short_name": "Μετατροπέας σε Πεζά",
+  "description": "Δωρεάν μετατροπέας σε πεζά — επικολλήστε κείμενο και πάρετε πεζά αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
+  "id": "/loona-text-tools/el/lowercase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

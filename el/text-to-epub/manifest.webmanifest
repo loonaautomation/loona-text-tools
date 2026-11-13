@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Κειμένου σε EPUB Δωρεάν",
+  "short_name": "Μετατροπέας Κειμένου σε EPUB Δωρεάν",
+  "description": "Μετατρέψτε απλό κείμενο ή Markdown σε ένα έγκυρο ebook EPUB δωρεάν, στο πρόγραμμα περιήγησής σας. Τίτλος και συγγραφέας, κεφάλαια από επικεφαλίδες, ανοίγει σε οποιονδήποτε αναγνώστη EPUB. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/text-to-epub/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

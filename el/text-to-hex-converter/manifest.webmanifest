@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Κειμένου σε Δεκαεξαδικό Online Δωρεάν",
+  "short_name": "Μετατροπέας Κειμένου σε Δεκαεξαδικό Online Δωρεάν",
+  "description": "Μετατρέψτε κείμενο σε δεκαεξαδικό και δεκαεξαδικό πίσω σε κείμενο, με σωστό χειρισμό UTF-8 για τονισμένα γράμματα, Urdu και emoji. Δωρεάν μετατροπέας δεκαεξαδικού, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

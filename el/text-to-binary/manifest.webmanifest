@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Κειμένου σε Δυαδικό Online",
+  "short_name": "Μετατροπέας Κειμένου σε Δυαδικό Online",
+  "description": "Μετατρέψτε κείμενο σε δυαδικό κώδικα (0 και 1) και δυαδικό πίσω σε αναγνώσιμο κείμενο, με πλήρη υποστήριξη Unicode. Δωρεάν μετατροπέας κειμένου σε δυαδικό - εξαιρετικός για φοιτητές πληροφορικής.",
+  "id": "/loona-text-tools/el/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

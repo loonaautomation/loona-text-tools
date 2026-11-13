@@ -1,0 +1,29 @@
+{
+  "name": "Loona Τεστ Πληκτρολόγησης Online Δωρεάν",
+  "short_name": "Τεστ Πληκτρολόγησης Online Δωρεάν",
+  "description": "Δωρεάν τεστ πληκτρολόγησης 60 δευτερολέπτων: μετρήστε την ταχύτητα πληκτρολόγησής σας σε WPM, ακρίβεια και χαρακτήρες ανά λεπτό με εύκολα, μεσαία και δύσκολα κείμενα. Χωρίς εγγραφή, εκτελείται 100% στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-text-tools/el/typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

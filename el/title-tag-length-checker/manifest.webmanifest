@@ -1,0 +1,29 @@
+{
+  "name": "Loona Έλεγχος Μήκους Ετικέτας Τίτλου",
+  "short_name": "Έλεγχος Μήκους Ετικέτας Τίτλου",
+  "description": "Δωρεάν μετρητής ελέγχου μήκους ετικέτας τίτλου: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 60 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
+  "id": "/loona-text-tools/el/title-tag-length-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

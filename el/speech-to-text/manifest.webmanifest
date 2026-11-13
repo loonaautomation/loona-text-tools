@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ομιλία σε Κείμενο Online Δωρεάν",
+  "short_name": "Ομιλία σε Κείμενο Online Δωρεάν",
+  "description": "Υπαγορεύστε με τη φωνή σας και παρακολουθήστε το να γίνεται κείμενο - δωρεάν online ομιλία σε κείμενο για Αγγλικά, Urdu και περισσότερες γλώσσες. Χωρίς εγγραφή· λειτουργεί σε Chrome και Edge.",
+  "id": "/loona-text-tools/el/speech-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Επεξεργαστής Μεταδεδομένων EPUB Δωρεάν",
+  "short_name": "Επεξεργαστής Μεταδεδομένων EPUB Δωρεάν",
+  "description": "Επεξεργαστείτε μεταδεδομένα EPUB δωρεάν στο πρόγραμμα περιήγησής σας: τίτλος, συγγραφέας, γλώσσα, εκδότης και περιγραφή, με πληροφορίες εξωφύλλου εμφανείς. Κεφάλαια ανέπαφα, χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/epub-metadata-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετρητής Παραγράφων Online Δωρεάν",
+  "short_name": "Μετρητής Παραγράφων Online Δωρεάν",
+  "description": "Μετρήστε παραγράφους σε οποιοδήποτε κείμενο αμέσως, με προτάσεις και λέξεις ανά παράγραφο και τη μεγαλύτερη και μικρότερη παράγραφο. Δωρεάν μετρητής παραγράφων, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

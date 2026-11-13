@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Slug Online",
+  "short_name": "Γεννήτρια Slug Online",
+  "description": "Μετατρέψτε οποιονδήποτε τίτλο σε καθαρό, φιλικό προς SEO slug URL: πεζά, χωρίς κενά, χωρίς ειδικούς χαρακτήρες. Δωρεάν online γεννήτρια slug με πλήρη προεπισκόπηση URL - χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

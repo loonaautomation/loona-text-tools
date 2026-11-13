@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετρητής Λέξεων Online Δωρεάν",
+  "short_name": "Μετρητής Λέξεων Online Δωρεάν",
+  "description": "Μετρήστε λέξεις, χαρακτήρες, προτάσεις και παραγράφους σε οποιοδήποτε κείμενο αμέσως, με χρόνο ανάγνωσης και χρόνο ομιλίας. Δωρεάν μετρητής λέξεων, χωρίς εγγραφή, λειτουργεί εκτός σύνδεσης.",
+  "id": "/loona-text-tools/el/word-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

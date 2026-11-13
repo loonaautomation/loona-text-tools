@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αντιστροφή Κειμένου Online",
+  "short_name": "Αντιστροφή Κειμένου Online",
+  "description": "Αντιστρέψτε κείμενο με τέσσερις τρόπους: ολόκληρο το κείμενο προς τα πίσω, κάθε λέξη προς τα πίσω, αναστροφή σειράς λέξεων, ή αναστροφή σειράς γραμμών. Δωρεάν online αντιστροφή κειμένου - δεν χρειάζεται εγγραφή.",
+  "id": "/loona-text-tools/el/reverse-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

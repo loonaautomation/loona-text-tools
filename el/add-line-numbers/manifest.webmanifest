@@ -1,0 +1,29 @@
+{
+  "name": "Loona Προσθήκη Αριθμών Γραμμών Online",
+  "short_name": "Προσθήκη Αριθμών Γραμμών Online",
+  "description": "Προσθέστε αριθμούς σε κάθε γραμμή του κειμένου σας με την επιλογή σας για έναρξη, βήμα, συμπλήρωση και διαχωριστικό. Δωρεάν εργαλείο αρίθμησης γραμμών - χωρίς εγγραφή, αμέσως και ιδιωτικά.",
+  "id": "/loona-text-tools/el/add-line-numbers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

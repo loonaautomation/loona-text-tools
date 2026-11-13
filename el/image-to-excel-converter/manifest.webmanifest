@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Εικόνας σε Excel Online Δωρεάν",
+  "short_name": "Μετατροπέας Εικόνας σε Excel Online Δωρεάν",
+  "description": "Μετατρέψτε μια φωτογραφία, σάρωση ή στιγμιότυπο ενός πίνακα σε πραγματικό αρχείο Excel (.xlsx) με δωρεάν OCR που εκτελείται 100% στο πρόγραμμα περιήγησής σας. Επεξεργαστείτε τον πίνακα πριν κατεβάσετε - χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

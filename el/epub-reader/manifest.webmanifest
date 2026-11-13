@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αναγνώστης EPUB Online Δωρεάν",
+  "short_name": "Αναγνώστης EPUB Online Δωρεάν",
+  "description": "Ανοίξτε και διαβάστε ebook EPUB online δωρεάν, απευθείας στο πρόγραμμα περιήγησής σας. Λίστα κεφαλαίων, ρυθμιζόμενο μέγεθος γραμματοσειράς και σκοτεινή λειτουργία. 100% ιδιωτικό - το ebook σας ποτέ δεν φεύγει από τη συσκευή σας. Χωρίς εγγραφή.",
+  "id": "/loona-text-tools/el/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

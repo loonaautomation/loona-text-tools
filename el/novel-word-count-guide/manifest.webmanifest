@@ -1,0 +1,29 @@
+{
+  "name": "Loona Πλήθος Λέξεων Μυθιστορήματος ανά Είδος",
+  "short_name": "Πλήθος Λέξεων Μυθιστορήματος ανά Είδος",
+  "description": "Πλήθος λέξεων μυθιστορήματος ανά είδος: ενηλίκων 70,000–120,000, νεανικό 50,000–90,000, μέσης παιδικής ηλικίας 20,000–55,000. Δωρεάν ζωντανός μετρητής με στόχους ανά είδος.",
+  "id": "/loona-text-tools/el/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
