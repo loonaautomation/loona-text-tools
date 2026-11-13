@@ -1,0 +1,443 @@
+[
+ {
+  "n": "מונה מילים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "מילים, תווים, משפטים, פסקאות וזמן קריאה - נספרים בשידור חי תוך כדי הקלדה.",
+  "k": "word counter word counter מונה מילים מילים תווים משפטים פסקאות וזמן קריאה נספרים בשידור חי תוך כדי הקלדה",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "מונה תווים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "תווים עם ובלי רווחים, ועוד מגבלות חיות ל-X, SMS וטקסט מטא.",
+  "k": "character counter character counter מונה תווים תווים עם ובלי רווחים ועוד מגבלות חיות ל X SMS וטקסט מטא",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "מונה משפטים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "משפטים, פסקאות, מילים ותווים בכל טקסט - נספרים בשידור חי בזמן ההקלדה.",
+  "k": "sentence counter sentence counter מונה משפטים משפטים פסקאות מילים ותווים בכל טקסט נספרים בשידור חי בזמן ההקלדה",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "מחשבון זמן קריאה",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "כמה זמן לוקח לכל טקסט להיקרא, במהירויות קריאה איטית, ממוצעת ומהירה.",
+  "k": "reading time calculator reading time calculator מחשבון זמן קריאה כמה זמן לוקח לכל טקסט להיקרא במהירויות קריאה איטית ממוצעת ומהירה",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "מחשבון זמן דיבור",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "כמה זמן לוקח לנאום או לתסריט להתנגן - ועוד מילים הדרושות לזמן יעד.",
+  "k": "speaking time calculator speaking time calculator מחשבון זמן דיבור כמה זמן לוקח לנאום או לתסריט להתנגן ועוד מילים הדרושות לזמן יעד",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "מבחן הקלדה",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "מבחן הקלדה של 60 שניות - המהירות שלכם ב-WPM, דיוק ו-CPM, בשידור חי בזמן ההקלדה.",
+  "k": "typing test typing test מבחן הקלדה מבחן הקלדה של 60 שניות המהירות שלכם ב WPM דיוק ו CPM בשידור חי בזמן ההקלדה",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר אותיות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "UPPERCASE, lowercase, Title Case, Sentence case ועוד - לחיצה אחת לכל אחד.",
+  "k": "case converter case converter ממיר אותיות UPPERCASE lowercase Title Case Sentence case ועוד לחיצה אחת לכל אחד",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "הסרת שורות כפולות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "מחקו שורות חוזרות ושמרו כל שורה ייחודית פעם אחת, לפי הסדר.",
+  "k": "remove duplicate lines remove duplicate lines הסרת שורות כפולות מחקו שורות חוזרות ושמרו כל שורה ייחודית פעם אחת לפי הסדר",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "מיון שורות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "סדרו שורות A-Z, Z-A, לפי אורך, הפוך, או מעורבב באקראי בהוגנות.",
+  "k": "sort lines sort lines מיון שורות סדרו שורות A Z Z A לפי אורך הפוך או מעורבב באקראי בהוגנות",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "היפוך טקסט",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "הפכו טקסט אחורה - טקסט שלם, כל מילה, סדר מילים או סדר שורות.",
+  "k": "reverse text reverse text היפוך טקסט הפכו טקסט אחורה טקסט שלם כל מילה סדר מילים או סדר שורות",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "הסרת רווחים מיותרים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "דחסו רווחים כפולים, טאבים וקצוות מרופטים מתוך טקסט מועתק מבולגן.",
+  "k": "remove extra spaces remove extra spaces הסרת רווחים מיותרים דחסו רווחים כפולים טאבים וקצוות מרופטים מתוך טקסט מועתק מבולגן",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "חיפוש והחלפה",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "החליפו כל מופע של מילה או ביטוי באחר, במעבר אחד.",
+  "k": "find and replace find and replace חיפוש והחלפה החליפו כל מופע של מילה או ביטוי באחר במעבר אחד",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "טקסט לדיבור",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "שמעו כל טקסט נקרא בקול - אנגלית, אורדו ועוד קולות, במהירות שלכם.",
+  "k": "text to speech text to speech טקסט לדיבור שמעו כל טקסט נקרא בקול אנגלית אורדו ועוד קולות במהירות שלכם",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "דיבור לטקסט",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "דברו וצפו במילים שלכם הופכות לטקסט - אנגלית, אורדו ועוד.",
+  "k": "speech to text speech to text דיבור לטקסט דברו וצפו במילים שלכם הופכות לטקסט אנגלית אורדו ועוד",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל סיסמאות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "סיסמאות אקראיות חזקות עם האורך והסמלים שתבחרו.",
+  "k": "password generator password generator מחולל סיסמאות סיסמאות אקראיות חזקות עם האורך והסמלים שתבחרו",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "השוואת טקסט",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "ישרו שני טקסטים וראו בדיוק אילו שורות השתנו.",
+  "k": "text compare text compare השוואת טקסט ישרו שני טקסטים וראו בדיוק אילו שורות השתנו",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "תדירות מילים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "טבלה מדורגת של המילים הנפוצות ביותר שלכם, עם ספירות ואחוזים.",
+  "k": "word frequency word frequency תדירות מילים טבלה מדורגת של המילים הנפוצות ביותר שלכם עם ספירות ואחוזים",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "הסרת מעברי שורה",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "חברו שורות שבורות בסגנון PDF בחזרה לפסקאות נקיות וזורמות.",
+  "k": "remove line breaks remove line breaks הסרת מעברי שורה חברו שורות שבורות בסגנון PDF בחזרה לפסקאות נקיות וזורמות",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "הוספת מספרי שורות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "מספרו כל שורה - בחרו את ההתחלה, הצעד, הריפוד והמפריד.",
+  "k": "add line numbers add line numbers הוספת מספרי שורות מספרו כל שורה בחרו את ההתחלה הצעד הריפוד והמפריד",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "טקסט דמה קלאסי לפי פסקה, משפט או מילה לעיצובים שלכם.",
+  "k": "lorem ipsum generator lorem ipsum generator מחולל Lorem Ipsum טקסט דמה קלאסי לפי פסקה משפט או מילה לעיצובים שלכם",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל Slug",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "הפכו כל כותרת ל-slug נקי וידידותי למנועי חיפוש לכתובת URL, בשידור חי.",
+  "k": "slug generator slug generator מחולל Slug הפכו כל כותרת ל slug נקי וידידותי למנועי חיפוש לכתובת URL בשידור חי",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "מתרגם קוד מורס",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "טקסט לקוד מורס ובחזרה - עם ניגון צפצוף אמיתי.",
+  "k": "morse code translator morse code translator מתרגם קוד מורס טקסט לקוד מורס ובחזרה עם ניגון צפצוף אמיתי",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "טקסט לבינארי",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "ראו טקסט כ-0s ו-1s שמחשבים שומרים - ופענחו בינארי בחזרה.",
+  "k": "text to binary text to binary טקסט לבינארי ראו טקסט כ 0s ו 1s שמחשבים שומרים ופענחו בינארי בחזרה",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "אורדו רומית לאורדו",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "הפכו את 'mera naam Ahmed hai' לכתב אורדו תקין, מיד.",
+  "k": "roman urdu to urdu roman urdu to urdu אורדו רומית לאורדו הפכו את mera naam Ahmed hai לכתב אורדו תקין מיד",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "פנקס רשימות מקוון",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "פנקס רשימות ששומר אוטומטית בדפדפן שלכם - הורדה והדפסה כלולים.",
+  "k": "online notepad online notepad פנקס רשימות מקוון פנקס רשימות ששומר אוטומטית בדפדפן שלכם הורדה והדפסה כלולים",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל טקסט מעוצב",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "טקסט מודגש, כתב יד, מוקף בעיגול והפוך לביו ולכיתובים.",
+  "k": "fancy text generator fancy text generator מחולל טקסט מעוצב טקסט מודגש כתב יד מוקף בעיגול והפוך לביו ולכיתובים",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "מונה הברות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "ספרו הברות בכל מילה ובסך הכול - מושלם לשירים, הייקו ומילות שירים.",
+  "k": "syllable counter syllable counter מונה הברות ספרו הברות בכל מילה ובסך הכול מושלם לשירים הייקו ומילות שירים",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "מונה פסקאות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "ספרו פסקאות, עם מילים ומשפטים לפסקה והארוכה ביותר מסומנת.",
+  "k": "paragraph counter paragraph counter מונה פסקאות ספרו פסקאות עם מילים ומשפטים לפסקה והארוכה ביותר מסומנת",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "מחשבון רמת קריאה",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "ציוני Flesch Reading Ease ורמת כיתה, עם פסק דין באנגלית פשוטה.",
+  "k": "reading level calculator reading level calculator מחשבון רמת קריאה ציוני Flesch Reading Ease ורמת כיתה עם פסק דין באנגלית פשוטה",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק פלינדרומים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "האם זה נקרא אותו דבר אחורה? בדקו מילים, מספרים ומשפטים שלמים.",
+  "k": "palindrome checker palindrome checker בודק פלינדרומים האם זה נקרא אותו דבר אחורה בדקו מילים מספרים ומשפטים שלמים",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל אנגרמות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "מצאו מילים אמיתיות החבויות באותיות שלכם, ובדקו זוגות אנגרמות מיד.",
+  "k": "anagram generator anagram generator מחולל אנגרמות מצאו מילים אמיתיות החבויות באותיות שלכם ובדקו זוגות אנגרמות מיד",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "אלפבית פונטי של נאט\"ו",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "אייתו כל דבר בדרך הטייסים - Alfa, Bravo, Charlie - ופענחו אותו בחזרה.",
+  "k": "nato phonetic alphabet nato phonetic alphabet אלפבית פונטי של נאט ו אייתו כל דבר בדרך הטייסים Alfa Bravo Charlie ופענחו אותו בחזרה",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר טקסט ל-ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "הקודים העשרוניים, ההקסדצימליים, האוקטליים והבינאריים מאחורי כל תו, ובחזרה.",
+  "k": "text to ascii converter text to ascii converter ממיר טקסט ל ASCII הקודים העשרוניים ההקסדצימליים האוקטליים והבינאריים מאחורי כל תו ובחזרה",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר טקסט להקסדצימלי",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "טקסט לבתים הקסדצימליים ובחזרה, עם UTF-8 תקין לכל שפה.",
+  "k": "text to hex converter text to hex converter ממיר טקסט להקסדצימלי טקסט לבתים הקסדצימליים ובחזרה עם UTF 8 תקין לכל שפה",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "מאתר מילים חוזרות",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "כל מילה שהשתמשתם בה יותר מפעם אחת, מדורגת - ועוד מילים כפולות בטעות.",
+  "k": "repeated words finder repeated words finder מאתר מילים חוזרות כל מילה שהשתמשתם בה יותר מפעם אחת מדורגת ועוד מילים כפולות בטעות",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק תווים בלתי נראים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "חשפו תווים ברוחב אפס ונסתרים בטקסט מועתק, והסירו אותם.",
+  "k": "invisible character checker invisible character checker בודק תווים בלתי נראים חשפו תווים ברוחב אפס ונסתרים בטקסט מועתק והסירו אותם",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "הסרת סימני פיסוק",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "הסירו סימני פיסוק מטקסט בלחיצה אחת, שומרים את המילים נקיות.",
+  "k": "remove punctuation remove punctuation הסרת סימני פיסוק הסירו סימני פיסוק מטקסט בלחיצה אחת שומרים את המילים נקיות",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ כתובות דוא\"ל",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "שלפו כל כתובת דוא\"ל מכל טקסט - ללא כפילויות, אחת בכל שורה.",
+  "k": "email extractor email extractor מחלץ כתובות דוא ל שלפו כל כתובת דוא ל מכל טקסט ללא כפילויות אחת בכל שורה",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "תמונה לטקסט (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "חלצו טקסט ניתן לעריכה מצילומים, סריקות וצילומי מסך - OCR חינמי בדפדפן שלכם.",
+  "k": "image to text ocr image to text converter תמונה לטקסט OCR חלצו טקסט ניתן לעריכה מצילומים סריקות וצילומי מסך OCR חינמי בדפדפן שלכם",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר תמונה ל-Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "הפכו תמונה או צילום מסך של טבלה לקובץ Excel אמיתי - בדקו וערכו את התאים, ואז הורידו.",
+  "k": "image to excel converter image to excel converter ממיר תמונה ל Excel הפכו תמונה או צילום מסך של טבלה לקובץ Excel אמיתי בדקו וערכו את התאים ואז הורידו",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל ציטוטים",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "ציטוטי APA 7, MLA 9 ו-Chicago לאתרים, ספרים ומאמרי כתבי עת.",
+  "k": "citation generator citation generator מחולל ציטוטים ציטוטי APA 7 MLA 9 ו Chicago לאתרים ספרים ומאמרי כתבי עת",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "קורא EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "פתחו וקראו ספרי EPUB ממש בדפדפן שלכם - רשימת פרקים, גודל גופן ניתן להתאמה ומצב כהה.",
+  "k": "epub reader epub reader קורא EPUB פתחו וקראו ספרי EPUB ממש בדפדפן שלכם רשימת פרקים גודל גופן ניתן להתאמה ומצב כהה",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB לטקסט",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "הפכו ספר EPUB לקובץ טקסט פשוט ונקי - פרקים בסדר הקריאה, כותרות נשמרות.",
+  "k": "epub to text epub to text EPUB לטקסט הפכו ספר EPUB לקובץ טקסט פשוט ונקי פרקים בסדר הקריאה כותרות נשמרות",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB ל-HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "הפכו ספר EPUB לקובץ HTML אחד עצמאי עם התמונות שלו מוטמעות.",
+  "k": "epub to html epub to html EPUB ל HTML הפכו ספר EPUB לקובץ HTML אחד עצמאי עם התמונות שלו מוטמעות",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ ל-PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "הפכו ארכיון קומיקס ל-PDF - עמודים בסדר טבעי, תמונה אחת בכל עמוד.",
+  "k": "cbz to pdf cbz to pdf CBZ ל PDF הפכו ארכיון קומיקס ל PDF עמודים בסדר טבעי תמונה אחת בכל עמוד",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX ל-EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "הפכו מסמך Word לספר EPUB - כותרות הופכות לפרקים.",
+  "k": "docx to epub docx to epub DOCX ל EPUB הפכו מסמך Word לספר EPUB כותרות הופכות לפרקים",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "עורך מטא-דאטה של EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "ערכו כותרת, מחבר, הוצאה לאור ותיאור של ספר אלקטרוני - פרקים לא נוגעים בהם.",
+  "k": "epub metadata editor epub metadata editor עורך מטא דאטה של EPUB ערכו כותרת מחבר הוצאה לאור ותיאור של ספר אלקטרוני פרקים לא נוגעים בהם",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "טקסט / Markdown ל-EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "הפכו טקסט פשוט או Markdown לספר EPUB תקין שנפתח בכל קורא.",
+  "k": "text markdown to epub text to epub turn plain text טקסט / Markdown ל EPUB הפכו טקסט פשוט או Markdown לספר EPUB תקין שנפתח בכל קורא",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל נושאים אקראי",
+  "u": "https://loonaautomation.github.io/loona-text-tools/he/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 hand-written essay, speech, debate, story and kids' topics in 9 categories, filtered by school level, with no repeats.",
+  "k": "random topic generator essay topics speech מחולל נושאים אקראי 900 hand written essay speech debate story and kids topics in 9 categories filtered by school level with no repeats",
+  "p": 148,
+  "c": "Tool"
+ }
+]

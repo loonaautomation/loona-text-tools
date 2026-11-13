@@ -1,0 +1,29 @@
+{
+  "name": "Loona ספירת מילים לקורות חיים",
+  "short_name": "ספירת מילים לקורות חיים",
+  "description": "בודק ספירת מילים לקורות חיים: ספירה חיה עם יעד העמוד האחד (400–600 מילים), הערכת עמוד והנחיות קיצוץ.",
+  "id": "/loona-text-tools/he/resume-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

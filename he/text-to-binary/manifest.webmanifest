@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר טקסט לבינארי אונליין",
+  "short_name": "ממיר טקסט לבינארי אונליין",
+  "description": "המירו טקסט לקוד בינארי (0s ו-1s) ובינארי בחזרה לטקסט קריא, עם תמיכת Unicode מלאה. ממיר טקסט לבינארי חינמי - נהדר לסטודנטים למדעי המחשב.",
+  "id": "/loona-text-tools/he/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

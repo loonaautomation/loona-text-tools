@@ -1,0 +1,29 @@
+{
+  "name": "Loona הסרת סימני פיסוק אונליין בחינם",
+  "short_name": "הסרת סימני פיסוק אונליין בחינם",
+  "description": "הסירו סימני פיסוק מכל טקסט בלחיצה אחת - נקודות, פסיקים, מירכאות ועוד - עם אפשרויות לשמור גרשיים ומקפים. חינם, ללא הרשמה.",
+  "id": "/loona-text-tools/he/remove-punctuation/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

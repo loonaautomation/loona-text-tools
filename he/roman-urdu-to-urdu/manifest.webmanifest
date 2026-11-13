@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר אורדו רומית לכתב אורדו אונליין בחינם",
+  "short_name": "ממיר אורדו רומית לכתב אורדו אונליין בחינם",
+  "description": "המירו אורדו רומית (אותיות לטיניות) לכתב אורדו תקין מיד - 'mera naam' הופך לכתיבת אורדו אמיתית. ממיר חינמי מאורדו רומית לאורדו לפקיסטן.",
+  "id": "/loona-text-tools/he/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

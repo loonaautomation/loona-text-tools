@@ -1,0 +1,29 @@
+{
+  "name": "Loona חיפוש והחלפת טקסט אונליין",
+  "short_name": "חיפוש והחלפת טקסט אונליין",
+  "description": "מצאו מילה או ביטוי והחליפו כל מופע בטקסט שלכם בבת אחת, עם אפשרויות רגישות לאותיות, מילה שלמה ותבנית. כלי מקוון חינמי - ללא הרשמה.",
+  "id": "/loona-text-tools/he/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

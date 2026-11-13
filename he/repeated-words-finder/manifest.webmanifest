@@ -1,0 +1,29 @@
+{
+  "name": "Loona מאתר מילים חוזרות אונליין בחינם",
+  "short_name": "מאתר מילים חוזרות אונליין בחינם",
+  "description": "מצאו כל מילה שמופיעה יותר מפעם אחת בטקסט שלכם, מדורגת לפי תדירות החזרה שלה. תפסו מילים כפולות בטעות ומילים בשימוש יתר. חינם, ללא הרשמה.",
+  "id": "/loona-text-tools/he/repeated-words-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

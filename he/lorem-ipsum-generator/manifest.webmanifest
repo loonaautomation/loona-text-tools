@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל Lorem Ipsum אונליין",
+  "short_name": "מחולל Lorem Ipsum אונליין",
+  "description": "צרו טקסט דמה Lorem Ipsum לפי פסקה, משפט או מילה - מוכן להדבקה בעיצובים ובפריסות. מחולל Lorem Ipsum חינמי, ללא צורך בהרשמה.",
+  "id": "/loona-text-tools/he/lorem-ipsum-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
