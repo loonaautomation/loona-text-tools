@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Kihesabu cha Maneno",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Maneno, vibambo, sentensi, aya na muda wa kusoma - vimehesabiwa moja kwa moja unapoandika.",
+  "k": "word counter word counter maneno vibambo sentensi aya na muda wa kusoma vimehesabiwa moja kwa moja unapoandika",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Kihesabu cha Vibambo",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Vibambo vyenye nafasi na visivyo na nafasi, pamoja na vikomo vya moja kwa moja vya X, SMS na maandishi ya meta.",
+  "k": "character counter character counter vibambo vyenye nafasi na visivyo na nafasi pamoja na vikomo vya moja kwa moja vya x sms na maandishi ya meta",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Kihesabu cha Sentensi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Sentensi, aya, maneno na vibambo katika maandishi yoyote - vimehesabiwa moja kwa moja unapoandika.",
+  "k": "sentence counter sentence counter sentensi aya maneno na vibambo katika maandishi yoyote vimehesabiwa moja kwa moja unapoandika",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Muda wa Kusoma",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Muda ambao maandishi yoyote huchukua kusoma, kwa kasi za kusoma za polepole, wastani na haraka.",
+  "k": "reading time calculator reading time calculator muda ambao maandishi yoyote huchukua kusoma kwa kasi za kusoma za polepole wastani na haraka",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Muda wa Kuzungumza",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Muda ambao hotuba au hati huchukua kuwasilisha - pamoja na maneno yanayohitajika kwa muda lengwa.",
+  "k": "speaking time calculator speaking time calculator muda ambao hotuba au hati huchukua kuwasilisha pamoja na maneno yanayohitajika kwa muda lengwa",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Kuandika",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Jaribio la kupiga chapa la sekunde 60 - kasi yako kwa WPM, usahihi na CPM, moja kwa moja unapoandika.",
+  "k": "typing test typing test jaribio la kupiga chapa la sekunde 60 kasi yako kwa wpm usahihi na cpm moja kwa moja unapoandika",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Kibadilishaji cha Hali ya Herufi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "HERUFI KUBWA, herufi ndogo, Hali ya Mada, Hali ya sentensi na zaidi - kubofya mara moja kila moja.",
+  "k": "case converter case converter herufi kubwa herufi ndogo hali ya mada hali ya sentensi na zaidi kubofya mara moja kila moja",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Ondoa Mistari Rudufu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Futa mistari inayojirudia na uhifadhi kila mstari wa kipekee mara moja, kwa mpangilio.",
+  "k": "remove duplicate lines remove duplicate lines futa mistari inayojirudia na uhifadhi kila mstari wa kipekee mara moja kwa mpangilio",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Panga Mistari",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Panga mistari A-Z, Z-A, kwa urefu, iliyogeuzwa, au iliyochanganywa kwa nasibu kwa haki.",
+  "k": "sort lines sort lines panga mistari a z z a kwa urefu iliyogeuzwa au iliyochanganywa kwa nasibu kwa haki",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Geuza Maandishi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Geuza maandishi kinyume - maandishi yote, kila neno, mpangilio wa maneno au mpangilio wa mistari.",
+  "k": "reverse text reverse text geuza maandishi kinyume maandishi yote kila neno mpangilio wa maneno au mpangilio wa mistari",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Ondoa Nafasi za Ziada",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Bana nafasi mbili, vichupo na kingo zilizochakaa kutoka maandishi yaliyonakiliwa machafu.",
+  "k": "remove extra spaces remove extra spaces bana nafasi mbili vichupo na kingo zilizochakaa kutoka maandishi yaliyonakiliwa machafu",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Tafuta na Badilisha",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Badilisha kila tukio la neno au kifungu kwa lingine, kwa mpito mmoja.",
+  "k": "find and replace find and replace badilisha kila tukio la neno au kifungu kwa lingine kwa mpito mmoja",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Maandishi kwenda Hotuba",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Sikia maandishi yoyote yakisomwa kwa sauti - Kiingereza, Kiurdu na sauti zaidi, kasi yako.",
+  "k": "text to speech text to speech sikia maandishi yoyote yakisomwa kwa sauti kiingereza kiurdu na sauti zaidi kasi yako",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Hotuba kwenda Maandishi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Zungumza na uangalie maneno yako yakiwa maandishi - Kiingereza, Kiurdu na zaidi.",
+  "k": "speech to text speech to text zungumza na uangalie maneno yako yakiwa maandishi kiingereza kiurdu na zaidi",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Nenosiri",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Manenosiri yenye nguvu ya nasibu kwa urefu na alama unazochagua.",
+  "k": "password generator password generator manenosiri yenye nguvu ya nasibu kwa urefu na alama unazochagua",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Linganisha Maandishi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Panga maandishi mawili na uone hasa mistari gani ilibadilika.",
+  "k": "text compare text compare panga maandishi mawili na uone hasa mistari gani ilibadilika",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Marudio ya Maneno",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Jedwali la mpangilio wa maneno yako yanayotumika zaidi, lenye hesabu na asilimia.",
+  "k": "word frequency word frequency jedwali la mpangilio wa maneno yako yanayotumika zaidi lenye hesabu na asilimia",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Ondoa Mivunjo ya Mistari",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Unganisha mistari iliyovunjika ya mtindo wa PDF kurudi kwenye aya safi zinazotiririka.",
+  "k": "remove line breaks remove line breaks unganisha mistari iliyovunjika ya mtindo wa pdf kurudi kwenye aya safi zinazotiririka",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Weka Nambari za Mistari",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Weka namba kwa kila mstari - chagua mwanzo, hatua, ujazaji na kitenganishi.",
+  "k": "add line numbers add line numbers weka namba kwa kila mstari chagua mwanzo hatua ujazaji na kitenganishi",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Lorem Ipsum",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Maandishi ya mfano ya asili kwa aya, sentensi au neno kwa ajili ya miundo yako.",
+  "k": "lorem ipsum generator lorem ipsum generator maandishi ya mfano ya asili kwa aya sentensi au neno kwa ajili ya miundo yako",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Slug",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Geuza mada yoyote kuwa slug safi ya URL inayofaa utafutaji, moja kwa moja.",
+  "k": "slug generator slug generator geuza mada yoyote kuwa slug safi ya url inayofaa utafutaji moja kwa moja",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitafsiri cha Msimbo wa Mose",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Maandishi kwenda msimbo wa Mose na kurudi - kwa uchezaji halisi wa mlio.",
+  "k": "morse code translator morse code translator maandishi kwenda msimbo wa mose na kurudi kwa uchezaji halisi wa mlio",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Maandishi kwenda Bainari",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Ona maandishi kama 0 na 1 ambazo kompyuta huhifadhi - na ufumbue bainari kurudi.",
+  "k": "text to binary text to binary ona maandishi kama 0 na 1 ambazo kompyuta huhifadhi na ufumbue bainari kurudi",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiurdu cha Kirumi kwenda Kiurdu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Geuza 'mera naam Ahmed hai' kuwa hati sahihi ya Kiurdu, mara moja.",
+  "k": "roman urdu to urdu roman urdu to urdu geuza mera naam ahmed hai kuwa hati sahihi ya kiurdu mara moja",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Dokezo la Mtandaoni",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Daftari inayohifadhi kiotomatiki katika kivinjari chako - upakuaji na uchapishaji vimejumuishwa.",
+  "k": "online notepad online notepad daftari inayohifadhi kiotomatiki katika kivinjari chako upakuaji na uchapishaji vimejumuishwa",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Maandishi ya Kifahari",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Maandishi ya herufi nzito, ya hati, ya duara na yaliyogeuzwa juu-chini kwa wasifu na maelezo ya picha.",
+  "k": "fancy text generator fancy text generator maandishi ya herufi nzito ya hati ya duara na yaliyogeuzwa juu chini kwa wasifu na maelezo ya picha",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Kihesabu cha Silabi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Hesabu silabi katika kila neno na kwa jumla - kamili kwa mashairi, haiku na nyimbo.",
+  "k": "syllable counter syllable counter hesabu silabi katika kila neno na kwa jumla kamili kwa mashairi haiku na nyimbo",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Kihesabu cha Aya",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Hesabu aya, pamoja na maneno na sentensi kwa aya na ndefu zaidi ikiashiriwa.",
+  "k": "paragraph counter paragraph counter hesabu aya pamoja na maneno na sentensi kwa aya na ndefu zaidi ikiashiriwa",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Kiwango cha Kusoma",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Alama za Urahisi wa Kusoma za Flesch na kiwango cha darasa, pamoja na uamuzi wa Kiingereza tupu.",
+  "k": "reading level calculator reading level calculator alama za urahisi wa kusoma za flesch na kiwango cha darasa pamoja na uamuzi wa kiingereza tupu",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikaguzi cha Palindromu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Je, hujisoma sawa kinyume? Kagua maneno, namba na sentensi nzima.",
+  "k": "palindrome checker palindrome checker je hujisoma sawa kinyume kagua maneno namba na sentensi nzima",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Anagramu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Tafuta maneno halisi yaliyofichika katika herufi zako, na ujaribu jozi za anagramu mara moja.",
+  "k": "anagram generator anagram generator tafuta maneno halisi yaliyofichika katika herufi zako na ujaribu jozi za anagramu mara moja",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Alfabeti ya Kifonetiki ya NATO",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Tamka chochote kwa njia ya rubani - Alfa, Bravo, Charlie - na ufumbue kurudi.",
+  "k": "nato phonetic alphabet nato phonetic alphabet tamka chochote kwa njia ya rubani alfa bravo charlie na ufumbue kurudi",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Kibadilishaji cha Maandishi kwenda ASCII",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "Misimbo ya desimali, heksi, oktali na bainari nyuma ya kila kibambo, na kurudi.",
+  "k": "text to ascii converter text to ascii converter misimbo ya desimali heksi oktali na bainari nyuma ya kila kibambo na kurudi",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Kibadilishaji cha Maandishi kwenda Heksi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Maandishi kwenda baiti za heksadesimali na kurudi, kwa UTF-8 sahihi kwa kila lugha.",
+  "k": "text to hex converter text to hex converter maandishi kwenda baiti za heksadesimali na kurudi kwa utf 8 sahihi kwa kila lugha",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitafutaji cha Maneno Yanayojirudia",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Kila neno ulilotumia zaidi ya mara moja, limepangwa kwa cheo - pamoja na maneno mawili ya bahati mbaya.",
+  "k": "repeated words finder repeated words finder kila neno ulilotumia zaidi ya mara moja limepangwa kwa cheo pamoja na maneno mawili ya bahati mbaya",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikaguzi cha Vibambo Visivyoonekana",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Fichua vibambo vya upana-sifuri na vilivyofichika katika maandishi yaliyonakiliwa, na uviondoe.",
+  "k": "invisible character checker invisible character checker fichua vibambo vya upana sifuri na vilivyofichika katika maandishi yaliyonakiliwa na uviondoe",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Ondoa Alama za Uakifishaji",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Ondoa alama za uakifishaji kutoka maandishi kwa kubofya mara moja, ukihifadhi maneno kuwa safi.",
+  "k": "remove punctuation remove punctuation ondoa alama za uakifishaji kutoka maandishi kwa kubofya mara moja ukihifadhi maneno kuwa safi",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitoaji cha Barua Pepe",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Toa kila anwani ya barua pepe kutoka maandishi yoyote - imeondolewa rudufu, moja kwa kila mstari.",
+  "k": "email extractor email extractor toa kila anwani ya barua pepe kutoka maandishi yoyote imeondolewa rudufu moja kwa kila mstari",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Picha kwenda Maandishi (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Toa maandishi yanayoweza kuhaririwa kutoka foto, changanuzi na picha za skrini - OCR ya bure katika kivinjari chako.",
+  "k": "image to text (ocr) image to text (ocr) toa maandishi yanayoweza kuhaririwa kutoka foto changanuzi na picha za skrini ocr ya bure katika kivinjari chako",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kibadilishaji cha Picha kwenda Excel",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Geuza foto au picha ya skrini ya jedwali kuwa faili halisi ya Excel - kagua na uhariri visanduku, kisha pakua.",
+  "k": "image to excel converter image to excel converter geuza foto au picha ya skrini ya jedwali kuwa faili halisi ya excel kagua na uhariri visanduku kisha pakua",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Marejeo",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "Manukuu ya APA ya 7, MLA ya 9 na Chicago kwa tovuti, vitabu na makala za majarida.",
+  "k": "citation generator citation generator manukuu ya apa ya 7 mla ya 9 na chicago kwa tovuti vitabu na makala za majarida",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Kisomaji cha EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Fungua na usome vitabu vya EPUB moja kwa moja katika kivinjari chako - orodha ya sura, ukubwa wa fonti unaoweza kurekebishwa na hali ya giza.",
+  "k": "epub reader epub reader fungua na usome vitabu vya epub moja kwa moja katika kivinjari chako orodha ya sura ukubwa wa fonti unaoweza kurekebishwa na hali ya giza",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB kwenda Maandishi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Geuza kitabu cha EPUB kuwa faili safi ya maandishi tupu - sura kwa mpangilio wa kusoma, vichwa vimehifadhiwa.",
+  "k": "epub to text epub to text geuza kitabu cha epub kuwa faili safi ya maandishi tupu sura kwa mpangilio wa kusoma vichwa vimehifadhiwa",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB kwenda HTML",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Geuza kitabu cha EPUB kuwa faili moja ya HTML iliyojitosheleza yenye picha zake zilizopachikwa.",
+  "k": "epub to html epub to html geuza kitabu cha epub kuwa faili moja ya html iliyojitosheleza yenye picha zake zilizopachikwa",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ kwenda PDF",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Geuza kumbukumbu ya vichekesho kuwa PDF - kurasa kwa mpangilio wa asili, picha moja kwa kila ukurasa.",
+  "k": "cbz to pdf cbz to pdf geuza kumbukumbu ya vichekesho kuwa pdf kurasa kwa mpangilio wa asili picha moja kwa kila ukurasa",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX kwenda EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Geuza waraka wa Word kuwa kitabu cha EPUB - vichwa huwa sura.",
+  "k": "docx to epub docx to epub geuza waraka wa word kuwa kitabu cha epub vichwa huwa sura",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kihariri cha Metadata ya EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Hariri mada, mwandishi, mchapishaji na maelezo ya kitabu cha kidijitali - sura haziguswi.",
+  "k": "epub metadata editor epub metadata editor hariri mada mwandishi mchapishaji na maelezo ya kitabu cha kidijitali sura haziguswi",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Maandishi / Markdown kwenda EPUB",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Geuza maandishi tupu au Markdown kuwa kitabu sahihi cha EPUB kinachofunguka katika kisomaji chochote.",
+  "k": "text / markdown to epub text / markdown to epub geuza maandishi tupu au markdown kuwa kitabu sahihi cha epub kinachofunguka katika kisomaji chochote",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji cha Mada za Nasibu",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "Mada 900 zilizochaguliwa kwa mkono za insha, hotuba, mjadala, hadithi na watoto katika kategoria 9, zilizochujwa kwa kiwango cha shule, bila marudio.",
+  "k": "random topic generator random topic generator mada 900 zilizochaguliwa kwa mkono za insha hotuba mjadala hadithi na watoto katika kategoria 9 zilizochujwa kwa kiwango cha shule bila marudio",
+  "p": 148,
+  "c": "Tool"
+ }
+]

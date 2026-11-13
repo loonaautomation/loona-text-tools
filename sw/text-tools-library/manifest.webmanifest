@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maktaba ya Zana za Maandishi",
+  "short_name": "Maktaba ya Zana za Maandishi",
+  "description": "Maktaba kamili ya Loona Text Tools: vibadilishaji vya hali ya herufi, vihesabu vya maneno vya insha na hotuba, vikaguzi vya vikomo vya vibambo vya mifumo na vikokotoo vya usomekaji.",
+  "id": "/loona-text-tools/sw/text-tools-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

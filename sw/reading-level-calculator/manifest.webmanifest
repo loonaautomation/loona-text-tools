@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikokotoo cha Kiwango cha Kusoma",
+  "short_name": "Kikokotoo cha Kiwango cha Kusoma",
+  "description": "Pima maandishi yoyote kwa kipimo cha Urahisi wa Kusoma cha Flesch na Kiwango cha Daraja cha Flesch-Kincaid, ukitumia fomula za kawaida. Tazama jinsi uandishi wako ulivyo rahisi kusoma. Bure.",
+  "id": "/loona-text-tools/sw/reading-level-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

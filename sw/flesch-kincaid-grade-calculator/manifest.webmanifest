@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikokotoo cha Daraja cha Flesch–Kincaid",
+  "short_name": "Kikokotoo cha Daraja cha Flesch–Kincaid",
+  "description": "Kikokotoo cha bure cha daraja cha Flesch–Kincaid: bandika maandishi kwa kiwango cha daraja na alama ya urahisi wa kusoma, pamoja na maneno kwa sentensi na silabi kwa neno.",
+  "id": "/loona-text-tools/sw/flesch-kincaid-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Panga Mistari Mtandaoni",
+  "short_name": "Panga Mistari Mtandaoni",
+  "description": "Panga mistari ya maandishi kwa alfabeti (A-Z au Z-A), kwa urefu, kwa mpangilio uliogeuzwa au iliyochanganywa kwa nasibu. Kipangaji cha bure cha mistari mtandaoni - bila kujisajili, papo hapo na faragha.",
+  "id": "/loona-text-tools/sw/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

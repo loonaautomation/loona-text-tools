@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha EPUB kwenda HTML Bure",
+  "short_name": "Kibadilishaji cha EPUB kwenda HTML Bure",
+  "description": "Badilisha vitabu vya EPUB kuwa faili moja ya HTML iliyojitosheleza bure, katika kivinjari chako. Sura kwa mpangilio, taipografia ya msingi, picha ndogo zilizopachikwa. Hakuna kupakia, hakuna kujisajili.",
+  "id": "/loona-text-tools/sw/epub-to-html/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

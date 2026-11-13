@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikokotoo cha Maneno kwa Ukurasa",
+  "short_name": "Kikokotoo cha Maneno kwa Ukurasa",
+  "description": "Kikokotoo cha bure cha maneno kwa ukurasa: weka maneno, ukubwa wa fonti na nafasi ya mistari kupata hesabu ya kurasa na maneno kwa ukurasa.",
+  "id": "/loona-text-tools/sw/words-per-page-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

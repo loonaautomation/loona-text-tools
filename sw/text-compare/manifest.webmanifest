@@ -1,0 +1,29 @@
+{
+  "name": "Loona Linganisha Maandishi Mtandaoni",
+  "short_name": "Linganisha Maandishi Mtandaoni",
+  "description": "Linganisha maandishi mawili mstari kwa mstari na uone hasa mistari gani iliyoongezwa, iliyoondolewa au kubaki. Zana ya bure ya kulinganisha maandishi mtandaoni - bila kujisajili, faragha katika kivinjari chako.",
+  "id": "/loona-text-tools/sw/text-compare/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

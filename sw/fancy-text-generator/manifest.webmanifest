@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Maandishi ya Kifahari Mtandaoni",
+  "short_name": "Kizalishaji cha Maandishi ya Kifahari Mtandaoni",
+  "description": "Geuza maandishi tupu kuwa fonti za Unicode za mtindo - nzito, hati, fraktur, iliyozungukwa, herufi kubwa ndogo na zaidi - kwa wasifu, maelezo na majina ya watumiaji. Kizalishaji cha bure cha maandishi ya kifahari.",
+  "id": "/loona-text-tools/sw/fancy-text-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

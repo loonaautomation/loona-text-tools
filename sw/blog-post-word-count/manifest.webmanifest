@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hesabu ya Maneno ya Chapisho la Blogu",
+  "short_name": "Hesabu ya Maneno ya Chapisho la Blogu",
+  "description": "Kikagua hesabu ya maneno ya chapisho la blogu: hesabu ya moja kwa moja yenye mikanda ya urefu kwa habari (300–500), machapisho ya kawaida (1,000–1,500) na miongozo ya kina (2,000+).",
+  "id": "/loona-text-tools/sw/blog-post-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

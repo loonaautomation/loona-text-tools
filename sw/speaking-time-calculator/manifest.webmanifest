@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikokotoo cha Muda wa Kuzungumza",
+  "short_name": "Kikokotoo cha Muda wa Kuzungumza",
+  "description": "Bandika hotuba au hati yako na uone inachukua muda gani kuwasilisha kwa kasi za polepole, za mazungumzo na za haraka - pamoja na maneno mangapi yanayotosha muda lengwa. Bure, bila kujisajili.",
+  "id": "/loona-text-tools/sw/speaking-time-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

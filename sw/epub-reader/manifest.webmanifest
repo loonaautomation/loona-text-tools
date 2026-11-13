@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisomaji cha EPUB Mtandaoni Bure",
+  "short_name": "Kisomaji cha EPUB Mtandaoni Bure",
+  "description": "Fungua na usome vitabu vya EPUB mtandaoni bure, moja kwa moja katika kivinjari chako. Orodha ya sura, ukubwa wa fonti unaoweza kurekebishwa na hali ya giza. Faragha 100% - kitabu chako hakiachi kifaa chako kamwe. Hakuna kujisajili.",
+  "id": "/loona-text-tools/sw/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kihesabu cha Vibambo vya Twitter / X",
+  "short_name": "Kihesabu cha Vibambo vya Twitter / X",
+  "description": "Kihesabu cha bure cha vibambo vya Twitter / X: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 280, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
+  "id": "/loona-text-tools/sw/twitter-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
