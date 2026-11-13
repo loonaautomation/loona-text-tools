@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor slugov online",
+  "short_name": "Generátor slugov online",
+  "description": "Zmeňte akýkoľvek názov na čistý, SEO-priateľský slug URL: malé písmená, bez medzier, bez špeciálnych znakov. Bezplatný online generátor slugov s úplným náhľadom URL - bez registrácie.",
+  "id": "/loona-text-tools/sk/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

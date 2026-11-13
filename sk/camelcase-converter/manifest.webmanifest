@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník camelCase",
+  "short_name": "Prevodník camelCase",
+  "description": "Bezplatný prevodník camelCase — vložte text a získajte camelCase okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
+  "id": "/loona-text-tools/sk/camelcase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

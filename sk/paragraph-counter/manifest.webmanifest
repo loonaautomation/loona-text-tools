@@ -1,0 +1,29 @@
+{
+  "name": "Loona Počítadlo odsekov online zadarmo",
+  "short_name": "Počítadlo odsekov online zadarmo",
+  "description": "Počítajte odseky v akomkoľvek texte okamžite, s vetami a slovami na odsek a najdlhším a najkratším odsekom. Bezplatné počítadlo odsekov, bez registrácie.",
+  "id": "/loona-text-tools/sk/paragraph-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

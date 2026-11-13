@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor náhodných tém online zadarmo",
+  "short_name": "Generátor náhodných tém online zadarmo",
+  "description": "Generujte náhodné témy pre eseje, prejavy, debaty, odseky, prezentácie a príbehy - 900 ručne napísaných tém v 9 kategóriách, filtrovaných podľa úrovne. Zadarmo, bez registrácie.",
+  "id": "/loona-text-tools/sk/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

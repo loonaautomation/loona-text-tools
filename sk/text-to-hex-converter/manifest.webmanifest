@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník textu na hex online zadarmo",
+  "short_name": "Prevodník textu na hex online zadarmo",
+  "description": "Preveďte text na hexadecimálny a hex späť na text, so správnym spracovaním UTF-8 pre písmená s diakritikou, urdčinu a emoji. Bezplatný hexadecimálny prevodník, bez registrácie.",
+  "id": "/loona-text-tools/sk/text-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

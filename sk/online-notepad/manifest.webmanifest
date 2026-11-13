@@ -1,0 +1,29 @@
+{
+  "name": "Loona Online poznámkový blok zadarmo",
+  "short_name": "Online poznámkový blok zadarmo",
+  "description": "Bezplatný online poznámkový blok, ktorý sa počas písania automaticky ukladá vo vašom prehliadači - vrátane sťahovania, tlače a počítania slov. Bez registrácie; vaše poznámky nikdy neopustia vaše zariadenie.",
+  "id": "/loona-text-tools/sk/online-notepad/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

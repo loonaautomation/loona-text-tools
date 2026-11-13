@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník hláskovacej abecedy NATO",
+  "short_name": "Prevodník hláskovacej abecedy NATO",
+  "description": "Preveďte akýkoľvek text na hláskovaciu abecedu NATO (Alfa, Bravo, Charlie) a dekódujte hláskovanie NATO späť na obyčajný text. Zadarmo, okamžite, bez registrácie.",
+  "id": "/loona-text-tools/sk/nato-phonetic-alphabet-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

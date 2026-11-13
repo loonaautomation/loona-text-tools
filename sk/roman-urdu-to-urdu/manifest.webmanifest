@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník Roman Urdu na urdské písmo online zadarmo",
+  "short_name": "Prevodník Roman Urdu na urdské písmo online zadarmo",
+  "description": "Preveďte Roman Urdu (latinské písmená) na správne urdské písmo okamžite - 'mera naam' sa zmení na skutočné urdské písanie. Bezplatný prevodník Roman Urdu do Urdu pre Pakistan.",
+  "id": "/loona-text-tools/sk/roman-urdu-to-urdu/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Počítadlo znakov SMS",
+  "short_name": "Počítadlo znakov SMS",
+  "description": "Bezplatné počítadlo znakov SMS: detekcia GSM 7-bit vs Unicode, počet segmentov a zostávajúce znaky — naživo, vo vašom prehliadači.",
+  "id": "/loona-text-tools/sk/sms-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

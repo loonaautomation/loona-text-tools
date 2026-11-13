@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zoradenie riadkov online",
+  "short_name": "Zoradenie riadkov online",
+  "description": "Zoraďte riadky textu abecedne (A-Z alebo Z-A), podľa dĺžky, v obrátenom poradí alebo náhodne premiešané. Bezplatný online triedič riadkov - bez registrácie, okamžitý a súkromný.",
+  "id": "/loona-text-tools/sk/sort-lines/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

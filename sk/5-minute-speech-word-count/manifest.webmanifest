@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prejav na 5 minút",
+  "short_name": "Prejav na 5 minút",
+  "description": "Koľko slov v 5-minútovom prejave? 550–900 slov (750 pri konverzačnom tempe). Bezplatné počítadlo naživo s kontrolou času hovorenia.",
+  "id": "/loona-text-tools/sk/5-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

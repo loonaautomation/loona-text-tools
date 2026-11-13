@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník CBZ do PDF zadarmo",
+  "short_name": "Prevodník CBZ do PDF zadarmo",
+  "description": "Preveďte komiksové archívy CBZ a ZIP do PDF zadarmo vo vašom prehliadači. Strany v prirodzenom poradí (1, 2, 10), jeden obrázok na stranu v plnej veľkosti. Bez nahrávania, bez registrácie.",
+  "id": "/loona-text-tools/sk/cbz-to-pdf/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
