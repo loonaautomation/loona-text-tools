@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discord-viestien merkkilaskuri",
+  "short_name": "Discord-viestien merkkilaskuri",
+  "description": "Ilmainen Discord-viestien merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 2,000 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
+  "id": "/loona-text-tools/fi/discord-message-character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

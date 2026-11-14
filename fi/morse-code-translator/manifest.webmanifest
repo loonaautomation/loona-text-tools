@@ -1,0 +1,29 @@
+{
+  "name": "Loona Morsekoodin kääntäjä verkossa",
+  "short_name": "Morsekoodin kääntäjä verkossa",
+  "description": "Käännä teksti morsekoodiksi ja morsekoodi takaisin tekstiksi ja kuule se aitoina piippauksina. Ilmainen morsekoodin kääntäjä verkossa – ei rekisteröitymistä, toimii selaimessasi.",
+  "id": "/loona-text-tools/fi/morse-code-translator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

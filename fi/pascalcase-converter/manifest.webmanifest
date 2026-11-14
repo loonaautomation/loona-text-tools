@@ -1,0 +1,29 @@
+{
+  "name": "Loona PascalCase-muunnin",
+  "short_name": "PascalCase-muunnin",
+  "description": "Ilmainen PascalCase-muunnin — liitä teksti ja saa PascalCase välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
+  "id": "/loona-text-tools/fi/pascalcase-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

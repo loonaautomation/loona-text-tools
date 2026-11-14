@@ -1,0 +1,29 @@
+{
+  "name": "Loona Satunnaisaihegeneraattori verkossa ilmaiseksi",
+  "short_name": "Satunnaisaihegeneraattori verkossa ilmaiseksi",
+  "description": "Luo satunnaisia aiheita esseille, puheille, väittelyille, kappaleille, esityksille ja tarinoille – 900 käsin kirjoitettua aihetta 9 kategoriassa, suodatettuna tason mukaan. Ilmainen, ei rekisteröitymistä.",
+  "id": "/loona-text-tools/fi/random-topic-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
