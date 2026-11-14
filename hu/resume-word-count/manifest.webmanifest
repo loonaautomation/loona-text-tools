@@ -1,0 +1,29 @@
+{
+  "name": "Loona Önéletrajz szószáma",
+  "short_name": "Önéletrajz szószáma",
+  "description": "Önéletrajz szószám-ellenőrző: élő számlálás az egyoldalas céllal (400–600 szó), oldalbecsléssel és levágási útmutatóval.",
+  "id": "/loona-text-tools/hu/resume-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

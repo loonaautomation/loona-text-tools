@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1 perces beszéd",
+  "short_name": "1 perces beszéd",
+  "description": "Hány szó van egy 1 perces beszédben? 110–180 szó (150 társalgási tempóban). Ingyenes élő számláló beszédidő-ellenőrzéssel.",
+  "id": "/loona-text-tools/hu/1-minute-speech-word-count/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

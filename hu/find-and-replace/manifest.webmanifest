@@ -1,0 +1,29 @@
+{
+  "name": "Loona Szöveg keresése és cseréje online",
+  "short_name": "Szöveg keresése és cseréje online",
+  "description": "Keressen egy szót vagy kifejezést, és cserélje le minden előfordulását a szövegében egyszerre, kis- és nagybetűérzékeny, teljes szavas és minta beállításokkal. Ingyenes online eszköz - regisztráció nélkül.",
+  "id": "/loona-text-tools/hu/find-and-replace/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

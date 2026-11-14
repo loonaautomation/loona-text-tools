@@ -1,0 +1,29 @@
+{
+  "name": "Loona Karakterszámláló online",
+  "short_name": "Karakterszámláló online",
+  "description": "Számolja a karaktereket szóközökkel és szóközök nélkül, és ellenőrizze a korlátokat X-hez (Twitter), SMS-hez, metaleírásokhoz és még többhöz. Ingyenes online karakterszámláló - regisztráció nem szükséges.",
+  "id": "/loona-text-tools/hu/character-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

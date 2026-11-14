@@ -1,0 +1,29 @@
+{
+  "name": "Loona EPUB-olvasó online ingyen",
+  "short_name": "EPUB-olvasó online ingyen",
+  "description": "Nyisson meg és olvasson EPUB e-könyveket online ingyen, közvetlenül a böngészőjében. Fejezetlista, állítható betűméret és sötét mód. 100%-ban privát - az e-könyve soha nem hagyja el az eszközét. Regisztráció nélkül.",
+  "id": "/loona-text-tools/hu/epub-reader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

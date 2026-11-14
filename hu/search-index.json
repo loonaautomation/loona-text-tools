@@ -1,0 +1,443 @@
+[
+ {
+  "n": "Szószámláló",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/word-counter/",
+  "s": "Loona Text Tools",
+  "d": "Szavak, karakterek, mondatok, bekezdések és olvasási idő - élőben számlálva gépelés közben.",
+  "k": "word counter word counter szavak karakterek mondatok bekezdesek es olvasasi ido eloben szamlalva gepeles kozben",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Karakterszámláló",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/character-counter/",
+  "s": "Loona Text Tools",
+  "d": "Karakterek szóközökkel és szóközök nélkül, plusz élő korlátok X-hez, SMS-hez és metaszöveghez.",
+  "k": "character counter character counter karakterek szokozokkel es szokozok nelkul plusz elo korlatok x hez sms hez es metaszoveghez",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Mondatszámláló",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/sentence-counter/",
+  "s": "Loona Text Tools",
+  "d": "Mondatok, bekezdések, szavak és karakterek bármely szövegben - élőben számlálva gépelés közben.",
+  "k": "sentence counter sentence counter mondatok bekezdesek szavak es karakterek barmely szovegben eloben szamlalva gepeles kozben",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Olvasási idő számítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/reading-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Mennyi idő bármely szöveg elolvasása lassú, átlagos és gyors olvasási sebességgel.",
+  "k": "reading time calculator reading time calculator mennyi ido barmely szoveg elolvasasa lassu atlagos es gyors olvasasi sebesseggel",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "Beszédidő számítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/speaking-time-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Mennyi idő egy beszéd vagy forgatókönyv előadása - plusz a célidőhöz szükséges szavak.",
+  "k": "speaking time calculator speaking time calculator mennyi ido egy beszed vagy forgatokonyv eloadasa plusz a celidohoz szukseges szavak",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "Gépelési teszt",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/typing-test/",
+  "s": "Loona Text Tools",
+  "d": "Egy 60 másodperces gépelési teszt - az Ön sebessége WPM-ben, pontossága és CPM-je, élőben gépelés közben.",
+  "k": "typing test typing test egy 60 masodperces gepelesi teszt az on sebessege wpm ben pontossaga es cpm je eloben gepeles kozben",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Kis- és nagybetű-átalakító",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/case-converter/",
+  "s": "Loona Text Tools",
+  "d": "NAGYBETŰS, kisbetűs, Címkezdő, Mondatkezdő és még több - mindegyik egyetlen kattintás.",
+  "k": "case converter case converter nagybetus kisbetus cimkezdo mondatkezdo es meg tobb mindegyik egyetlen kattintas",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Ismétlődő sorok eltávolítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/remove-duplicate-lines/",
+  "s": "Loona Text Tools",
+  "d": "Törölje az ismétlődő sorokat, és minden egyedi sort egyszer, sorrendben tartson meg.",
+  "k": "remove duplicate lines remove duplicate lines torolje az ismetlodo sorokat es minden egyedi sort egyszer sorrendben tartson meg",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Sorok rendezése",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/sort-lines/",
+  "s": "Loona Text Tools",
+  "d": "Rendezze a sorokat A-Z, Z-A, hossz szerint, fordítva, vagy tisztességesen véletlenszerűen megkeverve.",
+  "k": "sort lines sort lines rendezze a sorokat a z z a hossz szerint forditva vagy tisztessegesen veletlenszeruen megkeverve",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg megfordítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/reverse-text/",
+  "s": "Loona Text Tools",
+  "d": "Fordítsa meg a szöveget hátrafelé - az egész szöveget, minden szót, a szósorrendet vagy a sorsorrendet.",
+  "k": "reverse text reverse text forditsa meg a szoveget hatrafele az egesz szoveget minden szot a szosorrendet vagy a sorsorrendet",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Fölösleges szóközök eltávolítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/remove-extra-spaces/",
+  "s": "Loona Text Tools",
+  "d": "Préselje ki a dupla szóközöket, tabulátorokat és a szaggatott széleket a rendetlenül másolt szövegből.",
+  "k": "remove extra spaces remove extra spaces preselje ki a dupla szokozoket tabulatorokat es a szaggatott szeleket a rendetlenul masolt szovegbol",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Keresés és csere",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/find-and-replace/",
+  "s": "Loona Text Tools",
+  "d": "Cseréljen ki egy szó vagy kifejezés minden előfordulását egy másikra, egyetlen menetben.",
+  "k": "find and replace find and replace csereljen ki egy szo vagy kifejezes minden elofordulasat egy masikra egyetlen menetben",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg beszéddé",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-to-speech/",
+  "s": "Loona Text Tools",
+  "d": "Hallgasson meg bármely szöveget felolvasva - angol, urdu és több hang, az Ön sebessége.",
+  "k": "text to speech text to speech hallgasson meg barmely szoveget felolvasva angol urdu es tobb hang az on sebessege",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Beszéd szöveggé",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/speech-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Beszéljen, és nézze, hogyan válnak a szavai szöveggé - angolul, urduul és még több nyelven.",
+  "k": "speech to text speech to text beszeljen es nezze hogyan valnak a szavai szovegge angolul urduul es meg tobb nyelven",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Jelszógenerátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/password-generator/",
+  "s": "Loona Text Tools",
+  "d": "Erős véletlen jelszavak az Ön által választott hosszal és szimbólumokkal.",
+  "k": "password generator password generator eros veletlen jelszavak az on altal valasztott hosszal es szimbolumokkal",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Szövegek összehasonlítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-compare/",
+  "s": "Loona Text Tools",
+  "d": "Állítson egymás mellé két szöveget, és nézze meg pontosan, mely sorok változtak.",
+  "k": "text compare text compare allitson egymas melle ket szoveget es nezze meg pontosan mely sorok valtoztak",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Szógyakoriság",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/word-frequency/",
+  "s": "Loona Text Tools",
+  "d": "Rangsorolt táblázat a leggyakrabban használt szavairól, darabszámokkal és százalékokkal.",
+  "k": "word frequency word frequency rangsorolt tablazat a leggyakrabban hasznalt szavairol darabszamokkal es szazalekokkal",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Sortörések eltávolítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/remove-line-breaks/",
+  "s": "Loona Text Tools",
+  "d": "Fűzze vissza a PDF-stílusban törött sorokat tiszta, folyamatos bekezdésekké.",
+  "k": "remove line breaks remove line breaks fuzze vissza a pdf stilusban torott sorokat tiszta folyamatos bekezdesekke",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Sorszámozás hozzáadása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/add-line-numbers/",
+  "s": "Loona Text Tools",
+  "d": "Számozzon meg minden sort - válassza ki a kezdetet, lépést, kitöltést és elválasztót.",
+  "k": "add line numbers add line numbers szamozzon meg minden sort valassza ki a kezdetet lepest kitoltest es elvalasztot",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lorem Ipsum generátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/lorem-ipsum-generator/",
+  "s": "Loona Text Tools",
+  "d": "Klasszikus vakszöveg bekezdésenként, mondatonként vagy szavanként a terveihez.",
+  "k": "lorem ipsum generator lorem ipsum generator klasszikus vakszoveg bekezdesenkent mondatonkent vagy szavankent a terveihez",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Slug-generátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/slug-generator/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson bármely címet tiszta, keresőbarát URL sluggá, élőben.",
+  "k": "slug generator slug generator alakitson barmely cimet tiszta keresobarat url slugga eloben",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Morzekód-fordító",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/morse-code-translator/",
+  "s": "Loona Text Tools",
+  "d": "Szöveg Morze-kóddá és vissza - valódi sípoló lejátszással.",
+  "k": "morse code translator morse code translator szoveg morze kodda es vissza valodi sipolo lejatszassal",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg binárissá",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-to-binary/",
+  "s": "Loona Text Tools",
+  "d": "Nézze meg a szöveget, ahogyan a számítógépek tárolják, 0-kként és 1-esekként - és dekódolja vissza a binárist.",
+  "k": "text to binary text to binary nezze meg a szoveget ahogyan a szamitogepek taroljak 0 kkent es 1 esekkent es dekodolja vissza a binarist",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Római urdu urdura",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/roman-urdu-to-urdu/",
+  "s": "Loona Text Tools",
+  "d": "Alakítsa a 'mera naam Ahmed hai' mondatot megfelelő urdu írássá, azonnal.",
+  "k": "roman urdu to urdu roman urdu to urdu alakitsa a mera naam ahmed hai mondatot megfelelo urdu irassa azonnal",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Online jegyzettömb",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/online-notepad/",
+  "s": "Loona Text Tools",
+  "d": "Jegyzettömb, amely automatikusan ment a böngészőjében - letöltéssel és nyomtatással.",
+  "k": "online notepad online notepad jegyzettomb amely automatikusan ment a bongeszojeben letoltessel es nyomtatassal",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Díszes szöveg generátora",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/fancy-text-generator/",
+  "s": "Loona Text Tools",
+  "d": "Félkövér, írott, karikázott és fejjel lefelé fordított szöveg bemutatkozásokhoz és feliratokhoz.",
+  "k": "fancy text generator fancy text generator felkover irott karikazott es fejjel lefele forditott szoveg bemutatkozasokhoz es feliratokhoz",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Szótagszámláló",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/syllable-counter/",
+  "s": "Loona Text Tools",
+  "d": "Számolja a szótagokat minden szóban és összesen - tökéletes versekhez, haikuhoz és dalszövegekhez.",
+  "k": "syllable counter syllable counter szamolja a szotagokat minden szoban es osszesen tokeletes versekhez haikuhoz es dalszovegekhez",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Bekezdésszámláló",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/paragraph-counter/",
+  "s": "Loona Text Tools",
+  "d": "Bekezdések számlálása, szavakkal és mondatokkal bekezdésenként, és a leghosszabb megjelölésével.",
+  "k": "paragraph counter paragraph counter bekezdesek szamlalasa szavakkal es mondatokkal bekezdesenkent es a leghosszabb megjelolesevel",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Olvasási szint számítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/reading-level-calculator/",
+  "s": "Loona Text Tools",
+  "d": "Flesch Reading Ease és osztályszint-pontszámok, egyszerű angol ítélettel.",
+  "k": "reading level calculator reading level calculator flesch reading ease es osztalyszint pontszamok egyszeru angol itelettel",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Palindrom-ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/palindrome-checker/",
+  "s": "Loona Text Tools",
+  "d": "Ugyanaz hátrafelé olvasva? Ellenőrizzen szavakat, számokat és egész mondatokat.",
+  "k": "palindrome checker palindrome checker ugyanaz hatrafele olvasva ellenorizzen szavakat szamokat es egesz mondatokat",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagramma-generátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/anagram-generator/",
+  "s": "Loona Text Tools",
+  "d": "Találjon valódi szavakat a betűiben rejtőzve, és teszteljen anagrammapárokat azonnal.",
+  "k": "anagram generator anagram generator talaljon valodi szavakat a betuiben rejtozve es teszteljen anagrammaparokat azonnal",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "NATO fonetikus ábécé",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/nato-phonetic-alphabet-converter/",
+  "s": "Loona Text Tools",
+  "d": "Betűzzön bármit a pilóták módján - Alfa, Bravo, Charlie - és dekódolja vissza.",
+  "k": "nato phonetic alphabet nato phonetic alphabet betuzzon barmit a pilotak modjan alfa bravo charlie es dekodolja vissza",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg ASCII-vé alakítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-to-ascii-converter/",
+  "s": "Loona Text Tools",
+  "d": "A minden karakter mögötti decimális, hexa, oktális és bináris kódok, és vissza.",
+  "k": "text to ascii converter text to ascii converter a minden karakter mogotti decimalis hexa oktalis es binaris kodok es vissza",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg hexadecimálissá alakítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-to-hex-converter/",
+  "s": "Loona Text Tools",
+  "d": "Szöveg hexadecimális bájtokká és vissza, megfelelő UTF-8-cal minden nyelvhez.",
+  "k": "text to hex converter text to hex converter szoveg hexadecimalis bajtokka es vissza megfelelo utf 8 cal minden nyelvhez",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Ismétlődő szavak keresése",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/repeated-words-finder/",
+  "s": "Loona Text Tools",
+  "d": "Minden szó, amelyet többször használt, rangsorolva - plusz a véletlen dupla szavak.",
+  "k": "repeated words finder repeated words finder minden szo amelyet tobbszor hasznalt rangsorolva plusz a veletlen dupla szavak",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Láthatatlan karakterek ellenőrzése",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/invisible-character-checker/",
+  "s": "Loona Text Tools",
+  "d": "Fedje fel a másolt szöveg nulla szélességű és rejtett karaktereit, és távolítsa el őket.",
+  "k": "invisible character checker invisible character checker fedje fel a masolt szoveg nulla szelessegu es rejtett karaktereit es tavolitsa el oket",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Írásjelek eltávolítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/remove-punctuation/",
+  "s": "Loona Text Tools",
+  "d": "Fejtse le az írásjeleket a szövegről egyetlen kattintással, a szavakat tisztán tartva.",
+  "k": "remove punctuation remove punctuation fejtse le az irasjeleket a szovegrol egyetlen kattintassal a szavakat tisztan tartva",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "E-mail-címek kinyerése",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/email-extractor/",
+  "s": "Loona Text Tools",
+  "d": "Húzzon ki minden e-mail-címet bármely szövegből - deduplikálva, soronként egyet.",
+  "k": "email extractor email extractor huzzon ki minden e mail cimet barmely szovegbol deduplikalva soronkent egyet",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kép szöveggé (OCR)",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/image-to-text-converter/",
+  "s": "Loona Text Tools",
+  "d": "Nyerjen ki szerkeszthető szöveget fényképekből, szkennelésekből és képernyőképekből - ingyenes OCR a böngészőjében.",
+  "k": "image to text (ocr) image to text (ocr) nyerjen ki szerkesztheto szoveget fenykepekbol szkennelesekbol es kepernyokepekbol ingyenes ocr a bongeszojeben",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kép Excel-fájllá alakítása",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/image-to-excel-converter/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson egy táblázatról készült fényképet vagy képernyőképet valódi Excel-fájllá - ellenőrizze és szerkessze a cellákat, majd töltse le.",
+  "k": "image to excel converter image to excel converter alakitson egy tablazatrol keszult fenykepet vagy kepernyokepet valodi excel fajlla ellenorizze es szerkessze a cellakat majd toltse le",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Hivatkozásgenerátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/citation-generator/",
+  "s": "Loona Text Tools",
+  "d": "APA 7., MLA 9. és Chicago hivatkozások weboldalakhoz, könyvekhez és folyóiratcikkekhez.",
+  "k": "citation generator citation generator apa 7 mla 9 es chicago hivatkozasok weboldalakhoz konyvekhez es folyoiratcikkekhez",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-olvasó",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/epub-reader/",
+  "s": "Loona Text Tools",
+  "d": "Nyisson meg és olvasson EPUB e-könyveket közvetlenül a böngészőjében - fejezetlista, állítható betűméret és sötét mód.",
+  "k": "epub reader epub reader nyisson meg es olvasson epub e konyveket kozvetlenul a bongeszojeben fejezetlista allithato betumeret es sotet mod",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB konvertálása szöveggé",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/epub-to-text/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson egy EPUB e-könyvet tiszta egyszerű szövegfájllá - fejezetek olvasási sorrendben, címsorok megőrizve.",
+  "k": "epub to text epub to text alakitson egy epub e konyvet tiszta egyszeru szovegfajlla fejezetek olvasasi sorrendben cimsorok megorizve",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB konvertálása HTML-be",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/epub-to-html/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson egy EPUB e-könyvet egyetlen önálló HTML-fájllá a képeivel beágyazva.",
+  "k": "epub to html epub to html alakitson egy epub e konyvet egyetlen onallo html fajlla a kepeivel beagyazva",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "CBZ konvertálása PDF-be",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/cbz-to-pdf/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson egy képregényarchívumot PDF-fé - oldalak természetes sorrendben, oldalanként egy kép.",
+  "k": "cbz to pdf cbz to pdf alakitson egy kepregenyarchivumot pdf fe oldalak termeszetes sorrendben oldalankent egy kep",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "DOCX konvertálása EPUB-ba",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/docx-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Alakítson egy Word-dokumentumot EPUB e-könyvvé - a címsorok fejezetekké válnak.",
+  "k": "docx to epub docx to epub alakitson egy word dokumentumot epub e konyvve a cimsorok fejezetekke valnak",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "EPUB-metaadatok szerkesztője",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/epub-metadata-editor/",
+  "s": "Loona Text Tools",
+  "d": "Szerkesszen egy e-könyv címet, szerzőt, kiadót és leírást - a fejezetek érintetlenek.",
+  "k": "epub metadata editor epub metadata editor szerkesszen egy e konyv cimet szerzot kiadot es leirast a fejezetek erintetlenek",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Szöveg / Markdown konvertálása EPUB-ba",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/text-to-epub/",
+  "s": "Loona Text Tools",
+  "d": "Alakítsa az egyszerű szöveget vagy Markdownt megfelelő EPUB e-könyvvé, amely bármely olvasóban megnyílik.",
+  "k": "text / markdown to epub text / markdown to epub alakitsa az egyszeru szoveget vagy markdownt megfelelo epub e konyvve amely barmely olvasoban megnyilik",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Véletlen témagenerátor",
+  "u": "https://loonaautomation.github.io/loona-text-tools/hu/random-topic-generator/",
+  "s": "Loona Text Tools",
+  "d": "900 kézzel írt esszé-, beszéd-, vita-, történet- és gyerektéma 9 kategóriában, iskolai szint szerint szűrve, ismétlés nélkül.",
+  "k": "random topic generator random topic generator 900 kezzel irt essze beszed vita tortenet es gyerektema 9 kategoriaban iskolai szint szerint szurve ismetles nelkul",
+  "p": 148,
+  "c": "Tool"
+ }
+]

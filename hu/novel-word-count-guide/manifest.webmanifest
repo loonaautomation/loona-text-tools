@@ -1,0 +1,29 @@
+{
+  "name": "Loona Regény szószáma műfajonként",
+  "short_name": "Regény szószáma műfajonként",
+  "description": "Regény szószáma műfajonként: felnőtt 70,000–120,000, YA 50,000–90,000, középső korosztály 20,000–55,000. Ingyenes élő számláló műfaji célokkal.",
+  "id": "/loona-text-tools/hu/novel-word-count-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

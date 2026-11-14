@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kép Excel-fájllá alakítása online ingyen",
+  "short_name": "Kép Excel-fájllá alakítása online ingyen",
+  "description": "Alakítson át egy táblázatról készült fényképet, szkennelést vagy képernyőképet valódi Excel (.xlsx) fájllá ingyenes OCR-rel, amely 100%-ban a böngészőjében fut. Szerkessze a táblázatot letöltés előtt - feltöltés nélkül, regisztráció nélkül.",
+  "id": "/loona-text-tools/hu/image-to-excel-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

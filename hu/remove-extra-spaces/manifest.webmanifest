@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fölösleges szóközök eltávolítása online",
+  "short_name": "Fölösleges szóközök eltávolítása online",
+  "description": "Távolítsa el a fölösleges szóközöket, tabulátorokat és üres sorokat a szövegből egyetlen kattintással. Tegye rendbe a PDF-ekből, e-mailekből és weboldalakról másolt szöveget. Ingyenes online eltávolító - regisztráció nem szükséges.",
+  "id": "/loona-text-tools/hu/remove-extra-spaces/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

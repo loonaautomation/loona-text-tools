@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gunning Fog indexszámító",
+  "short_name": "Gunning Fog indexszámító",
+  "description": "Ingyenes Gunning Fog indexszámító: illesszen be szöveget a Fog indexért, az összetett szavak számáért és az általa feltételezett iskolai évekért.",
+  "id": "/loona-text-tools/hu/gunning-fog-index-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
