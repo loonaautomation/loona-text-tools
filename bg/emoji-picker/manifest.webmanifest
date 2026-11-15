@@ -1,0 +1,29 @@
+{
+  "name": "Loona Избор на емоджита онлайн безплатно",
+  "short_name": "Избор на емоджита онлайн безплатно",
+  "description": "Безплатен избор на емоджита: разглеждайте или търсете сред 1,900+ емоджита и символи, изберете тон на кожата, щракнете, за да копирате едно емоджи или цяло табло. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-text-tools/bg/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
