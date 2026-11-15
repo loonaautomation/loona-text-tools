@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวเลือกอีโมจิออนไลน์ฟรี",
+  "short_name": "ตัวเลือกอีโมจิออนไลน์ฟรี",
+  "description": "ตัวเลือกอีโมจิฟรี: เรียกดูหรือค้นหาอีโมจิและสัญลักษณ์กว่า 1,900+ รายการ เลือกโทนสีผิว คลิกเพื่อคัดลอกอีโมจิหนึ่งรายการหรือทั้งถาด ไม่ต้องสมัครสมาชิก ทำงาน 100% ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-text-tools/th/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
