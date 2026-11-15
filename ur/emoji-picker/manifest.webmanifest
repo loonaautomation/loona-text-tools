@@ -1,0 +1,29 @@
+{
+  "name": "Loona ایموجی پکر آن لائن مفت",
+  "short_name": "ایموجی پکر آن لائن مفت",
+  "description": "مفت ایموجی پکر: 1,900+ ایموجیز اور علامتیں دیکھیں یا تلاش کریں، جلد کا رنگ منتخب کریں، ایک ایموجی یا پوری ٹرے کاپی کرنے کے لیے کلک کریں۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
+  "id": "/loona-text-tools/ur/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
