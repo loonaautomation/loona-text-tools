@@ -1,0 +1,29 @@
+{
+  "name": "Loona 表情符号选择器在线免费版",
+  "short_name": "表情符号选择器在线免费版",
+  "description": "免费表情符号选择器：浏览或搜索 1,900+ 个表情符号和符号，选择肤色，点击复制单个表情符号或整个托盘。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-text-tools/zh/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
