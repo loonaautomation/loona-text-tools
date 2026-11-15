@@ -1,0 +1,29 @@
+{
+  "name": "Loona 表情符號選擇器線上免費版",
+  "short_name": "表情符號選擇器線上免費版",
+  "description": "免費表情符號選擇器：瀏覽或搜尋 1,900+ 個表情符號和符號，選擇膚色，點擊複製單個表情符號或整個複製匣。無需註冊，100% 在您的瀏覽器中執行。",
+  "id": "/loona-text-tools/zh-hant/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
