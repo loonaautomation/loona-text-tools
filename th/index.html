@@ -193,7 +193,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
       input = document.getElementById('lsInput'),
       list = document.getElementById('lsList');
   if (!form || !input || !list) return;
-  var INDEX_URL = '/loona-text-tools/search-index.json';
+  var INDEX_URL = '/loona-text-tools/th/search-index.json';
   var STR = {"loading": "กำลังโหลดเครื่องมือ…", "fb": "กำลังแสดงเครื่องมือยอดนิยม — ดัชนีเต็มกำลังมา…", "zero1": "ไม่มีผลตรงเป๊ะสำหรับ “", "zero2": "” — ลองเครื่องมือยอดนิยมเหล่านี้:"};
   var FALLBACK = [{"n": "ตัวนับคำ", "u": "https://loonaautomation.github.io/loona-text-tools/th/word-counter/", "s": "Loona Text Tools", "d": "คำ ตัวอักษร ประโยค ย่อหน้า และเวลาอ่าน — นับสดขณะที่คุณพิมพ์", "k": "word counter word counter ", "p": 0, "c": "Tool"}, {"n": "ตัวนับตัวอักษร", "u": "https://loonaautomation.github.io/loona-text-tools/th/character-counter/", "s": "Loona Text Tools", "d": "ตัวอักษรมีและไม่มีช่องว่าง พร้อมขีดจำกัดแบบสดสำหรับ X, SMS และข้อความเมทา", "k": "character counter character counter x sms", "p": 1, "c": "Tool"}, {"n": "ตัวแปลงตัวพิมพ์", "u": "https://loonaautomation.github.io/loona-text-tools/th/case-converter/", "s": "Loona Text Tools", "d": "ตัวพิมพ์ใหญ่ทั้งหมด ตัวพิมพ์เล็ก ตัวพิมพ์แบบชื่อเรื่อง ตัวพิมพ์แบบประโยค และอื่น ๆ — คลิกเดียวแต่ละอย่าง", "k": "case converter case converter ", "p": 2, "c": "Tool"}, {"n": "ข้อความเป็นเสียงพูด", "u": "https://loonaautomation.github.io/loona-text-tools/th/text-to-speech/", "s": "Loona Text Tools", "d": "ฟังข้อความใด ๆ อ่านออกเสียง — เสียงภาษาอังกฤษ อูรดู และอื่น ๆ ความเร็วของคุณ", "k": "text to speech text to speech ", "p": 3, "c": "Tool"}, {"n": "ตัวสร้างรหัสผ่าน", "u": "https://loonaautomation.github.io/loona-text-tools/th/password-generator/", "s": "Loona Text Tools", "d": "รหัสผ่านสุ่มที่แข็งแรงพร้อมความยาวและสัญลักษณ์ที่คุณเลือก", "k": "password generator password generator ", "p": 4, "c": "Tool"}, {"n": "ลบบรรทัดที่ซ้ำกัน", "u": "https://loonaautomation.github.io/loona-text-tools/th/remove-duplicate-lines/", "s": "Loona Text Tools", "d": "ลบบรรทัดที่ซ้ำและเก็บบรรทัดที่ไม่ซ้ำแต่ละบรรทัดไว้เพียงครั้งเดียว ตามลำดับ", "k": "remove duplicate lines remove duplicate lines ", "p": 5, "c": "Tool"}];
   var data = null, loading = null, usingFallback = false, active = -1, current = [];
@@ -209,7 +209,7 @@ var ALIASES = {
   "awaz": "text speech",
   "ulta": "reverse"
 };
-function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} s = s.replace(/[\u0640\u064B-\u065F\u0670\u05B0-\u05C7]/g, '').replace(/[\u0622\u0623\u0625\u0671]/g, '\u0627').replace(/\u0624/g, '\u0648').replace(/[\u0626\u0649\u06CC]/g, '\u064A').replace(/\u0629/g, '\u0647').replace(/[\u06C1\u06BE]/g, '\u0647').replace(/\u06A9/g, '\u0643').replace(/[\u0660-\u0669]/g, function (c) { return c.charCodeAt(0) - 1632; }).replace(/[\u06F0-\u06F9]/g, function (c) { return c.charCodeAt(0) - 1776; }); return s.replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim(); }
 function lev(a, b) {
   if (a === b) return 0;
   var la = a.length, lb = b.length, i, j;
