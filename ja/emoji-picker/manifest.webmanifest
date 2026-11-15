@@ -1,0 +1,29 @@
+{
+  "name": "Loona 絵文字ピッカー オンラインフリー",
+  "short_name": "絵文字ピッカー オンラインフリー",
+  "description": "無料の絵文字ピッカー：1,900+の絵文字と記号を閲覧・検索し、肌の色を選んで、クリックで1つの絵文字またはトレイ全体をコピー。登録不要、100%ブラウザ内で動作します。",
+  "id": "/loona-text-tools/ja/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
