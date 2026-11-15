@@ -1,0 +1,29 @@
+{
+  "name": "Loona Selector de Emojis Online Gratis",
+  "short_name": "Selector de Emojis Online Gratis",
+  "description": "Selector de emojis gratuito: explora o busca 1,900+ emojis y símbolos, elige un tono de piel y haz clic para copiar un emoji o una bandeja completa. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-text-tools/es/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
