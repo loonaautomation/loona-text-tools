@@ -1,0 +1,29 @@
+{
+  "name": "Loona Emoji-Auswahl Online Kostenlos",
+  "short_name": "Emoji-Auswahl Online Kostenlos",
+  "description": "Kostenlose Emoji-Auswahl: Durchsuche oder stöbere in 1,900+ Emojis und Symbolen, wähle einen Hautton, klicke zum Kopieren eines Emojis oder einer ganzen Ablage. Keine Anmeldung, läuft zu 100 % in deinem Browser.",
+  "id": "/loona-text-tools/de/emoji-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
