@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tóm tắt văn bản trực tuyến",
+  "short_name": "Trình tóm tắt văn bản trực tuyến",
+  "description": "Tóm tắt bất kỳ văn bản dài nào ngay lập tức: dán bài viết, bài luận hoặc báo cáo và nhận lại những câu gốc quan trọng nhất. Trình tóm tắt văn bản trực tuyến miễn phí - không cần đăng ký, riêng tư 100%.",
+  "id": "/loona-text-tools/vi/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

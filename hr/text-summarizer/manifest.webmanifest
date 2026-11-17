@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sažimanje teksta online — sažmite dug tekst u trenu | Loona Text Tools",
+  "short_name": "Sažimanje teksta online — sažmite dug tekst u trenu | Loona Text Tools",
+  "description": "Sažmite bilo koji dug tekst u trenu: zalijepite članak, esej ili izvještaj i dobijte natrag njegove najvažnije izvorne rečenice. Besplatno online sažimanje teksta — bez registracije, 100 % privatno.",
+  "id": "/loona-text-tools/hr/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

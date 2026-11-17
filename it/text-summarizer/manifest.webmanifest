@@ -1,0 +1,29 @@
+{
+  "name": "Loona Riassuntore di testi online: riassumi testi lunghi all'istante | Loona Text Tools",
+  "short_name": "Riassuntore di testi online: riassumi testi lunghi all'istante | Loona Text Tools",
+  "description": "Riassumi all'istante qualsiasi testo lungo: incolla un articolo, un saggio o un rapporto e riottieni le sue frasi originali più importanti. Riassuntore di testi online gratuito, senza registrazione, privato al 100%.",
+  "id": "/loona-text-tools/it/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

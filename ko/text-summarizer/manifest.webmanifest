@@ -1,0 +1,29 @@
+{
+  "name": "Loona 온라인 텍스트 요약 도구 – 긴 텍스트를 즉시 요약 | Loona Text Tools",
+  "short_name": "온라인 텍스트 요약 도구 – 긴 텍스트를 즉시 요약 | Loona Text Tools",
+  "description": "긴 텍스트를 즉시 요약하세요. 기사, 에세이, 보고서를 붙여넣으면 가장 중요한 원문 문장을 돌려받습니다. 무료 온라인 텍스트 요약 도구 – 가입 없음, 100% 비공개.",
+  "id": "/loona-text-tools/ko/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

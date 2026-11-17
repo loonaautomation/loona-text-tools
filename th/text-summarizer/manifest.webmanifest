@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสรุปข้อความออนไลน์",
+  "short_name": "เครื่องมือสรุปข้อความออนไลน์",
+  "description": "สรุปข้อความยาวใดๆ ได้ทันที: วางบทความ เรียงความ หรือรายงาน แล้วรับประโยคต้นฉบับที่สำคัญที่สุดกลับไป เครื่องมือสรุปข้อความออนไลน์ฟรี - ไม่ต้องสมัคร ปลอดภัย 100%",
+  "id": "/loona-text-tools/th/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

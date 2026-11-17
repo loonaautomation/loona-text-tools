@@ -1,0 +1,29 @@
+{
+  "name": "Loona آن لائن ٹیکسٹ سمریز",
+  "short_name": "آن لائن ٹیکسٹ سمریز",
+  "description": "کسی بھی لمبے متن کا فوراً خلاصہ کریں: مضمون، انشائیہ یا رپورٹ چسپاں کریں اور اس کے سب سے اہم اصل جملے واپس پائیں۔ مفت آن لائن ٹیکسٹ سمریز - نہ سائن اپ، 100% پرائیویٹ۔",
+  "id": "/loona-text-tools/ur/text-summarizer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

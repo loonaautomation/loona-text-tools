@@ -440,4 +440,5 @@
   "p": 148,
   "c": "Tool"
  }
-,{"n":"Emojiválasztó","u":"https://loonaautomation.github.io/loona-text-tools/hu/emoji-picker/","s":"Loona Text Tools","d":"Böngéssz vagy keress 1,900+ emoji és szimbólum között – kattints a másoláshoz, bőrtónusokkal és másolótálcával.","k":"emoji picker emoji picker bongessz vagy keress 1,900+ emoji es szimbolum kozott – kattints a masolashoz, bortonusokkal es masolotalcaval.","p":149,"c":"Tool"}]
+,{"n":"Emojiválasztó","u":"https://loonaautomation.github.io/loona-text-tools/hu/emoji-picker/","s":"Loona Text Tools","d":"Böngéssz vagy keress 1,900+ emoji és szimbólum között – kattints a másoláshoz, bőrtónusokkal és másolótálcával.","k":"emoji picker emoji picker bongessz vagy keress 1,900+ emoji es szimbolum kozott – kattints a masolashoz, bortonusokkal es masolotalcaval.","p":149,"c":"Tool"},
+{"n":"Szövegösszefoglaló","u":"https://loonaautomation.github.io/loona-text-tools/hu/text-summarizer/","s":"Loona Text Tools","d":"Illessz be egy hosszú cikket, esszét vagy jelentést, és visszakapod a legfontosabb eredeti mondatait. Kivonatoló összefoglaló a böngésződben – soha nem töltjük fel, soha nem írjuk át.","k":"szöveg összefoglalás szövegösszefoglaló összefoglaló készítő rövidítsd a szöveget cikk összefoglalása automatikus összefoglaló esszé összefoglaló szöveg rövidítő","p":150,"c":"Tool"}]
