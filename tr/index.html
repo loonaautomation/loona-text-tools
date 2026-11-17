@@ -289,7 +289,7 @@ function runSearch(q, limit) {
         if (allN) score += 800;
       }
       /* tool whose name carries the searched word beats a guide about it */
-      if (it.c !== 'Rehber') {
+      if (it.c !== 'Guide') {
         for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
       }
       score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
@@ -320,7 +320,7 @@ function popular(n) {
   function esc(s) {
     return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
-  function badge(e) { return e.c === 'Web Sitesi' ? 'Web Sitesi' : (e.c === 'Rehber' ? 'Rehber' : e.s.replace(/^Loona /, '')); }
+  function badge(e) { return e.c === 'Website' ? 'Web Sitesi' : (e.c === 'Guide' ? 'Rehber' : e.s.replace(/^Loona /, '')); }
   function itemHtml(e, i) {
     return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
            '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +

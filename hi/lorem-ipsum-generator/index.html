@@ -198,7 +198,7 @@ function genLorem(opts,rand){
   rand=rand||Math.random;
   var type=opts.type||'paragraphs',count=Math.max(1,opts.count||1);
   var classic='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
-  if(type==='शब्द'){
+  if(type==='words'){
     if(opts.startClassic){var base='Lorem ipsum dolor sit amet consectetur adipiscing elit'.split(' ');if(count<=base.length)return base.slice(0,count).join(' ');
       var out=base.slice();while(out.length<count)out.push(LOREM_WORDS[Math.floor(rand()*LOREM_WORDS.length)]);return out.join(' ');}
     var w=[];for(var i=0;i<count;i++)w.push(LOREM_WORDS[Math.floor(rand()*LOREM_WORDS.length)]);return w.join(' ');

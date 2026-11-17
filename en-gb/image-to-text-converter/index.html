@@ -226,7 +226,7 @@ async function getWorker(){
     corePath:'../lib/tesseract',
     langPath:'../lib/tesseract',
     logger:function(m){
-      if(m.status==='recognising text'){ setStatus($('#st'),'Recognising text… '+Math.round(m.progress*100)+'%',null); }
+      if(m.status==='recognizing text'){ setStatus($('#st'),'Recognising text… '+Math.round(m.progress*100)+'%',null); }
     }
   });
   return ocrWorker;

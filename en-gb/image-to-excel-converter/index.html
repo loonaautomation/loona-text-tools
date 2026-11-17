@@ -428,10 +428,10 @@ async function getWorker(){
     langPath:'../lib/tesseract',
     logger:function(m){
       if(m.status==='loading tesseract core') setProgress(6,'Loading the OCR engine…');
-      else if(m.status==='initialising tesseract') setProgress(12,'Starting the OCR engine…');
+      else if(m.status==='initializing tesseract') setProgress(12,'Starting the OCR engine…');
       else if(m.status==='loading language traineddata') setProgress(18,'Loading the English language data (first time only, about 11 MB)…');
-      else if(m.status==='initialising api') setProgress(24,'Preparing to read your table…');
-      else if(m.status==='recognising text') setProgress(24+Math.round(m.progress*74),'Reading the table… '+Math.round(m.progress*100)+'%');
+      else if(m.status==='initializing api') setProgress(24,'Preparing to read your table…');
+      else if(m.status==='recognizing text') setProgress(24+Math.round(m.progress*74),'Reading the table… '+Math.round(m.progress*100)+'%');
     }
   });
   await ocrWorker.setParameters({tessedit_pageseg_mode:'6'});
