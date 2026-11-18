@@ -1,0 +1,29 @@
+{
+  "name": "Loona AI Detector",
+  "short_name": "Loona AI Detector",
+  "description": "کوئی بھی متن چسپاں کریں اور وہ تحریری اشارے دیکھیں جو AI ڈیٹیکٹرز ناپتے ہیں - جملوں کی لے، ذخیرہ الفاظ کا تنوع، دہرائے گئے فقرے اور پیش گوئی کی صلاحیت۔ مفت AI ڈیٹیکٹر: نہ سائن اپ، نہ فیصلے، اور آپ کا متن کبھی آپ کے براؤزر سے باہر نہیں جاتا۔",
+  "id": "/loona-text-tools/ur/ai-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
