@@ -1,8 +1,8 @@
 {
-  "name": "Loona AI Text Checker Online",
-  "short_name": "AI Text Checker Online",
-  "description": "Paste any text and see the writing signals AI detectors measure - sentence rhythm, vocabulary diversity, repeated phrases and predictability. Free AI text checker: no sign-up, no verdicts, and your text never leaves your browser.",
-  "id": "/loona-text-tools/ai-text-checker/",
+  "name": "Loona AI Detector Online",
+  "short_name": "AI Detector Online",
+  "description": "Paste any text and see the writing signals AI detectors measure - sentence rhythm, vocabulary diversity, repeated phrases and predictability. Free AI detector: no sign-up, no verdicts, and your text never leaves your browser.",
+  "id": "/loona-text-tools/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
