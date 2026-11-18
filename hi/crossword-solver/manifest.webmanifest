@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Solver",
+  "short_name": "Crossword Solver",
+  "description": "c?oss?ord जैसे क्रॉसवर्ड पैटर्न को 172,820 अंग्रेज़ी शब्दों में खोजें। जो अक्षर आप जानते हैं वे लिखें, लापता खानों के लिए ? का उपयोग करें, अनिवार्य-अक्षर फ़िल्टर लगाएँ। मुफ़्त, बिना साइन-अप, 100% आपके डिवाइस पर।",
+  "id": "/loona-text-tools/hi/crossword-solver/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

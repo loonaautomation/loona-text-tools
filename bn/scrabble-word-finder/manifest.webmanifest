@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Scrabble Word Finder",
+  "description": "আপনার অক্ষর র‍্যাক থেকে সর্বোচ্চ স্কোরের খেলা খুঁজুন এবং যেকোনো শব্দ বৈধ কিনা যাচাই করুন। পূর্ণ 172,820 শব্দের ENABLE অভিধান, ফাঁকা টাইল সমর্থিত, 100% আপনার ডিভাইসে। বিনামূল্যে, সাইন-আপ ছাড়া।",
+  "id": "/loona-text-tools/bn/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
