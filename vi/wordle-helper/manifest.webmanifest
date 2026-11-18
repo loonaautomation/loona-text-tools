@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wordle Helper",
+  "short_name": "Loona Wordle Helper",
+  "description": "Nhập các lần đoán Wordle của bạn và chạm vào các ô thành xám, vàng hoặc xanh lá: trợ thủ miễn phí này cho bạn thấy mọi đáp án còn phù hợp và các lần đoán tiếp theo tốt nhất. Logic đúng cho chữ cái trùng lặp, không cần đăng ký, và mọi thứ chạy trong trình duyệt của bạn.",
+  "id": "/loona-text-tools/vi/wordle-helper/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
