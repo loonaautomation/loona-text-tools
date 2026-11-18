@@ -1,0 +1,29 @@
+{
+  "name": "Loona AI Detector",
+  "short_name": "Loona AI Detector",
+  "description": "粘贴任何文本,查看 AI 检测器测量的写作信号——句子节奏、词汇多样性、重复短语和可预测性。免费 AI 检测器:无需注册,不下结论,您的文本从不离开浏览器。",
+  "id": "/loona-text-tools/zh/ai-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

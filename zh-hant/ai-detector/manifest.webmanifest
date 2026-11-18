@@ -1,0 +1,29 @@
+{
+  "name": "Loona AI Detector",
+  "short_name": "Loona AI Detector",
+  "description": "貼上任何文字,查看 AI 檢測器測量的寫作訊號——句子節奏、詞彙多樣性、重複短語和可預測性。免費 AI 檢測器:無需註冊,不下結論,您的文字從不離開瀏覽器。",
+  "id": "/loona-text-tools/zh-hant/ai-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

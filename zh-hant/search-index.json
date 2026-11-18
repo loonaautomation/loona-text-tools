@@ -439,6 +439,32 @@
   "k": "random topic generator random topic generator 900 9",
   "p": 148,
   "c": "Tool"
+ },
+ {
+  "n": "表情符號選擇器",
+  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/emoji-picker/",
+  "s": "Loona Text Tools",
+  "d": "瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製，支援膚色和複製匣。",
+  "k": "emoji picker emoji picker 瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製,支援膚色和複製匣。",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "文字摘要工具",
+  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-summarizer/",
+  "s": "Loona Text Tools",
+  "d": "貼上長篇文章、論文或報告，取得其最重要的原始句子。在瀏覽器中產生擷取式摘要——從不上傳，從不改寫。",
+  "k": "文字摘要 總結文字 文章摘要 摘要產生器 線上摘要 縮短文章 論文摘要 自動摘要 文字總結工具 擷取摘要",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Loona AI Detector",
+  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/ai-detector/",
+  "s": "Loona Text Tools",
+  "d": "查看 AI 檢測器測量的寫作訊號——句子節奏、詞彙多樣性、重複短語和可預測性。誠實的訊號,不是結論——而且您的文字從不離開瀏覽器。",
+  "k": "ai檢測器 ai檢測 ai寫作檢測 chatgpt檢測 ai文字檢測 檢測ai生成內容",
+  "p": 151,
+  "c": "Tool"
  }
-,{"n":"表情符號選擇器","u":"https://loonaautomation.github.io/loona-text-tools/zh-hant/emoji-picker/","s":"Loona Text Tools","d":"瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製，支援膚色和複製匣。","k":"emoji picker emoji picker 瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製,支援膚色和複製匣。","p":149,"c":"Tool"},
-{"n":"文字摘要工具","u":"https://loonaautomation.github.io/loona-text-tools/zh-hant/text-summarizer/","s":"Loona Text Tools","d":"貼上長篇文章、論文或報告，取得其最重要的原始句子。在瀏覽器中產生擷取式摘要——從不上傳，從不改寫。","k":"文字摘要 總結文字 文章摘要 摘要產生器 線上摘要 縮短文章 論文摘要 自動摘要 文字總結工具 擷取摘要","p":150,"c":"Tool"}]
+]
