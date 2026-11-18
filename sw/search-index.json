@@ -439,6 +439,32 @@
   "k": "random topic generator random topic generator mada 900 zilizochaguliwa kwa mkono za insha hotuba mjadala hadithi na watoto katika kategoria 9 zilizochujwa kwa kiwango cha shule bila marudio",
   "p": 148,
   "c": "Tool"
+ },
+ {
+  "n": "Kiteua Emoji",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/emoji-picker/",
+  "s": "Loona Text Tools",
+  "d": "Vinjari au tafuta emoji na alama 1,900+ - bofya ili kunakili, pamoja na rangi za ngozi na trei ya kunakili.",
+  "k": "emoji picker emoji picker vinjari au tafuta emoji na alama 1,900+ - bofya ili kunakili, pamoja na rangi za ngozi na trei ya kunakili.",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Kifupishi cha Maandishi",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/text-summarizer/",
+  "s": "Loona Text Tools",
+  "d": "Bandika makala ndefu, insha au ripoti na upate sentensi zake asili muhimu zaidi. Muhtasari wa kuchagua katika kivinjari chako - haujapakiwa kamwe, haujaandikwa upya kamwe.",
+  "k": "kifupishi cha maandishi fupisha maandishi muhtasari wa maandishi kifupishi mtandaoni fupisha makala muhtasari wa insha tengeneza muhtasari chombo cha kufupisha",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Loona AI Detector",
+  "u": "https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/",
+  "s": "Loona Text Tools",
+  "d": "Tazama ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Ishara za uaminifu, si hukumu - na maandishi yako hayaondoki kwenye kivinjari chako kamwe.",
+  "k": "kigunduzi cha ai kikagua maandishi ya ai kigunduzi cha maudhui ya ai angalia kama maandishi yameandikwa na ai kikagua ai bure kigunduzi cha ai kwa wanafunzi kikagua uandishi wa ai",
+  "p": 151,
+  "c": "Tool"
  }
-,{"n":"Kiteua Emoji","u":"https://loonaautomation.github.io/loona-text-tools/sw/emoji-picker/","s":"Loona Text Tools","d":"Vinjari au tafuta emoji na alama 1,900+ - bofya ili kunakili, pamoja na rangi za ngozi na trei ya kunakili.","k":"emoji picker emoji picker vinjari au tafuta emoji na alama 1,900+ - bofya ili kunakili, pamoja na rangi za ngozi na trei ya kunakili.","p":149,"c":"Tool"},
-{"n":"Kifupishi cha Maandishi","u":"https://loonaautomation.github.io/loona-text-tools/sw/text-summarizer/","s":"Loona Text Tools","d":"Bandika makala ndefu, insha au ripoti na upate sentensi zake asili muhimu zaidi. Muhtasari wa kuchagua katika kivinjari chako - haujapakiwa kamwe, haujaandikwa upya kamwe.","k":"kifupishi cha maandishi fupisha maandishi muhtasari wa maandishi kifupishi mtandaoni fupisha makala muhtasari wa insha tengeneza muhtasari chombo cha kufupisha","p":150,"c":"Tool"}]
+]

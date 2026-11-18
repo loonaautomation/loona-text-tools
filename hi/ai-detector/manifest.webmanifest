@@ -1,0 +1,29 @@
+{
+  "name": "Loona AI Detector",
+  "short_name": "Loona AI Detector",
+  "description": "कोई भी पाठ चिपकाएँ और वे लेखन संकेत देखें जिन्हें AI डिटेक्टर मापते हैं - वाक्य लय, शब्दावली विविधता, दोहराए गए वाक्यांश और पूर्वानुमेयता। मुफ़्त AI डिटेक्टर: बिना साइन-अप, बिना निर्णय, और आपका पाठ कभी आपके ब्राउज़र से बाहर नहीं जाता।",
+  "id": "/loona-text-tools/hi/ai-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

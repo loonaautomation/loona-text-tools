@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loona AI Detector Mtandaoni - Tazama Ishara Zinazotumiwa na Vigunduzi vya AI | Loona Text Tools</title>
+<meta name="description" content="Bandika maandishi yoyote na uone ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Kigunduzi cha AI bure: bila kujisajili, bila hukumu, na maandishi yako hayaondoki kwenye kivinjari chako kamwe.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-text-tools/ai-detector/"><link rel="alternate" hreflang="en-us" href="https://loonaautomation.github.io/loona-text-tools/en-us/ai-detector/"><link rel="alternate" hreflang="en-gb" href="https://loonaautomation.github.io/loona-text-tools/en-gb/ai-detector/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-text-tools/es/ai-detector/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-text-tools/de/ai-detector/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-text-tools/fr/ai-detector/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-text-tools/pt/ai-detector/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-text-tools/it/ai-detector/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-text-tools/nl/ai-detector/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-text-tools/ar/ai-detector/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-text-tools/ur/ai-detector/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-text-tools/tr/ai-detector/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-text-tools/ru/ai-detector/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-text-tools/hi/ai-detector/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-text-tools/ja/ai-detector/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-text-tools/ko/ai-detector/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-text-tools/pl/ai-detector/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-text-tools/vi/ai-detector/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-text-tools/id/ai-detector/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-text-tools/zh/ai-detector/"><link rel="alternate" hreflang="zh-hant" href="https://loonaautomation.github.io/loona-text-tools/zh-hant/ai-detector/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-text-tools/bn/ai-detector/"><link rel="alternate" hreflang="ms" href="https://loonaautomation.github.io/loona-text-tools/ms/ai-detector/"><link rel="alternate" hreflang="pt-br" href="https://loonaautomation.github.io/loona-text-tools/pt-br/ai-detector/"><link rel="alternate" hreflang="pt-pt" href="https://loonaautomation.github.io/loona-text-tools/pt-pt/ai-detector/"><link rel="alternate" hreflang="th" href="https://loonaautomation.github.io/loona-text-tools/th/ai-detector/"><link rel="alternate" hreflang="ro" href="https://loonaautomation.github.io/loona-text-tools/ro/ai-detector/"><link rel="alternate" hreflang="cs" href="https://loonaautomation.github.io/loona-text-tools/cs/ai-detector/"><link rel="alternate" hreflang="sv" href="https://loonaautomation.github.io/loona-text-tools/sv/ai-detector/"><link rel="alternate" hreflang="nb" href="https://loonaautomation.github.io/loona-text-tools/nb/ai-detector/"><link rel="alternate" hreflang="sw" href="https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-text-tools/ai-detector/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Text Tools">
+<meta property="og:title" content="Loona AI Detector Mtandaoni - Tazama Ishara Zinazotumiwa na Vigunduzi vya AI | Loona Text Tools">
+<meta property="og:description" content="Bandika maandishi yoyote na uone ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Kigunduzi cha AI bure: bila kujisajili, bila hukumu, na maandishi yako hayaondoki kwenye kivinjari chako kamwe.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/"><meta property="og:locale" content="sw_KE">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Loona AI Detector Mtandaoni - Tazama Ishara Zinazotumiwa na Vigunduzi vya AI | Loona Text Tools">
+<meta name="twitter:description" content="Bandika maandishi yoyote na uone ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Kigunduzi cha AI bure: bila kujisajili, bila hukumu, na maandishi yako hayaondoki kwenye kivinjari chako kamwe.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Loona AI Detector", "url": "https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/", "description": "Bandika maandishi yoyote na uone ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Kigunduzi cha AI bure: bila kujisajili, bila hukumu, na maandishi yako hayaondoki kwenye kivinjari chako kamwe.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "Inahitaji JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Nyumbani", "item": "https://loonaautomation.github.io/loona-text-tools/sw/"}, {"@type": "ListItem", "position": 2, "name": "Zana za Maandishi", "item": "https://loonaautomation.github.io/loona-text-tools/sw/"}, {"@type": "ListItem", "position": 3, "name": "Loona AI Detector", "item": "https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Je, kigunduzi hiki cha AI ni bure kweli?", "acceptedAnswer": {"@type": "Answer", "text": "Ndiyo - bure kabisa, kikiwa na ukaguzi usio na kikomo, bila kujisajili na bila kikomo cha maneno kilichowekwa nasi. Ukaguzi hufanyika kwenye kifaa chako mwenyewe, kwa hiyo hautugharimu chochote kwa kila ukaguzi pia."}}, {"@type": "Question", "name": "Je, zana hii inaweza kuthibitisha maandishi yaliandikwa na AI?", "acceptedAnswer": {"@type": "Answer", "text": "Hapana - na hakuna zana nyingine inayoweza pia. Kigunduzi hiki hupima ishara za mtindo wa uandishi, na mtindo si ushahidi wa uandishi. Uandishi wa kibinadamu wa rasmi, rahisi au wa violezo unaweza kuonekana wa kimashine, na uandishi wa AI uliohaririwa unaweza kuonekana wa kibinadamu. Usitumie alama ya kigunduzi chochote kama msingi pekee wa kumshtaki mtu."}}, {"@type": "Question", "name": "Kwa nini uandishi wangu mwenyewe ulionyesha mifumo ya kimashine?", "acceptedAnswer": {"@type": "Answer", "text": "Kwa kawaida kwa sababu ni wa rasmi, rahisi au umeandikwa kwa kiolezo - au kwa sababu Kiingereza si lugha yako ya kwanza. Utafiti wa Stanford uligundua vigunduzi vilikosea kuashiria 61% ya insha za waandishi wasio wazawa. Tokeo la kimashine kwenye uandishi wako mwenyewe wa uaminifu ni udhaifu unaojulikana wa vigunduzi vyote, si ushahidi dhidi yako."}}, {"@type": "Question", "name": "Hii ni tofauti vipi na GPTZero au Pangram?", "acceptedAnswer": {"@type": "Answer", "text": "Zana hizo huendesha miundo ya AI iliyofunzwa kwenye seva zao, hukuomba upakie maandishi yako, na kurudisha uwezekano. Kigunduzi hiki hufanya kazi kabisa katika kivinjari chako, hakipakii chochote, na hukuonyesha ishara sita zinazoweza kupimwa nyuma ya usomaji badala ya hukumu moja. Kwa jambo muhimu, linganisha na zana zaidi ya moja - na na binadamu anayemjua mwandishi."}}, {"@type": "Question", "name": "Je, maandishi yangu yanapakiwa au kuhifadhiwa?", "acceptedAnswer": {"@type": "Answer", "text": "Hapana. Ukaguzi hufanyika kabisa katika kivinjari chako kwa JavaScript. Maandishi yako hayaondoki kwenye kifaa chako kamwe, na kufunga kichupo hufuta kila kitu."}}, {"@type": "Question", "name": "Ni maandishi kiasi gani ninapaswa kubandika?", "acceptedAnswer": {"@type": "Answer", "text": "Angalau maneno 50 - chini ya hapo, mifumo ni kelele zaidi na kigunduzi kitasema hivyo badala ya kukisia. Karibu maneno 150 au zaidi hutoa ishara thabiti zaidi. Hata maandishi marefu, hata hivyo, yanaweza kukupa ishara tu, kamwe si uhakika."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Nembo ya Loona Automation">Loona <span>Zana za Maandishi</span></a>
+<nav class="main">
+<a href="../">Nyumbani</a>
+<a href="../word-counter/">Kihesabu cha Maneno</a>
+<a href="../case-converter/">Kibadilishaji cha Hali ya Herufi</a>
+<a href="../text-to-speech/">Maandishi kwenda Hotuba</a>
+<a href="../password-generator/">Kizalishaji cha Nenosiri</a>
+<a href="../about.html">Kuhusu</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">Nyumbani</a> &rsaquo; <a href="../#tools">Zana za Maandishi</a> &rsaquo; Loona AI Detector</div>
+<main class="page">
+<h1 class="tool">Loona AI Detector - Ishara, Si Hukumu</h1>
+<div class="inshort"><strong>Kwa ufupi:</strong> bandika maandishi yoyote na kigunduzi hiki hupima ishara sita za uandishi ambazo vigunduzi vya AI hujengwa juu yake - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa, urefu wa kawaida, utabirifu wa maneno na uwiano wa aya - kisha hukuonyesha kila kipimo na kukieleza kwa lugha rahisi. Huripoti mifumo, kamwe si hukumu ya "% AI", kwa sababu hakuna zana inayoweza kuthibitisha kwa uaminifu ni nani aliyeandika maandishi.</div>
+<p class="lede">Unashangaa kama kipande cha uandishi kinaonekana kimetengenezwa na mashine? Vigunduzi vingi vya AI hukupa asilimia moja ya kujiamini na kuficha mbinu zao. Hiki hufanya kinyume chake: huonyesha kazi yake, ishara kwa ishara. Na kila kipimo hufanyika katika kivinjari chako - maandishi yako hayapakiwi, hayahifadhiwi wala hayaonwi nasi kamwe.</p>
+<div class="panel"><div class="field"><label for="inp">Maandishi yako</label><textarea id="inp" class="big" placeholder="Bandika insha, makala, barua pepe au chapisho unalotaka kukagua (maneno 50 au zaidi hufanya kazi vizuri zaidi)..."></textarea></div>
+<div class="status" id="counts" style="margin-top:8px;min-height:0">maneno 0 &middot; sentensi 0</div>
+<div class="row"><button class="btn" id="bGo">Kagua maandishi</button><button class="btn ghost" id="bSample">Jaribu maandishi ya mfano</button><button class="btn ghost" id="bClear">Futa</button></div>
+<div id="result" style="display:none;margin-top:18px"></div>
+<div class="status" id="st"></div></div>
+<div class="privacy-note"><strong>Faragha kwa muundo:</strong> kila kitu katika zana hii hufanyika 100% katika kivinjari chako kwa JavaScript. Maandishi yako hayapakiwi kwenye seva kamwe, hayahifadhiwi wala hayaonwi nasi kamwe - funga kichupo na kila kitu kimekwisha.</div>
+<section class="block"><h2>Onyo la uaminifu - soma hili kabla ya kuamini kigunduzi chochote cha AI</h2>
+<p><strong>Hakuna zana inayoweza kuthibitisha ni nani aliyeandika maandishi.</strong> Utambuzi wa AI ni kukisia kwa elimu kuhusu mtindo wa uandishi, na hata majina makubwa zaidi katika uwanja huu hukosea - kwa pande zote mbili. Chukulia kila tokeo kwenye ukurasa huu kama ishara za kufikiria, kamwe si ushahidi.</p><p><strong>OpenAI ilifunga kiainishi chake cha maandishi ya AI mnamo Julai 2023</strong> kwa sababu ya kiwango chake cha chini cha usahihi. Ikiwa kampuni inayotengeneza mwandishi maarufu zaidi wa AI haikuweza kufanya utambuzi kuwa wa kuaminika, asilimia ya tovuti yoyote haistahili uaminifu wako wa kipofu - pamoja na chochote unachosoma hapa.</p><p><strong>Vigunduzi ni vigumu zaidi kwa waandishi wasio wazawa.</strong> Katika utafiti wa Stanford, vigunduzi maarufu vya AI vilikosea kuashiria 61% ya insha zilizoandikwa na wasemaji wasio wazawa wa Kiingereza kama zimetengenezwa na AI, huku karibu kamwe visiaashirie insha za wasemaji wazawa. Kiingereza rahisi, sahihi na cha uangalifu si ushahidi wa AI - mara nyingi ni ujifunzaji mzuri tu.</p><p><strong>Kwa hiyo tafadhali:</strong> usitumie kigunduzi hiki - au kigunduzi chochote - kama ushahidi, na usitumie alama kumuadhibu mwanafunzi, kumkataa mwandishi au kumshtaki mtu yeyote kwa udanganyifu. Tumia ishara kuboresha uandishi na kuanzisha mazungumzo ya haki. Hiyo ndiyo tu zinazofaa kwa uaminifu.</p></section>
+<section class="block"><h2>Jinsi ya kutumia Loona AI Detector</h2><ol><li>Bandika maandishi unayotaka kukagua - maneno 50 ni kiwango cha chini, na maneno 150 au zaidi hutoa ishara thabiti zaidi.</li><li>Bofya Kagua maandishi na usome muundo wa jumla: zaidi ya kibinadamu, mchanganyiko, au zaidi ya kimashine.</li><li>Soma kila ishara ili kuona hasa kilichopimwa, kisha angalia sentensi binafsi zilizoonekana, pamoja na sababu ya kila moja kuashiriwa.</li></ol></section>
+<section class="block"><h2>Jinsi inavyofanya kazi</h2><p>Vigunduzi vikubwa vya AI huendesha miundo ya AI iliyofunzwa kwenye seva zao na kurudisha uwezekano mmoja. Kigunduzi hiki kimejengwa tofauti: hupima ishara sita za kitakwimu ambazo miundo hiyo pia hutegemea, na hukuonyesha kila moja pamoja na nambari zake halisi.</p><p><strong>Mdundo wa sentensi (burstiness)</strong> hupima ni kwa kiasi gani urefu wa sentensi zako hutofautiana. <strong>Utofauti wa msamiati</strong> huhesabu ni maneno mangapi tofauti unayotumia. <strong>Vifungu vinavyorudiwa</strong> hupata vifungu vya maneno matatu vinavyorudi tena na tena. <strong>Urefu wa kawaida</strong> hulinganisha urefu wako wa wastani wa sentensi na neno na katikati ya kitabu ambayo vizalishi hujikusanya karibu nayo. <strong>Utabirifu wa maneno</strong> hupima ni sehemu gani ya maandishi imejengwa kutokana na maneno ya kila siku ya kawaida zaidi. <strong>Uwiano wa aya</strong> huangalia kama aya zako ni sawa kwa ukubwa kwa njia inayotia shaka.</p><p>Ishara sita huunganishwa kuwa muundo mmoja wa jumla - zaidi ya kibinadamu, mchanganyiko, au zaidi ya kimashine - na sentensi zinazoonekana zaidi za kimashine huorodheshwa pamoja na sababu zake. Hakuna muundo wa AI na hakuna seva: ukaguzi wote ni hesabu kwenye kifaa chako mwenyewe, ndiyo maana ni bure, wa papo hapo na wa faragha kabisa.</p><h3>Mfano uliofanyiwa kazi</h3><p>Bandika insha ya maneno 200: unaweza kuona mdundo wa sentensi wa aina mbalimbali na msamiati tajiri (ishara za kibinadamu) pamoja na aya moja ambapo sentensi tano mfululizo zina urefu unaokaribiana na zimejengwa kwa maneno ya kawaida sana (ishara ya kimashine). Tokeo lingesema "mifumo mchanganyiko" - na orodha ya sentensi hukuonyesha hasa pa kuangalia, badala ya kuficha kila kitu nyuma ya nambari moja.</p></section>
+<section class="block"><h2>Maswali Yanayoulizwa Mara kwa Mara</h2><details class="faq"><summary>Je, kigunduzi hiki cha AI ni bure kweli?</summary><p>Ndiyo - bure kabisa, kikiwa na ukaguzi usio na kikomo, bila kujisajili na bila kikomo cha maneno kilichowekwa nasi. Ukaguzi hufanyika kwenye kifaa chako mwenyewe, kwa hiyo hautugharimu chochote kwa kila ukaguzi pia.</p></details><details class="faq"><summary>Je, zana hii inaweza kuthibitisha maandishi yaliandikwa na AI?</summary><p>Hapana - na hakuna zana nyingine inayoweza pia. Kigunduzi hiki hupima ishara za mtindo wa uandishi, na mtindo si ushahidi wa uandishi. Uandishi wa kibinadamu wa rasmi, rahisi au wa violezo unaweza kuonekana wa kimashine, na uandishi wa AI uliohaririwa unaweza kuonekana wa kibinadamu. Usitumie alama ya kigunduzi chochote kama msingi pekee wa kumshtaki mtu.</p></details><details class="faq"><summary>Kwa nini uandishi wangu mwenyewe ulionyesha mifumo ya kimashine?</summary><p>Kwa kawaida kwa sababu ni wa rasmi, rahisi au umeandikwa kwa kiolezo - au kwa sababu Kiingereza si lugha yako ya kwanza. Utafiti wa Stanford uligundua vigunduzi vilikosea kuashiria 61% ya insha za waandishi wasio wazawa. Tokeo la kimashine kwenye uandishi wako mwenyewe wa uaminifu ni udhaifu unaojulikana wa vigunduzi vyote, si ushahidi dhidi yako.</p></details><details class="faq"><summary>Hii ni tofauti vipi na GPTZero au Pangram?</summary><p>Zana hizo huendesha miundo ya AI iliyofunzwa kwenye seva zao, hukuomba upakie maandishi yako, na kurudisha uwezekano. Kigunduzi hiki hufanya kazi kabisa katika kivinjari chako, hakipakii chochote, na hukuonyesha ishara sita zinazoweza kupimwa nyuma ya usomaji badala ya hukumu moja. Kwa jambo muhimu, linganisha na zana zaidi ya moja - na na binadamu anayemjua mwandishi.</p></details><details class="faq"><summary>Je, maandishi yangu yanapakiwa au kuhifadhiwa?</summary><p>Hapana. Ukaguzi hufanyika kabisa katika kivinjari chako kwa JavaScript. Maandishi yako hayaondoki kwenye kifaa chako kamwe, na kufunga kichupo hufuta kila kitu.</p></details><details class="faq"><summary>Ni maandishi kiasi gani ninapaswa kubandika?</summary><p>Angalau maneno 50 - chini ya hapo, mifumo ni kelele zaidi na kigunduzi kitasema hivyo badala ya kukisia. Karibu maneno 150 au zaidi hutoa ishara thabiti zaidi. Hata maandishi marefu, hata hivyo, yanaweza kukupa ishara tu, kamwe si uhakika.</p></details></section>
+<section class="block"><h2>Zana za Maandishi Zinazohusiana</h2><div class="grid"><a class="card" href="../word-counter/"><div class="ic">🔢</div><h3>Kihesabu cha Maneno</h3><p>Maneno, vibambo, sentensi, aya na muda wa kusoma - vimehesabiwa moja kwa moja unapoandika.</p></a><a class="card" href="../word-frequency/"><div class="ic">📊</div><h3>Marudio ya Maneno</h3><p>Jedwali la mpangilio wa maneno yako yanayotumika zaidi, lenye hesabu na asilimia.</p></a><a class="card" href="../reading-level-calculator/"><div class="ic">📚</div><h3>Kikokotoo cha Kiwango cha Kusoma</h3><p>Alama za Urahisi wa Kusoma za Flesch na kiwango cha darasa, pamoja na uamuzi wa Kiingereza tupu.</p></a><a class="card" href="../text-summarizer/"><div class="ic">📝</div><h3>Kifupishi cha Maandishi</h3><p>Sentensi muhimu zaidi za maandishi marefu yoyote, zilizochaguliwa neno kwa neno - hakuna kilichoandikwa upya, hakuna kilichopakiwa.</p></a></div></section>
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Pachika zana hii kwenye tovuti yako — bure</h2>
+<p style="margin:0 0 12px;line-height:1.6">Weka zana hii katika tovuti au blogu yako mwenyewe — ni bure kabisa, haihitaji kujisajili, na huonyesha toleo la karibuni zaidi kila mara. Nakili msimbo ulio hapa chini na uubandike katika ukurasa wako mahali unapotaka zana ionekane. Kuweka mstari mdogo wa sifa &ldquo;Powered by Loona Automation&rdquo; chini ya upachikaji husaidia kudumisha zana hii kuwa bure &mdash; lakini uko huru kuupamba au kuuondoa; zana hufanya kazi kwa njia yoyote.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free Loona AI Detector"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Imetolewa na &lt;a href="https://loonaautomation.github.io/loona-text-tools/sw/ai-detector/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; bure Loona AI Detector&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Nakili msimbo wa kupachika</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='Imenakiliwa!';setTimeout(function(){b.textContent='Nakili msimbo wa kupachika';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Text Tools</h4>
+<a href="../">Zana Zote za Maandishi</a>
+<a href="../about.html">Kuhusu Sisi</a>
+<a href="../contact.html">Wasiliana</a></div>
+<div class="col"><h4>Zana Maarufu</h4><a href="../word-counter/">Kihesabu cha Maneno</a><a href="../character-counter/">Kihesabu cha Vibambo</a><a href="../case-converter/">Kibadilishaji cha Hali ya Herufi</a><a href="../password-generator/">Kizalishaji cha Nenosiri</a><a href="../text-to-speech/">Maandishi kwenda Hotuba</a><a href="../speech-to-text/">Hotuba kwenda Maandishi</a></div>
+<div class="col"><h4>Zana Zaidi</h4><a href="../remove-duplicate-lines/">Ondoa Mistari Rudufu</a><a href="../text-compare/">Linganisha Maandishi</a><a href="../lorem-ipsum-generator/">Kizalishaji cha Lorem Ipsum</a><a href="../slug-generator/">Kizalishaji cha Slug</a><a href="../online-notepad/">Dokezo la Mtandaoni</a><a href="../fancy-text-generator/">Kizalishaji cha Maandishi ya Kifahari</a></div>
+<div class="col"><h4>Kisheria</h4>
+<a href="../privacy.html">Sera ya Faragha</a>
+<a href="../terms.html">Masharti ya Matumizi</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools. Zana za maandishi za mtandaoni za bure zinazoendeshwa 100% katika kivinjari chako.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Sakinisha Programu';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Sakinisha programu hii: gusa kitufe cha Shiriki, kisha chagua "Ongeza kwenye Skrini ya Nyumbani".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script>
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='status '+(ok===true?'ok':ok===false?'err':'');}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+"use strict";
+/* Loona AI Detector — signals engine (pure functions, no DOM).
+   Measures six statistical writing signals and reports them as PATTERNS.
+   It never claims to prove authorship and never outputs a "% AI" verdict. */
+
+var ATC_COMMON = ("the of and a an to in is you that it he was for on are as with his they i at be this have from or one had by but not what all were we when your can said there use an each which she do how their if will up other about out many then them these so some her would make like him into time has look two more write go see number no way could people my than first water been call who oil its now find long down day did get come made may part over new sound take only little work know place years live me back give most very after things our just name good sentence man think say great where help through much before line right too means old any same tell boy follow came want show also around form three small set put end does another well large must big even such because turn here why ask went men read need land different home us move try kind hand picture again change off play spell air away animal house point page letter mother answer found study still learn should world high every near add food between own below country plant last school father keep tree never start city earth eyes light thought head under story saw left few while along might close something seem next hard open example begin life always those both paper together got group often run am is were being been has have had do does did would should could ought mr mrs dr st etc vs it its it's don't i'm that's can't won't isn't aren't didn't doesn't").split(/\s+/);
+var ATC_COMMON_SET = {};
+ATC_COMMON.forEach(function (w) { ATC_COMMON_SET[w] = 1; });
+
+function atcClamp(v, lo, hi) { return v < lo ? lo : (v > hi ? hi : v); }
+
+function atcWords(text) {
+  var m = String(text).toLowerCase().match(/[\p{L}\p{N}]+(?:'[\p{L}]+)?/gu);
+  return m || [];
+}
+
+function atcSentences(text) {
+  var clean = String(text).replace(/\s+/g, " ").trim();
+  if (!clean) return [];
+  var parts = clean.match(/[^.!?…]+(?:[.!?…]+["'”’)\]]*)?/g) || [];
+  var out = [];
+  for (var i = 0; i < parts.length; i++) {
+    var s = parts[i].trim();
+    if (s && /[\p{L}\p{N}]/u.test(s)) out.push(s);
+  }
+  return out;
+}
+
+function atcParagraphs(text) {
+  var ps = String(text).split(/\n\s*\n+/), out = [];
+  for (var i = 0; i < ps.length; i++) { var p = ps[i].trim(); if (p) out.push(p); }
+  return out;
+}
+
+function atcMean(a) { var s = 0; for (var i = 0; i < a.length; i++) s += a[i]; return a.length ? s / a.length : 0; }
+function atcCV(a) {
+  if (a.length < 2) return null;
+  var m = atcMean(a), v = 0;
+  for (var i = 0; i < a.length; i++) v += (a[i] - m) * (a[i] - m);
+  var sd = Math.sqrt(v / a.length);
+  return m > 0 ? sd / m : null;
+}
+/* Uniformity mapping shared by burstiness + paragraph signals:
+   CV 0.62 or more (very uneven) -> 0 machine-like; CV 0.15 -> 100. */
+function atcUniformScore(cv) { return Math.round(atcClamp(((0.62 - cv) / 0.47) * 100, 0, 100)); }
+function atcPredictScore(ratio) { return Math.round(atcClamp(((ratio - 0.50) / 0.26) * 100, 0, 100)); }
+
+function atcAnalyze(text) {
+  var words = atcWords(text);
+  var sentences = atcSentences(text);
+  var paras = atcParagraphs(text);
+  var res = { wordCount: words.length, sentenceCount: sentences.length, paragraphCount: paras.length, signals: [], sentencesFlagged: [] };
+  if (words.length < 50) { res.tooShort = true; return res; }
+
+  var sentLens = sentences.map(function (s) { return atcWords(s).length; });
+  var avgSentLen = atcMean(sentLens);
+
+  /* 1 — Sentence rhythm (burstiness) */
+  var cv = atcCV(sentLens);
+  if (cv !== null && sentences.length >= 3) {
+    res.signals.push({ id: "rhythm", name: "Mdundo wa sentensi (burstiness)", weight: 1.2,
+      score: atcUniformScore(cv),
+      value: "Urefu hutofautiana kwa " + Math.round(cv * 100) + "% karibu na wastani (maneno " + avgSentLen.toFixed(1) + ")",
+      explain: "Watu kwa kawaida huchanganya sentensi fupi na ndefu. Vizalishi vya maandishi huwa vinadumisha urefu wa sentensi kuwa sawa zaidi." });
+  }
+
+  /* 2 — Vocabulary diversity (type-token ratio on a fixed window) */
+  var win = words.slice(0, 250), seen = {}, u = 0;
+  win.forEach(function (w) { if (!seen[w]) { seen[w] = 1; u++; } });
+  var ttr = win.length ? u / win.length : 0;
+  res.signals.push({ id: "vocab", name: "Utofauti wa msamiati", weight: 1.0,
+    score: Math.round(atcClamp(((0.74 - ttr) / 0.34) * 100, 0, 100)),
+    value: Math.round(ttr * 100) + "% ya maneno " + win.length + " ya kwanza ni ya kipekee",
+    explain: "Msamiati mpana na wa aina nyingi zaidi ni wa kawaida kwa uandishi wa kibinadamu. Maandishi yaliyozalishwa mara nyingi hutumia tena seti nyembamba ya maneno." });
+
+  /* 3 — Repeated phrases (trigram repetition) */
+  var tri = {}, i, key;
+  for (i = 0; i + 2 < words.length; i++) { key = words[i] + " " + words[i + 1] + " " + words[i + 2]; tri[key] = (tri[key] || 0) + 1; }
+  var covered = {};
+  for (i = 0; i + 2 < words.length; i++) { key = words[i] + " " + words[i + 1] + " " + words[i + 2]; if (tri[key] >= 2) { covered[i] = 1; covered[i + 1] = 1; covered[i + 2] = 1; } }
+  var repRatio = Object.keys(covered).length / words.length;
+  res.signals.push({ id: "repeat", name: "Vifungu vinavyorudiwa", weight: 1.0,
+    score: Math.round(atcClamp((repRatio - 0.015) * 900, 0, 100)),
+    value: Math.round(repRatio * 100) + "% ya maneno yako ndani ya kifungu kinachorudiwa",
+    explain: "Vizalishi mara nyingi hurudia vifungu vile vile vya maneno matatu. Watu pia hurudia maneno muhimu, kwa hiyo hii ni ishara dhaifu ikiwa peke yake." });
+
+  /* 4 — Typical lengths (average sentence length + average word length) */
+  var totalChars = 0; words.forEach(function (w) { totalChars += w.length; });
+  var avgWordLen = totalChars / words.length;
+  var sScore;
+  if (avgSentLen >= 14 && avgSentLen <= 24) sScore = 68 - Math.abs(avgSentLen - 19) * 2;
+  else { var d = avgSentLen < 14 ? 14 - avgSentLen : avgSentLen - 24; sScore = Math.max(0, 58 - d * 6); }
+  var wScore;
+  if (avgWordLen >= 4.3 && avgWordLen <= 5.1) wScore = 62 - Math.abs(avgWordLen - 4.7) * 10;
+  else { var dw = avgWordLen < 4.3 ? 4.3 - avgWordLen : avgWordLen - 5.1; wScore = Math.max(0, 55 - dw * 40); }
+  res.signals.push({ id: "lengths", name: "Urefu wa kawaida", weight: 0.6,
+    score: Math.round((sScore + wScore) / 2),
+    value: "Sentensi ya wastani maneno " + avgSentLen.toFixed(1) + " · neno la wastani herufi " + avgWordLen.toFixed(1),
+    explain: "Maandishi yaliyozalishwa hujikusanya karibu na wastani wa kitabu kwa urefu wa sentensi na neno. Uandishi wa kibinadamu hutanga mbali zaidi na katikati." });
+
+  /* 5 — Predictability (share of very common words) */
+  var common = 0; words.forEach(function (w) { if (ATC_COMMON_SET[w]) common++; });
+  var ratio = common / words.length;
+  res.signals.push({ id: "predict", name: "Utabirifu wa maneno", weight: 1.2,
+    score: atcPredictScore(ratio),
+    value: Math.round(ratio * 100) + "% ya maneno ni kati ya maneno ya kawaida zaidi katika Kiingereza",
+    explain: "Kadiri maandishi yanavyoshikamana na maneno ya kila siku yanayotabirika zaidi, ndivyo yanavyosomeka zaidi ya kimashine. Uandishi rahisi na wazi wa kibinadamu unaweza pia kupata alama za juu hapa." });
+
+  /* 6 — Paragraph uniformity */
+  if (paras.length >= 2) {
+    var paraLens = paras.map(function (p) { return atcWords(p).length; });
+    var pcv = atcCV(paraLens);
+    if (pcv !== null) {
+      /* Few paragraphs = weak evidence: dampen the score (3 paras -> x0.75). */
+      var damp = Math.min(1, paras.length / 4);
+      res.signals.push({ id: "para", name: "Uwiano wa aya", weight: 0.8,
+        score: Math.round(atcUniformScore(pcv) * damp),
+        value: "Aya " + paras.length + ", urefu hutofautiana kwa " + Math.round(pcv * 100) + "%",
+        explain: "Maandishi yaliyozalishwa mara nyingi huja katika aya zenye ukubwa sawa. Waandishi wa kibinadamu huacha aya zingine ziendelee kwa muda mrefu na kukata zingine fupi." });
+    }
+  }
+
+  /* Overall band — weighted average of signal scores */
+  var sw = 0, ss = 0;
+  res.signals.forEach(function (s) { ss += s.score * s.weight; sw += s.weight; });
+  res.overall = sw ? Math.round(ss / sw) : 0;
+  res.band = res.overall < 40 ? "human" : (res.overall > 60 ? "machine" : "mixed");
+
+  /* Reasons — strongest signals in the band's direction */
+  var sorted = res.signals.slice().sort(function (a, b) { return b.score - a.score; });
+  res.reasons = [];
+  if (res.band === "machine") {
+    sorted.forEach(function (s) { if (s.score >= 55 && res.reasons.length < 3) res.reasons.push(s.name + " — ya kimashine: " + s.value.charAt(0).toLowerCase() + s.value.slice(1) + "."); });
+  } else if (res.band === "human") {
+    sorted.slice().reverse().forEach(function (s) { if (s.score <= 45 && res.reasons.length < 3) res.reasons.push(s.name + " — ya kibinadamu: " + s.value.charAt(0).toLowerCase() + s.value.slice(1) + "."); });
+  } else {
+    if (sorted[0]) res.reasons.push("Ishara yenye ufanano zaidi wa kimashine — " + sorted[0].name.toLowerCase() + ": " + sorted[0].value.charAt(0).toLowerCase() + sorted[0].value.slice(1) + ".");
+    var last = sorted[sorted.length - 1];
+    if (last && last !== sorted[0]) res.reasons.push("Ishara yenye ufanano zaidi wa kibinadamu — " + last.name.toLowerCase() + ": " + last.value.charAt(0).toLowerCase() + last.value.slice(1) + ".");
+    res.reasons.push("Ishara hazikubaliani, jambo ambalo ni la kawaida kwa uandishi uliohaririwa, wa rasmi au uliotafsiriwa.");
+  }
+  if (sentences.length < 3) res.reasons.push("Sentensi " + sentences.length + " tu ndizo zilizopatikana, kwa hiyo ishara ya mdundo wa sentensi ilirukwa — chukulia tokeo hili kwa tahadhari zaidi.");
+
+  /* Sentence view — most machine-like sentences */
+  var flagged = [];
+  sentences.forEach(function (s, idx) {
+    var sw2 = atcWords(s); if (!sw2.length) return;
+    var c = 0; sw2.forEach(function (w) { if (ATC_COMMON_SET[w]) c++; });
+    var cr = c / sw2.length;
+    var pred = atcPredictScore(cr);
+    var uni = Math.round((1 - Math.min(1, Math.abs(sw2.length - avgSentLen) / Math.max(avgSentLen, 1))) * 100);
+    var hasRep = false;
+    for (var j = 0; j + 2 < sw2.length; j++) { if (tri[sw2[j] + " " + sw2[j + 1] + " " + sw2[j + 2]] >= 2) { hasRep = true; break; } }
+    var sc = Math.round(0.55 * pred + 0.45 * uni) + (hasRep ? 12 : 0);
+    var why = [];
+    if (cr >= 0.62) why.push("imejengwa karibu kabisa kwa maneno ya kawaida sana, yanayotabirika");
+    if (Math.abs(sw2.length - avgSentLen) <= 2) why.push("urefu wake ni karibu sawa kabisa na sentensi ya wastani ya maandishi");
+    if (hasRep) why.push("inashiriki kifungu kilichorudiwa na maandishi mengine");
+    if (!why.length) why.push("chaguo zake za maneno na urefu viko karibu na wastani wa maandishi");
+    flagged.push({ n: idx + 1, text: s, score: sc, why: why.join("; ") });
+  });
+  flagged.sort(function (a, b) { return b.score - a.score; });
+  res.sentencesFlagged = flagged.filter(function (f) { return f.score >= 45; }).slice(0, 5);
+  return res;
+}
+
+
+
+/* ---------- UI glue ---------- */
+var ATC_SAMPLE = "Katika ulimwengu wa leo wenye mwendo wa kasi, mawasiliano yenye ufanisi ni muhimu zaidi kuliko wakati mwingine wowote. Katika ulimwengu wa leo wenye mwendo wa kasi, biashara lazima ziwasiliane kwa uwazi na kwa uthabiti ili kufikia mafanikio. Mawasiliano yenye ufanisi husaidia timu kufanya kazi pamoja na husaidia makampuni kukua katika soko la ushindani. Aidha, mawasiliano yenye ufanisi hujenga uaminifu kati ya biashara na wateja wao kadri muda unavyopita.\n\nZaidi ya hayo, ni muhimu kutambua kwamba teknolojia ina jukumu muhimu katika mawasiliano ya kisasa. Teknolojia hutoa zana nyingi zinazosaidia watu kushiriki habari haraka na kwa urahisi. Kwa mfano, barua pepe na zana za ujumbe huruhusu timu kuunganika wakati wowote na mahali popote. Matokeo yake, biashara zinaweza kuwajibu wateja haraka zaidi na zinaweza kutatua matatizo kwa ufanisi zaidi.\n\nKwa kumalizia, mawasiliano yenye ufanisi ni muhimu kwa mafanikio katika ulimwengu wa leo wenye mwendo wa kasi. Kwa kutumia zana za kisasa na mikakati iliyo wazi, biashara zinaweza kuboresha kazi ya timu, kujenga uaminifu, na kufikia malengo yao. Mwishoni, mawasiliano imara huwasaidia kila mtu kufanikiwa pamoja katika ulimwengu unaobadilika.";
+
+function atcBandStyle(band) {
+  if (band === "human") return { bg: "#e2f4e5", bd: "#0a6b3c", title: "Mifumo zaidi ya kibinadamu" };
+  if (band === "machine") return { bg: "#fbe3e1", bd: "#b3261e", title: "Mifumo zaidi ya kimashine" };
+  return { bg: "#fff8e1", bd: "#c9a227", title: "Mifumo mchanganyiko" };
+}
+
+function atcRender(r) {
+  var box = document.getElementById("result");
+  if (r.tooShort) {
+    box.innerHTML = '<div class="inshort" style="margin:0"><strong>Fupi mno kusoma mifumo kwa uhakika.</strong> Maandishi haya yana maneno ' + r.wordCount + '. Bandika angalau maneno 50 (takriban sentensi kamili 3-4) - chini ya hapo, ishara ni kelele zaidi, na zana yoyote inayokupa jibu la kujiamini kwa mistari michache inakisia.</div>';
+    box.style.display = "block";
+    return;
+  }
+  var bs = atcBandStyle(r.band);
+  var h = '<div style="background:' + bs.bg + ';border:1.5px solid ' + bs.bd + ';border-radius:12px;padding:16px 18px;margin-bottom:16px">' +
+    '<div style="font-size:1.3rem;font-weight:700;color:var(--teal)">' + bs.title + '</div>' +
+    '<div style="color:#33473f;margin-top:4px">Imesomwa kutoka ishara ' + r.signals.length + ' za uandishi zilizopimwa katika kivinjari chako (maneno ' + r.wordCount + ', sentensi ' + r.sentenceCount + '). Huu ni usomaji wa mtindo, <strong>si ushahidi wa nani aliyeandika maandishi</strong>.</div></div>';
+  if (r.reasons.length) {
+    h += '<h3 style="color:var(--teal);margin:0 0 8px">Kwa nini inasomeka hivi</h3><ul style="padding-left:22px;color:#33473f;margin-bottom:18px">';
+    r.reasons.forEach(function (x) { h += '<li style="margin-bottom:5px">' + escH(x) + '</li>'; });
+    h += '</ul>';
+  }
+  h += '<h3 style="color:var(--teal);margin:0 0 4px">Ishara sita</h3>' +
+    '<div style="display:flex;justify-content:space-between;font-size:.82rem;color:var(--mut);margin-bottom:2px"><span>&larr; Muundo wa kibinadamu</span><span>Muundo wa kimashine &rarr;</span></div>';
+  r.signals.forEach(function (s) {
+    h += '<div style="background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 16px;margin-bottom:10px">' +
+      '<div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap"><strong style="color:var(--teal)">' + escH(s.name) + '</strong><span style="color:#33473f;font-size:.93rem">' + escH(s.value) + '</span></div>' +
+      '<div style="position:relative;background:linear-gradient(90deg,#2e9e6b,#c9a227,#b3261e);border-radius:999px;height:10px;margin:10px 0 8px">' +
+      '<div style="position:absolute;top:-4px;left:calc(' + s.score + '% - 9px);width:18px;height:18px;border-radius:50%;background:#fff;border:3px solid #12211e"></div></div>' +
+      '<p style="color:#33473f;font-size:.93rem;margin:0">' + escH(s.explain) + '</p></div>';
+  });
+  h += '<h3 style="color:var(--teal);margin:18px 0 8px">Sentensi zilizoonekana</h3>';
+  if (r.sentencesFlagged.length) {
+    h += '<p style="color:#33473f;margin-bottom:10px">Sentensi hizi zinaonekana zaidi za kimashine katika maandishi, yenye kuonekana zaidi ikiwa ya kwanza - kila moja ikiwa na sababu ya kuashiriwa kwake. Sentensi iliyoashiriwa ni uchunguzi wa mtindo, si shtaka.</p>';
+    r.sentencesFlagged.forEach(function (f) {
+      h += '<div style="background:#fff;border:1px solid var(--line);border-left:4px solid #c9a227;border-radius:0 12px 12px 0;padding:11px 15px;margin-bottom:9px">' +
+        '<div style="color:#12211e">“' + escH(f.text) + '”</div>' +
+        '<div style="color:var(--mut);font-size:.9rem;margin-top:3px">Sentensi ' + f.n + ' - imeashiriwa kwa sababu ' + escH(f.why) + '.</div></div>';
+    });
+  } else {
+    h += '<p style="color:#33473f">Hakuna sentensi moja iliyoonekana yenye nguvu ya kimashine. Usomaji wa jumla hapo juu unatokana na maandishi kwa ujumla.</p>';
+  }
+  h += '<div class="privacy-note" style="margin:16px 0 0"><strong>Kumbuka:</strong> ishara hizi hueleza mifumo ya mtindo tu - haziwezi kuthibitisha ni nani aliyeandika maandishi haya. Usizitumie kamwe kama msingi pekee wa kumshtaki mtu. Tazama onyo la uaminifu chini ya zana hii.</div>';
+  box.innerHTML = h;
+  box.style.display = "block";
+}
+
+function atcUpdateCounts() {
+  var t = document.getElementById("inp").value;
+  var w = atcWords(t).length, s = atcSentences(t).length;
+  document.getElementById("counts").innerHTML = "maneno " + w + " &middot; sentensi " + s + (w > 0 && w < 50 ? " &middot; ongeza maneno " + (50 - w) + " zaidi kwa ukaguzi kamili" : "");
+}
+
+document.getElementById("inp").addEventListener("input", atcUpdateCounts);
+document.getElementById("bGo").addEventListener("click", function () {
+  var t = document.getElementById("inp").value;
+  var st = document.getElementById("st");
+  if (!t.trim()) { setStatus(st, "Bandika maandishi kwanza - au tumia maandishi ya mfano kuona jinsi kigunduzi kinavyofanya kazi.", false); return; }
+  var r = atcAnalyze(t);
+  atcRender(r);
+  if (r.tooShort) setStatus(st, "Ongeza maandishi zaidi ili kupata usomaji wa ishara.", false);
+  else setStatus(st, "Ukaguzi umekamilika - ishara zimepimwa ndani ya kivinjari chako. Hakuna kilichopakiwa.", true);
+  document.getElementById("result").scrollIntoView({ behavior: "smooth", block: "nearest" });
+});
+document.getElementById("bSample").addEventListener("click", function () {
+  document.getElementById("inp").value = ATC_SAMPLE;
+  atcUpdateCounts();
+  document.getElementById("bGo").click();
+});
+document.getElementById("bClear").addEventListener("click", function () {
+  document.getElementById("inp").value = "";
+  document.getElementById("result").style.display = "none";
+  document.getElementById("result").innerHTML = "";
+  setStatus(document.getElementById("st"), "", null);
+  atcUpdateCounts();
+});
+atcUpdateCounts();
+
+</script>

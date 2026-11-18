@@ -1,0 +1,29 @@
+{
+  "name": "Loona AI Detector",
+  "short_name": "Loona AI Detector",
+  "description": "যেকোনো লেখা পেস্ট করুন এবং AI ডিটেক্টররা যে লেখার সংকেতগুলো মাপে তা দেখুন - বাক্যের ছন্দ, শব্দভাণ্ডারের বৈচিত্র্য, পুনরাবৃত্ত বাক্যাংশ ও পূর্বানুমানযোগ্যতা। বিনামূল্যে AI ডিটেক্টর: সাইন-আপ ছাড়া, রায় ছাড়া, আর আপনার লেখা কখনো আপনার ব্রাউজার ছেড়ে যায় না।",
+  "id": "/loona-text-tools/bn/ai-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
