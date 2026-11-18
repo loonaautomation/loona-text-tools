@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Solver",
+  "short_name": "Crossword Solver",
+  "description": "Решайте шаблоны кроссвордов вроде c?oss?ord по словарю из 172,820 английских слов. Вводите известные буквы, используйте ? для недостающих клеток и фильтруйте по обязательным буквам. Бесплатно, без регистрации, 100% на вашем устройстве.",
+  "id": "/loona-text-tools/ru/crossword-solver/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

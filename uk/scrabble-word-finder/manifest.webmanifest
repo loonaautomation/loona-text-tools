@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Scrabble Word Finder",
+  "description": "Знаходьте ходи з найбільшою кількістю балів із літер на вашій полиці та перевіряйте, чи допустиме будь-яке слово. Повний словник ENABLE на 172,820 слів, підтримка порожніх фішок, 100% на вашому пристрої. Безкоштовно, без реєстрації.",
+  "id": "/loona-text-tools/uk/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

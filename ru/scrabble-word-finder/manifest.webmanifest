@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Scrabble Word Finder",
+  "description": "Находите ходы с наибольшим количеством очков из букв на вашей полке и проверяйте допустимость любого слова. Полный словарь ENABLE на 172,820 слов, поддержка пустых фишек, 100% на вашем устройстве. Бесплатно, без регистрации.",
+  "id": "/loona-text-tools/ru/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

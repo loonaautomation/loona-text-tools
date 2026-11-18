@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "Poskladajte z ľubovoľných písmen skutočné anglické slová pomocou úplného slovníka ENABLE so 172,820 slovami: výsledky zoskupené podľa dĺžky, so skóre Scrabble, filtrami „začína na“, „končí na“ a „obsahuje“ a podporou prázdnych kameňov. Zadarmo, bez registrácie, a vaše písmená nikdy neopustia prehliadač.",
+  "id": "/loona-text-tools/sk/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

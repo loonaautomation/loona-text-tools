@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Scrabble Word Finder",
+  "description": "Najděte tahy s nejvyšším skóre z písmen ve vašem zásobníku a zkontrolujte, zda je slovo platné. Úplný slovník ENABLE se 172,820 slovy, podpora prázdných kamenů, 100% na vašem zařízení. Zdarma, bez registrace.",
+  "id": "/loona-text-tools/cs/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

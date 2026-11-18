@@ -442,4 +442,32 @@
  }
 ,{"n":"Výběr emoji","u":"https://loonaautomation.github.io/loona-text-tools/cs/emoji-picker/","s":"Loona Text Tools","d":"Procházejte nebo vyhledávejte mezi 1,900+ emoji a symboly – kliknutím zkopírujete, s odstíny pleti a zásobníkem pro kopírování.","k":"emoji picker emoji picker prochazejte nebo vyhledavejte mezi 1,900+ emoji a symboly – kliknutim zkopirujete, s odstiny pleti a zasobnikem pro kopirovani.","p":149,"c":"Tool"},
 {"n":"Shrnutí textu","u":"https://loonaautomation.github.io/loona-text-tools/cs/text-summarizer/","s":"Loona Text Tools","d":"Vložte dlouhý článek, esej nebo zprávu a získejte zpět jeho nejdůležitější původní věty. Extraktivní shrnutí ve vašem prohlížeči — nikdy se nenahrává, nikdy se nepřepisuje.","k":"shrnutí textu shrnout text sumarizátor textu generátor shrnutí zkrátit text shrnutí článku shrnutí eseje online shrnovač","p":150,"c":"Tool"},
-{"n":"Loona AI Detector","u":"https://loonaautomation.github.io/loona-text-tools/cs/ai-detector/","s":"Loona Text Tools","d":"Podívejte se na signály psaní, které detektory AI měří – rytmus vět, rozmanitost slovní zásoby, opakující se fráze a předvídatelnost. Poctivé signály, ne verdikt – a váš text nikdy neopustí váš prohlížeč.","k":"detektor ai ai detektor zkontrolovat ai text detektor ai obsahu kontrola ai textu detekce ai psaní loona ai detector","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/cs/wordle-helper/", "s": "Loona Text Tools", "d": "Zadejte své pokusy ve Wordle a klepněte na políčka šedě, žlutě nebo zeleně: uvidíte každou odpověď, která ještě vyhovuje, a nejlepší další pokusy, se správnou logikou pro zdvojená písmena.", "k": "wordle helper pomocník wordle čeština řešitel wordle odpovědi políčka šedá žlutá zelená zdvojená písmena nejlepší další pokusy slovní hra", "p": 152, "c": "Tool"}]
+{"n":"Loona AI Detector","u":"https://loonaautomation.github.io/loona-text-tools/cs/ai-detector/","s":"Loona Text Tools","d":"Podívejte se na signály psaní, které detektory AI měří – rytmus vět, rozmanitost slovní zásoby, opakující se fráze a předvídatelnost. Poctivé signály, ne verdikt – a váš text nikdy neopustí váš prohlížeč.","k":"detektor ai ai detektor zkontrolovat ai text detektor ai obsahu kontrola ai textu detekce ai psaní loona ai detector","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/cs/wordle-helper/", "s": "Loona Text Tools", "d": "Zadejte své pokusy ve Wordle a klepněte na políčka šedě, žlutě nebo zeleně: uvidíte každou odpověď, která ještě vyhovuje, a nejlepší další pokusy, se správnou logikou pro zdvojená písmena.", "k": "wordle helper pomocník wordle čeština řešitel wordle odpovědi políčka šedá žlutá zelená zdvojená písmena nejlepší další pokusy slovní hra", "p": 152, "c": "Tool"},
+ {
+  "n": "Loona Word Unscrambler",
+  "u": "https://loonaautomation.github.io/loona-text-tools/cs/word-unscrambler/",
+  "s": "Loona Text Tools",
+  "d": "Sestavte z pomíchaných písmen skutečná slova z úplného slovníku se 172,820 slovy — seskupená podle délky, se skóre Scrabble a podporou prázdných kamenů.",
+  "k": "rozluštění slov přesmyčka skládání slov z písmen pomoc scrabble word unscrambler loona word unscrambler",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Loona Scrabble Word Finder",
+  "u": "https://loonaautomation.github.io/loona-text-tools/cs/scrabble-word-finder/",
+  "s": "Loona Text Tools",
+  "d": "Najděte tahy s nejvyšším skóre z písmen ve vašem zásobníku, s prázdnými kameny a vzory desky — plus kontrolu slov, která vyřeší každý spor.",
+  "k": "scrabble hledání slov nejlepší tahy písmena kontrola slov skóre scrabble word finder loona scrabble word finder",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Loona Crossword Solver",
+  "u": "https://loonaautomation.github.io/loona-text-tools/cs/crossword-solver/",
+  "s": "Loona Text Tools",
+  "d": "Zadejte písmena, která znáte, ? pro políčka, která neznáte — prohledejte 172,820 slov podle vzoru a dokončete mřížku.",
+  "k": "luštění křížovek pomoc křížovka hledání podle vzoru chybějící písmena crossword solver loona crossword solver",
+  "p": 155,
+  "c": "Tool"
+ }
+]
