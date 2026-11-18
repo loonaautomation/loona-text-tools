@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "Keverjen össze bármely betűket valódi angol szavakká a teljes 172,820 szavas ENABLE szótár használatával - eredmények hossz szerint csoportosítva, Scrabble-pontszámokkal, ezzel kezdődik, ezzel végződik és tartalmaz szűrőkkel, valamint üres lapka támogatással. Ingyenes, regisztráció nélkül, és a betűi soha nem hagyják el a böngészőjét.",
+  "id": "/loona-text-tools/hu/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

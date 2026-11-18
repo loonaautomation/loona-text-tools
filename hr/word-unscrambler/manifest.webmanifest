@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "Složite bilo koja slova u prave engleske riječi koristeći cijeli ENABLE rječnik od 172,820 riječi - rezultati grupirani prema duljini, s bodovima za Scrabble, filtrima počinje s, završava s i sadrži te podrškom za prazne pločice. Besplatno, bez registracije, a vaša slova nikada ne napuštaju vaš preglednik.",
+  "id": "/loona-text-tools/hr/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

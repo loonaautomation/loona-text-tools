@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "Ξεμπερδέψτε οποιαδήποτε γράμματα σε πραγματικές αγγλικές λέξεις χρησιμοποιώντας το πλήρες λεξικό ENABLE των 172,820 λέξεων - αποτελέσματα ομαδοποιημένα κατά μήκος, με βαθμολογίες Scrabble, φίλτρα ξεκινά με, τελειώνει με και περιέχει, καθώς και υποστήριξη κενών πλακιδίων. Δωρεάν, χωρίς εγγραφή, και τα γράμματά σας δεν φεύγουν ποτέ από το πρόγραμμα περιήγησής σας.",
+  "id": "/loona-text-tools/el/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
