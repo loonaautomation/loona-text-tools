@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loona Wordle Helper 在线版 - 找到每一个仍然符合的单词 | Loona Text Tools</title>
+<meta name="description" content="输入你的 Wordle 猜测，把方块点成灰色、黄色或绿色：这个免费小助手会显示每一个仍然符合的答案和最佳的下一次猜测。重复字母逻辑正确，无需注册，一切都在你的浏览器中运行。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-text-tools/wordle-helper/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-text-tools/es/wordle-helper/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-text-tools/de/wordle-helper/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-text-tools/fr/wordle-helper/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-text-tools/pt/wordle-helper/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-text-tools/it/wordle-helper/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-text-tools/nl/wordle-helper/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-text-tools/ar/wordle-helper/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-text-tools/ur/wordle-helper/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-text-tools/tr/wordle-helper/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-text-tools/ru/wordle-helper/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-text-tools/id/wordle-helper/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-text-tools/wordle-helper/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Text Tools">
+<meta property="og:title" content="Loona Wordle Helper 在线版 - 找到每一个仍然符合的单词 | Loona Text Tools">
+<meta property="og:description" content="输入你的 Wordle 猜测，把方块点成灰色、黄色或绿色：这个免费小助手会显示每一个仍然符合的答案和最佳的下一次猜测。重复字母逻辑正确，无需注册，一切都在你的浏览器中运行。">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/"><meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Loona Wordle Helper 在线版 - 找到每一个仍然符合的单词 | Loona Text Tools">
+<meta name="twitter:description" content="输入你的 Wordle 猜测，把方块点成灰色、黄色或绿色：这个免费小助手会显示每一个仍然符合的答案和最佳的下一次猜测。重复字母逻辑正确，无需注册，一切都在你的浏览器中运行。">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+.tile{width:52px;height:52px;border:2px solid #cfc9ae;border-radius:10px;background:#fff;font-size:1.45rem;font-weight:800;color:var(--ink);cursor:pointer;text-transform:uppercase;line-height:1;padding:0}
+.tile.grey{background:#787c7e;border-color:#787c7e;color:#fff}
+.tile.yellow{background:#c9b458;border-color:#c9b458;color:#fff}
+.tile.green{background:#6aaa64;border-color:#6aaa64;color:#fff}
+.tiles{display:flex;gap:6px;flex-wrap:nowrap}
+.wrow{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:14px;background:#faf8ef;border:1px solid var(--line);border-radius:12px;padding:12px}
+.wrow input{width:118px;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:1.05rem;font-weight:700;text-transform:uppercase;letter-spacing:2px;background:#fff;font-family:inherit}
+.wdel{background:#fff;border:1.5px solid #b3261e;color:#b3261e;border-radius:9px;padding:7px 11px;cursor:pointer;font-weight:700}
+.cand{display:inline-block;background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:700;padding:6px 12px;border-radius:999px;font-size:.92rem;margin:0 6px 8px 0;letter-spacing:1px}
+.best{display:inline-block;background:var(--teal);color:#fff;font-weight:800;padding:9px 16px;border-radius:999px;font-size:1.02rem;margin:0 8px 10px 0;letter-spacing:1.5px}
+@media(max-width:640px){.tile{width:46px;height:46px;font-size:1.25rem}.wrow input{width:104px}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Loona Wordle Helper", "url": "https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/", "description": "输入你的 Wordle 猜测，把方块点成灰色、黄色或绿色：这个免费小助手会显示每一个仍然符合的答案和最佳的下一次猜测。重复字母逻辑正确，无需注册，一切都在你的浏览器中运行。", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "需要 JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://loonaautomation.github.io/loona-text-tools/zh/"}, {"@type": "ListItem", "position": 2, "name": "文本工具", "item": "https://loonaautomation.github.io/loona-text-tools/zh/"}, {"@type": "ListItem", "position": 3, "name": "Loona Wordle Helper", "item": "https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Loona Wordle Helper 免费吗？", "acceptedAnswer": {"@type": "Answer", "text": "是的：完全免费，无限使用，无需注册，无需下载。整个助手都在你的浏览器中运行，所以每次求解对我们也没有成本。"}}, {"@type": "Question", "name": "我该如何使用这个 Wordle 助手？", "acceptedAnswer": {"@type": "Answer", "text": "输入一个你已经玩过的猜测，然后逐个点击方块，直到它的颜色与游戏一致：灰色、黄色或绿色。每次猜测再加一行。可能的答案列表和最佳下一次猜测会在你输入和点击时实时更新。"}}, {"@type": "Question", "name": "它能正确处理重复字母吗？", "acceptedAnswer": {"@type": "Answer", "text": "能：这是 Wordle 逻辑中最难的部分，而这个助手正是为此而造。如果一个字母在一个方块中是绿色或黄色、在另一个方块中是灰色，灰色方块会限制数量：答案中该字母的份数恰好等于绿色和黄色方块所显示的份数。只有灰色的字母根本不在答案中。"}}, {"@type": "Question", "name": "使用它算在 Wordle 中作弊吗？", "acceptedAnswer": {"@type": "Answer", "text": "这取决于你和你的良心，以及与你分享分数的人。许多玩家只在真正卡住时才使用助手，或者在游戏结束后检查某个词为什么符合或不符合。助手从不查找今天的答案；它只是根据你输入的猜测缩小列表。"}}, {"@type": "Question", "name": "它使用哪个词表？", "acceptedAnswer": {"@type": "Answer", "text": "它使用标准的英语 Wordle 词表：约 2,315 个可以成为每日答案的常见词，外加约 10,657 个游戏接受为猜测的额外词。可能的答案只从答案词表中选取。词表是英语的，用于英语每日谜题。"}}, {"@type": "Question", "name": "我输入的内容会被上传或保存吗？", "acceptedAnswer": {"@type": "Answer", "text": "不会。你的猜测完全在浏览器中用 JavaScript 处理。没有任何内容被上传、保存或被我们看到：关闭标签页，一切都会消失。"}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automation 标志">Loona <span>文本工具</span></a>
+<nav class="main">
+<a href="../">首页</a>
+<a href="../word-counter/">单词计数器</a>
+<a href="../case-converter/">大小写转换器</a>
+<a href="../text-to-speech/">文字转语音</a>
+<a href="../password-generator/">密码生成器</a>
+<a href="../about.html">关于</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">首页</a> &rsaquo; <a href="../#tools">文本工具</a> &rsaquo; Loona Wordle Helper</div>
+<main class="page">
+<h1 class="tool">Loona Wordle Helper</h1>
+<div class="inshort"><strong>简而言之：</strong> 输入你已经玩过的每一个猜测，点击其方块以匹配游戏给出的颜色（灰色、黄色或绿色），这个助手会立即显示每一个仍然符合的英语答案，以及最佳的五次下一次猜测。重复字母的处理方式与 Wordle 完全相同。</div>
+<p class="lede">被今天的谜题难住了吗？这个助手不会查找答案，也从不偷看今天的词。它只是替你做繁重的记账工作：你所有猜测中的每一个绿色、黄色和灰色方块都变成一条规则，只有遵守每一条规则的词才能留下来。</p>
+<div class="panel">
+<div id="rows"></div>
+<div class="row"><button class="btn" id="bAdd">+ 添加一行猜测</button><button class="btn ghost" id="bExample">试试示例</button><button class="btn ghost" id="bClear">全部清除</button></div>
+<p style="color:var(--mut);font-size:.93rem">点击方块可循环切换颜色：灰色 → 黄色 → 绿色。最多可添加 6 行，每次猜测一行。</p>
+<div id="best" style="margin-top:18px"></div>
+<div id="results" style="margin-top:8px"></div>
+<div class="status" id="st"></div>
+</div>
+<div class="privacy-note"><strong>从设计上保护隐私：</strong> 这个工具中的一切都 100% 在你的浏览器中用 JavaScript 完成。你的猜测从不上传到服务器，从不保存，也从不被我们看到：关闭标签页，一切都会消失。</div>
+<section class="block"><h2>关于这个助手的诚实说明</h2>
+<p><strong>这个助手永远不知道今天的答案。</strong>它只根据你输入的猜测和颜色工作，用逻辑缩小标准的英语答案列表。如果你想自己解开谜题，只在真正卡住时使用它，或者在游戏结束后用它查看哪些词当时仍有可能。</p>
+<p><strong>词表是英语的。</strong>它们是英语每日游戏使用的词表：约 2,315 个可以成为答案的常见词，以及约 10,657 个被接受为猜测的额外词。其他语言使用不同的词表，所以这个助手是为英语谜题准备的。</p></section>
+<section class="block"><h2>如何使用 Loona Wordle Helper</h2><ol><li>在一行中输入一个你已经玩过的猜测，或添加行以覆盖最多全部六次猜测。</li><li>逐个点击方块，直到它的颜色与游戏一致：灰色表示字母不在词中，黄色表示字母在词中但位置不对，绿色表示正确位置上的正确字母。</li><li>实时查看结果：最佳下一次猜测先显示，其后是每一个仍然符合的答案，按字母频率排序。</li><li>如果列表突然变空，说明某处的颜色或字母错了：重新检查改变它的那一行。</li></ol></section>
+<section class="block"><h2>工作原理</h2><p>每个方块都变成一条规则，所有行在测试任何单词之前先合并。<strong>绿色</strong>方块将其字母固定在确切位置。<strong>黄色</strong>方块表示字母在词中，但不在该位置。<strong>灰色</strong>方块决定其字母的数量。</p><p><strong>重复字母——大多数助手都会出错的部分：</strong>对每个字母，统计它在你所有行中的绿色和黄色方块。如果该字母还有灰色方块，答案中包含的份数<em>恰好</em>是那个数：一个绿色 E 加一个灰色 E 意味着恰好一个 E，绝不是两个。如果该字母没有灰色方块，答案中包含的份数<em>至少</em>是那个数：两个黄色 E 意味着两个或更多。只有灰色方块的字母根本不在答案中。</p><h3>完整示例</h3><p>打出 SPEED，得到灰色、灰色、灰色、绿色、灰色。绿色方块将 E 固定在第 4 位，第二个灰色的 E 将总数限制为恰好一个 E，而 S、P 和 D 被完全排除。再加上全部灰色的 ROBOT，R、O、B 和 T 也被排除，留下一个短得多的列表，其中每个词恰好有一个 E、在第四位：像 HAVEN 和 CAMEL 这样的词，助手会实时显示给你。</p></section>
+<section class="block"><h2>常见问题</h2><details class="faq"><summary>Loona Wordle Helper 免费吗？</summary><p>是的：完全免费，无限使用，无需注册，无需下载。整个助手都在你的浏览器中运行，所以每次求解对我们也没有成本。</p></details><details class="faq"><summary>我该如何使用这个 Wordle 助手？</summary><p>输入一个你已经玩过的猜测，然后逐个点击方块，直到它的颜色与游戏一致：灰色、黄色或绿色。每次猜测再加一行。可能的答案列表和最佳下一次猜测会在你输入和点击时实时更新。</p></details><details class="faq"><summary>它能正确处理重复字母吗？</summary><p>能：这是 Wordle 逻辑中最难的部分，而这个助手正是为此而造。如果一个字母在一个方块中是绿色或黄色、在另一个方块中是灰色，灰色方块会限制数量：答案中该字母的份数恰好等于绿色和黄色方块所显示的份数。只有灰色的字母根本不在答案中。</p></details><details class="faq"><summary>使用它算在 Wordle 中作弊吗？</summary><p>这取决于你和你的良心，以及与你分享分数的人。许多玩家只在真正卡住时才使用助手，或者在游戏结束后检查某个词为什么符合或不符合。助手从不查找今天的答案；它只是根据你输入的猜测缩小列表。</p></details><details class="faq"><summary>它使用哪个词表？</summary><p>它使用标准的英语 Wordle 词表：约 2,315 个可以成为每日答案的常见词，外加约 10,657 个游戏接受为猜测的额外词。可能的答案只从答案词表中选取。词表是英语的，用于英语每日谜题。</p></details><details class="faq"><summary>我输入的内容会被上传或保存吗？</summary><p>不会。你的猜测完全在浏览器中用 JavaScript 处理。没有任何内容被上传、保存或被我们看到：关闭标签页，一切都会消失。</p></details></section>
+<section class="block"><h2>相关文本工具</h2><div class="grid"><a class="card" href="../anagram-generator/"><div class="ic">🔀</div><h3>变位词生成器</h3><p>查找藏在您字母中的真正单词,并即时测试变位词对。</p></a><a class="card" href="../palindrome-checker/"><div class="ic">🪞</div><h3>回文检查器</h3><p>它正读反读一样吗?检查单词、数字和整句话。</p></a><a class="card" href="../word-counter/"><div class="ic">🔢</div><h3>单词计数器</h3><p>单词、字符、句子、段落和阅读时间——在您输入时实时计数。</p></a><a class="card" href="../word-frequency/"><div class="ic">📊</div><h3>词频统计</h3><p>您最常用的单词排名表,带有计数和百分比。</p></a></div></section>
+
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">把这个工具嵌入您的网站 — 免费</h2>
+<p style="margin:0 0 12px;line-height:1.6">把这个工具添加到您自己的网站或博客——完全免费,无需注册,并且始终显示最新版本。复制下方代码,粘贴到您页面中希望工具出现的位置。在嵌入下方保留小小的 &ldquo;Powered by Loona Automation&rdquo; 署名行有助于让这个工具保持免费——但您可以自由地设置样式或删除它;无论哪种方式工具都能工作。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free Loona Wordle Helper"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;由 &lt;a href="https://loonaautomation.github.io/loona-text-tools/zh/wordle-helper/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 免费 Loona Wordle Helper&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">复制嵌入代码</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent="已复制!";setTimeout(function(){b.textContent="复制嵌入代码";},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Text Tools</h4>
+<a href="../">所有文本工具</a>
+<a href="../about.html">关于我们</a>
+<a href="../contact.html">联系</a></div>
+<div class="col"><h4>热门工具</h4><a href="../word-counter/">单词计数器</a><a href="../character-counter/">字符计数器</a><a href="../case-converter/">大小写转换器</a><a href="../password-generator/">密码生成器</a><a href="../text-to-speech/">文字转语音</a><a href="../speech-to-text/">语音转文字</a></div>
+<div class="col"><h4>更多工具</h4><a href="../remove-duplicate-lines/">删除重复行</a><a href="../text-compare/">文本对比</a><a href="../lorem-ipsum-generator/">Lorem Ipsum 生成器</a><a href="../slug-generator/">Slug 生成器</a><a href="../online-notepad/">在线记事本</a><a href="../fancy-text-generator/">花式文本生成器</a></div>
+<div class="col"><h4>法律</h4>
+<a href="../privacy.html">隐私政策</a>
+<a href="../terms.html">使用条款</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools。在浏览器中 100% 运行的免费在线文本工具。</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 安装应用';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('安装此应用:轻点分享按钮,然后选择 "添加到主屏幕"。');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+<script src="words.js"></script>
+<script>
+"use strict";
+/* Loona Wordle Helper — solver (pure functions, no DOM, no network).
+   window.wordleSolve(rows) -> ranked array of candidate words (UPPERCASE strings).
+   rows = [{word:"CRANE", colors:["grey","yellow","grey","grey","green"]}, ...]
+   Colour names accepted: "grey"/"gray"/"absent", "yellow"/"present", "green"/"correct".
+   Rules (applied across ALL rows together, exactly as specified):
+   - Green: letter fixed at that position.
+   - Yellow: letter is in the word, NOT at that position.
+   - For each letter L: k = total green+yellow tiles of L across all rows.
+     If L has any grey tile, the word contains EXACTLY k copies of L (k=0 => absent).
+     If L has no grey tile, the word contains AT LEAST k copies of L.
+   Candidates come from the ANSWERS list and are ranked by letter frequency
+   over the current candidate set (each distinct letter counted once per word). */
+function wordleNormColor(c) {
+  c = String(c == null ? "" : c).toLowerCase().trim();
+  if (c === "green" || c === "correct" || c === "present-green") return "green";
+  if (c === "yellow" || c === "present") return "yellow";
+  if (c === "grey" || c === "gray" || c === "absent" || c === "black") return "grey";
+  return c;
+}
+function wordleSolve(rows, answersOpt) {
+  var answers = answersOpt || (typeof window !== "undefined" && window.WORDLE_ANSWERS) || (typeof WORDLE_ANSWERS !== "undefined" ? WORDLE_ANSWERS : []);
+  var fixed = [null, null, null, null, null];
+  var notAt = [{}, {}, {}, {}, {}];
+  var totalGY = {};
+  var hasGrey = {};
+  var seen = {};
+  var conflict = false;
+  (Array.isArray(rows) ? rows : []).forEach(function (row) {
+    if (!row) return;
+    var w = String(row.word || row.guess || "").toUpperCase().replace(/[^A-Z]/g, "");
+    var cols = row.colors || row.colours || row.feedback || [];
+    if (w.length !== 5 || !Array.isArray(cols) || cols.length !== 5) return;
+    for (var i = 0; i < 5; i++) {
+      var L = w.charAt(i), c = wordleNormColor(cols[i]);
+      seen[L] = true;
+      if (c === "green") {
+        if (fixed[i] && fixed[i] !== L) conflict = true;
+        fixed[i] = L;
+        totalGY[L] = (totalGY[L] || 0) + 1;
+      } else if (c === "yellow") {
+        notAt[i][L] = true;
+        totalGY[L] = (totalGY[L] || 0) + 1;
+      } else if (c === "grey") {
+        hasGrey[L] = true;
+        if (!(L in totalGY)) totalGY[L] = 0;
+      }
+    }
+  });
+  if (conflict) return [];
+  var candidates = [];
+  for (var a = 0; a < answers.length; a++) {
+    var cand = String(answers[a]).toUpperCase();
+    if (cand.length !== 5) continue;
+    var ok = true;
+    for (var p = 0; p < 5 && ok; p++) {
+      if (fixed[p] && cand.charAt(p) !== fixed[p]) ok = false;
+      else if (notAt[p][cand.charAt(p)]) ok = false;
+    }
+    if (!ok) continue;
+    var counts = {};
+    for (var q = 0; q < 5; q++) counts[cand.charAt(q)] = (counts[cand.charAt(q)] || 0) + 1;
+    for (var L2 in seen) {
+      var cnt = counts[L2] || 0, k = totalGY[L2] || 0;
+      if (hasGrey[L2]) { if (cnt !== k) { ok = false; break; } }
+      else if (cnt < k) { ok = false; break; }
+    }
+    if (ok) candidates.push(cand);
+  }
+  /* Rank: letter frequency over candidate set, distinct letter once per word. */
+  var freq = {};
+  candidates.forEach(function (w) {
+    var uniq = {};
+    for (var i = 0; i < 5; i++) uniq[w.charAt(i)] = true;
+    for (var L in uniq) freq[L] = (freq[L] || 0) + 1;
+  });
+  var scored = candidates.map(function (w) {
+    var uniq = {}, s = 0;
+    for (var i = 0; i < 5; i++) uniq[w.charAt(i)] = true;
+    for (var L in uniq) s += freq[L] || 0;
+    return { w: w, s: s };
+  });
+  scored.sort(function (x, y) { return y.s - x.s || (x.w < y.w ? -1 : x.w > y.w ? 1 : 0); });
+  return scored.map(function (x) { return x.w; });
+}
+if (typeof window !== "undefined") window.wordleSolve = wordleSolve;
+if (typeof module !== "undefined" && module.exports) module.exports = { wordleSolve: wordleSolve, wordleNormColor: wordleNormColor };
+
+</script>
+<script>
+
+const $=s=>document.querySelector(s);
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+var CYCLE=['grey','yellow','green'];
+var rowsEl=document.getElementById('rows');
+function solveNow(){
+  var rows=[];
+  rowsEl.querySelectorAll('.wrow').forEach(function(r){
+    var w=r.querySelector('.wword').value.toUpperCase().replace(/[^A-Z]/g,'');
+    var cols=[]; r.querySelectorAll('.tile').forEach(function(t){cols.push(t.dataset.color);});
+    if(w.length===5) rows.push({word:w,colors:cols});
+  });
+  var out=[];
+  try{ out=window.wordleSolve(rows); }catch(e){ out=[]; }
+  var best=document.getElementById('best'), res=document.getElementById('results'), st=document.getElementById('st');
+  if(!out.length){ best.innerHTML=''; res.innerHTML="<p style=\"color:#b3261e;font-weight:600\">没有英语答案符合这些方块。检查是否有字母输入错误，或颜色与游戏不一致：一个错误的颜色就能让列表变空。</p>"; st.textContent=''; return; }
+  best.innerHTML="<h3 style=\"color:var(--teal);margin:0 0 10px\">最佳下一次猜测</h3>"+out.slice(0,5).map(function(w){return '<span class="best">'+escH(w)+'</span>';}).join('');
+  var show=out.slice(0,100);
+  res.innerHTML='<p style="color:#33473f;margin:6px 0 10px">'+(out.length===1?"<strong>{n}</strong> 个可能的答案仍然符合。":"<strong>{n}</strong> 个可能的答案仍然符合。").split('{n}').join(out.length)+(out.length>100?" 显示前 100 个，按字母频率排序。":" 按字母频率排序。")+'</p>'+show.map(function(w){return '<span class="cand">'+escH(w)+'</span>';}).join('');
+  st.textContent= rows.length? (rows.length===1?"已根据 {n} 行猜测实时更新。":"已根据 {n} 行猜测实时更新。").split('{n}').join(rows.length) : "尚未输入任何猜测：这些是强有力的开局猜测。";
+}
+function addRow(word,colors){
+  if(rowsEl.querySelectorAll('.wrow').length>=6) return;
+  colors=colors||['grey','grey','grey','grey','grey'];
+  var div=document.createElement('div'); div.className='wrow';
+  var inp=document.createElement('input'); inp.className='wword'; inp.maxLength=5; inp.placeholder='GUESS'; inp.setAttribute('aria-label',"猜测词"); inp.autocomplete='off'; inp.spellcheck=false; inp.value=word||'';
+  var tiles=document.createElement('div'); tiles.className='tiles';
+  for(var i=0;i<5;i++){ (function(idx){
+    var b=document.createElement('button'); b.type='button'; b.className='tile '+colors[idx]; b.dataset.color=colors[idx]; b.textContent=(word&&word[idx])?word[idx]:''; b.setAttribute('aria-label',"方块 "+(idx+1)+"，点击更改颜色");
+    b.addEventListener('click',function(){ var cur=CYCLE.indexOf(b.dataset.color); var nxt=CYCLE[(cur+1)%3]; b.dataset.color=nxt; b.className='tile '+nxt; solveNow(); });
+    tiles.appendChild(b);
+  })(i); }
+  var del=document.createElement('button'); del.type='button'; del.className='wdel'; del.textContent="删除";
+  del.addEventListener('click',function(){ div.remove(); if(!rowsEl.querySelectorAll('.wrow').length) addRow(); solveNow(); });
+  inp.addEventListener('input',function(){ inp.value=inp.value.toUpperCase().replace(/[^A-Z]/g,'').slice(0,5); var bs=tiles.querySelectorAll('.tile'); bs.forEach(function(t,j){ t.textContent=inp.value[j]||''; }); solveNow(); });
+  div.appendChild(inp); div.appendChild(tiles); div.appendChild(del); rowsEl.appendChild(div);
+}
+document.getElementById('bAdd').addEventListener('click',function(){ addRow(); var rs=rowsEl.querySelectorAll('.wword'); if(rs.length) rs[rs.length-1].focus(); });
+document.getElementById('bClear').addEventListener('click',function(){ rowsEl.innerHTML=''; addRow(); solveNow(); });
+document.getElementById('bExample').addEventListener('click',function(){ rowsEl.innerHTML=''; addRow('SPEED',['grey','grey','grey','green','grey']); solveNow(); });
+addRow(); solveNow();
+
+</script>
+</body>
+</html>
