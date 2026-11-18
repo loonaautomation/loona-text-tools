@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wordle Helper",
+  "short_name": "Loona Wordle Helper",
+  "description": "अपने Wordle अनुमान लिखें और टाइलों को धूसर, पीला या हरा टैप करें: यह मुफ़्त सहायक आपको हर वह उत्तर दिखाता है जो अभी भी फिट बैठता है और सर्वोत्तम अगले अनुमान। दोहरे अक्षरों के लिए सही तर्क, कोई साइन-अप नहीं, और सब कुछ आपके ब्राउज़र में चलता है।",
+  "id": "/loona-text-tools/hi/wordle-helper/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
