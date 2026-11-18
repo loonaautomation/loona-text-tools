@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wordle Helper",
+  "short_name": "Loona Wordle Helper",
+  "description": "Introdu încercările tale de Wordle și atinge căsuțele în gri, galben sau verde: acest ajutor gratuit îți arată fiecare răspuns care încă se potrivește și cele mai bune încercări următoare. Logică corectă pentru literele duble, fără înregistrare, și totul rulează în browserul tău.",
+  "id": "/loona-text-tools/ro/wordle-helper/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
