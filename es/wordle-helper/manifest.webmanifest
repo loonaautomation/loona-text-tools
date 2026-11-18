@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wordle Helper",
+  "short_name": "Loona Wordle Helper",
+  "description": "Escribe tus intentos de Wordle y toca las casillas en gris, amarillo o verde: este ayudante gratuito te muestra cada respuesta que aún encaja y los mejores intentos siguientes. Lógica correcta con letras repetidas, sin registro, y todo funciona en tu navegador.",
+  "id": "/loona-text-tools/es/wordle-helper/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
