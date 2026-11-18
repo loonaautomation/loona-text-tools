@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Solver",
+  "short_name": "Crossword Solver",
+  "description": "c?oss?ord와 같은 크로스워드 패턴을 172,820개의 영어 단어에 대해 풀어보세요. 아는 글자를 입력하고, 부족한 칸에는 ? 를 사용하며, 반드시 포함할 글자로 필터링하세요. 무료, 가입 불필요, 100% 기기에서 실행.",
+  "id": "/loona-text-tools/ko/crossword-solver/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

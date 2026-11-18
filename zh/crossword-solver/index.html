@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loona Crossword Solver - 按模式查找单词 | Loona Text Tools</title>
+<meta name="description" content="用 172,820 个英语单词解决像 c?oss?ord 这样的纵横字谜模式。输入您知道的字母，用 ? 表示缺失的方格，按必须包含的字母过滤。免费，无需注册，100% 在设备上运行。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-text-tools/crossword-solver/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-text-tools/es/crossword-solver/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-text-tools/de/crossword-solver/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-text-tools/fr/crossword-solver/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-text-tools/pt/crossword-solver/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-text-tools/it/crossword-solver/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-text-tools/nl/crossword-solver/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-text-tools/ar/crossword-solver/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-text-tools/ur/crossword-solver/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-text-tools/tr/crossword-solver/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-text-tools/ru/crossword-solver/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-text-tools/id/crossword-solver/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-text-tools/crossword-solver/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Text Tools">
+<meta property="og:title" content="Loona Crossword Solver - 按模式查找单词 | Loona Text Tools">
+<meta property="og:description" content="用 172,820 个英语单词解决像 c?oss?ord 这样的纵横字谜模式。输入您知道的字母，用 ? 表示缺失的方格，按必须包含的字母过滤。免费，无需注册，100% 在设备上运行。">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/"><meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Loona Crossword Solver - 按模式查找单词 | Loona Text Tools">
+<meta name="twitter:description" content="用 172,820 个英语单词解决像 c?oss?ord 这样的纵横字谜模式。输入您知道的字母，用 ? 表示缺失的方格，按必须包含的字母过滤。免费，无需注册，100% 在设备上运行。">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-text-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+.resgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:9px;margin-top:14px}
+.resitem{display:flex;align-items:center;justify-content:space-between;gap:8px;background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-weight:600;color:var(--teal);text-transform:uppercase;letter-spacing:.03em}
+.scorebadge{background:var(--teal);color:#fff;border-radius:999px;padding:2px 10px;font-size:.82rem;font-weight:700;white-space:nowrap}
+.verdict{border-radius:12px;padding:14px 16px;margin-top:14px;font-size:1.05rem;display:none}
+.verdict.ok{display:block;background:#e2f4e5;border:1.5px solid #0a6b3c;color:#14532d}
+.verdict.bad{display:block;background:#fbe3e1;border:1.5px solid #b3261e;color:#7a1a14}
+.panel h2{color:var(--teal);font-size:1.3rem;margin-bottom:6px}
+.panel .hint{color:var(--mut);font-size:.9rem;margin-top:4px}
+.wordlist{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.wordlist span{background:#faf8ef;border:1px solid var(--line);border-radius:999px;padding:5px 14px;font-weight:600;color:var(--teal);text-transform:uppercase;letter-spacing:.03em;font-size:.93rem}
+.lenrow{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0 4px}
+.lenrow .btn.ghost.active{background:var(--teal);color:#fff}
+.grouplabel{color:var(--teal);margin:16px 0 2px;font-size:1.05rem}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Loona Crossword Solver", "url": "https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/", "description": "用 172,820 个英语单词解决像 c?oss?ord 这样的纵横字谜模式。输入您知道的字母，用 ? 表示缺失的方格，按必须包含的字母过滤。免费，无需注册，100% 在设备上运行。", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Loona Automation", "url": "https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://loonaautomation.github.io/loona-text-tools/zh/"}, {"@type": "ListItem", "position": 2, "name": "文本工具", "item": "https://loonaautomation.github.io/loona-text-tools/zh/"}, {"@type": "ListItem", "position": 3, "name": "Loona Crossword Solver", "item": "https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "纵横字谜求解器中的通配符如何工作？", "acceptedAnswer": {"@type": "Answer", "text": "为您还不知道的每个方格输入 ? - 它代表任何单个字母。模式的长度就是答案的长度，因此 c?oss?ord 长九个方格，与 CROSSWORD 完全匹配：您输入的字母位于第 1、3、4、5、7、8 和 9 个方格，两个 ? 方格由第 2 格的 R 和第 6 格的 W 填补。已知字母必须完全匹配；只有 ? 方格是自由的。"}}, {"@type": "Question", "name": "求解器搜索什么词典？", "acceptedAnswer": {"@type": "Answer", "text": "ENABLE 单词表 - 172,820 个公共领域的英语单词，长期被单词游戏和纵横字谜软件使用。每个模式都在您自己的设备上针对该完整列表进行搜索。"}}, {"@type": "Question", "name": "支持哪些单词长度？", "acceptedAnswer": {"@type": "Answer", "text": "从 2 到 28 个字母的模式 - 词典的完整范围。快捷按钮涵盖最常见的纵横字谜长度，即 3 到 12 个字母；对于更长的，只需用 ? 表示未知方格，输入完整模式即可。"}}, {"@type": "Question", "name": "必须包含过滤器有什么作用？", "acceptedAnswer": {"@type": "Answer", "text": "它将结果缩小到在单词的某个位置、任何位置包含您列出的每个字母的单词。当一条交叉答案已经给了您一个也必须出现在这条答案中的字母时，它非常方便 - 例如，在模式 s?????t 之上再要求一个 S 和一个 T。"}}, {"@type": "Question", "name": "我的模式会被上传或存储吗？", "acceptedAnswer": {"@type": "Answer", "text": "不会。词典会加载到您的浏览器中，每次搜索都 100% 在您的设备上运行。您的模式永远不会被上传到服务器，永远不会被存储，我们也永远看不到 - 关闭标签页，一切都消失了。"}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+<script src="../../lib/word-engine.js"></script>
+</head>
+
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automation 标志">Loona <span>文本工具</span></a>
+<nav class="main">
+<a href="../">首页</a>
+<a href="../word-counter/">单词计数器</a>
+<a href="../case-converter/">大小写转换器</a>
+<a href="../text-to-speech/">文字转语音</a>
+<a href="../password-generator/">密码生成器</a>
+<a href="../about.html">关于</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">首页</a> &rsaquo; <a href="../#tools">文本工具</a> &rsaquo; Loona Crossword Solver</div>
+<main class="page">
+<h1 class="tool">Loona Crossword Solver</h1>
+<div class="inshort"><strong>简而言之：</strong>输入您已有的字母，在每个空方格中放入 <strong>?</strong> - 如 <strong>c?oss?ord</strong> - 这个求解器会在 ENABLE 词典的全部 172,820 个单词中搜索每一个合适的答案。添加必须包含的字母，进一步缩小列表范围。免费，无需注册，100% 在设备上运行。</div>
+<p class="lede">每个纵横字谜都有那么一个答案，缺了三个字母，线索又可以是任何意思。与其猜测，不如把答案的形状给求解器：您确定的字母，放在它们的方格里，其他每个地方都放一个问号。它会在眨眼间检查完整的 172,820 词词典，并列出每一个合适的单词 - 通常是一个短列表，而且答案常常就在列表的最上方盯着您。</p>
+<div class="panel">
+<h2>解决一个模式</h2>
+<p style="color:#33473f">输入已知字母，未知方格使用 <strong>?</strong> - 例如 <strong>c?oss?ord</strong>。或者点击一个长度按钮，从该长度的空白模式开始，然后替换您知道的方格。</p>
+<div class="field" style="margin-top:12px"><label for="patInp">模式</label><input type="text" id="patInp" maxlength="28" placeholder="例如 c?oss?ord" autocomplete="off" autocapitalize="none" spellcheck="false"></div>
+<div class="lenrow" id="lenRow" role="group" aria-label="快速模式长度"></div>
+<div class="field" style="margin-top:10px"><label for="containsInp">必须包含的字母（可选）</label><input type="text" id="containsInp" maxlength="28" placeholder="例如 st - 答案必须在某处包含所有这些字母" autocomplete="off" autocapitalize="none" spellcheck="false"><p class="hint" style="color:var(--mut);font-size:.9rem;margin-top:4px">您在这里输入的每个字母都必须出现在答案中，位置任意。留空则仅按模式搜索。</p></div>
+<div class="row"><button class="btn" id="bSearch">搜索</button><button class="btn ghost" id="bClear">清除</button></div>
+<div class="status" id="resCount"></div>
+<div id="results"></div>
+<div class="status" id="st"></div>
+</div>
+<div class="privacy-note"><strong>天生私密：</strong>这个工具中的一切都 100% 通过 JavaScript 在您的浏览器中进行。词典只会加载到您的设备上一次，您的模式永远不会被上传到服务器，永远不会被存储，我们也永远看不到 - 关闭标签页，一切都消失了。</div>
+<section class="block"><h2>如何使用 Loona Crossword Solver</h2><ol><li>数一数您的纵横字谜答案中的方格 - 那就是您的模式长度。点击匹配的长度按钮（3 到 12），用相应数量的 <strong>?</strong> 标记填充模式，或自己输入模式。</li><li>把您已经知道的每个 <strong>?</strong> 替换成它的字母，并让字母保持在其确切的方格中 - 像 <strong>c?oss?ord</strong> 这样的模式固定了 C、O、S、S、O、R 和 D，有两个方格是开放的。</li><li>如果一条交叉答案给了您一个必须出现在这条答案某处的字母，请把它添加到<strong>必须包含的字母</strong>下。</li><li>点击<strong>搜索</strong> - 或者继续输入，结果会实时更新。答案按字母顺序返回，并附有计数，让您可以对照线索进行浏览。</li></ol>
+<h3>实际示例</h3>
+<p>您的线索需要一个九字母单词，交叉答案给了您 C _ O S S _ O R D。输入 <strong>c?oss?ord</strong> 并搜索：求解器会把九个字母的全部 172,820 个词典单词与那七个固定字母进行测试，匹配列表的首位正是您正在读到的这个单词 - <strong>crossword</strong>，第 2 格的 R 和第 6 格的 W 填补了两个问号。开放的方格越少，列表越短 - 两三个固定字母通常就能把成千上万的候选词削减到寥寥几个。</p></section>
+<section class="block"><h2>功能</h2>
+<ul><li><strong>完整的词典：</strong>每个模式都会针对全部 172,820 个 ENABLE 单词进行搜索 - 而不是前 10,000 的捷径列表 - 因此不常见但合法的纵横字谜答案也能找到。</li><li><strong>真正的通配符：</strong>每个 <strong>?</strong> 恰好代表一个未知字母，固定字母必须在其确切位置上匹配 - 与网格本身相同的规则。</li><li><strong>快速长度：</strong>一次点击即可填充 3 到 12 个方格的空白模式，这是纵横字谜最常用的长度；最长 28 个字母的更长模式可以直接输入。</li><li><strong>必须包含过滤器：</strong>要求任何字母出现在答案的某处 - 当交叉处给了您尚未确定位置的字母时非常完美。</li><li><strong>实时结果：</strong>列表随您的输入而更新，按字母顺序排列并附有清晰的计数 - 当没有设置模式时，结果按单词长度分组，让您可以按大小浏览。</li><li><strong>私密且免费：</strong>在一次性加载词典后，搜索 100% 在您的设备上运行。无需注册，没有上传，不保留历史记录。</li></ul></section>
+<section class="block"><h2>常见问题</h2><details class="faq"><summary>纵横字谜求解器中的通配符如何工作？</summary><p>为您还不知道的每个方格输入 ? - 它代表任何单个字母。模式的长度就是答案的长度，因此 c?oss?ord 长九个方格，与 CROSSWORD 完全匹配：您输入的字母位于第 1、3、4、5、7、8 和 9 个方格，两个 ? 方格由第 2 格的 R 和第 6 格的 W 填补。已知字母必须完全匹配；只有 ? 方格是自由的。</p></details><details class="faq"><summary>求解器搜索什么词典？</summary><p>ENABLE 单词表 - 172,820 个公共领域的英语单词，长期被单词游戏和纵横字谜软件使用。每个模式都在您自己的设备上针对该完整列表进行搜索。</p></details><details class="faq"><summary>支持哪些单词长度？</summary><p>从 2 到 28 个字母的模式 - 词典的完整范围。快捷按钮涵盖最常见的纵横字谜长度，即 3 到 12 个字母；对于更长的，只需用 ? 表示未知方格，输入完整模式即可。</p></details><details class="faq"><summary>必须包含过滤器有什么作用？</summary><p>它将结果缩小到在单词的某个位置、任何位置包含您列出的每个字母的单词。当一条交叉答案已经给了您一个也必须出现在这条答案中的字母时，它非常方便 - 例如，在模式 s?????t 之上再要求一个 S 和一个 T。</p></details><details class="faq"><summary>我的模式会被上传或存储吗？</summary><p>不会。词典会加载到您的浏览器中，每次搜索都 100% 在您的设备上运行。您的模式永远不会被上传到服务器，永远不会被存储，我们也永远看不到 - 关闭标签页，一切都消失了。</p></details></section>
+<section class="block"><h2>相关文本工具</h2><div class="grid"><a class="card" href="../word-unscrambler/"><div class="ic">🔀</div><h3>Loona Word Unscrambler</h3><p>将任何一堆打乱的字母还原成它能组成的每一个真实单词。</p></a><a class="card" href="../scrabble-word-finder/"><div class="ic">🏆</div><h3>Loona Scrabble Word Finder</h3><p>从您的字母架中找到得分最高的打法，并检查任何单词的有效性。</p></a><a class="card" href="../anagram-generator/"><div class="ic">🔤</div><h3>字谜生成器</h3><p>查找任何单词的字谜，并检查两个单词是否互为字谜。</p></a><a class="card" href="../word-frequency/"><div class="ic">📊</div><h3>词频</h3><p>您最常用单词的排名表，附计数和百分比。</p></a></div></section>
+
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">把这个工具嵌入您的网站 — 免费</h2>
+<p style="margin:0 0 12px;line-height:1.6">把这个工具添加到您自己的网站或博客——完全免费,无需注册,并且始终显示最新版本。复制下方代码,粘贴到您页面中希望工具出现的位置。在嵌入下方保留小小的 &ldquo;Powered by Loona Automation&rdquo; 署名行有助于让这个工具保持免费——但您可以自由地设置样式或删除它;无论哪种方式工具都能工作。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free Loona Crossword Solver"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;由 &lt;a href="https://loonaautomation.github.io/loona-text-tools/zh/crossword-solver/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 免费 Loona Crossword Solver&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">复制嵌入代码</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='已复制!';setTimeout(function(){b.textContent='复制嵌入代码';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Text Tools</h4>
+<a href="../">所有文本工具</a>
+<a href="../about.html">关于我们</a>
+<a href="../contact.html">联系</a></div>
+<div class="col"><h4>热门工具</h4><a href="../word-counter/">单词计数器</a><a href="../character-counter/">字符计数器</a><a href="../case-converter/">大小写转换器</a><a href="../password-generator/">密码生成器</a><a href="../text-to-speech/">文字转语音</a><a href="../speech-to-text/">语音转文字</a></div>
+<div class="col"><h4>更多工具</h4><a href="../remove-duplicate-lines/">删除重复行</a><a href="../text-compare/">文本对比</a><a href="../lorem-ipsum-generator/">Lorem Ipsum 生成器</a><a href="../slug-generator/">Slug 生成器</a><a href="../online-notepad/">在线记事本</a><a href="../fancy-text-generator/">花式文本生成器</a></div>
+<div class="col"><h4>法律</h4>
+<a href="../privacy.html">隐私政策</a>
+<a href="../terms.html">使用条款</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Text Tools。在浏览器中 100% 运行的免费在线文本工具。</div></footer>
+<script>
+(function(){
+"use strict";
+var $=function(s){return document.querySelector(s);};
+function escH(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+function setStatus(el,msg,ok){el.textContent=msg;el.className="status "+(ok===true?"ok":ok===false?"err":"");}
+var MAX_SHOW=600, FREE_MIN=2, FREE_MAX=15, timer=null;
+var lenRow=$("#lenRow");
+for(var n=3;n<=12;n++){
+  var b=document.createElement("button");
+  b.type="button"; b.className="btn ghost small"; b.textContent=n+" 个字母"; b.setAttribute("data-len",n);
+  (function(btn,len){
+    btn.addEventListener("click",function(){
+      $("#patInp").value="?".repeat(len);
+      markLenButtons();
+      doSearch(false);
+    });
+  })(b,n);
+  lenRow.appendChild(b);
+}
+function markLenButtons(){
+  var p=$("#patInp").value.trim();
+  var btns=lenRow.querySelectorAll("button");
+  for(var i=0;i<btns.length;i++){
+    var len=parseInt(btns[i].getAttribute("data-len"),10);
+    var blank=p.length===len&&/^\?+$/.test(p);
+    btns[i].className="btn ghost small"+(blank?" active":"");
+  }
+}
+function engineReady(){
+  if(!window.LoonaWords||typeof window.LoonaWords.load!=="function") return Promise.reject(new Error("engine-missing"));
+  return window.LoonaWords.load();
+}
+function asWord(x){ return typeof x==="string"?x:(x&&typeof x.w==="string"?x.w:null); }
+function containsAll(word,need){
+  if(!need) return true;
+  var counts={},i,ch;
+  for(i=0;i<word.length;i++){ ch=word[i]; counts[ch]=(counts[ch]||0)+1; }
+  for(i=0;i<need.length;i++){ ch=need[i]; if(!counts[ch]) return false; counts[ch]--; }
+  return true;
+}
+function wordListHtml(words){
+  return '<div class="wordlist">'+words.map(function(w){return "<span>"+escH(w)+"</span>";}).join("")+"</div>";
+}
+async function doSearch(auto){
+  var patEl=$("#patInp"), contEl=$("#containsInp"), btn=$("#bSearch");
+  var st=$("#st"), count=$("#resCount"), box=$("#results");
+  var pat=patEl.value.toLowerCase().replace(/\s+/g,"").replace(/\./g,"?");
+  var need=contEl.value.toLowerCase().replace(/[^a-z]/g,"");
+  if(!pat&&!need){
+    box.innerHTML=""; count.textContent="";
+    if(!auto) setStatus(st,"请先输入模式 - 您知道的字母，加上每个未知方格一个 ? - 或点击一个长度按钮。",false);
+    else setStatus(st,"",null);
+    return;
+  }
+  if(pat&&!/^[a-z?]+$/.test(pat)){ if(!auto) setStatus(st,"模式只能使用字母和未知方格用的 ?。",false); return; }
+  if(pat&&(pat.length<2||pat.length>28)){ if(!auto) setStatus(st,"模式长度从 2 到 28 个字母。",false); return; }
+  btn.disabled=true;
+  setStatus(st,"正在加载 172,820 词词典 - 仅首次搜索...",null);
+  try{
+    await engineReady();
+    var groups=[], total=0;
+    if(pat){
+      var raw=await Promise.resolve(window.LoonaWords.pattern(pat));
+      var words=[];
+      (raw||[]).forEach(function(x){ var w=asWord(x); if(w&&containsAll(w,need)) words.push(w); });
+      words.sort();
+      groups.push({len:pat.length,words:words});
+      total=words.length;
+    }else{
+      for(var len=FREE_MIN;len<=FREE_MAX;len++){
+        var raw2=await Promise.resolve(window.LoonaWords.pattern("?".repeat(len)));
+        var ws=[];
+        (raw2||[]).forEach(function(x){ var w=asWord(x); if(w&&containsAll(w,need)) ws.push(w); });
+        if(ws.length){ ws.sort(); groups.push({len:len,words:ws}); total+=ws.length; }
+      }
+    }
+    if(!total){
+      box.innerHTML=""; count.textContent="";
+      setStatus(st,"词典中没有合适的单词。对照您的交叉处检查固定字母 - 一个错误的字母就会隐藏所有匹配。",false);
+      return;
+    }
+    var shown=0, html="";
+    groups.forEach(function(g){
+      if(shown>=MAX_SHOW) return;
+      var slice=g.words.slice(0,MAX_SHOW-shown);
+      shown+=slice.length;
+      if(!pat) html+='<h3 class="grouplabel">'+g.len+' 个字母 ('+g.words.length+')</h3>';
+      html+=wordListHtml(slice);
+    });
+    box.innerHTML=html;
+    count.textContent=total+(total===1?" 个匹配":" 个匹配")+" 已找到"+(pat?"（模式 "+pat.toUpperCase():"，包含 "+need.toUpperCase())+(total>shown?"）- 显示前 "+shown+".":".");
+    count.className="status ok";
+    setStatus(st,"完成 - 已在您的设备上搜索全部 172,820 个单词。",true);
+  }catch(e){
+    setStatus(st,"无法加载词典。检查您的连接并重试。",false);
+  }finally{
+    btn.disabled=false;
+  }
+}
+function schedule(){
+  if(timer) clearTimeout(timer);
+  timer=setTimeout(function(){ doSearch(true); },350);
+}
+$("#bSearch").addEventListener("click",function(){ doSearch(false); });
+$("#bClear").addEventListener("click",function(){
+  $("#patInp").value=""; $("#containsInp").value="";
+  $("#results").innerHTML=""; $("#resCount").textContent="";
+  setStatus($("#st"),"",null); markLenButtons();
+});
+$("#patInp").addEventListener("input",function(){ markLenButtons(); schedule(); });
+$("#containsInp").addEventListener("input",schedule);
+$("#patInp").addEventListener("keydown",function(e){ if(e.key==="Enter") doSearch(false); });
+$("#containsInp").addEventListener("keydown",function(e){ if(e.key==="Enter") doSearch(false); });
+})();
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 安装应用';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('安装此应用:轻点分享按钮,然后选择 "添加到主屏幕"。');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

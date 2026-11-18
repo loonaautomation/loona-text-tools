@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Scrabble Word Finder",
+  "description": "Tìm các nước đi ghi điểm cao nhất từ giá chữ cái của bạn và kiểm tra xem bất kỳ từ nào có hợp lệ không. Từ điển ENABLE đầy đủ 172.820 từ, hỗ trợ ô trống, 100% trên thiết bị của bạn. Miễn phí, không cần đăng ký.",
+  "id": "/loona-text-tools/vi/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "172,820語のENABLE辞書全文を使って、あらゆる文字を実在の英単語に並べ替えます - 結果は長さ別にグループ化され、Scrabbleスコア、で始まる・で終わる・を含むフィルター、ブランクタイル対応付き。無料、登録不要、そしてあなたの文字がブラウザの外に出ることは決してありません。",
+  "id": "/loona-text-tools/ja/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

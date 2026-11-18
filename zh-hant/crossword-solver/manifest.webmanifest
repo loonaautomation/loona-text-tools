@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Solver",
+  "short_name": "Crossword Solver",
+  "description": "用 172,820 個英語單詞解決像 c?oss?ord 這樣的縱橫字謎模式。輸入您知道的字母，用 ? 表示缺失的方格，按必須包含的字母過濾。免費，無需註冊，100% 在裝置上運行。",
+  "id": "/loona-text-tools/zh-hant/crossword-solver/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
