@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "סדרו כל אותיות למילים אנגליות אמיתיות באמצעות מילון ENABLE המלא בן 172,820 המילים - תוצאות מקובצות לפי אורך עם ניקוד Scrabble, מסנני מתחיל ב-, נגמר ב- ומכיל, ותמיכה באריחים ריקים. חינם, בלי הרשמה, והאותיות שלכם לעולם לא עוזבות את הדפדפן.",
+  "id": "/loona-text-tools/he/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

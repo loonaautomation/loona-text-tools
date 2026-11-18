@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Solver",
+  "short_name": "Loona Crossword Solver",
+  "description": "c?oss?ord جیسے کراس ورڈ نمونے 172,820 انگریزی الفاظ کے مقابل حل کریں۔ جو حروف آپ جانتے ہیں وہ لکھیں، غائب خانوں کے لیے ? استعمال کریں، لازمی شامل حروف سے فلٹر کریں۔ مفت، کوئی سائن اپ نہیں، 100% آپ کے آلے پر۔",
+  "id": "/loona-text-tools/ur/crossword-solver/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

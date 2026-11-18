@@ -1,0 +1,29 @@
+{
+  "name": "Loona Scrabble Word Finder",
+  "short_name": "Loona Scrabble Word Finder",
+  "description": "اعثر على اللعبات الأعلى نقاطًا من رفّ أحرفك وتحقق من صحة أي كلمة. قاموس ENABLE الكامل الذي يضم 172,820 كلمة، مع دعم للقطع الفارغة، و100% على جهازك. مجاني، دون تسجيل.",
+  "id": "/loona-text-tools/ar/scrabble-word-finder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
