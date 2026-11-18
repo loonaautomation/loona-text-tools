@@ -1,0 +1,29 @@
+{
+  "name": "Loona Word Unscrambler",
+  "short_name": "Loona Word Unscrambler",
+  "description": "Ordne vilkårlige bogstaver til rigtige engelske ord med den fulde ENABLE-ordbog på 172 820 ord – resultater grupperet efter længde, med Scrabble-scorer, filtre for starter med, slutter med og indeholder samt støtte til blanke brikker. Gratis, ingen tilmelding, og dine bogstaver forlader aldrig din browser.",
+  "id": "/loona-text-tools/da/word-unscrambler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
