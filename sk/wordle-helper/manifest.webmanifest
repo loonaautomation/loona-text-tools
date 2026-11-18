@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wordle Helper",
+  "short_name": "Loona Wordle Helper",
+  "description": "Zadajte svoje pokusy vo Wordle a klepnite na políčka sivo, žlto alebo zeleno: tento bezplatný pomocník vám ukáže každú odpoveď, ktorá ešte vyhovuje, a najlepšie ďalšie pokusy. Správna logika pre zdvojené písmená, bez registrácie, a všetko beží vo vašom prehliadači.",
+  "id": "/loona-text-tools/sk/wordle-helper/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-text-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-text-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
