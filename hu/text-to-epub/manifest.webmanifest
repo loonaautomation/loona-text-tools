@@ -2,7 +2,7 @@
   "name": "Loona Szövegből EPUB-ba alakító ingyen",
   "short_name": "Szövegből EPUB-ba alakító ingyen",
   "description": "Alakítsa az egyszerű szöveget vagy Markdownt érvényes EPUB e-könyvvé ingyen, a böngészőjében. Cím és szerző, fejezetek a címsorokból, bármely EPUB-olvasóban megnyílik. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/text-to-epub/",
+  "id": "/hu/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

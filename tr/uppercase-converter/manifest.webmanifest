@@ -2,7 +2,7 @@
   "name": "Loona Büyük Harf Dönüştürücü",
   "short_name": "Büyük Harf Dönüştürücü",
   "description": "Ücretsiz Büyük Harf dönüştürücü — metni yapıştırın ve anında BÜYÜK HARF elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/uppercase-converter/",
+  "id": "/tr/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

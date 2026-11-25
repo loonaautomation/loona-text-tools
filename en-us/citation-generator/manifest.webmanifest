@@ -2,7 +2,7 @@
   "name": "Loona Citation Generator - APA, MLA & Chicago",
   "short_name": "Citation Generator - APA, MLA & Chicago",
   "description": "Generate correctly formatted citations for websites, books and journal articles in APA 7th, MLA 9 and Chicago author-date - free, instant, in your browser.",
-  "id": "/loona-text-tools/en-us/citation-generator/",
+  "id": "/en-us/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

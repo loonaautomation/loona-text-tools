@@ -2,7 +2,7 @@
   "name": "Loona مكتبة أدوات النصوص",
   "short_name": "مكتبة أدوات النصوص",
   "description": "مكتبة Loona Text Tools الكاملة: محوّلات حالة وعدّادات كلمات مقالات وخطابات وفاحصات حدود أحرف المنصات وحاسبات سهولة القراءة.",
-  "id": "/loona-text-tools/ar/text-tools-library/",
+  "id": "/ar/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

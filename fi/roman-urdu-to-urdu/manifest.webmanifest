@@ -2,7 +2,7 @@
   "name": "Loona Latinalaisen urdun urdun kirjoitukseksi -muunnin verkossa ilmaiseksi",
   "short_name": "Latinalaisen urdun urdun kirjoitukseksi -muunnin verkossa ilmaiseksi",
   "description": "Muunna latinalainen urdu (latinalaiset kirjaimet) oikeaksi urdun kirjoitukseksi välittömästi – 'mera naam' muuttuu aidoksi urdun kirjoitukseksi. Ilmainen latinalaisen urdun urduksi -muunnin Pakistaniin.",
-  "id": "/loona-text-tools/fi/roman-urdu-to-urdu/",
+  "id": "/fi/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

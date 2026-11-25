@@ -2,7 +2,7 @@
   "name": "Loona 北约音标字母转换器",
   "short_name": "北约音标字母转换器",
   "description": "将任何文本转换为北约音标字母(Alfa、Bravo、Charlie),并将 NATO 拼写解码回普通文本。免费、即时、无需注册。",
-  "id": "/loona-text-tools/zh/nato-phonetic-alphabet-converter/",
+  "id": "/zh/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

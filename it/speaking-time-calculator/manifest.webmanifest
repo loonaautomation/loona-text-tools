@@ -2,7 +2,7 @@
   "name": "Loona Calcolatore del tempo di parola",
   "short_name": "Calcolatore del tempo di parola",
   "description": "Incolla il tuo discorso o copione e vedi quanto impiega a essere pronunciato a ritmi lento, conversazionale e veloce - più quante parole entrano in un tempo obiettivo. Gratuito, nessuna registrazione.",
-  "id": "/loona-text-tools/it/speaking-time-calculator/",
+  "id": "/it/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

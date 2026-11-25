@@ -2,7 +2,7 @@
   "name": "Loona Zoradenie riadkov online",
   "short_name": "Zoradenie riadkov online",
   "description": "Zoraďte riadky textu abecedne (A-Z alebo Z-A), podľa dĺžky, v obrátenom poradí alebo náhodne premiešané. Bezplatný online triedič riadkov - bez registrácie, okamžitý a súkromný.",
-  "id": "/loona-text-tools/sk/sort-lines/",
+  "id": "/sk/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

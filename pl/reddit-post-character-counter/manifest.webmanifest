@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków posta na Reddit",
   "short_name": "Licznik znaków posta na Reddit",
   "description": "Darmowy licznik znaków posta na Reddit: liczenie znaków na żywo względem limitu 40,000 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/reddit-post-character-counter/",
+  "id": "/pl/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

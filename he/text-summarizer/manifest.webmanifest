@@ -2,7 +2,7 @@
   "name": "Loona מסכם טקסט מקוון",
   "short_name": "מסכם טקסט מקוון",
   "description": "סכמו כל טקסט ארוך באופן מיידי: הדביקו מאמר, חיבור או דוח וקבלו בחזרה את המשפטים המקוריים החשובים ביותר. מסכם טקסט מקוון חינמי - ללא הרשמה, 100% פרטי.",
-  "id": "/loona-text-tools/he/text-summarizer/",
+  "id": "/he/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

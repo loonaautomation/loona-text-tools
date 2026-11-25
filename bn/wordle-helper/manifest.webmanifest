@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "আপনার Wordle অনুমান লিখুন এবং টাইলগুলো ধূসর, হলুদ বা সবুজে ট্যাপ করুন: এই বিনামূল্যের সহায়কটি আপনাকে এখনও মানানসই প্রতিটি উত্তর এবং সেরা পরবর্তী অনুমান দেখায়। দ্বৈত অক্ষরের জন্য সঠিক যুক্তি, কোনো সাইন-আপ নেই, এবং সবকিছু আপনার ব্রাউজারেই চলে।",
-  "id": "/loona-text-tools/bn/wordle-helper/",
+  "id": "/bn/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

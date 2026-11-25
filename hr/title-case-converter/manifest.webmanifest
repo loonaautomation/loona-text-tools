@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač u naslovna velika slova",
   "short_name": "Pretvarač u naslovna velika slova",
   "description": "Besplatan pretvarač u naslovna velika slova — zalijepite tekst i trenutačno dobijte naslovna velika slova. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/title-case-converter/",
+  "id": "/hr/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

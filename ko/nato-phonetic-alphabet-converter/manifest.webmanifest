@@ -2,7 +2,7 @@
   "name": "Loona NATO 음성 알파벳 변환기",
   "short_name": "NATO 음성 알파벳 변환기",
   "description": "모든 텍스트를 NATO 음성 알파벳(Alfa, Bravo, Charlie)으로 변환하고 NATO 철자를 다시 일반 텍스트로 디코딩하세요. 무료, 즉시, 회원가입 없음이에요.",
-  "id": "/loona-text-tools/ko/nato-phonetic-alphabet-converter/",
+  "id": "/ko/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

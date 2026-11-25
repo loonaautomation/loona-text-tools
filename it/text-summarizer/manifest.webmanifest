@@ -2,7 +2,7 @@
   "name": "Loona Riassuntore di testi online: riassumi testi lunghi all'istante | Loona Text Tools",
   "short_name": "Riassuntore di testi online: riassumi testi lunghi all'istante | Loona Text Tools",
   "description": "Riassumi all'istante qualsiasi testo lungo: incolla un articolo, un saggio o un rapporto e riottieni le sue frasi originali più importanti. Riassuntore di testi online gratuito, senza registrazione, privato al 100%.",
-  "id": "/loona-text-tools/it/text-summarizer/",
+  "id": "/it/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

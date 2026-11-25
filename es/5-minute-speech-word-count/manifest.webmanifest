@@ -2,7 +2,7 @@
   "name": "Loona Discurso de 5 minutos",
   "short_name": "Discurso de 5 minutos",
   "description": "¿Cuántas palabras tiene un discurso de 5 minutos? 550–900 palabras (750 a ritmo conversacional). Contador en vivo gratuito con comprobación del tiempo de exposición.",
-  "id": "/loona-text-tools/es/5-minute-speech-word-count/",
+  "id": "/es/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

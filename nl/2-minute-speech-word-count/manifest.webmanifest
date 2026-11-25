@@ -2,7 +2,7 @@
   "name": "Loona Toespraak van 2 minuten",
   "short_name": "Toespraak van 2 minuten",
   "description": "Hoeveel woorden in een toespraak van 2 minuten? 220–360 woorden (300 in gesprekstempo). Gratis live teller met spreektijdcontrole.",
-  "id": "/loona-text-tools/nl/2-minute-speech-word-count/",
+  "id": "/nl/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

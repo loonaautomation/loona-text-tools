@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/find-and-replace/",
+  "id": "/en-gb/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

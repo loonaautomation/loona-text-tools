@@ -2,7 +2,7 @@
   "name": "Loona Sanat sivua kohti -laskuri",
   "short_name": "Sanat sivua kohti -laskuri",
   "description": "Ilmainen sanat sivua kohti -laskuri: syötä sanat, fonttikoko ja riviväli saadaksesi sivumäärän ja sanat sivua kohti.",
-  "id": "/loona-text-tools/fi/words-per-page-calculator/",
+  "id": "/fi/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

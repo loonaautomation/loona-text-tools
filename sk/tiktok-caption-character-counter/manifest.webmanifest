@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov popiskov TikTok",
   "short_name": "Počítadlo znakov popiskov TikTok",
   "description": "Bezplatné počítadlo znakov popiskov TikTok: počítanie znakov naživo oproti limitu 2,200 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/tiktok-caption-character-counter/",
+  "id": "/sk/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

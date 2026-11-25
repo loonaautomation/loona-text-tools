@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi CBZ sang PDF miễn phí",
   "short_name": "Công cụ chuyển đổi CBZ sang PDF miễn phí",
   "description": "Chuyển đổi tệp lưu trữ truyện tranh CBZ và ZIP sang PDF miễn phí trong trình duyệt của bạn. Các trang theo thứ tự tự nhiên (1, 2, 10), một hình ảnh mỗi trang ở kích thước đầy đủ. Không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/cbz-to-pdf/",
+  "id": "/vi/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

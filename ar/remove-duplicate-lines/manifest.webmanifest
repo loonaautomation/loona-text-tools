@@ -2,7 +2,7 @@
   "name": "Loona إزالة الأسطر المكررة عبر الإنترنت",
   "short_name": "إزالة الأسطر المكررة عبر الإنترنت",
   "description": "أزل الأسطر المكررة من أي قائمة أو نص واحتفظ بالأسطر الفريدة فقط، بالترتيب الأصلي. مزيل أسطر مكررة مجاني - بلا تسجيل، نتائج فورية.",
-  "id": "/loona-text-tools/ar/remove-duplicate-lines/",
+  "id": "/ar/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

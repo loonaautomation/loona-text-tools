@@ -2,7 +2,7 @@
   "name": "Loona Panga Mistari Mtandaoni",
   "short_name": "Panga Mistari Mtandaoni",
   "description": "Panga mistari ya maandishi kwa alfabeti (A-Z au Z-A), kwa urefu, kwa mpangilio uliogeuzwa au iliyochanganywa kwa nasibu. Kipangaji cha bure cha mistari mtandaoni - bila kujisajili, papo hapo na faragha.",
-  "id": "/loona-text-tools/sw/sort-lines/",
+  "id": "/sw/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

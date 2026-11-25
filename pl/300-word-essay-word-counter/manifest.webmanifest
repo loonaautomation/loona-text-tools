@@ -2,7 +2,7 @@
   "name": "Loona Esej na 300 słów",
   "short_name": "Esej na 300 słów",
   "description": "Darmowy licznik esejów na 300 słów: liczenie słów na żywo do celu 300 słów, strony przy pojedynczej i podwójnej interlinii, akapity, czas czytania i mówienia.",
-  "id": "/loona-text-tools/pl/300-word-essay-word-counter/",
+  "id": "/pl/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

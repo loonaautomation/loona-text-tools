@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za TikTok opise",
   "short_name": "Brojač znakova za TikTok opise",
   "description": "Besplatan brojač znakova za TikTok opise: broj znakova uživo u odnosu na ograničenje od 2,200 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/tiktok-caption-character-counter/",
+  "id": "/hr/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

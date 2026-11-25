@@ -2,7 +2,7 @@
   "name": "Loona Online-Notizblock kostenlos",
   "short_name": "Online-Notizblock kostenlos",
   "description": "Ein kostenloser Online-Notizblock, der beim Tippen automatisch in Ihrem Browser speichert – Download, Drucken und Wortzählung inklusive. Keine Registrierung; Ihre Notizen verlassen Ihr Gerät nie.",
-  "id": "/loona-text-tools/de/online-notepad/",
+  "id": "/de/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

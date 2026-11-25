@@ -2,7 +2,7 @@
   "name": "Loona Omformer til store bokstaver",
   "short_name": "Omformer til store bokstaver",
   "description": "Gratis Uppercase-omformer — lim inn tekst og få UPPERCASE øyeblikkelig. Direkte konvertering i nettleseren din, ingen registrering, ingen opplasting.",
-  "id": "/loona-text-tools/nb/uppercase-converter/",
+  "id": "/nb/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

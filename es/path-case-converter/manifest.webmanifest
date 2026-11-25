@@ -2,7 +2,7 @@
   "name": "Loona Convertidor path/case",
   "short_name": "Convertidor path/case",
   "description": "Convertidor path/case gratuito: pega texto y obtén path/case al instante. Conversión en vivo en tu navegador, sin registro, sin subidas.",
-  "id": "/loona-text-tools/es/path-case-converter/",
+  "id": "/es/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

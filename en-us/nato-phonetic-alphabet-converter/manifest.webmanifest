@@ -2,7 +2,7 @@
   "name": "Loona NATO Phonetic Alphabet Converter - Spell It So It Cannot Be Misheard",
   "short_name": "NATO Phonetic Alphabet Converter - Spell It So It Cannot Be Misheard",
   "description": "Convert any text into the NATO phonetic alphabet (Alfa, Bravo, Charlie) and decode NATO spelling back to plain text. Free, instant, no sign-up.",
-  "id": "/loona-text-tools/en-us/nato-phonetic-alphabet-converter/",
+  "id": "/en-us/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

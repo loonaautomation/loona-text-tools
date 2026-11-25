@@ -2,7 +2,7 @@
   "name": "Loona Hotuba ya Dakika 3",
   "short_name": "Hotuba ya Dakika 3",
   "description": "Je, maneno mangapi katika hotuba ya dakika 3? Maneno 330–540 (450 kwa kasi ya mazungumzo). Kihesabu cha bure cha moja kwa moja chenye ukaguzi wa muda wa kuzungumza.",
-  "id": "/loona-text-tools/sw/3-minute-speech-word-count/",
+  "id": "/sw/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

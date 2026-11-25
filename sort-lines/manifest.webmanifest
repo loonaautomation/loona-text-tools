@@ -2,7 +2,7 @@
   "name": "Loona Sort Lines Online",
   "short_name": "Sort Lines Online",
   "description": "Sort lines of text alphabetically (A-Z or Z-A), by length, in reverse order or shuffled at random. Free online line sorter - no sign-up, instant and private.",
-  "id": "/loona-text-tools/sort-lines/",
+  "id": "/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

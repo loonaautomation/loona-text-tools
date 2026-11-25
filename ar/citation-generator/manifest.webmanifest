@@ -2,7 +2,7 @@
   "name": "Loona مولّد الاستشهادات عبر الإنترنت مجانًا",
   "short_name": "مولّد الاستشهادات عبر الإنترنت مجانًا",
   "description": "ولّد استشهادات منسّقة بشكل صحيح للمواقع والكتب ومقالات المجلات بـAPA 7 وMLA 9 وشيكاغو المؤلف-التاريخ - مجانًا، فورًا، في متصفحك.",
-  "id": "/loona-text-tools/ar/citation-generator/",
+  "id": "/ar/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "The full Loona Text Tools library: case converters, essay and speech word counters, platform character-limit checkers and readability calculators.",
-  "id": "/loona-text-tools/en-us/text-tools-library/",
+  "id": "/en-us/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

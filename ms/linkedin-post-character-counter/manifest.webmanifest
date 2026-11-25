@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Postingan LinkedIn",
   "short_name": "Pengira Aksara Postingan LinkedIn",
   "description": "Pengira pengira aksara postingan LinkedIn percuma: hitungan aksara langsung terhadap had 3.000 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/linkedin-post-character-counter/",
+  "id": "/ms/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

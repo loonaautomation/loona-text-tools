@@ -2,7 +2,7 @@
   "name": "Loona Comparar Textos Online",
   "short_name": "Comparar Textos Online",
   "description": "Compare dois textos linha a linha e veja exatamente que linhas foram adicionadas, removidas ou mantidas. Ferramenta gratuita de comparação de textos online - sem registo, privada no seu navegador.",
-  "id": "/loona-text-tools/pt/text-compare/",
+  "id": "/pt/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

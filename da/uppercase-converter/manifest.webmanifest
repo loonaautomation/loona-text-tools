@@ -2,7 +2,7 @@
   "name": "Loona Konverter til store bogstaver",
   "short_name": "Konverter til store bogstaver",
   "description": "Gratis konverter til STORE BOGSTAVER — indsæt tekst og få STORE BOGSTAVER øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/uppercase-converter/",
+  "id": "/da/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

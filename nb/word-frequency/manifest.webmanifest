@@ -2,7 +2,7 @@
   "name": "Loona Ordfrekvensteller på nett",
   "short_name": "Ordfrekvensteller på nett",
   "description": "Tell hvor ofte hvert ord forekommer i teksten din og se en rangert frekvenstabell med prosenter. Gratis ordfrekvensteller på nett - ingen registrering, øyeblikkelig.",
-  "id": "/loona-text-tools/nb/word-frequency/",
+  "id": "/nb/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

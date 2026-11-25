@@ -2,7 +2,7 @@
   "name": "Loona Peringkas Teks Dalam Talian",
   "short_name": "Peringkas Teks Dalam Talian",
   "description": "Ringkaskan sebarang teks panjang serta-merta: tampal artikel, esei atau laporan dan dapatkan semula ayat asal yang paling penting. Peringkas teks dalam talian percuma - tanpa pendaftaran, 100% peribadi.",
-  "id": "/loona-text-tools/ms/text-summarizer/",
+  "id": "/ms/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

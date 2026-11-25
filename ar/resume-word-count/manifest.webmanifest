@@ -2,7 +2,7 @@
   "name": "Loona عدد كلمات السيرة الذاتية",
   "short_name": "عدد كلمات السيرة الذاتية",
   "description": "فاحص عدد كلمات السيرة الذاتية: عدّ مباشر مع هدف الصفحة الواحدة (400–600 كلمة)، وتقدير الصفحات وإرشادات الاختصار.",
-  "id": "/loona-text-tools/ar/resume-word-count/",
+  "id": "/ar/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

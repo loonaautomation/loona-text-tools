@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف بيان UCAS الشخصي",
   "short_name": "عدّاد أحرف بيان UCAS الشخصي",
   "description": "عدّاد أحرف بيان UCAS الشخصي مجانًا: عدّ أحرف مباشر ضد حد الـ4,000 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/ucas-personal-statement-character-counter/",
+  "id": "/ar/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

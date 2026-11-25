@@ -2,7 +2,7 @@
   "name": "Loona Convertor de majuscule/minuscule online",
   "short_name": "Convertor de majuscule/minuscule online",
   "description": "Convertește textul în UPPERCASE, lowercase, Title Case, Sentence case, Capitalized sau aLtErNaTiNg case cu un clic. Convertor online gratuit de majuscule/minuscule - fără înregistrare.",
-  "id": "/loona-text-tools/ro/case-converter/",
+  "id": "/ro/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

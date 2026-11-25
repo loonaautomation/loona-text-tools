@@ -2,7 +2,7 @@
   "name": "Loona Test tipkanja na mreži besplatno",
   "short_name": "Test tipkanja na mreži besplatno",
   "description": "Besplatan test tipkanja od 60 sekundi: izmjerite brzinu tipkanja u riječima u minuti (WPM), točnost i znakove u minuti uz lagane, srednje i teške tekstove. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/typing-test/",
+  "id": "/hr/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

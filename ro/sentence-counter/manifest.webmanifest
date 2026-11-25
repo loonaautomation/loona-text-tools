@@ -2,7 +2,7 @@
   "name": "Loona Contor de propoziții online gratuit",
   "short_name": "Contor de propoziții online gratuit",
   "description": "Numără propozițiile, paragrafele, cuvintele și caracterele din orice text instant, cu lungimea medie a propoziției. Contor gratuit de propoziții, fără înregistrare, funcționează în browserul tău.",
-  "id": "/loona-text-tools/ro/sentence-counter/",
+  "id": "/ro/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

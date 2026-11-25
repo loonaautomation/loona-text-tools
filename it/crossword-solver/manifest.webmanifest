@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Risolvi schemi di cruciverba come c?oss?ord su 172,820 parole inglesi. Digita le lettere che conosci, usa ? per le caselle mancanti e filtra per le lettere che deve contenere. Gratuito, senza registrazione e 100% sul tuo dispositivo.",
-  "id": "/loona-text-tools/it/crossword-solver/",
+  "id": "/it/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

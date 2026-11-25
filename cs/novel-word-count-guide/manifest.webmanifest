@@ -2,7 +2,7 @@
   "name": "Loona Počet slov románu podle žánru",
   "short_name": "Počet slov románu podle žánru",
   "description": "Počet slov románu podle žánru: dospělí 70,000–120,000, YA 50,000–90,000, mladší dospívající 20,000–55,000. Bezplatné živé počítadlo s cíli podle žánru.",
-  "id": "/loona-text-tools/cs/novel-word-count-guide/",
+  "id": "/cs/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

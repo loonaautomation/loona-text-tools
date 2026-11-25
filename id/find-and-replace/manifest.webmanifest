@@ -2,7 +2,7 @@
   "name": "Loona Temukan dan Ganti Teks Online",
   "short_name": "Temukan dan Ganti Teks Online",
   "description": "Temukan kata atau frasa dan ganti setiap kemunculan dalam teks Anda sekaligus, dengan opsi peka huruf, kata utuh dan pola. Alat online gratis - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/find-and-replace/",
+  "id": "/id/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

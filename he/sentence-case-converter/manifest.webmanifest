@@ -2,7 +2,7 @@
   "name": "Loona ממיר Sentence Case",
   "short_name": "ממיר Sentence Case",
   "description": "ממיר Sentence Case בחינם — הדביקו טקסט וקבלו Sentence case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/sentence-case-converter/",
+  "id": "/he/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

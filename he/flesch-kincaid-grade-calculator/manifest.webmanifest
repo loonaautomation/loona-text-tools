@@ -2,7 +2,7 @@
   "name": "Loona מחשבון דרגת Flesch–Kincaid",
   "short_name": "מחשבון דרגת Flesch–Kincaid",
   "description": "מחשבון דרגת Flesch–Kincaid בחינם: הדביקו טקסט לציון רמת הכיתה וציון קלות הקריאה, עם מילים למשפט והברות למילה.",
-  "id": "/loona-text-tools/he/flesch-kincaid-grade-calculator/",
+  "id": "/he/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

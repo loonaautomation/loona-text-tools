@@ -2,7 +2,7 @@
   "name": "Loona Emojivelger på nett – gratis",
   "short_name": "Emojivelger på nett – gratis",
   "description": "Gratis emojivelger: bla gjennom eller søk blant 1,900+ emojier og symboler, velg en hudtone, klikk for å kopiere én emoji eller et helt brett. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-text-tools/nb/emoji-picker/",
+  "id": "/nb/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

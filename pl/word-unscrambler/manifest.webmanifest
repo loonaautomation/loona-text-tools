@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Ułóż dowolne litery w prawdziwe angielskie słowa, korzystając z pełnego słownika ENABLE liczącego 172,820 słów - wyniki pogrupowane według długości, z punktami Scrabble, filtrami zaczyna się na, kończy się na i zawiera oraz obsługą pustych płytek. Za darmo, bez rejestracji, a Twoje litery nigdy nie opuszczają przeglądarki.",
-  "id": "/loona-text-tools/pl/word-unscrambler/",
+  "id": "/pl/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

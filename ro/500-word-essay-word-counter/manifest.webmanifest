@@ -2,7 +2,7 @@
   "name": "Loona Eseu de 500 de cuvinte",
   "short_name": "Eseu de 500 de cuvinte",
   "description": "Contor gratuit pentru eseu de 500 de cuvinte: numărătoare de cuvinte în direct până la ținta de 500 de cuvinte, pagini la un rând și la rând dublu, paragrafe, timp de citire și de vorbire.",
-  "id": "/loona-text-tools/ro/500-word-essay-word-counter/",
+  "id": "/ro/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hitta upprepade ord online gratis",
   "short_name": "Hitta upprepade ord online gratis",
   "description": "Hitta varje ord som förekommer mer än en gång i din text, rankat efter hur ofta det upprepas. Fånga oavsiktliga dubbelord och överanvända ord. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/repeated-words-finder/",
+  "id": "/sv/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מונה תווי הודעות Discord",
   "short_name": "מונה תווי הודעות Discord",
   "description": "מונה תווי הודעות Discord בחינם: ספירת תווים חיה מול מגבלת 2,000 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/discord-message-character-counter/",
+  "id": "/he/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

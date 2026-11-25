@@ -2,7 +2,7 @@
   "name": "Loona عدّاد الفقرات عبر الإنترنت مجانًا",
   "short_name": "عدّاد الفقرات عبر الإنترنت مجانًا",
   "description": "عُدّ الفقرات في أي نص فورًا، مع الجمل والكلمات لكل فقرة وأطول وأقصر فقرة. عدّاد فقرات مجاني، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/paragraph-counter/",
+  "id": "/ar/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Conversor Train-Case",
   "short_name": "Conversor Train-Case",
   "description": "Conversor Train-Case grátis — cole texto e obtenha Train-Case instantaneamente. Conversão em direto no seu navegador, sem registo, sem carregamento.",
-  "id": "/loona-text-tools/pt/train-case-converter/",
+  "id": "/pt/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

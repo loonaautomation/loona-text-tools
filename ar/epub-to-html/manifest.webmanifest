@@ -2,7 +2,7 @@
   "name": "Loona محوّل EPUB إلى HTML مجانًا",
   "short_name": "محوّل EPUB إلى HTML مجانًا",
   "description": "حوّل كتب EPUB الإلكترونية إلى ملف HTML واحد مكتمل ذاتيًا مجانًا، في متصفحك. الفصول بالترتيب، وطباعة أساسية، وصور صغيرة مضمّنة. بلا رفع، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/epub-to-html/",
+  "id": "/ar/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare från Roman Urdu till urduisk skrift online gratis",
   "short_name": "Omvandlare från Roman Urdu till urduisk skrift online gratis",
   "description": "Omvandla Roman Urdu (latinska bokstäver) till korrekt urduisk skrift omedelbart - 'mera naam' blir riktig urduisk skrift. Gratis omvandlare från Roman Urdu till Urdu för Pakistan.",
-  "id": "/loona-text-tools/sv/roman-urdu-to-urdu/",
+  "id": "/sv/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

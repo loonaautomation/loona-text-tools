@@ -2,7 +2,7 @@
   "name": "Loona Convertor DOCX în EPUB gratuit",
   "short_name": "Convertor DOCX în EPUB gratuit",
   "description": "Convertește gratuit documentele Word DOCX în cărți electronice EPUB, în browserul tău. Titlurile devin capitole; aldinul, cursivul, listele și imaginile se convertesc. Fără încărcare, fără înregistrare.",
-  "id": "/loona-text-tools/ro/docx-to-epub/",
+  "id": "/ro/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

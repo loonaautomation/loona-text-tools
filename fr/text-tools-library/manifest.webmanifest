@@ -2,7 +2,7 @@
   "name": "Loona Bibliothèque d’outils de texte",
   "short_name": "Bibliothèque d’outils de texte",
   "description": "La bibliothèque complète Loona Text Tools : convertisseurs de casse, compteurs de mots de dissertations et de discours, vérificateurs de limites de caractères des plateformes et calculateurs de lisibilité.",
-  "id": "/loona-text-tools/fr/text-tools-library/",
+  "id": "/fr/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

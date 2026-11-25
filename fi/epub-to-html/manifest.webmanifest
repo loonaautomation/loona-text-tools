@@ -2,7 +2,7 @@
   "name": "Loona EPUB HTML-muotoon -muunnin ilmaiseksi",
   "short_name": "EPUB HTML-muotoon -muunnin ilmaiseksi",
   "description": "Muunna EPUB-e-kirjat yhdeksi itsenäiseksi HTML-tiedostoksi ilmaiseksi selaimessasi. Luvut järjestyksessä, perus typografia, pienet kuvat upotettuina. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/epub-to-html/",
+  "id": "/fi/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Essay på 500 ord",
   "short_name": "Essay på 500 ord",
   "description": "Gratis teller for essay på 500 ord: direkte ordtelling mot målet på 500 ord, sider med enkel og dobbel linjeavstand, avsnitt, lese- og taletid.",
-  "id": "/loona-text-tools/nb/500-word-essay-word-counter/",
+  "id": "/nb/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

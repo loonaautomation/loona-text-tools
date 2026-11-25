@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف منشورات LinkedIn",
   "short_name": "عدّاد أحرف منشورات LinkedIn",
   "description": "عدّاد أحرف منشورات LinkedIn مجانًا: عدّ أحرف مباشر ضد حد الـ3,000 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/linkedin-post-character-counter/",
+  "id": "/ar/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

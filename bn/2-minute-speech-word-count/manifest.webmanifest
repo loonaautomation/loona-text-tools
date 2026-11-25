@@ -2,7 +2,7 @@
   "name": "Loona 2-মিনিটের বক্তৃতা",
   "short_name": "2-মিনিটের বক্তৃতা",
   "description": "2-মিনিটের বক্তৃতায় কত শব্দ? 220–360 শব্দ (কথোপকথনের গতিতে 300)। বলার-সময় যাচাইসহ বিনামূল্যের সরাসরি গণক।",
-  "id": "/loona-text-tools/bn/2-minute-speech-word-count/",
+  "id": "/bn/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

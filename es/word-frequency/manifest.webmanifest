@@ -2,7 +2,7 @@
   "name": "Loona Contador de frecuencia de palabras en línea",
   "short_name": "Contador de frecuencia de palabras en línea",
   "description": "Cuenta cuántas veces aparece cada palabra en tu texto y mira una tabla de frecuencias clasificada con porcentajes. Contador de frecuencia de palabras en línea gratuito: sin registro, instantáneo.",
-  "id": "/loona-text-tools/es/word-frequency/",
+  "id": "/es/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

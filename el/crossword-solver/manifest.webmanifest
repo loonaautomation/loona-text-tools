@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Λύστε μοτίβα σταυρολέξων όπως c?oss?ord σε σχέση με 172,820 αγγλικές λέξεις. Πληκτρολογήστε τα γράμματα που γνωρίζετε, χρησιμοποιήστε ? για τα τετράγωνα που λείπουν και φιλτράρετε με γράμματα που πρέπει να περιέχονται. Δωρεάν, χωρίς εγγραφή, 100% στη συσκευή.",
-  "id": "/loona-text-tools/el/crossword-solver/",
+  "id": "/el/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

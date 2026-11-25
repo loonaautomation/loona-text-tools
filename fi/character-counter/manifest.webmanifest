@@ -2,7 +2,7 @@
   "name": "Loona Merkkilaskuri verkossa",
   "short_name": "Merkkilaskuri verkossa",
   "description": "Laske merkit välilyönneillä ja ilman ja tarkista rajat X:lle (Twitter), tekstiviesteille, metakuvauksille ja muille. Ilmainen merkkilaskuri verkossa – rekisteröitymistä ei tarvita.",
-  "id": "/loona-text-tools/fi/character-counter/",
+  "id": "/fi/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

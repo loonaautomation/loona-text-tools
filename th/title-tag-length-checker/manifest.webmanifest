@@ -2,7 +2,7 @@
   "name": "Loona ตัวตรวจสอบความยาวแท็กชื่อเรื่อง",
   "short_name": "ตัวตรวจสอบความยาวแท็กชื่อเรื่อง",
   "description": "ตัวตรวจสอบความยาวแท็กชื่อเรื่องฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 60 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/title-tag-length-checker/",
+  "id": "/th/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

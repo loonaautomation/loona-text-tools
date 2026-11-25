@@ -2,7 +2,7 @@
   "name": "Loona Lösenordsgenerator online",
   "short_name": "Lösenordsgenerator online",
   "description": "Generera starka, slumpmässiga lösenord med den längd och de symboler du väljer, plus en ärlig styrkemätare. Gratis lösenordsgenerator - skapad endast på din enhet.",
-  "id": "/loona-text-tools/sv/password-generator/",
+  "id": "/sv/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

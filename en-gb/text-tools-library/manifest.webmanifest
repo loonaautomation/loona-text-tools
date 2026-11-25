@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/text-tools-library/",
+  "id": "/en-gb/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

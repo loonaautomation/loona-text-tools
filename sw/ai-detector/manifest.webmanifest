@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Bandika maandishi yoyote na uone ishara za uandishi ambazo vigunduzi vya AI hupima - mdundo wa sentensi, utofauti wa msamiati, vifungu vinavyorudiwa na utabirifu. Kigunduzi cha AI bure: bila kujisajili, bila hukumu, na maandishi yako hayaondoki kwenye kivinjari chako kamwe.",
-  "id": "/loona-text-tools/sw/ai-detector/",
+  "id": "/sw/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Dalam talian",
   "short_name": "Pengira Aksara Dalam talian",
   "description": "Kira aksara dengan dan tanpa jarak dan semak had untuk X (Twitter), SMS, deskripsi meta dan lain. Pengira aksara dalam talian percuma - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/character-counter/",
+  "id": "/ms/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

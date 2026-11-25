@@ -2,7 +2,7 @@
   "name": "Loona Padam Pemisah Baris Dalam talian",
   "short_name": "Padam Pemisah Baris Dalam talian",
   "description": "Padam pemisah baris dan gabungkan baris rusak menjadi perenggan bersih - sempurna untuk teks yang disalin dari PDF. Penghapus pemisah baris dalam talian percuma, tanpa pendaftaran, hasil serta-merta.",
-  "id": "/loona-text-tools/ms/remove-line-breaks/",
+  "id": "/ms/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

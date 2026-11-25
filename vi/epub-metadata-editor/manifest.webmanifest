@@ -2,7 +2,7 @@
   "name": "Loona Trình chỉnh sửa siêu dữ liệu EPUB miễn phí",
   "short_name": "Trình chỉnh sửa siêu dữ liệu EPUB miễn phí",
   "description": "Chỉnh sửa siêu dữ liệu EPUB miễn phí trong trình duyệt của bạn: tiêu đề, tác giả, ngôn ngữ, nhà xuất bản và mô tả, với thông tin bìa được hiển thị. Các chương không bị động vào, không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/epub-metadata-editor/",
+  "id": "/vi/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

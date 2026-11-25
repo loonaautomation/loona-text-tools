@@ -2,7 +2,7 @@
   "name": "Loona Metinden ASCII'ye Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Metinden ASCII'ye Dönüştürücü Çevrimiçi Ücretsiz",
   "description": "Metni ASCII kodlarına (her karakter için ondalık, hex, sekizlik ve ikili) dönüştürün ve ASCII kodlarını metne geri dönüştürün. Ücretsiz, anında, kayıt yok.",
-  "id": "/loona-text-tools/tr/text-to-ascii-converter/",
+  "id": "/tr/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

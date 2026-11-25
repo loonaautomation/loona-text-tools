@@ -2,7 +2,7 @@
   "name": "Loona 在线单词计数器,免费",
   "short_name": "在线单词计数器,免费",
   "description": "即时统计任何文本的单词、字符、句子和段落,带有阅读时间和演讲时间。免费单词计数器,无需注册,可离线工作。",
-  "id": "/loona-text-tools/zh/word-counter/",
+  "id": "/zh/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

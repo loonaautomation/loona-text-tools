@@ -2,7 +2,7 @@
   "name": "Loona ממיר תמונה לטקסט (OCR) מקוון חינמי",
   "short_name": "ממיר תמונה לטקסט (OCR) מקוון חינמי",
   "description": "חלצו טקסט ניתן לעריכה מתמונות וצילומים עם OCR חינמי שפועל 100% בדפדפן שלכם. PNG, JPG, WebP ו-BMP - התמונה שלכם לעולם לא מועלית.",
-  "id": "/loona-text-tools/he/image-to-text-converter/",
+  "id": "/he/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор Lorem Ipsum онлайн",
   "short_name": "Генератор Lorem Ipsum онлайн",
   "description": "Создавайте текст-заполнитель lorem ipsum по абзацам, предложениям или словам — готовый к вставке в дизайны и макеты. Бесплатный генератор lorem ipsum, регистрация не нужна.",
-  "id": "/loona-text-tools/ru/lorem-ipsum-generator/",
+  "id": "/ru/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

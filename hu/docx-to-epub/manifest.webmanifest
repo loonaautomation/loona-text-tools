@@ -2,7 +2,7 @@
   "name": "Loona DOCX–EPUB átalakító ingyen",
   "short_name": "DOCX–EPUB átalakító ingyen",
   "description": "Alakítsa a DOCX Word-dokumentumokat EPUB e-könyvekké ingyen a böngészőjében. A címsorok fejezetekké válnak; a félkövér, dőlt, listák és képek átalakulnak. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/docx-to-epub/",
+  "id": "/hu/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

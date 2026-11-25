@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE 변환기",
   "short_name": "CONSTANT_CASE 변환기",
   "description": "무료 CONSTANT_CASE 변환기 — 텍스트를 붙여 넣으면 즉시 CONSTANT_CASE를 얻어요. 브라우저에서 실시간 변환, 회원가입 없음, 업로드 없음이에요.",
-  "id": "/loona-text-tools/ko/constant-case-converter/",
+  "id": "/ko/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

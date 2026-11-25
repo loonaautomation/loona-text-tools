@@ -2,7 +2,7 @@
   "name": "Loona Generador de lorem ipsum en línea",
   "short_name": "Generador de lorem ipsum en línea",
   "description": "Genera texto ficticio lorem ipsum por párrafo, frase o palabra: listo para pegar en diseños y maquetas. Generador de lorem ipsum gratuito, sin registro.",
-  "id": "/loona-text-tools/es/lorem-ipsum-generator/",
+  "id": "/es/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

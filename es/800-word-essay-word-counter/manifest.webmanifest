@@ -2,7 +2,7 @@
   "name": "Loona Ensayo de 800 palabras",
   "short_name": "Ensayo de 800 palabras",
   "description": "Contador de ensayos de 800 palabras gratis: conteo de palabras en vivo hasta el objetivo de 800 palabras, páginas a espacio simple y doble, párrafos, tiempo de lectura y de exposición oral.",
-  "id": "/loona-text-tools/es/800-word-essay-word-counter/",
+  "id": "/es/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας aLtErNaTiNg CaSe",
   "short_name": "Μετατροπέας aLtErNaTiNg CaSe",
   "description": "Δωρεάν μετατροπέας aLtErNaTiNg CaSe — επικολλήστε κείμενο και πάρετε aLtErNaTiNg CaSe αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/alternating-case-converter/",
+  "id": "/el/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

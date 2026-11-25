@@ -2,7 +2,7 @@
   "name": "Loona Reading Time Calculator",
   "short_name": "Reading Time Calculator",
   "description": "Paste any text and see how long it takes to read at slow, average and fast speeds - plus how many words you need for a target reading time. Free, no sign-up.",
-  "id": "/loona-text-tools/reading-time-calculator/",
+  "id": "/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

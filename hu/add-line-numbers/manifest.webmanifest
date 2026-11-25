@@ -2,7 +2,7 @@
   "name": "Loona Sorszámozás online",
   "short_name": "Sorszámozás online",
   "description": "Adjon számokat szövege minden sorához szabadon választott kezdettel, lépésközzel, kitöltéssel és elválasztóval. Ingyenes sorszámozó eszköz - regisztráció nélkül, azonnal és privát módon.",
-  "id": "/loona-text-tools/hu/add-line-numbers/",
+  "id": "/hu/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

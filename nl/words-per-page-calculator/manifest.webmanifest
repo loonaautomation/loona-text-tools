@@ -2,7 +2,7 @@
   "name": "Loona Calculator voor woorden per pagina",
   "short_name": "Calculator voor woorden per pagina",
   "description": "Gratis calculator voor woorden per pagina: voer woorden, lettergrootte en regelafstand in om het aantal pagina's en woorden per pagina te krijgen.",
-  "id": "/loona-text-tools/nl/words-per-page-calculator/",
+  "id": "/nl/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

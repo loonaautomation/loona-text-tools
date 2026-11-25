@@ -2,7 +2,7 @@
   "name": "Loona PascalCase कन्वर्टर",
   "short_name": "PascalCase कन्वर्टर",
   "description": "मुफ़्त PascalCase कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत PascalCase पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-text-tools/hi/pascalcase-converter/",
+  "id": "/hi/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

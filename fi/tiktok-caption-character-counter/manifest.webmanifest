@@ -2,7 +2,7 @@
   "name": "Loona TikTok-kuvatekstien merkkilaskuri",
   "short_name": "TikTok-kuvatekstien merkkilaskuri",
   "description": "Ilmainen TikTok-kuvatekstien merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 2,200 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/tiktok-caption-character-counter/",
+  "id": "/fi/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

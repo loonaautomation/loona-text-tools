@@ -2,7 +2,7 @@
   "name": "Loona Anagram Oluşturucu ve Denetleyici Çevrimiçi Ücretsiz",
   "short_name": "Anagram Oluşturucu ve Denetleyici Çevrimiçi Ücretsiz",
   "description": "Gerçek İngilizce kelimelerden herhangi bir kelimenin anagramlarını bulun ve iki kelimenin veya ifadenin birbirinin anagramı olup olmadığını kontrol edin. Ücretsiz anagram çözücü, kayıt yok.",
-  "id": "/loona-text-tools/tr/anagram-generator/",
+  "id": "/tr/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

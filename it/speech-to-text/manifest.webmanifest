@@ -2,7 +2,7 @@
   "name": "Loona Da voce a testo online gratuito",
   "short_name": "Da voce a testo online gratuito",
   "description": "Detta con la tua voce e guardala diventare testo - da voce a testo online gratuito per inglese, urdu e altre lingue. Nessuna registrazione; funziona in Chrome ed Edge.",
-  "id": "/loona-text-tools/it/speech-to-text/",
+  "id": "/it/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

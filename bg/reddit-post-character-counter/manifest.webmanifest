@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за публикации в Reddit",
   "short_name": "Брояч на знаци за публикации в Reddit",
   "description": "Безплатен брояч на знаци за публикации в Reddit: броене на знаци на живо спрямо ограничението от 40,000 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/reddit-post-character-counter/",
+  "id": "/bg/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

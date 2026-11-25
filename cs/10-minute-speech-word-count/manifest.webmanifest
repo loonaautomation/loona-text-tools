@@ -2,7 +2,7 @@
   "name": "Loona Projev na 10 minut",
   "short_name": "Projev na 10 minut",
   "description": "Kolik slov má projev na 10 minut? 1,100–1,800 slov (1,500 při konverzačním tempu). Bezplatné živé počítadlo s kontrolou doby mluvení.",
-  "id": "/loona-text-tools/cs/10-minute-speech-word-count/",
+  "id": "/cs/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

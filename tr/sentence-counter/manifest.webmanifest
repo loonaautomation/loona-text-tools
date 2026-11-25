@@ -2,7 +2,7 @@
   "name": "Loona Cümle Sayacı Çevrimiçi Ücretsiz",
   "short_name": "Cümle Sayacı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir metindeki cümleleri, paragrafları, kelimeleri ve karakterleri anında sayın; ortalama cümle uzunluğuyla. Ücretsiz cümle sayacı, kayıt yok, tarayıcınızda çalışır.",
-  "id": "/loona-text-tools/tr/sentence-counter/",
+  "id": "/tr/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

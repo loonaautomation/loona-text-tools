@@ -2,7 +2,7 @@
   "name": "Loona Inversare text online",
   "short_name": "Inversare text online",
   "description": "Inversează textul în patru moduri: tot textul de la coadă la cap, fiecare cuvânt de la coadă la cap, ordinea cuvintelor întoarsă sau ordinea liniilor întoarsă. Inversor de text online gratuit - fără înregistrare.",
-  "id": "/loona-text-tools/ro/reverse-text/",
+  "id": "/ro/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

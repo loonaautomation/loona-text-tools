@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Tajuk",
   "short_name": "Pengonversi Huruf Tajuk",
   "description": "Pengonversi huruf tajuk percuma — tampal teks dan dapatkan Huruf Tajuk serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/title-case-converter/",
+  "id": "/ms/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

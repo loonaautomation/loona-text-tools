@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Mistari Rudufu Mtandaoni",
   "short_name": "Ondoa Mistari Rudufu Mtandaoni",
   "description": "Ondoa mistari rudufu kutoka orodha au maandishi yoyote na uhifadhi mistari ya kipekee tu, kwa mpangilio wa asili. Kiondoaji cha bure cha mistari rudufu - bila kujisajili, matokeo ya papo hapo.",
-  "id": "/loona-text-tools/sw/remove-duplicate-lines/",
+  "id": "/sw/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

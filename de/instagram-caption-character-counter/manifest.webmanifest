@@ -2,7 +2,7 @@
   "name": "Loona Instagram-Bildunterschrift-Zeichenzähler",
   "short_name": "Instagram-Bildunterschrift-Zeichenzähler",
   "description": "Kostenloser Instagram-Bildunterschrift-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 2.200-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/instagram-caption-character-counter/",
+  "id": "/de/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

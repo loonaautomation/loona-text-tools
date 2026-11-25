@@ -2,7 +2,7 @@
   "name": "Loona Gerador de temas aleatórios online grátis",
   "short_name": "Gerador de temas aleatórios",
   "description": "Gere temas aleatórios para redações, discursos, debates, parágrafos, apresentações e histórias: 900 temas escritos à mão em 9 categorias, filtrados por nível. Grátis, sem registo.",
-  "id": "/loona-text-tools/pt-pt/random-topic-generator/",
+  "id": "/pt-pt/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

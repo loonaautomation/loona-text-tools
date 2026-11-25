@@ -2,7 +2,7 @@
   "name": "Loona Kikaguzi cha Urefu wa Lebo ya Mada",
   "short_name": "Kikaguzi cha Urefu wa Lebo ya Mada",
   "description": "Kikaguzi cha bure cha urefu wa lebo ya mada: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 60, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/title-tag-length-checker/",
+  "id": "/sw/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

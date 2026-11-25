@@ -2,7 +2,7 @@
   "name": "Loona camelCase-omzetter",
   "short_name": "camelCase-omzetter",
   "description": "Gratis camelCase-omzetter — plak tekst en krijg direct camelCase. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/camelcase-converter/",
+  "id": "/nl/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

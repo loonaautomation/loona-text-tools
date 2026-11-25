@@ -2,7 +2,7 @@
   "name": "Loona Spreektijdcalculator",
   "short_name": "Spreektijdcalculator",
   "description": "Plak je toespraak of script en zie hoe lang het duurt om hem voor te dragen in langzaam, gespreks- en snel tempo - plus hoeveel woorden er in een doeltijd passen. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/speaking-time-calculator/",
+  "id": "/nl/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

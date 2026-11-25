@@ -2,7 +2,7 @@
   "name": "Loona Contatore di sillabe online gratuito",
   "short_name": "Contatore di sillabe online gratuito",
   "description": "Conta le sillabe in qualsiasi parola, frase o testo completo all'istante - sillabe totali, dettaglio per parola e medie. Contatore di sillabe gratuito, nessuna registrazione, funziona offline.",
-  "id": "/loona-text-tools/it/syllable-counter/",
+  "id": "/it/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

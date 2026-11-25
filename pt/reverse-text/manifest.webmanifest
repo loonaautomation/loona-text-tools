@@ -2,7 +2,7 @@
   "name": "Loona Inverter Texto Online",
   "short_name": "Inverter Texto Online",
   "description": "Inverta texto de quatro formas: texto inteiro ao contrário, cada palavra ao contrário, ordem das palavras trocada, ou ordem das linhas trocada. Inversor de texto online gratuito - sem registo.",
-  "id": "/loona-text-tools/pt/reverse-text/",
+  "id": "/pt/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO フォネティックアルファベット変換ツール",
   "short_name": "NATO フォネティックアルファベット変換ツール",
   "description": "任意のテキストを NATO フォネティックアルファベット（Alfa、Bravo、Charlie）に変換し、NATO 表記をプレーンテキストにデコードし戻します。無料、即時、登録不要。",
-  "id": "/loona-text-tools/ja/nato-phonetic-alphabet-converter/",
+  "id": "/ja/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

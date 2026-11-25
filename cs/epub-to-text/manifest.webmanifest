@@ -2,7 +2,7 @@
   "name": "Loona Převodník EPUB do textu zdarma",
   "short_name": "Převodník EPUB do textu zdarma",
   "description": "Převeďte elektronické knihy EPUB do čistého prostého textu (.txt) zdarma, ve svém prohlížeči. Kapitoly v pořadí čtení, nadpisy zachovány, seznam kapitol a počet slov zobrazeny jako první. Bez nahrávání, bez registrace.",
-  "id": "/loona-text-tools/cs/epub-to-text/",
+  "id": "/cs/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

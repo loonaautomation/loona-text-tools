@@ -2,7 +2,7 @@
   "name": "Loona Palindrom-ellenőrző online ingyen",
   "short_name": "Palindrom-ellenőrző online ingyen",
   "description": "Ellenőrizze, hogy bármely szó, szám vagy mondat palindrom-e - előre és hátra olvasva ugyanaz. Megmutatja a megtisztított szöveget és a fordítottját. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/palindrome-checker/",
+  "id": "/hu/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

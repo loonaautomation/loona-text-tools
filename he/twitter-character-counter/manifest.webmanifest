@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים ל-Twitter / X",
   "short_name": "מונה תווים ל-Twitter / X",
   "description": "מונה תווי Twitter / X בחינם: ספירת תווים חיה מול מגבלת 280 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/twitter-character-counter/",
+  "id": "/he/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Remove Extra Spaces - Tidy Messy Text in One Click",
   "short_name": "Remove Extra Spaces - Tidy Messy Text in One Click",
   "description": "Remove extra spaces, tabs and blank lines from text in one click. Tidy text copied from PDFs, emails and web pages. Free online remover - no sign-up needed.",
-  "id": "/loona-text-tools/en-us/remove-extra-spaces/",
+  "id": "/en-us/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

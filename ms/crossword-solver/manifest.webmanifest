@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Selesaikan corak silang kata seperti c?oss?ord terhadap 172,820 perkataan Inggeris. Taip huruf yang anda tahu, gunakan ? untuk petak yang hilang, tapis dengan huruf mesti ada. Percuma, tanpa pendaftaran, 100% pada peranti anda.",
-  "id": "/loona-text-tools/ms/crossword-solver/",
+  "id": "/ms/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

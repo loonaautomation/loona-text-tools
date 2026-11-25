@@ -2,7 +2,7 @@
   "name": "Loona Password Generator Online",
   "short_name": "Password Generator Online",
   "description": "Generate strong, random passwords with the length and symbols you choose, plus an honest strength meter. Free password generator - created on your device only.",
-  "id": "/loona-text-tools/password-generator/",
+  "id": "/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

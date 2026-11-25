@@ -2,7 +2,7 @@
   "name": "Loona পাসওয়ার্ড জেনারেটর অনলাইন",
   "short_name": "পাসওয়ার্ড জেনারেটর অনলাইন",
   "description": "আপনার বেছে নেওয়া দৈর্ঘ্য ও চিহ্নসহ শক্তিশালী, এলোমেলো পাসওয়ার্ড তৈরি করুন, সঙ্গে সৎ শক্তি মাপক। বিনামূল্যের পাসওয়ার্ড জেনারেটর - শুধু আপনার ডিভাইসেই তৈরি।",
-  "id": "/loona-text-tools/bn/password-generator/",
+  "id": "/bn/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

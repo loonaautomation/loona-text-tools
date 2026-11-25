@@ -2,7 +2,7 @@
   "name": "Loona Anagrammigeneraattori ja -tarkistin verkossa ilmaiseksi",
   "short_name": "Anagrammigeneraattori ja -tarkistin verkossa ilmaiseksi",
   "description": "Etsi minkä tahansa sanan anagrammeja aidoista englannin sanoista ja tarkista, ovatko kaksi sanaa tai lausetta toistensa anagrammeja. Ilmainen anagramminratkaisija, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/anagram-generator/",
+  "id": "/fi/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Hati ya Kiurdu cha Kirumi kwenda Kiurdu Mtandaoni Bure",
   "short_name": "Kibadilishaji cha Hati ya Kiurdu cha Kirumi kwenda Kiurdu Mtandaoni Bure",
   "description": "Badilisha Kiurdu cha Kirumi (herufi za Kilatini) kuwa hati sahihi ya Kiurdu mara moja - 'mera naam' huwa uandishi halisi wa Kiurdu. Kibadilishaji cha bure cha Kiurdu cha Kirumi kwenda Kiurdu kwa Pakistan.",
-  "id": "/loona-text-tools/sw/roman-urdu-to-urdu/",
+  "id": "/sw/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

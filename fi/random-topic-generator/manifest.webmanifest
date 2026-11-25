@@ -2,7 +2,7 @@
   "name": "Loona Satunnaisaihegeneraattori verkossa ilmaiseksi",
   "short_name": "Satunnaisaihegeneraattori verkossa ilmaiseksi",
   "description": "Luo satunnaisia aiheita esseille, puheille, väittelyille, kappaleille, esityksille ja tarinoille – 900 käsin kirjoitettua aihetta 9 kategoriassa, suodatettuna tason mukaan. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/random-topic-generator/",
+  "id": "/fi/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

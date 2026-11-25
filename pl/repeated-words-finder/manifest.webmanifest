@@ -2,7 +2,7 @@
   "name": "Loona Darmowa wyszukiwarka powtarzających się słów online",
   "short_name": "Darmowa wyszukiwarka powtarzających się słów online",
   "description": "Znajdź każde słowo, które występuje w Twoim tekście więcej niż raz, w rankingu według częstości powtórzeń. Wyłapuj przypadkowe podwójne słowa i nadużywane słowa. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/repeated-words-finder/",
+  "id": "/pl/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

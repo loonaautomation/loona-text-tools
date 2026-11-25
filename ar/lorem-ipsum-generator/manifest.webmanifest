@@ -2,7 +2,7 @@
   "name": "Loona مولّد لوريم إيبسوم عبر الإنترنت",
   "short_name": "مولّد لوريم إيبسوم عبر الإنترنت",
   "description": "ولّد نص لوريم إيبسوم وهميًا حسب الفقرة أو الجملة أو الكلمة - جاهزًا للصق في التصميمات والتخطيطات. مولّد لوريم إيبسوم مجاني، لا حاجة للتسجيل.",
-  "id": "/loona-text-tools/ar/lorem-ipsum-generator/",
+  "id": "/ar/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

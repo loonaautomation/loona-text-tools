@@ -2,7 +2,7 @@
   "name": "Loona Wörter-pro-Seite-Rechner",
   "short_name": "Wörter-pro-Seite-Rechner",
   "description": "Kostenloser Wörter-pro-Seite-Rechner: Wörter, Schriftgröße und Zeilenabstand eingeben, um Seitenzahl und Wörter pro Seite zu erhalten.",
-  "id": "/loona-text-tools/de/words-per-page-calculator/",
+  "id": "/de/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

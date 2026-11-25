@@ -2,7 +2,7 @@
   "name": "Loona Metinden EPUB'a Dönüştürücü Ücretsiz",
   "short_name": "Metinden EPUB'a Dönüştürücü Ücretsiz",
   "description": "Düz metni veya Markdown'ı tarayıcınızda ücretsiz olarak geçerli bir EPUB e-kitabına dönüştürün. Başlık ve yazar, başlıklardan bölümler, herhangi bir EPUB okuyucuda açılır. Yükleme yok, kayıt yok.",
-  "id": "/loona-text-tools/tr/text-to-epub/",
+  "id": "/tr/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

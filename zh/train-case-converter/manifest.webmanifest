@@ -2,7 +2,7 @@
   "name": "Loona Train-Case 转换器",
   "short_name": "Train-Case 转换器",
   "description": "免费的 Train-Case 转换器——粘贴文本,立即得到 Train-Case。在您的浏览器中实时转换,无需注册,不上传。",
-  "id": "/loona-text-tools/zh/train-case-converter/",
+  "id": "/zh/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

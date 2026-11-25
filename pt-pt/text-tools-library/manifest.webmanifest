@@ -2,7 +2,7 @@
   "name": "Loona Biblioteca de Ferramentas de Texto",
   "short_name": "Biblioteca de Ferramentas de Texto",
   "description": "A biblioteca completa do Loona Text Tools: conversores de caixa, contadores de palavras para ensaios e discursos, verificadores de limites de caracteres de plataformas e calculadoras de legibilidade.",
-  "id": "/loona-text-tools/pt-pt/text-tools-library/",
+  "id": "/pt-pt/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

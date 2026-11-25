@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Muda wa Kusoma",
   "short_name": "Kikokotoo cha Muda wa Kusoma",
   "description": "Bandika maandishi yoyote na uone inachukua muda gani kusoma kwa kasi za polepole, wastani na haraka - pamoja na maneno mangapi unayohitaji kwa muda lengwa wa kusoma. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/reading-time-calculator/",
+  "id": "/sw/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

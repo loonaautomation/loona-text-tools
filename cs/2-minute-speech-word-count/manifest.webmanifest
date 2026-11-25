@@ -2,7 +2,7 @@
   "name": "Loona Projev na 2 minuty",
   "short_name": "Projev na 2 minuty",
   "description": "Kolik slov má projev na 2 minuty? 220–360 slov (300 při konverzačním tempu). Bezplatné živé počítadlo s kontrolou doby mluvení.",
-  "id": "/loona-text-tools/cs/2-minute-speech-word-count/",
+  "id": "/cs/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

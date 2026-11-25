@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів повідомлень Discord",
   "short_name": "Лічильник символів повідомлень Discord",
   "description": "Безкоштовний лічильник символів повідомлень Discord: підрахунок символів наживо проти ліміту 2,000 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/discord-message-character-counter/",
+  "id": "/uk/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

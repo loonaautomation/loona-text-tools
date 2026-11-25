@@ -2,7 +2,7 @@
   "name": "Loona Tal på 1 minut",
   "short_name": "Tal på 1 minut",
   "description": "Hur många ord i ett tal på 1 minut? 110–180 ord (150 i samtalstakt). Gratis liveräknare med taltidskontroll.",
-  "id": "/loona-text-tools/sv/1-minute-speech-word-count/",
+  "id": "/sv/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

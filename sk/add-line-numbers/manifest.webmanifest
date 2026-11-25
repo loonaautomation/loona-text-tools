@@ -2,7 +2,7 @@
   "name": "Loona Pridanie čísel riadkov online",
   "short_name": "Pridanie čísel riadkov online",
   "description": "Pridajte čísla ku každému riadku svojho textu s vašou voľbou začiatku, kroku, výplne a oddeľovača. Bezplatný nástroj na číslovanie riadkov - bez registrácie, okamžitý a súkromný.",
-  "id": "/loona-text-tools/sk/add-line-numbers/",
+  "id": "/sk/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

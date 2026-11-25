@@ -2,7 +2,7 @@
   "name": "Loona اوقاف آن لائن مفت ہٹائیں",
   "short_name": "اوقاف آن لائن مفت ہٹائیں",
   "description": "ایک کلک میں کسی بھی متن سے اوقاف ہٹائیں - فل اسٹاپس، کومے، کوٹس اور مزید - اپوسٹرافی اور ہائفنز برقرار رکھنے کے آپشنز کے ساتھ۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/remove-punctuation/",
+  "id": "/ur/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

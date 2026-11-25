@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Hali ya Sentensi",
   "short_name": "Kibadilishaji cha Hali ya Sentensi",
   "description": "Kibadilishaji cha bure cha hali ya sentensi — bandika maandishi na upate Hali ya sentensi mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/sentence-case-converter/",
+  "id": "/sw/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

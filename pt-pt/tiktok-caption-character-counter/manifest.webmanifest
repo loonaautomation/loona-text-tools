@@ -2,7 +2,7 @@
   "name": "Loona Contador de Caracteres de Legendas do TikTok",
   "short_name": "Contador de Caracteres de Legendas do TikTok",
   "description": "Contador de Caracteres de Legendas do TikTok grátis contador: contagem de caracteres em direto face ao limite de 2,200 caracteres, com palavras e caracteres restantes mostrados enquanto escreve.",
-  "id": "/loona-text-tools/pt-pt/tiktok-caption-character-counter/",
+  "id": "/pt-pt/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

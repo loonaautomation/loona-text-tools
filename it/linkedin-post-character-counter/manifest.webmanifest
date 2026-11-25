@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri post LinkedIn",
   "short_name": "Contatore di caratteri post LinkedIn",
   "description": "Contatore gratuito Contatore di caratteri post LinkedIn: conteggio caratteri in tempo reale rispetto al limite di 3.000 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/linkedin-post-character-counter/",
+  "id": "/it/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

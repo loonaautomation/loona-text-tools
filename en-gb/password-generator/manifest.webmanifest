@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/password-generator/",
+  "id": "/en-gb/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

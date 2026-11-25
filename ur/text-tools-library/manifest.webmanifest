@@ -2,7 +2,7 @@
   "name": "Loona ٹیکسٹ ٹولز لائبریری",
   "short_name": "ٹیکسٹ ٹولز لائبریری",
   "description": "مکمل Loona Text Tools لائبریری: کیس کنورٹرز، مضمون اور تقریر کے الفاظ کاؤنٹرز، پلیٹ فارم حروف حد چیکرز اور مطالعہ اہلیت کیلکولیٹرز۔",
-  "id": "/loona-text-tools/ur/text-tools-library/",
+  "id": "/ur/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

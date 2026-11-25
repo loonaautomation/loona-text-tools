@@ -2,7 +2,7 @@
   "name": "Loona خطاب من 3 دقائق",
   "short_name": "خطاب من 3 دقائق",
   "description": "كم كلمة في خطاب من 3 دقائق؟ 330–540 كلمة (450 بإيقاع المحادثة). عدّاد مباشر مجاني مع فحص وقت التحدث.",
-  "id": "/loona-text-tools/ar/3-minute-speech-word-count/",
+  "id": "/ar/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

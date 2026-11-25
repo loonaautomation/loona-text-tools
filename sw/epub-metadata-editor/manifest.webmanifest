@@ -2,7 +2,7 @@
   "name": "Loona Kihariri cha Metadata ya EPUB Bure",
   "short_name": "Kihariri cha Metadata ya EPUB Bure",
   "description": "Hariri metadata ya EPUB bure katika kivinjari chako: mada, mwandishi, lugha, mchapishaji na maelezo, taarifa za jalada zikionyeshwa. Sura haziguswi, hakuna kupakia, hakuna kujisajili.",
-  "id": "/loona-text-tools/sw/epub-metadata-editor/",
+  "id": "/sw/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

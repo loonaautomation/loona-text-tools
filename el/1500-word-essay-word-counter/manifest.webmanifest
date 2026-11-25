@@ -2,7 +2,7 @@
   "name": "Loona Έκθεση 1,500 Λέξεων",
   "short_name": "Έκθεση 1,500 Λέξεων",
   "description": "Δωρεάν μετρητής έκθεσης 1,500 λέξεων: ζωντανό πλήθος λέξεων προς τον στόχο των 1,500 λέξεων, σελίδες με μονό και διπλό διάστιχο, παράγραφοι, χρόνος ανάγνωσης και ομιλίας.",
-  "id": "/loona-text-tools/el/1500-word-essay-word-counter/",
+  "id": "/el/1500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

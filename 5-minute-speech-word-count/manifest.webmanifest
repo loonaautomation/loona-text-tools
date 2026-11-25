@@ -2,7 +2,7 @@
   "name": "Loona 5-Minute Speech",
   "short_name": "5-Minute Speech",
   "description": "How many words in a 5-minute speech? 550–900 words (750 at conversational pace). Free live counter with speaking-time check.",
-  "id": "/loona-text-tools/5-minute-speech-word-count/",
+  "id": "/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona بلاگ پوسٹ کے الفاظ کی گنتی",
   "short_name": "بلاگ پوسٹ کے الفاظ کی گنتی",
   "description": "بلاگ پوسٹ کے الفاظ کی گنتی کا چیکر: لائیو گنتی، خبروں (300–500)، معیاری پوسٹس (1,000–1,500) اور گہرائی والی گائیڈز (2,000+) کے لیے لمبائی کے درجوں کے ساتھ۔",
-  "id": "/loona-text-tools/ur/blog-post-word-count/",
+  "id": "/ur/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Obrnuti tekst na mreži",
   "short_name": "Obrnuti tekst na mreži",
   "description": "Obrnite tekst na četiri načina: cijeli tekst unatrag, svaka riječ unatrag, redoslijed riječi okrenut ili redoslijed redaka okrenut. Besplatno mrežno okretanje teksta - registracija nije potrebna.",
-  "id": "/loona-text-tools/hr/reverse-text/",
+  "id": "/hr/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

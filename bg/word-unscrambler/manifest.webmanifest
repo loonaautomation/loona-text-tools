@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Подреждайте всякакви букви в истински английски думи с пълния речник ENABLE от 172,820 думи: резултати, групирани по дължина, с точки за Scrabble, филтри „започва с“, „завършва с“ и „съдържа“, както и поддръжка на празни плочки. Безплатно, без регистрация, а буквите ви никога не напускат браузъра.",
-  "id": "/loona-text-tools/bg/word-unscrambler/",
+  "id": "/bg/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

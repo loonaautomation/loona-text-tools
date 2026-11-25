@@ -2,7 +2,7 @@
   "name": "Loona Конвертор РеДуВаЩ сЕ РеГиСтЪр",
   "short_name": "Конвертор РеДуВаЩ сЕ РеГиСтЪр",
   "description": "Безплатен конвертор РеДуВаЩ сЕ РеГиСтЪр — поставете текст и получете РеДуВаЩ сЕ РеГиСтЪр мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
-  "id": "/loona-text-tools/bg/alternating-case-converter/",
+  "id": "/bg/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

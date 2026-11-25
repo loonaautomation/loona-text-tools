@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare till gemener",
   "short_name": "Omvandlare till gemener",
   "description": "Gratis omvandlare till gemener — klistra in text och få gemener omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/lowercase-converter/",
+  "id": "/sv/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

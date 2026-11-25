@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn-Beitrag-Zeichenzähler",
   "short_name": "LinkedIn-Beitrag-Zeichenzähler",
   "description": "Kostenloser LinkedIn-Beitrag-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 3.000-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/linkedin-post-character-counter/",
+  "id": "/de/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Проверка на дължината на мета описание",
   "short_name": "Проверка на дължината на мета описание",
   "description": "Безплатна проверка на дължината на мета описание: броене на знаци на живо спрямо ограничението от 160 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/meta-description-length-checker/",
+  "id": "/bg/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

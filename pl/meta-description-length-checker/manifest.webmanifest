@@ -2,7 +2,7 @@
   "name": "Loona Sprawdzanie długości opisu meta",
   "short_name": "Sprawdzanie długości opisu meta",
   "description": "Darmowe sprawdzanie długości opisu meta: liczenie znaków na żywo względem limitu 160 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/meta-description-length-checker/",
+  "id": "/pl/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

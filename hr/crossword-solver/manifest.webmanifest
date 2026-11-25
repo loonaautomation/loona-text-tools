@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Rješavajte uzorke križaljki poput c?oss?ord u odnosu na 172,820 engleskih riječi. Upišite slova koja znate, upotrijebite ? za polja koja nedostaju i filtrirajte slovima koja moraju biti sadržana. Besplatno, bez registracije, 100% na uređaju.",
-  "id": "/loona-text-tools/hr/crossword-solver/",
+  "id": "/hr/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

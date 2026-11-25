@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha CBZ kwenda PDF Bure",
   "short_name": "Kibadilishaji cha CBZ kwenda PDF Bure",
   "description": "Badilisha kumbukumbu za vichekesho za CBZ na ZIP kuwa PDF bure katika kivinjari chako. Kurasa kwa mpangilio wa asili (1, 2, 10), picha moja kwa kila ukurasa kwa ukubwa kamili. Hakuna kupakia, hakuna kujisajili.",
-  "id": "/loona-text-tools/sw/cbz-to-pdf/",
+  "id": "/sw/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

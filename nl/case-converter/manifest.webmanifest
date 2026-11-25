@@ -2,7 +2,7 @@
   "name": "Loona Hoofdletteromzetter online",
   "short_name": "Hoofdletteromzetter online",
   "description": "Zet tekst met één klik om naar HOOFDLETTERS, kleine letters, Titelcasing, Zinscasing, Gekapitaliseerd of aFwIsSeLeNdE casing. Gratis online hoofdletteromzetter - geen registratie nodig.",
-  "id": "/loona-text-tools/nl/case-converter/",
+  "id": "/nl/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

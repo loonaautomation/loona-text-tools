@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự mô tả YouTube",
   "short_name": "Bộ đếm ký tự mô tả YouTube",
   "description": "Bộ đếm ký tự mô tả YouTube miễn phí: đếm ký tự trực tiếp so với giới hạn 5,000 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/youtube-description-character-counter/",
+  "id": "/vi/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

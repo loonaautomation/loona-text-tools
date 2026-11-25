@@ -2,7 +2,7 @@
   "name": "Loona Image to Excel Converter - Turn a Table Photo into a Real Spreadsheet",
   "short_name": "Image to Excel Converter - Turn a Table Photo into a Real Spreadsheet",
   "description": "Convert a photo, scan or screenshot of a table into a real Excel (.xlsx) file with free OCR that runs 100% in your browser. Edit the table before you download - no upload, no sign-up.",
-  "id": "/loona-text-tools/en-us/image-to-excel-converter/",
+  "id": "/en-us/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

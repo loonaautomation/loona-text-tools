@@ -2,7 +2,7 @@
   "name": "Loona DOCX naar EPUB-omzetter gratis",
   "short_name": "DOCX naar EPUB-omzetter gratis",
   "description": "Zet DOCX Word-documenten gratis om naar EPUB-e-books in je browser. Koppen worden hoofdstukken; vet, cursief, lijsten en afbeeldingen worden omgezet. Geen upload, geen registratie.",
-  "id": "/loona-text-tools/nl/docx-to-epub/",
+  "id": "/nl/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

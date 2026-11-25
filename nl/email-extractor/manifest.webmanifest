@@ -2,7 +2,7 @@
   "name": "Loona E-mailextractor online gratis",
   "short_name": "E-mailextractor online gratis",
   "description": "Extraheer elk e-mailadres uit elke tekst, elk document of elke webpaginainhoud - ontdubbeld en één per regel vermeld. Draait 100% in je browser. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/email-extractor/",
+  "id": "/nl/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

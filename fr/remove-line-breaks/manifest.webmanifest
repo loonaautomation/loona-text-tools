@@ -2,7 +2,7 @@
   "name": "Loona Supprimer les sauts de ligne en ligne",
   "short_name": "Supprimer les sauts de ligne en ligne",
   "description": "Supprimez les sauts de ligne et joignez les lignes cassées en paragraphes propres - parfait pour le texte copié de PDF. Suppresseur de sauts de ligne en ligne gratuit, sans inscription, résultats instantanés.",
-  "id": "/loona-text-tools/fr/remove-line-breaks/",
+  "id": "/fr/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

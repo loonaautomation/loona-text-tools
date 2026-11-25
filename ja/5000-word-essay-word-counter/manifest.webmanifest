@@ -2,7 +2,7 @@
   "name": "Loona 5,000単語のエッセイ",
   "short_name": "5,000単語のエッセイ",
   "description": "無料 5,000単語エッセイカウンター：5,000単語の目標までのライブ単語数カウント、シングルスペースとダブルスペースのページ、段落、読書時間と話す時間。",
-  "id": "/loona-text-tools/ja/5000-word-essay-word-counter/",
+  "id": "/ja/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

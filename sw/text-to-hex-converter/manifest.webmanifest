@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Maandishi kwenda Heksi Mtandaoni Bure",
   "short_name": "Kibadilishaji cha Maandishi kwenda Heksi Mtandaoni Bure",
   "description": "Badilisha maandishi kuwa heksadesimali na heksi kurudi kwenye maandishi, ukishughulikia UTF-8 kwa usahihi kwa herufi zenye lafudhi, Kiurdu na emoji. Kibadilishaji cha bure cha heksi, bila kujisajili.",
-  "id": "/loona-text-tools/sw/text-to-hex-converter/",
+  "id": "/sw/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

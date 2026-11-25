@@ -2,7 +2,7 @@
   "name": "Loona 在线删除多余空格",
   "short_name": "在线删除多余空格",
   "description": "一键从文本中删除多余空格、制表符和空行。整理从 PDF、电子邮件和网页复制的文本。免费在线删除器——无需注册。",
-  "id": "/loona-text-tools/zh/remove-extra-spaces/",
+  "id": "/zh/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

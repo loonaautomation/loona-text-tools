@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free Uppercase converter — paste text and get UPPERCASE instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/en-us/uppercase-converter/",
+  "id": "/en-us/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

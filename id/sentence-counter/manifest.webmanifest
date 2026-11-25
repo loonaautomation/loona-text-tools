@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Kalimat Online Gratis",
   "short_name": "Penghitung Kalimat Online Gratis",
   "description": "Hitung kalimat, paragraf, kata dan karakter dalam teks apa pun secara instan, dengan panjang kalimat rata-rata. Penghitung kalimat gratis, tanpa pendaftaran, bekerja di browser Anda.",
-  "id": "/loona-text-tools/id/sentence-counter/",
+  "id": "/id/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

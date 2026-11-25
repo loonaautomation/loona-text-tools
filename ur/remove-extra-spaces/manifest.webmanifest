@@ -2,7 +2,7 @@
   "name": "Loona اضافی اسپیس آن لائن ہٹائیں",
   "short_name": "اضافی اسپیس آن لائن ہٹائیں",
   "description": "ایک کلک میں متن سے اضافی اسپیس، ٹیبز اور خالی سطریں ہٹائیں۔ PDFs، ای میلز اور ویب صفحات سے کاپی شدہ متن صاف کریں۔ مفت آن لائن ہٹانے والا - سائن اپ کی ضرورت نہیں۔",
-  "id": "/loona-text-tools/ur/remove-extra-spaces/",
+  "id": "/ur/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

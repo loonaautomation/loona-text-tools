@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов SMS",
   "short_name": "Счётчик символов SMS",
   "description": "Бесплатный счётчик символов SMS: определение GSM 7-bit и Unicode, количество сегментов и оставшиеся символы — в реальном времени, в вашем браузере.",
-  "id": "/loona-text-tools/ru/sms-character-counter/",
+  "id": "/ru/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

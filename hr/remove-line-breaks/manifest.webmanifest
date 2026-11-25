@@ -2,7 +2,7 @@
   "name": "Loona Ukloni prijelome redaka na mreži",
   "short_name": "Ukloni prijelome redaka na mreži",
   "description": "Uklonite prijelome redaka i spojite pokvarene retke u čiste odlomke - savršeno za tekst kopiran iz PDF-ova. Besplatan mrežni uklanjač prijeloma redaka, bez registracije, trenutačni rezultati.",
-  "id": "/loona-text-tools/hr/remove-line-breaks/",
+  "id": "/hr/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Geben Sie Ihre Wordle-Versuche ein und tippen Sie die Felder grau, gelb oder grün an - dieser kostenlose Helfer zeigt Ihnen jede Antwort, die noch passt, und die besten nächsten Versuche. Korrekte Logik für doppelte Buchstaben, keine Anmeldung, und alles läuft in Ihrem Browser.",
-  "id": "/loona-text-tools/de/wordle-helper/",
+  "id": "/de/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

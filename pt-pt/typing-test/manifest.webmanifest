@@ -2,7 +2,7 @@
   "name": "Loona Teste de Datilografia Online Grátis",
   "short_name": "Teste de Datilografia Online Grátis",
   "description": "Teste de datilografia de 60 segundos grátis: meça a sua velocidade de escrita em WPM, precisão e caracteres por minuto com textos fáceis, médios e difíceis. Sem registo, funciona 100% no seu navegador.",
-  "id": "/loona-text-tools/pt-pt/typing-test/",
+  "id": "/pt-pt/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

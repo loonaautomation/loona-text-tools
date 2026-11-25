@@ -2,7 +2,7 @@
   "name": "Loona 3-minutters tale",
   "short_name": "3-minutters tale",
   "description": "Hvor mange ord i en tale på 3 minutter? 330–540 ord (450 i samtaletempo). Gratis live tæller med taletidstjek.",
-  "id": "/loona-text-tools/da/3-minute-speech-word-count/",
+  "id": "/da/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

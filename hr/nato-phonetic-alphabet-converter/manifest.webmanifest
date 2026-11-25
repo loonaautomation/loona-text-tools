@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač NATO fonetske abecede",
   "short_name": "Pretvarač NATO fonetske abecede",
   "description": "Pretvorite bilo koji tekst u NATO fonetsku abecedu (Alfa, Bravo, Charlie) i dekodirajte NATO izgovor natrag u običan tekst. Besplatno, trenutačno, bez registracije.",
-  "id": "/loona-text-tools/hr/nato-phonetic-alphabet-converter/",
+  "id": "/hr/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ملخّص نصوص عبر الإنترنت",
   "short_name": "ملخّص نصوص عبر الإنترنت",
   "description": "لخّص أي نص طويل فورًا: الصق مقالًا أو بحثًا أو تقريرًا واحصل على أهم جمله الأصلية. ملخّص نصوص مجاني عبر الإنترنت - دون تسجيل، وخصوصية 100%.",
-  "id": "/loona-text-tools/ar/text-summarizer/",
+  "id": "/ar/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

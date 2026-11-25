@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Find the highest-scoring plays from your letter rack and check if any word is valid. Full 172,820-word ENABLE dictionary, blank tiles supported, 100% on-device. Free, no sign-up.",
-  "id": "/loona-text-tools/en-gb/scrabble-word-finder/",
+  "id": "/en-gb/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

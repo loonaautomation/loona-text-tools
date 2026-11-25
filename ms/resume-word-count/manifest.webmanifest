@@ -2,7 +2,7 @@
   "name": "Loona Jumlah Perkataan Resume",
   "short_name": "Jumlah Perkataan Resume",
   "description": "Penyemak jumlah perkataan resume: hitungan langsung dengan target satu halaman (400–600 perkataan), perkiraan halaman dan panduan pemangkasan.",
-  "id": "/loona-text-tools/ms/resume-word-count/",
+  "id": "/ms/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

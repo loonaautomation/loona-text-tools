@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Wordle 추측을 입력하고 타일을 회색, 노란색 또는 초록색으로 탭하세요: 이 무료 도우미는 아직 맞는 모든 답과 가장 좋은 다음 추측을 보여줍니다. 중복 글자에 대한 올바른 로직, 가입 불필요, 모든 것이 브라우저에서 실행됩니다.",
-  "id": "/loona-text-tools/ko/wordle-helper/",
+  "id": "/ko/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

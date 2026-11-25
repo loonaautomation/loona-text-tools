@@ -2,7 +2,7 @@
   "name": "Loona 5分間スピーチ",
   "short_name": "5分間スピーチ",
   "description": "5分間スピーチには単語がいくつですか？550–900 単語（会話ペースで 750）。話す時間をチェックできる無料ライブカウンター。",
-  "id": "/loona-text-tools/ja/5-minute-speech-word-count/",
+  "id": "/ja/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

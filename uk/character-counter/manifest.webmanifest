@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів онлайн",
   "short_name": "Лічильник символів онлайн",
   "description": "Рахуйте символи з пробілами та без і перевіряйте ліміти для X (Twitter), SMS, метаописів тощо. Безкоштовний онлайн-лічильник символів — реєстрація не потрібна.",
-  "id": "/loona-text-tools/uk/character-counter/",
+  "id": "/uk/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

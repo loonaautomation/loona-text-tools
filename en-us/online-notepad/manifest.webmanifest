@@ -2,7 +2,7 @@
   "name": "Loona Online Notepad - Auto-Saves as You Type",
   "short_name": "Online Notepad - Auto-Saves as You Type",
   "description": "A free online notepad that auto-saves in your browser as you type - download, print and word count included. No sign-up; your notes never leave your device.",
-  "id": "/loona-text-tools/en-us/online-notepad/",
+  "id": "/en-us/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงตัวพิมพ์แบบชื่อเรื่อง",
   "short_name": "ตัวแปลงตัวพิมพ์แบบชื่อเรื่อง",
   "description": "ตัวแปลง Title Case ฟรี — วางข้อความแล้วได้ Title Case ทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/title-case-converter/",
+  "id": "/th/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

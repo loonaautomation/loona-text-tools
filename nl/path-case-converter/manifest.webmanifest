@@ -2,7 +2,7 @@
   "name": "Loona path/case-omzetter",
   "short_name": "path/case-omzetter",
   "description": "Gratis path/case-omzetter — plak tekst en krijg direct path/case. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/path-case-converter/",
+  "id": "/nl/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

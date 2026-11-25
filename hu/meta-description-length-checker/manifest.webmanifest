@@ -2,7 +2,7 @@
   "name": "Loona Metaleírás-hossz ellenőrzője",
   "short_name": "Metaleírás-hossz ellenőrzője",
   "description": "Ingyenes metaleírás-hossz ellenőrző számláló: élő karakterszám a 160 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/meta-description-length-checker/",
+  "id": "/hu/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

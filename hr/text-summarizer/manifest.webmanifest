@@ -2,7 +2,7 @@
   "name": "Loona Sažimanje teksta online — sažmite dug tekst u trenu | Loona Text Tools",
   "short_name": "Sažimanje teksta online — sažmite dug tekst u trenu | Loona Text Tools",
   "description": "Sažmite bilo koji dug tekst u trenu: zalijepite članak, esej ili izvještaj i dobijte natrag njegove najvažnije izvorne rečenice. Besplatno online sažimanje teksta — bez registracije, 100 % privatno.",
-  "id": "/loona-text-tools/hr/text-summarizer/",
+  "id": "/hr/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

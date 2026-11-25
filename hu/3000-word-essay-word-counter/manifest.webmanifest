@@ -2,7 +2,7 @@
   "name": "Loona 3,000 szavas esszé",
   "short_name": "3,000 szavas esszé",
   "description": "Ingyenes 3,000 szavas esszészámláló: élő szószám a 3,000 szavas célig, oldalak szimpla és dupla sorközzel, bekezdések, olvasási és beszédidő.",
-  "id": "/loona-text-tools/hu/3000-word-essay-word-counter/",
+  "id": "/hu/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

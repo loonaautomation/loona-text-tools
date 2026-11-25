@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur image vers Excel en ligne gratuit",
   "short_name": "Convertisseur image vers Excel en ligne gratuit",
   "description": "Convertissez une photo, un scan ou une capture d’écran d’un tableau en un vrai fichier Excel (.xlsx) avec une OCR gratuite qui fonctionne à 100 % dans votre navigateur. Modifiez le tableau avant de le télécharger - aucun téléchargement, aucune inscription.",
-  "id": "/loona-text-tools/fr/image-to-excel-converter/",
+  "id": "/fr/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

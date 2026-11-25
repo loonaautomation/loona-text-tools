@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Palindrom Dalam talian Percuma",
   "short_name": "Penyemak Palindrom Dalam talian Percuma",
   "description": "Semak apakah perkataan, angka atau ayat apa pun adalah palindrom - dibaca sama dari depan dan belakang. Menampilkan teks yang dibersihkan dan kebalikannya. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/palindrome-checker/",
+  "id": "/ms/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

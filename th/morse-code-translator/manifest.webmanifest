@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลรหัสมอร์สออนไลน์",
   "short_name": "ตัวแปลรหัสมอร์สออนไลน์",
   "description": "แปลข้อความเป็นรหัสมอร์สและรหัสมอร์สกลับเป็นข้อความ และฟังมันเป็นเสียงบี๊บจริง ตัวแปลรหัสมอร์สออนไลน์ฟรี — ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-text-tools/th/morse-code-translator/",
+  "id": "/th/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

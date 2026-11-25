@@ -2,7 +2,7 @@
   "name": "Loona Convertidor DOCX a EPUB gratis",
   "short_name": "Convertidor DOCX a EPUB gratis",
   "description": "Convierte documentos DOCX de Word a libros EPUB gratis en tu navegador. Los encabezados se convierten en capítulos; la negrita, la cursiva, las listas y las imágenes se convierten. Sin subidas, sin registro.",
-  "id": "/loona-text-tools/es/docx-to-epub/",
+  "id": "/es/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

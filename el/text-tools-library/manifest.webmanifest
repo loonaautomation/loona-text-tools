@@ -2,7 +2,7 @@
   "name": "Loona Βιβλιοθήκη Εργαλείων Κειμένου",
   "short_name": "Βιβλιοθήκη Εργαλείων Κειμένου",
   "description": "Η πλήρης βιβλιοθήκη Loona Text Tools: μετατροπείς πεζών-κεφαλαίων, μετρητές λέξεων δοκιμίου και ομιλίας, ελεγκτές ορίων χαρακτήρων πλατφόρμας και υπολογιστές αναγνωσιμότητας.",
-  "id": "/loona-text-tools/el/text-tools-library/",
+  "id": "/el/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

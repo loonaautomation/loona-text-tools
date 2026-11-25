@@ -2,7 +2,7 @@
   "name": "Loona Morsecodevertaler online",
   "short_name": "Morsecodevertaler online",
   "description": "Vertaal tekst naar morsecode en morsecode terug naar tekst, en hoor het als echte piepjes. Gratis online morsecodevertaler - geen registratie, werkt in je browser.",
-  "id": "/loona-text-tools/nl/morse-code-translator/",
+  "id": "/nl/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

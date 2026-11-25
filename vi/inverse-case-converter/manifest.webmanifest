@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi iNVERSE cASE",
   "short_name": "Công cụ chuyển đổi iNVERSE cASE",
   "description": "Công cụ chuyển đổi iNVERSE cASE miễn phí — dán văn bản và nhận iNVERSE cASE ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/inverse-case-converter/",
+  "id": "/vi/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 行番号をオンラインで追加",
   "short_name": "行番号をオンラインで追加",
   "description": "開始、ステップ、ゼロ埋め、区切りを自由に選んで、テキストのすべての行に番号を付けます。無料の行番号ツール — 登録不要、即時、プライベート。",
-  "id": "/loona-text-tools/ja/add-line-numbers/",
+  "id": "/ja/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sprawdzanie niewidocznych znaków",
   "short_name": "Sprawdzanie niewidocznych znaków",
   "description": "Odkrywaj niewidoczne znaki ukrywające się w Twoim tekście - spacje o zerowej szerokości, BOM, spacje niełamiące i znaki kierunku - i usuwaj je jednym kliknięciem. Za darmo.",
-  "id": "/loona-text-tools/pl/invisible-character-checker/",
+  "id": "/pl/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

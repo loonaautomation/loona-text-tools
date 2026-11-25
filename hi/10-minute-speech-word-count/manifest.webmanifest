@@ -2,7 +2,7 @@
   "name": "Loona 10-मिनट भाषण",
   "short_name": "10-मिनट भाषण",
   "description": "10-मिनट के भाषण में कितने शब्द? 1,100–1,800 शब्द (बातचीत गति पर 1,500)। बोलने-के-समय की जांच के साथ मुफ़्त लाइव गणक।",
-  "id": "/loona-text-tools/hi/10-minute-speech-word-count/",
+  "id": "/hi/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

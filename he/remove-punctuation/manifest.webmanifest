@@ -2,7 +2,7 @@
   "name": "Loona הסרת סימני פיסוק אונליין בחינם",
   "short_name": "הסרת סימני פיסוק אונליין בחינם",
   "description": "הסירו סימני פיסוק מכל טקסט בלחיצה אחת - נקודות, פסיקים, מירכאות ועוד - עם אפשרויות לשמור גרשיים ומקפים. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/remove-punctuation/",
+  "id": "/he/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

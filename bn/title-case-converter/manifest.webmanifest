@@ -2,7 +2,7 @@
   "name": "Loona Title Case কনভার্টার",
   "short_name": "Title Case কনভার্টার",
   "description": "বিনামূল্যে Title Case কনভার্টার — টেক্সট পেস্ট করুন আর তাৎক্ষণিক Title Case পান। আপনার ব্রাউজারে সরাসরি রূপান্তর, কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-text-tools/bn/title-case-converter/",
+  "id": "/bn/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

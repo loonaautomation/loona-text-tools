@@ -2,7 +2,7 @@
   "name": "Loona 按型別劃分的小說詞數",
   "short_name": "按型別劃分的小說詞數",
   "description": "按型別劃分的小說詞數:成人 70,000–120,000,YA 50,000–90,000,中年級 20,000–55,000。免費實時計數器,附型別目標。",
-  "id": "/loona-text-tools/zh-hant/novel-word-count-guide/",
+  "id": "/zh-hant/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Есе от 500 думи",
   "short_name": "Есе от 500 думи",
   "description": "Безплатен брояч за есе от 500 думи: броене на думи на живо до целта от 500 думи, страници с единично и двойно разстояние, абзаци, време за четене и говорене.",
-  "id": "/loona-text-tools/bg/500-word-essay-word-counter/",
+  "id": "/bg/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona dot.case Dönüştürücü",
   "short_name": "dot.case Dönüştürücü",
   "description": "Ücretsiz dot.case dönüştürücü — metni yapıştırın ve anında dot.case elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/dot-case-converter/",
+  "id": "/tr/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

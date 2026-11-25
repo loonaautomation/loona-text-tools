@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Αναρτήσεων Reddit",
   "short_name": "Μετρητής Χαρακτήρων Αναρτήσεων Reddit",
   "description": "Δωρεάν μετρητής χαρακτήρων αναρτήσεων Reddit: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 40,000 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/reddit-post-character-counter/",
+  "id": "/el/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

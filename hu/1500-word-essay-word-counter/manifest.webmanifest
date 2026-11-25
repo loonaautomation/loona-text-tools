@@ -2,7 +2,7 @@
   "name": "Loona 1,500 szavas esszé",
   "short_name": "1,500 szavas esszé",
   "description": "Ingyenes 1,500 szavas esszészámláló: élő szószám az 1,500 szavas célig, oldalak szimpla és dupla sorközzel, bekezdések, olvasási és beszédidő.",
-  "id": "/loona-text-tools/hu/1500-word-essay-word-counter/",
+  "id": "/hu/1500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

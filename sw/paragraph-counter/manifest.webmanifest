@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Aya Mtandaoni Bure",
   "short_name": "Kihesabu cha Aya Mtandaoni Bure",
   "description": "Hesabu aya katika maandishi yoyote mara moja, pamoja na sentensi na maneno kwa aya na aya ndefu zaidi na fupi zaidi. Kihesabu cha bure cha aya, bila kujisajili.",
-  "id": "/loona-text-tools/sw/paragraph-counter/",
+  "id": "/sw/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

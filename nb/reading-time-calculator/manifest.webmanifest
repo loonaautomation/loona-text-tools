@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator for lesetid",
   "short_name": "Kalkulator for lesetid",
   "description": "Lim inn enhver tekst og se hvor lang tid den tar å lese i langsom, gjennomsnittlig og rask hastighet - pluss hvor mange ord du trenger for en mål-lesetid. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/reading-time-calculator/",
+  "id": "/nb/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

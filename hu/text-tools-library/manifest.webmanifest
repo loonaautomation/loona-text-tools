@@ -2,7 +2,7 @@
   "name": "Loona Szövegeszközök könyvtára",
   "short_name": "Szövegeszközök könyvtára",
   "description": "A teljes Loona Text Tools könyvtár: betűátalakítók, esszé- és beszédszámlálók, platform karakterkorlát-ellenőrzők és olvashatósági számítások.",
-  "id": "/loona-text-tools/hu/text-tools-library/",
+  "id": "/hu/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

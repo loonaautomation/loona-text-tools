@@ -2,7 +2,7 @@
   "name": "Loona Teksti binääriksi -muunnin verkossa",
   "short_name": "Teksti binääriksi -muunnin verkossa",
   "description": "Muunna teksti binäärikoodiksi (0:t ja 1:t) ja binääri takaisin luettavaksi tekstiksi täydellä Unicode-tuella. Ilmainen teksti binääriksi -muunnin – loistava tietojenkäsittelytieteen opiskelijoille.",
-  "id": "/loona-text-tools/fi/text-to-binary/",
+  "id": "/fi/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

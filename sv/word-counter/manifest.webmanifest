@@ -2,7 +2,7 @@
   "name": "Loona Ordräknare online gratis",
   "short_name": "Ordräknare online gratis",
   "description": "Räkna ord, tecken, meningar och stycken i vilken text som helst omedelbart, med lästid och taltid. Gratis ordräknare, ingen registrering, fungerar offline.",
-  "id": "/loona-text-tools/sv/word-counter/",
+  "id": "/sv/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Citatiegenerator online gratis",
   "short_name": "Citatiegenerator online gratis",
   "description": "Genereer correct opgemaakte verwijzingen voor websites, boeken en tijdschriftartikelen in APA 7e, MLA 9 en Chicago auteur-datum - gratis, direct, in je browser.",
-  "id": "/loona-text-tools/nl/citation-generator/",
+  "id": "/nl/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

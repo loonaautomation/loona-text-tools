@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi iNVERSE cASE",
   "short_name": "Pengonversi iNVERSE cASE",
   "description": "Pengonversi iNVERSE cASE percuma — tampal teks dan dapatkan iNVERSE cASE serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/inverse-case-converter/",
+  "id": "/ms/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

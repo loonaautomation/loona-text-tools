@@ -2,7 +2,7 @@
   "name": "Loona 5,000 sanan essee",
   "short_name": "5,000 sanan essee",
   "description": "Ilmainen 5,000 sanan esseelaskuri: reaaliaikainen sanalaskenta 5,000 sanan tavoitteeseen, sivut yksirivisellä ja kaksirivisellä välillä, kappaleet, luku- ja puheaika.",
-  "id": "/loona-text-tools/fi/5000-word-essay-word-counter/",
+  "id": "/fi/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

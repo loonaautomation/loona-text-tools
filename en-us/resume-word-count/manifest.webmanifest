@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Resume word count checker: live count with the one-page target (400–600 words), page estimate and trimming guidance.",
-  "id": "/loona-text-tools/en-us/resume-word-count/",
+  "id": "/en-us/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

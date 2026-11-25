@@ -2,7 +2,7 @@
   "name": "Loona Aggiungi numeri di riga online",
   "short_name": "Aggiungi numeri di riga online",
   "description": "Aggiungi numeri a ogni riga del tuo testo con scelta di inizio, passo, riempimento e separatore. Strumento gratuito per numerare le righe - nessuna registrazione, istantaneo e privato.",
-  "id": "/loona-text-tools/it/add-line-numbers/",
+  "id": "/it/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

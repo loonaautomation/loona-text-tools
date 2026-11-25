@@ -2,7 +2,7 @@
   "name": "Loona Contor de paragrafe online gratuit",
   "short_name": "Contor de paragrafe online gratuit",
   "description": "Numără paragrafele din orice text instant, cu propoziții și cuvinte pe paragraf și cel mai lung și cel mai scurt paragraf. Contor gratuit de paragrafe, fără înregistrare.",
-  "id": "/loona-text-tools/ro/paragraph-counter/",
+  "id": "/ro/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

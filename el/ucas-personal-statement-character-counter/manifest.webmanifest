@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Προσωπικής Δήλωσης UCAS",
   "short_name": "Μετρητής Χαρακτήρων Προσωπικής Δήλωσης UCAS",
   "description": "Δωρεάν μετρητής χαρακτήρων προσωπικής δήλωσης UCAS: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 4,000 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/ucas-personal-statement-character-counter/",
+  "id": "/el/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

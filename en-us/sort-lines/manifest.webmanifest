@@ -2,7 +2,7 @@
   "name": "Loona Sort Lines - Alphabetical, Length, Reverse or Random",
   "short_name": "Sort Lines - Alphabetical, Length, Reverse or Random",
   "description": "Sort lines of text alphabetically (A-Z or Z-A), by length, in reverse order or shuffled at random. Free online line sorter - no sign-up, instant and private.",
-  "id": "/loona-text-tools/en-us/sort-lines/",
+  "id": "/en-us/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

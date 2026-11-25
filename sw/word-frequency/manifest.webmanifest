@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Marudio ya Maneno Mtandaoni",
   "short_name": "Kihesabu cha Marudio ya Maneno Mtandaoni",
   "description": "Hesabu ni mara ngapi kila neno huonekana katika maandishi yako na uone jedwali la marudio lililopangwa kwa cheo pamoja na asilimia. Kihesabu cha bure cha marudio ya maneno mtandaoni - bila kujisajili, papo hapo.",
-  "id": "/loona-text-tools/sw/word-frequency/",
+  "id": "/sw/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

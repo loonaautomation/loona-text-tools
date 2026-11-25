@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง iNVERSE cASE",
   "short_name": "ตัวแปลง iNVERSE cASE",
   "description": "ตัวแปลง iNVERSE cASE ฟรี — วางข้อความแล้วได้ iNVERSE cASE ทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/inverse-case-converter/",
+  "id": "/th/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مولّد النصوص المزخرفة عبر الإنترنت",
   "short_name": "مولّد النصوص المزخرفة عبر الإنترنت",
   "description": "حوّل نصًا عاديًا إلى خطوط Unicode أنيقة - عريض وخطي وفركتور ومحاط بدوائر وأحرف صغيرة علوية وأكثر - للسير والتعليقات وأسماء المستخدمين. مولّد نصوص مزخرفة مجاني.",
-  "id": "/loona-text-tools/ar/fancy-text-generator/",
+  "id": "/ar/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

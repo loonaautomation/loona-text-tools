@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi dot.case",
   "short_name": "Pengonversi dot.case",
   "description": "Pengonversi dot.case gratis — tempel teks dan dapatkan dot.case secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/dot-case-converter/",
+  "id": "/id/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

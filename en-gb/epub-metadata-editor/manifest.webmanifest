@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/epub-metadata-editor/",
+  "id": "/en-gb/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

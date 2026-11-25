@@ -2,7 +2,7 @@
   "name": "Loona Palindrom Denetleyici Çevrimiçi Ücretsiz",
   "short_name": "Palindrom Denetleyici Çevrimiçi Ücretsiz",
   "description": "Herhangi bir kelimenin, sayının veya cümlenin bir palindrom olup olmadığını kontrol edin - düz ve ters aynı okunur. Temizlenmiş metni ve tersini gösterir. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/palindrome-checker/",
+  "id": "/tr/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

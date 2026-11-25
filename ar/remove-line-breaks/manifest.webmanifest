@@ -2,7 +2,7 @@
   "name": "Loona إزالة فواصل الأسطر عبر الإنترنت",
   "short_name": "إزالة فواصل الأسطر عبر الإنترنت",
   "description": "أزل فواصل الأسطر ووصل الأسطر المكسورة في فقرات نظيفة - مثالي لنص منسوخ من PDFs. مزيل فواصل أسطر مجاني عبر الإنترنت، بلا تسجيل، نتائج فورية.",
-  "id": "/loona-text-tools/ar/remove-line-breaks/",
+  "id": "/ar/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

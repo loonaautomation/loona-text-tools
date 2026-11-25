@@ -2,7 +2,7 @@
   "name": "Loona Sentence Case Converter",
   "short_name": "Sentence Case Converter",
   "description": "Free Sentence Case converter — paste text and get Sentence case instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/sentence-case-converter/",
+  "id": "/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

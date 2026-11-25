@@ -2,7 +2,7 @@
   "name": "Loona Novel Word Count by Genre",
   "short_name": "Novel Word Count by Genre",
   "description": "Novel word count by genre: adult 70,000–120,000, YA 50,000–90,000, middle-grade 20,000–55,000. Free live counter with genre targets.",
-  "id": "/loona-text-tools/novel-word-count-guide/",
+  "id": "/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

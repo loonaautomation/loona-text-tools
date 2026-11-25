@@ -2,7 +2,7 @@
   "name": "Loona Contador de Sílabas Online Grátis",
   "short_name": "Contador de Sílabas Online Grátis",
   "description": "Conte sílabas em qualquer palavra, frase ou texto completo instantaneamente - total de sílabas, detalhe por palavra e médias. Contador de sílabas gratuito, sem registo, funciona offline.",
-  "id": "/loona-text-tools/pt/syllable-counter/",
+  "id": "/pt/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

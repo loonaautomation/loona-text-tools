@@ -2,7 +2,7 @@
   "name": "Loona Odstranit přebytečné mezery online",
   "short_name": "Odstranit přebytečné mezery online",
   "description": "Odstraňte přebytečné mezery, tabulátory a prázdné řádky z textu na jedno kliknutí. Uklidte text kopírovaný z PDF, e-mailů a webových stránek. Bezplatný online odstraňovač - registrace není potřeba.",
-  "id": "/loona-text-tools/cs/remove-extra-spaces/",
+  "id": "/cs/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

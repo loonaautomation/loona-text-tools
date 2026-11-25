@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač teksta u hex na mreži besplatno",
   "short_name": "Pretvarač teksta u hex na mreži besplatno",
   "description": "Pretvorite tekst u heksadekadski zapis i heksadekadski zapis natrag u tekst, ispravno obrađujući UTF-8 za slova s naglascima, urdu i emotikone. Besplatan heksadekadski pretvarač, bez registracije.",
-  "id": "/loona-text-tools/hr/text-to-hex-converter/",
+  "id": "/hr/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

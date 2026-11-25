@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự trực tuyến",
   "short_name": "Bộ đếm ký tự trực tuyến",
   "description": "Đếm ký tự có và không có khoảng trắng và kiểm tra giới hạn cho X (Twitter), SMS, mô tả meta và hơn nữa. Bộ đếm ký tự trực tuyến miễn phí - không cần đăng ký.",
-  "id": "/loona-text-tools/vi/character-counter/",
+  "id": "/vi/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Przemówienie na 1 minutę",
   "short_name": "Przemówienie na 1 minutę",
   "description": "Ile słów ma przemówienie na 1 minutę? 110–180 słów (150 przy tempie konwersacyjnym). Darmowy licznik na żywo ze sprawdzaniem czasu mówienia.",
-  "id": "/loona-text-tools/pl/1-minute-speech-word-count/",
+  "id": "/pl/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

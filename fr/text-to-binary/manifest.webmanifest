@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur texte vers binaire en ligne",
   "short_name": "Convertisseur texte vers binaire en ligne",
   "description": "Convertissez le texte en code binaire (0 et 1) et le binaire en texte lisible, avec une prise en charge complète d’Unicode. Convertisseur gratuit de texte vers binaire - idéal pour les étudiants en informatique.",
-  "id": "/loona-text-tools/fr/text-to-binary/",
+  "id": "/fr/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

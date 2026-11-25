@@ -2,7 +2,7 @@
   "name": "Loona Ucapan 1 Minit",
   "short_name": "Ucapan 1 Minit",
   "description": "Berapa banyak perkataan dalam ucapan 1 minit? 110–180 perkataan (150 pada kelajuan percakapan). Pengira langsung percuma dengan penyemakan masa bertutur.",
-  "id": "/loona-text-tools/ms/1-minute-speech-word-count/",
+  "id": "/ms/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

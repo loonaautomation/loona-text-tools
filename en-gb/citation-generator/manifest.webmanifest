@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/citation-generator/",
+  "id": "/en-gb/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

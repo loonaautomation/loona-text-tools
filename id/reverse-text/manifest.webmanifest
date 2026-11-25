@@ -2,7 +2,7 @@
   "name": "Loona Balik Teks Online",
   "short_name": "Balik Teks Online",
   "description": "Balik teks dengan empat cara: seluruh teks ke belakang, setiap kata ke belakang, urutan kata dibalik, atau urutan baris dibalik. Pembalik teks online gratis - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/reverse-text/",
+  "id": "/id/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

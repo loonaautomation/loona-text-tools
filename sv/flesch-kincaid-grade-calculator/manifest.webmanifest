@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid årskursberäknare",
   "short_name": "Flesch–Kincaid årskursberäknare",
   "description": "Gratis Flesch–Kincaid årskursberäknare: klistra in text för årskursnivån och läsbarhetspoängen, med ord per mening och stavelser per ord.",
-  "id": "/loona-text-tools/sv/flesch-kincaid-grade-calculator/",
+  "id": "/sv/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

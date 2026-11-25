@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Karakter Deskripsi YouTube",
   "short_name": "Penghitung Karakter Deskripsi YouTube",
   "description": "Penghitung penghitung karakter deskripsi YouTube gratis: hitungan karakter langsung terhadap batas 5.000 karakter, dengan kata dan sisa karakter ditampilkan saat Anda mengetik.",
-  "id": "/loona-text-tools/id/youtube-description-character-counter/",
+  "id": "/id/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

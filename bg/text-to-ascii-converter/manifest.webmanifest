@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от текст към ASCII онлайн безплатно",
   "short_name": "Конвертор от текст към ASCII онлайн безплатно",
   "description": "Преобразувайте текст в ASCII кодове (десетични, шестнадесетични, осмични и двоични за всеки знак) и преобразувайте ASCII кодове обратно в текст. Безплатно, мигновено, без регистрация.",
-  "id": "/loona-text-tools/bg/text-to-ascii-converter/",
+  "id": "/bg/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

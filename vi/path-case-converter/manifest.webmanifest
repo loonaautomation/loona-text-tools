@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi path/case",
   "short_name": "Công cụ chuyển đổi path/case",
   "description": "Công cụ chuyển đổi path/case miễn phí — dán văn bản và nhận path/case ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/path-case-converter/",
+  "id": "/vi/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

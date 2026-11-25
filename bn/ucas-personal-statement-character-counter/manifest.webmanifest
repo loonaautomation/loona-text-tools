@@ -2,7 +2,7 @@
   "name": "Loona UCAS ব্যক্তিগত বিবৃতি অক্ষর গণক",
   "short_name": "UCAS ব্যক্তিগত বিবৃতি অক্ষর গণক",
   "description": "বিনামূল্যে UCAS ব্যক্তিগত বিবৃতি অক্ষর গণক গণক: 4,000-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/ucas-personal-statement-character-counter/",
+  "id": "/bn/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

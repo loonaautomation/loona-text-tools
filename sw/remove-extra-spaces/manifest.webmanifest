@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Nafasi za Ziada Mtandaoni",
   "short_name": "Ondoa Nafasi za Ziada Mtandaoni",
   "description": "Ondoa nafasi za ziada, vichupo na mistari tupu kutoka maandishi kwa kubofya mara moja. Rekebisha maandishi yaliyonakiliwa kutoka PDF, barua pepe na kurasa za wavuti. Kiondoaji cha bure cha mtandaoni - hakuna kujisajili kunakohitajika.",
-  "id": "/loona-text-tools/sw/remove-extra-spaces/",
+  "id": "/sw/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

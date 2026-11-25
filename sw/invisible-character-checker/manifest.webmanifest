@@ -2,7 +2,7 @@
   "name": "Loona Kikaguzi cha Vibambo Visivyoonekana",
   "short_name": "Kikaguzi cha Vibambo Visivyoonekana",
   "description": "Fichua vibambo visivyoonekana vilivyojificha katika maandishi yako - nafasi za upana-sifuri, BOM, nafasi zisizovunjika na alama za mwelekeo - na uzione kwa kubofya mara moja. Bure.",
-  "id": "/loona-text-tools/sw/invisible-character-checker/",
+  "id": "/sw/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Provjerivač nevidljivih znakova",
   "short_name": "Provjerivač nevidljivih znakova",
   "description": "Otkrijte nevidljive znakove koji se kriju u vašem tekstu - razmake nulte širine, BOM, nerazlomljive razmake i oznake smjera - i uklonite ih u jednom kliku. Besplatno.",
-  "id": "/loona-text-tools/hr/invisible-character-checker/",
+  "id": "/hr/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

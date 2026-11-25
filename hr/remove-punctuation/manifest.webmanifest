@@ -2,7 +2,7 @@
   "name": "Loona Ukloni interpunkciju na mreži besplatno",
   "short_name": "Ukloni interpunkciju na mreži besplatno",
   "description": "Uklonite interpunkciju iz bilo kojeg teksta u jednom kliku - točke, zareze, navodnike i još mnogo toga - uz opcije zadržavanja apostrofa i crtica. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/remove-punctuation/",
+  "id": "/hr/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

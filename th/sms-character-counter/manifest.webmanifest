@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษร SMS",
   "short_name": "ตัวนับตัวอักษร SMS",
   "description": "ตัวนับตัวอักษร SMS ฟรี: การตรวจจับ GSM แบบ 7 บิตเทียบกับ Unicode จำนวนส่วน และตัวอักษรที่เหลือ — แบบสด ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-text-tools/th/sms-character-counter/",
+  "id": "/th/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 3-Minuten-Rede",
   "short_name": "3-Minuten-Rede",
   "description": "Wie viele Wörter hat eine 3-Minuten-Rede? 330–540 Wörter (450 bei Gesprächstempo). Kostenloser Live-Zähler mit Sprechzeit-Prüfung.",
-  "id": "/loona-text-tools/de/3-minute-speech-word-count/",
+  "id": "/de/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

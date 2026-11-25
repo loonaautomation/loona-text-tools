@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X 文字数カウンター",
   "short_name": "Twitter / X 文字数カウンター",
   "description": "無料 Twitter / X 文字数カウンター：280文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/twitter-character-counter/",
+  "id": "/ja/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

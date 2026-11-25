@@ -2,7 +2,7 @@
   "name": "Loona Kuva tekstiksi -muunnin (OCR) verkossa ilmaiseksi",
   "short_name": "Kuva tekstiksi -muunnin (OCR) verkossa ilmaiseksi",
   "description": "Poimi muokattavaa tekstiä kuvista ja valokuvista ilmaisella OCR:llä, joka toimii 100 % selaimessasi. PNG, JPG, WebP ja BMP – kuvaasi ei koskaan ladata palvelimelle.",
-  "id": "/loona-text-tools/fi/image-to-text-converter/",
+  "id": "/fi/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

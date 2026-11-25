@@ -2,7 +2,7 @@
   "name": "Loona Padam Jarak Berlebih Dalam talian",
   "short_name": "Padam Jarak Berlebih Dalam talian",
   "description": "Padam jarak berlebih, tab dan baris kosong dari teks dalam satu klik. Rapikan teks yang disalin dari PDF, emel dan halaman web. Penghapus dalam talian percuma - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/remove-extra-spaces/",
+  "id": "/ms/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

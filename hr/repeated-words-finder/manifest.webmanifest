@@ -2,7 +2,7 @@
   "name": "Loona Pronalazač ponovljenih riječi na mreži besplatno",
   "short_name": "Pronalazač ponovljenih riječi na mreži besplatno",
   "description": "Pronađite svaku riječ koja se u vašem tekstu pojavljuje više od jednom, rangiranu prema učestalosti ponavljanja. Uočite slučajne dvostruke riječi i prečesto korištene riječi. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/repeated-words-finder/",
+  "id": "/hr/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

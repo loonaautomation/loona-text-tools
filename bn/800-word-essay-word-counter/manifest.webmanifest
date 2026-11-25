@@ -2,7 +2,7 @@
   "name": "Loona 800-শব্দের প্রবন্ধ",
   "short_name": "800-শব্দের প্রবন্ধ",
   "description": "বিনামূল্যে 800-শব্দের প্রবন্ধ গণক: 800-শব্দের লক্ষ্য পর্যন্ত সরাসরি শব্দ গণনা, single- ও double-spaced পৃষ্ঠা, অনুচ্ছেদ, পঠন ও বলার সময়।",
-  "id": "/loona-text-tools/bn/800-word-essay-word-counter/",
+  "id": "/bn/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

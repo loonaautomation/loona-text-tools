@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo Lorem Ipsum trực tuyến",
   "short_name": "Trình tạo Lorem Ipsum trực tuyến",
   "description": "Tạo văn bản giả lorem ipsum theo đoạn văn, câu hoặc từ - sẵn sàng dán vào thiết kế và bố cục. Trình tạo lorem ipsum miễn phí, không cần đăng ký.",
-  "id": "/loona-text-tools/vi/lorem-ipsum-generator/",
+  "id": "/vi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

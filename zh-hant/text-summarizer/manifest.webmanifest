@@ -2,7 +2,7 @@
   "name": "Loona 線上文字摘要工具——即時總結長文字 | Loona Text Tools",
   "short_name": "線上文字摘要工具——即時總結長文字 | Loona Text Tools",
   "description": "即時摘要任何長文字：貼上文章、論文或報告，取得其最重要的原始句子。免費線上文字摘要工具——無需註冊，100% 保護隱私。",
-  "id": "/loona-text-tools/zh-hant/text-summarizer/",
+  "id": "/zh-hant/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

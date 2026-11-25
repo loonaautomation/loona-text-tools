@@ -2,7 +2,7 @@
   "name": "Loona Eliminar puntuación en línea gratis",
   "short_name": "Eliminar puntuación en línea gratis",
   "description": "Elimina la puntuación de cualquier texto con un clic (puntos, comas, comillas y más), con opciones para conservar apóstrofos y guiones. Gratis, sin registro.",
-  "id": "/loona-text-tools/es/remove-punctuation/",
+  "id": "/es/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

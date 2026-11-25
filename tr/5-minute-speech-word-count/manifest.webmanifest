@@ -2,7 +2,7 @@
   "name": "Loona 5 Dakikalık Konuşma",
   "short_name": "5 Dakikalık Konuşma",
   "description": "5 dakikalık bir konuşmada kaç kelime var? 550–900 kelime (konuşma temposunda 750). Konuşma süresi kontrolüyle ücretsiz canlı sayaç.",
-  "id": "/loona-text-tools/tr/5-minute-speech-word-count/",
+  "id": "/tr/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

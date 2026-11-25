@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor UCAS personal statements",
   "short_name": "Tekenteller voor UCAS personal statements",
   "description": "Gratis tekenteller voor UCAS personal statements: live tekentelling tegen de limiet van 4.000 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/ucas-personal-statement-character-counter/",
+  "id": "/nl/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Chuyển văn bản thành giọng nói trực tuyến miễn phí",
   "short_name": "Chuyển văn bản thành giọng nói trực tuyến miễn phí",
   "description": "Biến bất kỳ văn bản nào thành âm thanh nói tự nhiên miễn phí trực tuyến - giọng tiếng Anh và Urdu, tốc độ và cao độ có thể điều chỉnh. Không đăng ký, không tải lên, hoạt động trong trình duyệt của bạn.",
-  "id": "/loona-text-tools/vi/text-to-speech/",
+  "id": "/vi/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

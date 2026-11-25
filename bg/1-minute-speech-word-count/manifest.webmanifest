@@ -2,7 +2,7 @@
   "name": "Loona Реч от 1 минута",
   "short_name": "Реч от 1 минута",
   "description": "Колко думи в реч от 1 минута? 110–180 думи (150 при разговорно темпо). Безплатен брояч на живо с проверка на времето за говорене.",
-  "id": "/loona-text-tools/bg/1-minute-speech-word-count/",
+  "id": "/bg/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Έκθεση 5,000 Λέξεων",
   "short_name": "Έκθεση 5,000 Λέξεων",
   "description": "Δωρεάν μετρητής έκθεσης 5,000 λέξεων: ζωντανό πλήθος λέξεων προς τον στόχο των 5,000 λέξεων, σελίδες με μονό και διπλό διάστιχο, παράγραφοι, χρόνος ανάγνωσης και ομιλίας.",
-  "id": "/loona-text-tools/el/5000-word-essay-word-counter/",
+  "id": "/el/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

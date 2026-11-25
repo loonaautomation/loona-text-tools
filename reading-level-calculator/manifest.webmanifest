@@ -2,7 +2,7 @@
   "name": "Loona Reading Level Calculator",
   "short_name": "Reading Level Calculator",
   "description": "Score any text with the Flesch Reading Ease scale and Flesch-Kincaid Grade Level, using the standard formulas. See how easy your writing is to read. Free.",
-  "id": "/loona-text-tools/reading-level-calculator/",
+  "id": "/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

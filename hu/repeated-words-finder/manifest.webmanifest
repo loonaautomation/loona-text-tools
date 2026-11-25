@@ -2,7 +2,7 @@
   "name": "Loona Ismétlődő szavak keresése online ingyen",
   "short_name": "Ismétlődő szavak keresése online ingyen",
   "description": "Találjon meg minden szót, amely többször jelenik meg a szövegében, aszerint rangsorolva, milyen gyakran ismétlődik. Kapja el a véletlen dupla szavakat és a túlhasznált szavakat. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/repeated-words-finder/",
+  "id": "/hu/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

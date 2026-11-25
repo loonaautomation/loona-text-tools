@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Twitter / X",
   "short_name": "Kihesabu cha Vibambo vya Twitter / X",
   "description": "Kihesabu cha bure cha vibambo vya Twitter / X: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 280, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/twitter-character-counter/",
+  "id": "/sw/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

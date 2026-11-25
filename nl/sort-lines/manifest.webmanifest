@@ -2,7 +2,7 @@
   "name": "Loona Regels online sorteren",
   "short_name": "Regels online sorteren",
   "description": "Sorteer regels tekst alfabetisch (A-Z of Z-A), op lengte, in omgekeerde volgorde of willekeurig geschud. Gratis online regelsorteerder - geen registratie, direct en privé.",
-  "id": "/loona-text-tools/nl/sort-lines/",
+  "id": "/nl/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

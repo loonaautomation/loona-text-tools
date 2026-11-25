@@ -2,7 +2,7 @@
   "name": "Loona Görüntüden Metne Dönüştürücü (OCR) Çevrimiçi Ücretsiz",
   "short_name": "Görüntüden Metne Dönüştürücü (OCR) Çevrimiçi Ücretsiz",
   "description": "Tarayıcınızda %100 çalışan ücretsiz OCR ile görsellerden ve fotoğraflardan düzenlenebilir metin çıkarın. PNG, JPG, WebP ve BMP - görseliniz asla yüklenmez.",
-  "id": "/loona-text-tools/tr/image-to-text-converter/",
+  "id": "/tr/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

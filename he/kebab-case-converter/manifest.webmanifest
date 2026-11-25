@@ -2,7 +2,7 @@
   "name": "Loona ממיר kebab-case",
   "short_name": "ממיר kebab-case",
   "description": "ממיר kebab-case בחינם — הדביקו טקסט וקבלו kebab-case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/kebab-case-converter/",
+  "id": "/he/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

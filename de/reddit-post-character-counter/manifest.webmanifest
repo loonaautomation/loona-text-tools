@@ -2,7 +2,7 @@
   "name": "Loona Reddit-Beitrag-Zeichenzähler",
   "short_name": "Reddit-Beitrag-Zeichenzähler",
   "description": "Kostenloser Reddit-Beitrag-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 40.000-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/reddit-post-character-counter/",
+  "id": "/de/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

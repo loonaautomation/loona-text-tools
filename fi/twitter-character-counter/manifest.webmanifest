@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X -merkkilaskuri",
   "short_name": "Twitter / X -merkkilaskuri",
   "description": "Ilmainen Twitter / X -merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 280 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/twitter-character-counter/",
+  "id": "/fi/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

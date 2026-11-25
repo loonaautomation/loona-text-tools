@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi EPUB sang HTML miễn phí",
   "short_name": "Công cụ chuyển đổi EPUB sang HTML miễn phí",
   "description": "Chuyển đổi sách điện tử EPUB sang một tệp HTML tự chứa duy nhất miễn phí, trong trình duyệt của bạn. Các chương theo thứ tự, kiểu chữ cơ bản, hình ảnh nhỏ được nhúng. Không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/epub-to-html/",
+  "id": "/vi/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

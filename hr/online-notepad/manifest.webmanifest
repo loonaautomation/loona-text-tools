@@ -2,7 +2,7 @@
   "name": "Loona Mrežna bilježnica besplatno",
   "short_name": "Mrežna bilježnica besplatno",
   "description": "Besplatna mrežna bilježnica koja se automatski sprema u vašem pregledniku dok tipkate – preuzimanje, ispis i brojanje riječi uključeni. Bez registracije; vaše bilješke nikada ne napuštaju vaš uređaj.",
-  "id": "/loona-text-tools/hr/online-notepad/",
+  "id": "/hr/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

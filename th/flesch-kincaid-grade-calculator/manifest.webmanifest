@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณระดับ Flesch–Kincaid",
   "short_name": "ตัวคำนวณระดับ Flesch–Kincaid",
   "description": "ตัวคำนวณระดับ Flesch–Kincaid ฟรี: วางข้อความเพื่อรับระดับชั้นและคะแนนความอ่านง่าย พร้อมคำต่อประโยคและพยางค์ต่อคำ",
-  "id": "/loona-text-tools/th/flesch-kincaid-grade-calculator/",
+  "id": "/th/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

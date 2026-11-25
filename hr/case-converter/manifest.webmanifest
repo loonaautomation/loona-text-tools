@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač veličine slova na mreži",
   "short_name": "Pretvarač veličine slova na mreži",
   "description": "Pretvorite tekst u VELIKA SLOVA, mala slova, Title Case, Sentence case, Capitalized ili aLtErNaTiNg veličinu jednim klikom. Besplatan mrežni pretvarač veličine slova – registracija nije potrebna.",
-  "id": "/loona-text-tools/hr/case-converter/",
+  "id": "/hr/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

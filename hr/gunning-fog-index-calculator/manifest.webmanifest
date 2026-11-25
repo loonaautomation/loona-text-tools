@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Gunning Fog indeksa",
   "short_name": "Kalkulator Gunning Fog indeksa",
   "description": "Besplatan kalkulator Gunning Fog indeksa: zalijepite tekst za Fog indeks, broj složenih riječi i godine školovanja koje podrazumijeva.",
-  "id": "/loona-text-tools/hr/gunning-fog-index-calculator/",
+  "id": "/hr/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

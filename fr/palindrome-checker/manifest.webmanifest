@@ -2,7 +2,7 @@
   "name": "Loona Vérificateur de palindromes en ligne gratuit",
   "short_name": "Vérificateur de palindromes en ligne gratuit",
   "description": "Vérifiez si un mot, un nombre ou une phrase est un palindrome - se lit de la même manière à l’endroit et à l’envers. Affiche le texte nettoyé et son inverse. Gratuit, sans inscription.",
-  "id": "/loona-text-tools/fr/palindrome-checker/",
+  "id": "/fr/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

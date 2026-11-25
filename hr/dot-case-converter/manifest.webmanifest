@@ -2,7 +2,7 @@
   "name": "Loona dot.case pretvarač",
   "short_name": "dot.case pretvarač",
   "description": "Besplatan dot.case pretvarač — zalijepite tekst i trenutačno dobijte dot.case. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/dot-case-converter/",
+  "id": "/hr/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

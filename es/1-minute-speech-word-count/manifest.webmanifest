@@ -2,7 +2,7 @@
   "name": "Loona Discurso de 1 minuto",
   "short_name": "Discurso de 1 minuto",
   "description": "¿Cuántas palabras tiene un discurso de 1 minuto? 110–180 palabras (150 a ritmo conversacional). Contador en vivo gratuito con comprobación del tiempo de exposición.",
-  "id": "/loona-text-tools/es/1-minute-speech-word-count/",
+  "id": "/es/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

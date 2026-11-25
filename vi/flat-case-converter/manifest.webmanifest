@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi flatcase",
   "short_name": "Công cụ chuyển đổi flatcase",
   "description": "Công cụ chuyển đổi flatcase miễn phí — dán văn bản và nhận flatcase ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/flat-case-converter/",
+  "id": "/vi/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

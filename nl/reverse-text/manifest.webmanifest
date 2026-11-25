@@ -2,7 +2,7 @@
   "name": "Loona Tekst online omkeren",
   "short_name": "Tekst online omkeren",
   "description": "Keer tekst op vier manieren om: hele tekst achterstevoren, elk woord achterstevoren, woordvolgorde omgedraaid, of regelvolgorde omgedraaid. Gratis online tekstomkeerder - geen registratie nodig.",
-  "id": "/loona-text-tools/nl/reverse-text/",
+  "id": "/nl/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

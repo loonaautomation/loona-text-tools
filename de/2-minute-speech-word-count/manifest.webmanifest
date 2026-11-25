@@ -2,7 +2,7 @@
   "name": "Loona 2-Minuten-Rede",
   "short_name": "2-Minuten-Rede",
   "description": "Wie viele Wörter hat eine 2-Minuten-Rede? 220–360 Wörter (300 bei Gesprächstempo). Kostenloser Live-Zähler mit Sprechzeit-Prüfung.",
-  "id": "/loona-text-tools/de/2-minute-speech-word-count/",
+  "id": "/de/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

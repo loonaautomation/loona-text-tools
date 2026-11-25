@@ -2,7 +2,7 @@
   "name": "Loona 5-Minuten-Rede",
   "short_name": "5-Minuten-Rede",
   "description": "Wie viele Wörter hat eine 5-Minuten-Rede? 550–900 Wörter (750 bei Gesprächstempo). Kostenloser Live-Zähler mit Sprechzeit-Prüfung.",
-  "id": "/loona-text-tools/de/5-minute-speech-word-count/",
+  "id": "/de/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

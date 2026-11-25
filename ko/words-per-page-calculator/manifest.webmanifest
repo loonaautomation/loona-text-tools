@@ -2,7 +2,7 @@
   "name": "Loona 페이지당 단어 계산기",
   "short_name": "페이지당 단어 계산기",
   "description": "무료 페이지당 단어 계산기: 단어, 글꼴 크기, 줄 간격을 입력하면 페이지 수와 페이지당 단어를 얻어요.",
-  "id": "/loona-text-tools/ko/words-per-page-calculator/",
+  "id": "/ko/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

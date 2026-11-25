@@ -2,7 +2,7 @@
   "name": "Loona Linganisha Maandishi Mtandaoni",
   "short_name": "Linganisha Maandishi Mtandaoni",
   "description": "Linganisha maandishi mawili mstari kwa mstari na uone hasa mistari gani iliyoongezwa, iliyoondolewa au kubaki. Zana ya bure ya kulinganisha maandishi mtandaoni - bila kujisajili, faragha katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/text-compare/",
+  "id": "/sw/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EPUB Okuyucu Çevrimiçi Ücretsiz",
   "short_name": "EPUB Okuyucu Çevrimiçi Ücretsiz",
   "description": "EPUB e-kitaplarını çevrimiçi ücretsiz açın ve okuyun, doğrudan tarayıcınızda. Bölüm listesi, ayarlanabilir yazı tipi boyutu ve koyu mod. %100 gizli - e-kitabınız cihazınızdan asla ayrılmaz. Kayıt yok.",
-  "id": "/loona-text-tools/tr/epub-reader/",
+  "id": "/tr/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

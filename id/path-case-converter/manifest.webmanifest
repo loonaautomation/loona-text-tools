@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi path/case",
   "short_name": "Pengonversi path/case",
   "description": "Pengonversi path/case gratis — tempel teks dan dapatkan path/case secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/path-case-converter/",
+  "id": "/id/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

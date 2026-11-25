@@ -2,7 +2,7 @@
   "name": "Loona Recherche de mots répétés en ligne gratuite",
   "short_name": "Recherche de mots répétés en ligne gratuite",
   "description": "Trouvez chaque mot qui apparaît plus d’une fois dans votre texte, classé par fréquence de répétition. Détectez les doubles mots accidentels et les mots surutilisés. Gratuit, sans inscription.",
-  "id": "/loona-text-tools/fr/repeated-words-finder/",
+  "id": "/fr/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

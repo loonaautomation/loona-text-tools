@@ -2,7 +2,7 @@
   "name": "Loona Esej na 500 słów",
   "short_name": "Esej na 500 słów",
   "description": "Darmowy licznik esejów na 500 słów: liczenie słów na żywo do celu 500 słów, strony przy pojedynczej i podwójnej interlinii, akapity, czas czytania i mówienia.",
-  "id": "/loona-text-tools/pl/500-word-essay-word-counter/",
+  "id": "/pl/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

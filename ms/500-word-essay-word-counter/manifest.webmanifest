@@ -2,7 +2,7 @@
   "name": "Loona Esei 500 Perkataan",
   "short_name": "Esei 500 Perkataan",
   "description": "Pengira esei 500 perkataan percuma: hitungan perkataan langsung menuju target 500 perkataan, halaman jarak tunggal dan ganda, perenggan, masa membaca dan bertutur.",
-  "id": "/loona-text-tools/ms/500-word-essay-word-counter/",
+  "id": "/ms/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

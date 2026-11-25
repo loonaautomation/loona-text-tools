@@ -2,7 +2,7 @@
   "name": "Loona Szöveg keresése és cseréje online",
   "short_name": "Szöveg keresése és cseréje online",
   "description": "Keressen egy szót vagy kifejezést, és cserélje le minden előfordulását a szövegében egyszerre, kis- és nagybetűérzékeny, teljes szavas és minta beállításokkal. Ingyenes online eszköz - regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/find-and-replace/",
+  "id": "/hu/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

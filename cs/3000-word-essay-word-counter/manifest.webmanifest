@@ -2,7 +2,7 @@
   "name": "Loona Esej o 3,000 slovech",
   "short_name": "Esej o 3,000 slovech",
   "description": "Bezplatné počítadlo esejí o 3,000 slovech: živý počet slov k cíli 3,000 slov, strany při jednoduchém a dvojitém řádkování, odstavce, doba čtení a mluvení.",
-  "id": "/loona-text-tools/cs/3000-word-essay-word-counter/",
+  "id": "/cs/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "הזינו את ניחושי ה-Wordle שלכם והקישו על האריחים באפור, צהוב או ירוק: העוזר החינמי הזה מראה לכם כל תשובה שעדיין מתאימה ואת הניחושים הבאים הטובים ביותר. לוגיקה נכונה לאותיות כפולות, ללא הרשמה, והכול רץ בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/wordle-helper/",
+  "id": "/he/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

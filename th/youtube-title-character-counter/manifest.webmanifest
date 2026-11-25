@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรชื่อเรื่อง YouTube",
   "short_name": "ตัวนับตัวอักษรชื่อเรื่อง YouTube",
   "description": "ตัวนับตัวอักษรชื่อเรื่อง YouTube ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 100 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/youtube-title-character-counter/",
+  "id": "/th/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

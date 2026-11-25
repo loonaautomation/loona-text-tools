@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف Twitter / X",
   "short_name": "عدّاد أحرف Twitter / X",
   "description": "عدّاد أحرف Twitter / X مجانًا: عدّ أحرف مباشر ضد حد الـ280 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/twitter-character-counter/",
+  "id": "/ar/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

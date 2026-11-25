@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Maandishi kwenda Bainari Mtandaoni",
   "short_name": "Kibadilishaji cha Maandishi kwenda Bainari Mtandaoni",
   "description": "Badilisha maandishi kuwa msimbo wa bainari (0 na 1) na bainari kurudi kwenye maandishi yanayosomeka, kwa usaidizi kamili wa Unicode. Kibadilishaji cha bure cha maandishi kwenda bainari - kizuri kwa wanafunzi wa CS.",
-  "id": "/loona-text-tools/sw/text-to-binary/",
+  "id": "/sw/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

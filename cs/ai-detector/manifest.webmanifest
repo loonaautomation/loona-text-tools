@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Vložte jakýkoli text a podívejte se na signály psaní, které detektory AI měří – rytmus vět, rozmanitost slovní zásoby, opakující se fráze a předvídatelnost. Bezplatný detektor AI: bez registrace, bez verdiktů a váš text nikdy neopustí váš prohlížeč.",
-  "id": "/loona-text-tools/cs/ai-detector/",
+  "id": "/cs/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

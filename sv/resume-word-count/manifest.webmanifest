@@ -2,7 +2,7 @@
   "name": "Loona Ordantal för CV",
   "short_name": "Ordantal för CV",
   "description": "Kontroll av ordantal för CV: liveräkning med målet för en sida (400–600 ord), siduppskattning och trimningsvägledning.",
-  "id": "/loona-text-tools/sv/resume-word-count/",
+  "id": "/sv/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram-felirat karakterszámláló",
   "short_name": "Instagram-felirat karakterszámláló",
   "description": "Ingyenes Instagram-felirat karakterszámláló számláló: élő karakterszám a 2,200 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/instagram-caption-character-counter/",
+  "id": "/hu/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

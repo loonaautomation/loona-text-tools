@@ -2,7 +2,7 @@
   "name": "Loona flatcase کنورٹر",
   "short_name": "flatcase کنورٹر",
   "description": "مفت flatcase کنورٹر — متن پیسٹ کریں اور فوراً flatcase پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/flat-case-converter/",
+  "id": "/ur/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

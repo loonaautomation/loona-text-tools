@@ -2,7 +2,7 @@
   "name": "Loona E-postextraherare online gratis",
   "short_name": "E-postextraherare online gratis",
   "description": "Extrahera varje e-postadress från vilken text, dokument eller webbsideinnehåll som helst - deduplicerad och listad en per rad. Körs till 100% i din webbläsare. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/email-extractor/",
+  "id": "/sv/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

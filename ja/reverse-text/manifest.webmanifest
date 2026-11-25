@@ -2,7 +2,7 @@
   "name": "Loona テキスト反転オンライン",
   "short_name": "テキスト反転オンライン",
   "description": "テキストを四つの方法で反転します：テキスト全体を後ろ向きに、各単語を後ろ向きに、単語の順序を反転、行の順序を反転。無料オンラインテキスト反転ツール - 登録は不要です。",
-  "id": "/loona-text-tools/ja/reverse-text/",
+  "id": "/ja/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brojač rečenica na mreži besplatno",
   "short_name": "Brojač rečenica na mreži besplatno",
   "description": "Brojite rečenice, odlomke, riječi i znakove u bilo kojem tekstu trenutačno, s prosječnom duljinom rečenice. Besplatan brojač rečenica, bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/sentence-counter/",
+  "id": "/hr/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

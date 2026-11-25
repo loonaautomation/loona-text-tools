@@ -2,7 +2,7 @@
   "name": "Loona Kontrola palindromů online zdarma",
   "short_name": "Kontrola palindromů online zdarma",
   "description": "Zkontrolujte, zda je jakékoli slovo, číslo nebo věta palindrom - čte se stejně popředu i pozpátku. Zobrazuje vyčištěný text a jeho obrácení. Zdarma, bez registrace.",
-  "id": "/loona-text-tools/cs/palindrome-checker/",
+  "id": "/cs/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

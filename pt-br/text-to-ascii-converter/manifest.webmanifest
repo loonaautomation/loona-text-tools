@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Texto para ASCII Online Grátis",
   "short_name": "Conversor de Texto para ASCII Online Grátis",
   "description": "Converta texto para códigos ASCII (decimal, hexadecimal, octal e binário para cada carácter) e converta códigos ASCII de volta para texto. Grátis, instantâneo, sem registro.",
-  "id": "/loona-text-tools/pt-br/text-to-ascii-converter/",
+  "id": "/pt-br/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

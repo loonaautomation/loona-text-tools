@@ -2,7 +2,7 @@
   "name": "Loona Character Counter - With & Without Spaces",
   "short_name": "Character Counter - With & Without Spaces",
   "description": "Count characters with and without spaces and check limits for X (Twitter), SMS, meta descriptions and more. Free online character counter - no sign-up needed.",
-  "id": "/loona-text-tools/en-us/character-counter/",
+  "id": "/en-us/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

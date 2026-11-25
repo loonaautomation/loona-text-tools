@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง DOCX เป็น EPUB ฟรี",
   "short_name": "ตัวแปลง DOCX เป็น EPUB ฟรี",
   "description": "แปลงเอกสาร Word แบบ DOCX เป็นอีบุ๊ก EPUB ฟรีในเบราว์เซอร์ของคุณ หัวข้อกลายเป็นบท ตัวหนา ตัวเอียง รายการ และรูปภาพแปลงไปด้วย ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/docx-to-epub/",
+  "id": "/th/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

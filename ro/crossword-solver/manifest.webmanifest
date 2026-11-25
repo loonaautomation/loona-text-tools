@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Rezolvă tipare de cuvinte încrucișate precum c?oss?ord în raport cu 172,820 de cuvinte englezești. Tastează literele pe care le cunoști, folosește ? pentru căsuțele lipsă și filtrează după literele obligatorii. Gratuit, fără înregistrare, 100% pe dispozitiv.",
-  "id": "/loona-text-tools/ro/crossword-solver/",
+  "id": "/ro/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

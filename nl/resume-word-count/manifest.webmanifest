@@ -2,7 +2,7 @@
   "name": "Loona Woordenaantal van cv",
   "short_name": "Woordenaantal van cv",
   "description": "Checker voor het woordenaantal van een cv: live telling met het doel van één pagina (400–600 woorden), paginaschatting en inkortadvies.",
-  "id": "/loona-text-tools/nl/resume-word-count/",
+  "id": "/nl/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

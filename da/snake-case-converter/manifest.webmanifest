@@ -2,7 +2,7 @@
   "name": "Loona snake_case-konverter",
   "short_name": "snake_case-konverter",
   "description": "Gratis snake_case-konverter — indsæt tekst og få snake_case øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/snake-case-converter/",
+  "id": "/da/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

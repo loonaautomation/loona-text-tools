@@ -2,7 +2,7 @@
   "name": "Loona 3分間スピーチ",
   "short_name": "3分間スピーチ",
   "description": "3分間スピーチには単語がいくつですか？330–540 単語（会話ペースで 450）。話す時間をチェックできる無料ライブカウンター。",
-  "id": "/loona-text-tools/ja/3-minute-speech-word-count/",
+  "id": "/ja/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

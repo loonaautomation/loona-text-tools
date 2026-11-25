@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Unesi svoje Wordle pokušaje i dodirni polja u sivoj, žutoj ili zelenoj boji: ovaj besplatni pomagač pokazuje ti svaki odgovor koji još odgovara i najbolje sljedeće pokušaje. Ispravna logika za dvostruka slova, bez registracije, i sve radi u tvom pregledniku.",
-  "id": "/loona-text-tools/hr/wordle-helper/",
+  "id": "/hr/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

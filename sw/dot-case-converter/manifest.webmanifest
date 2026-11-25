@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha dot.case",
   "short_name": "Kibadilishaji cha dot.case",
   "description": "Kibadilishaji cha bure cha dot.case — bandika maandishi na upate dot.case mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/dot-case-converter/",
+  "id": "/sw/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

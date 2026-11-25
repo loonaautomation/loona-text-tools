@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Μηνυμάτων Discord",
   "short_name": "Μετρητής Χαρακτήρων Μηνυμάτων Discord",
   "description": "Δωρεάν μετρητής χαρακτήρων μηνυμάτων Discord: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 2,000 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/discord-message-character-counter/",
+  "id": "/el/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

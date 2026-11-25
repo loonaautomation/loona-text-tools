@@ -2,7 +2,7 @@
   "name": "Loona Kontrola palindrómov online zadarmo",
   "short_name": "Kontrola palindrómov online zadarmo",
   "description": "Skontrolujte, či je akékoľvek slovo, číslo alebo veta palindróm - číta sa rovnako dopredu aj dozadu. Zobrazuje vyčistený text a jeho obrátenie. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/palindrome-checker/",
+  "id": "/sk/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

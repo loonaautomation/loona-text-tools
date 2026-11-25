@@ -2,7 +2,7 @@
   "name": "Loona Voz para Texto Online Grátis",
   "short_name": "Voz para Texto Online Grátis",
   "description": "Dite com a sua voz e veja-a tornar-se texto - voz para texto online gratuito para inglês, urdu e mais línguas. Sem registo; funciona no Chrome e no Edge.",
-  "id": "/loona-text-tools/pt-pt/speech-to-text/",
+  "id": "/pt-pt/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

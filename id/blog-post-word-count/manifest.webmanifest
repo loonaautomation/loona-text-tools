@@ -2,7 +2,7 @@
   "name": "Loona Jumlah Kata Postingan Blog",
   "short_name": "Jumlah Kata Postingan Blog",
   "description": "Pemeriksa jumlah kata postingan blog: hitungan langsung dengan pita panjang untuk berita (300–500), postingan standar (1.000–1.500) dan panduan mendalam (2.000+).",
-  "id": "/loona-text-tools/id/blog-post-word-count/",
+  "id": "/id/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

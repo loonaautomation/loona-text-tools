@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za SMS",
   "short_name": "Brojač znakova za SMS",
   "description": "Besplatan brojač znakova za SMS: otkrivanje GSM 7-bit naspram Unicodea, broj segmenata i preostali znakovi — uživo, u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/sms-character-counter/",
+  "id": "/hr/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

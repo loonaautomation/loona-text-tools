@@ -2,7 +2,7 @@
   "name": "Loona Calculator de cuvinte pe pagină",
   "short_name": "Calculator de cuvinte pe pagină",
   "description": "Calculator gratuit de cuvinte pe pagină: introdu cuvintele, mărimea fontului și spațierea dintre rânduri pentru a obține numărul de pagini și cuvintele pe pagină.",
-  "id": "/loona-text-tools/ro/words-per-page-calculator/",
+  "id": "/ro/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

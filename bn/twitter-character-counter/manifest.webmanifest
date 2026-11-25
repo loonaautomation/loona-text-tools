@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X অক্ষর গণক",
   "short_name": "Twitter / X অক্ষর গণক",
   "description": "বিনামূল্যে Twitter / X অক্ষর গণক গণক: 280-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/twitter-character-counter/",
+  "id": "/bn/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

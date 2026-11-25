@@ -2,7 +2,7 @@
   "name": "Loona Slumpmässig ämnesgenerator online gratis",
   "short_name": "Slumpmässig ämnesgenerator online gratis",
   "description": "Generera slumpmässiga ämnen för uppsatser, tal, debatter, stycken, presentationer och berättelser - 900 handskrivna ämnen i 9 kategorier, filtrerade efter nivå. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/random-topic-generator/",
+  "id": "/sv/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

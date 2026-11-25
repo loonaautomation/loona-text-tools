@@ -2,7 +2,7 @@
   "name": "Loona 行を並べ替えオンライン",
   "short_name": "行を並べ替えオンライン",
   "description": "テキストの行をアルファベット順（A-Z または Z-A）、長さ順、逆順に並べ替えたり、ランダムにシャッフルしたりします。無料オンライン行並べ替えツール - 登録不要、即時、プライベート。",
-  "id": "/loona-text-tools/ja/sort-lines/",
+  "id": "/ja/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

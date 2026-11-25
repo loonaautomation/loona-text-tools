@@ -2,7 +2,7 @@
   "name": "Loona Công cụ trích xuất email trực tuyến miễn phí",
   "short_name": "Công cụ trích xuất email trực tuyến miễn phí",
   "description": "Trích xuất mọi địa chỉ email từ bất kỳ văn bản, tài liệu hoặc nội dung trang web nào - đã loại bỏ trùng lặp và liệt kê mỗi địa chỉ một dòng. Chạy 100% trong trình duyệt của bạn. Miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/email-extractor/",
+  "id": "/vi/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

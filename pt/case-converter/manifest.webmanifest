@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Maiúsculas e Minúsculas Online",
   "short_name": "Conversor de Maiúsculas e Minúsculas Online",
   "description": "Converta texto para UPPERCASE, lowercase, Title Case, Sentence case, Capitalized ou aLtErNaTiNg case com um clique. Conversor de caixa online gratuito - sem registo.",
-  "id": "/loona-text-tools/pt/case-converter/",
+  "id": "/pt/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

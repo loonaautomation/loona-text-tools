@@ -2,7 +2,7 @@
   "name": "Loona Wybór emoji online za darmo",
   "short_name": "Wybór emoji online za darmo",
   "description": "Darmowy wybór emoji: przeglądaj lub wyszukuj ponad 1,900+ emoji i symboli, wybierz odcień skóry, kliknij, aby skopiować jedno emoji lub całą tacę. Bez rejestracji, działa w 100% w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/emoji-picker/",
+  "id": "/pl/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

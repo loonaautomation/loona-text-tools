@@ -2,7 +2,7 @@
   "name": "Loona Taltidsberäknare",
   "short_name": "Taltidsberäknare",
   "description": "Klistra in ditt tal eller manus och se hur lång tid det tar att framföra i långsam, samtalsmässig och snabb takt - plus hur många ord som ryms på en måltid. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/speaking-time-calculator/",
+  "id": "/sv/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

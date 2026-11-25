@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Anagramas e Verificador Online Grátis",
   "short_name": "Gerador de Anagramas e Verificador Online Grátis",
   "description": "Encontre anagramas de qualquer palavra a partir de palavras inglesas reais, e verifique se duas palavras ou frases são anagramas uma da outra. Solucionador de anagramas gratuito, sem registo.",
-  "id": "/loona-text-tools/pt/anagram-generator/",
+  "id": "/pt/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

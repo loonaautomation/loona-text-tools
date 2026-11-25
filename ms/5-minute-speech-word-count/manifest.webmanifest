@@ -2,7 +2,7 @@
   "name": "Loona Ucapan 5 Minit",
   "short_name": "Ucapan 5 Minit",
   "description": "Berapa banyak perkataan dalam ucapan 5 minit? 550–900 perkataan (750 pada kelajuan percakapan). Pengira langsung percuma dengan penyemakan masa bertutur.",
-  "id": "/loona-text-tools/ms/5-minute-speech-word-count/",
+  "id": "/ms/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

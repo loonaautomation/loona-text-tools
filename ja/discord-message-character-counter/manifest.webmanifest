@@ -2,7 +2,7 @@
   "name": "Loona Discord メッセージ文字数カウンター",
   "short_name": "Discord メッセージ文字数カウンター",
   "description": "無料 Discord メッセージ文字数カウンター：2,000文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/discord-message-character-counter/",
+  "id": "/ja/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

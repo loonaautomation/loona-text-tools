@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Deskripsi YouTube",
   "short_name": "Pengira Aksara Deskripsi YouTube",
   "description": "Pengira pengira aksara deskripsi YouTube percuma: hitungan aksara langsung terhadap had 5.000 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/youtube-description-character-counter/",
+  "id": "/ms/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

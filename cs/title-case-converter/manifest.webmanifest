@@ -2,7 +2,7 @@
   "name": "Loona Převodník Title Case",
   "short_name": "Převodník Title Case",
   "description": "Bezplatný převodník Title Case — vložte text a okamžitě získejte Title Case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/title-case-converter/",
+  "id": "/cs/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

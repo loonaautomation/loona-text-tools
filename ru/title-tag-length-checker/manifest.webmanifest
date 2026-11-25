@@ -2,7 +2,7 @@
   "name": "Loona Проверка длины тега заголовка",
   "short_name": "Проверка длины тега заголовка",
   "description": "Бесплатная проверка длины тега заголовка: подсчёт символов в реальном времени с учётом лимита в 60 символов, со словами и оставшимися символами по мере ввода.",
-  "id": "/loona-text-tools/ru/title-tag-length-checker/",
+  "id": "/ru/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

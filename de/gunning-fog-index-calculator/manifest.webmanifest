@@ -2,7 +2,7 @@
   "name": "Loona Gunning-Fog-Index-Rechner",
   "short_name": "Gunning-Fog-Index-Rechner",
   "description": "Kostenloser Gunning-Fog-Index-Rechner: Text einfügen für den Fog-Index, die Zahl komplexer Wörter und die Schuljahre, die er impliziert.",
-  "id": "/loona-text-tools/de/gunning-fog-index-calculator/",
+  "id": "/de/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

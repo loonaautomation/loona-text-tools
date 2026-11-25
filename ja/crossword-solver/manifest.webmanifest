@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "c?oss?ordのようなクロスワードパターンを、172,820語の英単語に対して解きます。知っている文字を入力し、不足しているマスには ? を使い、必ず含む文字でフィルター。無料、登録不要、100%デバイス上。",
-  "id": "/loona-text-tools/ja/crossword-solver/",
+  "id": "/ja/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

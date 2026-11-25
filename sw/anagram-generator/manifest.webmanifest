@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Anagramu na Kikagua Mtandaoni Bure",
   "short_name": "Kizalishaji cha Anagramu na Kikagua Mtandaoni Bure",
   "description": "Tafuta anagramu za neno lolote kutoka maneno halisi ya Kiingereza, na ukague ikiwa maneno au vifungu viwili ni anagramu za kila moja. Kisuluhishi cha bure cha anagramu, bila kujisajili.",
-  "id": "/loona-text-tools/sw/anagram-generator/",
+  "id": "/sw/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Xóa dấu câu trực tuyến miễn phí",
   "short_name": "Xóa dấu câu trực tuyến miễn phí",
   "description": "Xóa dấu câu khỏi bất kỳ văn bản nào chỉ trong một cú nhấp chuột - dấu chấm, dấu phẩy, dấu ngoặc kép và hơn nữa - với các tùy chọn giữ dấu nháy đơn và dấu gạch ngang. Miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/remove-punctuation/",
+  "id": "/vi/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

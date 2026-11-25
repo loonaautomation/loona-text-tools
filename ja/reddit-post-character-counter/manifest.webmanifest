@@ -2,7 +2,7 @@
   "name": "Loona Reddit 投稿文字数カウンター",
   "short_name": "Reddit 投稿文字数カウンター",
   "description": "無料 Reddit 投稿文字数カウンター：40,000文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/reddit-post-character-counter/",
+  "id": "/ja/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

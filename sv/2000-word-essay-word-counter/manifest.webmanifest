@@ -2,7 +2,7 @@
   "name": "Loona Uppsats på 2.000 ord",
   "short_name": "Uppsats på 2.000 ord",
   "description": "Gratis räknare för uppsats på 2.000 ord: levande ordantal mot målet på 2.000 ord, sidor med enkelt och dubbelt radavstånd, stycken, läs- och taltid.",
-  "id": "/loona-text-tools/sv/2000-word-essay-word-counter/",
+  "id": "/sv/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

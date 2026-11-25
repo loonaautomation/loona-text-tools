@@ -2,7 +2,7 @@
   "name": "Loona Конвертер фонетичного алфавіту НАТО",
   "short_name": "Конвертер фонетичного алфавіту НАТО",
   "description": "Перетворюйте будь-який текст у фонетичний алфавіт НАТО (Alfa, Bravo, Charlie) і декодуйте правопис НАТО назад у звичайний текст. Безкоштовно, миттєво, без реєстрації.",
-  "id": "/loona-text-tools/uk/nato-phonetic-alphabet-converter/",
+  "id": "/uk/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

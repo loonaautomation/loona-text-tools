@@ -2,7 +2,7 @@
   "name": "Loona Lukuaikalaskuri",
   "short_name": "Lukuaikalaskuri",
   "description": "Liitä mikä tahansa teksti ja näe, kuinka kauan sen lukeminen kestää hitaalla, keskimääräisellä ja nopealla nopeudella – sekä kuinka monta sanaa tarvitset tavoitelukuaikaan. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/reading-time-calculator/",
+  "id": "/fi/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

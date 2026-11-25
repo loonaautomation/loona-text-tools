@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/text-to-binary/",
+  "id": "/en-gb/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

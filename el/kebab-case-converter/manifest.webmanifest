@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας kebab-case",
   "short_name": "Μετατροπέας kebab-case",
   "description": "Δωρεάν μετατροπέας kebab-case — επικολλήστε κείμενο και πάρετε kebab-case αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/kebab-case-converter/",
+  "id": "/el/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

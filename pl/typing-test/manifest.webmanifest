@@ -2,7 +2,7 @@
   "name": "Loona Darmowy test pisania online",
   "short_name": "Darmowy test pisania online",
   "description": "Darmowy 60-sekundowy test pisania: zmierz swoją prędkość pisania w WPM, dokładność i znaki na minutę przy tekstach łatwych, średnich i trudnych. Bez rejestracji, działa w 100% w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/typing-test/",
+  "id": "/pl/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

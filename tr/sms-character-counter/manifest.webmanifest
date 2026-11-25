@@ -2,7 +2,7 @@
   "name": "Loona SMS Karakter Sayacı",
   "short_name": "SMS Karakter Sayacı",
   "description": "Ücretsiz SMS karakter sayacı: GSM 7 bit ve Unicode algılama, segment sayısı ve kalan karakterler — canlı, tarayıcınızda.",
-  "id": "/loona-text-tools/tr/sms-character-counter/",
+  "id": "/tr/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

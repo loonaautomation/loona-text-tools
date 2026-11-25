@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi Roman Urdu sang chữ Urdu trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi Roman Urdu sang chữ Urdu trực tuyến miễn phí",
   "description": "Chuyển đổi Roman Urdu (chữ Latinh) thành chữ Urdu đúng ngay lập tức - 'mera naam' trở thành chữ Urdu thực sự. Công cụ chuyển đổi Roman Urdu sang Urdu miễn phí cho Pakistan.",
-  "id": "/loona-text-tools/vi/roman-urdu-to-urdu/",
+  "id": "/vi/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

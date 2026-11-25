@@ -2,7 +2,7 @@
   "name": "Loona Αφαίρεση Σημείων Στίξης Online Δωρεάν",
   "short_name": "Αφαίρεση Σημείων Στίξης Online Δωρεάν",
   "description": "Αφαιρέστε τα σημεία στίξης από οποιοδήποτε κείμενο με ένα κλικ - τελείες, κόμματα, εισαγωγικά και άλλα - με επιλογές να κρατήσετε αποστρόφους και παύλες. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/remove-punctuation/",
+  "id": "/el/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

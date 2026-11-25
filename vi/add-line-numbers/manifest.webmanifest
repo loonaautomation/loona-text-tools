@@ -2,7 +2,7 @@
   "name": "Loona Thêm số dòng trực tuyến",
   "short_name": "Thêm số dòng trực tuyến",
   "description": "Thêm số vào mọi dòng văn bản của bạn với lựa chọn điểm bắt đầu, bước nhảy, đệm và dấu phân cách của bạn. Công cụ đánh số dòng miễn phí - không cần đăng ký, tức thì và riêng tư.",
-  "id": "/loona-text-tools/vi/add-line-numbers/",
+  "id": "/vi/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Uppercase Converter",
   "short_name": "Uppercase Converter",
   "description": "Free Uppercase converter — paste text and get UPPERCASE instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/uppercase-converter/",
+  "id": "/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

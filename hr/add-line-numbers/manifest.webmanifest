@@ -2,7 +2,7 @@
   "name": "Loona Dodaj brojeve redaka na mreži",
   "short_name": "Dodaj brojeve redaka na mreži",
   "description": "Dodajte brojeve u svaki redak svog teksta s odabirom početka, koraka, popunjavanja i razdjelnika. Besplatan alat za numeriranje redaka – bez registracije, trenutan i privatan.",
-  "id": "/loona-text-tools/hr/add-line-numbers/",
+  "id": "/hr/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

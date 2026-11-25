@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Řešte křížovkové vzory jako c?oss?ord proti 172,820 anglickým slovům. Zadejte písmena, která znáte, použijte ? pro chybějící políčka a filtrujte podle povinných písmen. Zdarma, bez registrace, 100% na vašem zařízení.",
-  "id": "/loona-text-tools/cs/crossword-solver/",
+  "id": "/cs/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

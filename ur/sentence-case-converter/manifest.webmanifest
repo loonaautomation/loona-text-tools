@@ -2,7 +2,7 @@
   "name": "Loona Sentence Case کنورٹر",
   "short_name": "Sentence Case کنورٹر",
   "description": "مفت Sentence Case کنورٹر — متن پیسٹ کریں اور فوراً Sentence case پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/sentence-case-converter/",
+  "id": "/ur/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

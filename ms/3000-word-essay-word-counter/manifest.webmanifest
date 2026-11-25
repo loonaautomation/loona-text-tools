@@ -2,7 +2,7 @@
   "name": "Loona Esei 3.000 Perkataan",
   "short_name": "Esei 3.000 Perkataan",
   "description": "Pengira esei 3.000 perkataan percuma: hitungan perkataan langsung menuju target 3.000 perkataan, halaman jarak tunggal dan ganda, perenggan, masa membaca dan bertutur.",
-  "id": "/loona-text-tools/ms/3000-word-essay-word-counter/",
+  "id": "/ms/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

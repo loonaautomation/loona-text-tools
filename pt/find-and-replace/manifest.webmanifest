@@ -2,7 +2,7 @@
   "name": "Loona Localizar e Substituir Texto Online",
   "short_name": "Localizar e Substituir Texto Online",
   "description": "Encontre uma palavra ou frase e substitua cada ocorrência no seu texto de uma vez, com opções de sensibilidade a maiúsculas, palavra inteira e padrão. Ferramenta online gratuita - sem registo.",
-  "id": "/loona-text-tools/pt/find-and-replace/",
+  "id": "/pt/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

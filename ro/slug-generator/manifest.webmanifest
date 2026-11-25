@@ -2,7 +2,7 @@
   "name": "Loona Generator de slug-uri online",
   "short_name": "Generator de slug-uri online",
   "description": "Transformă orice titlu într-un slug URL curat și prietenos cu SEO: minuscule, fără spații, fără caractere speciale. Generator online gratuit de slug-uri, cu previzualizare URL completă - fără înregistrare.",
-  "id": "/loona-text-tools/ro/slug-generator/",
+  "id": "/ro/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

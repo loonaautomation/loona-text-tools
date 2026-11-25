@@ -2,7 +2,7 @@
   "name": "Loona Thư viện công cụ văn bản",
   "short_name": "Thư viện công cụ văn bản",
   "description": "Toàn bộ thư viện Loona Text Tools: công cụ chuyển đổi kiểu chữ, bộ đếm từ bài luận và bài nói, công cụ kiểm tra giới hạn ký tự nền tảng và máy tính dễ đọc.",
-  "id": "/loona-text-tools/vi/text-tools-library/",
+  "id": "/vi/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

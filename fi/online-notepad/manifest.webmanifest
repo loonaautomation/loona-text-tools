@@ -2,7 +2,7 @@
   "name": "Loona Verkkomuistio ilmaiseksi",
   "short_name": "Verkkomuistio ilmaiseksi",
   "description": "Ilmainen verkkomuistio, joka tallentaa automaattisesti selaimeesi kirjoittaessasi – lataus, tulostus ja sanalaskenta mukana. Ei rekisteröitymistä; muistiinpanosi eivät koskaan poistu laitteeltasi.",
-  "id": "/loona-text-tools/fi/online-notepad/",
+  "id": "/fi/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

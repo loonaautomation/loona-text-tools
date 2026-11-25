@@ -2,7 +2,7 @@
   "name": "Loona SMS অক্ষর গণক",
   "short_name": "SMS অক্ষর গণক",
   "description": "বিনামূল্যে SMS অক্ষর গণক: GSM 7-bit বনাম Unicode শনাক্তকরণ, সেগমেন্ট সংখ্যা ও অবশিষ্ট অক্ষর — সরাসরি, আপনার ব্রাউজারে।",
-  "id": "/loona-text-tools/bn/sms-character-counter/",
+  "id": "/bn/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

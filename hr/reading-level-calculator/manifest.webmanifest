@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator razine čitanja",
   "short_name": "Kalkulator razine čitanja",
   "description": "Ocijenite bilo koji tekst ljestvicom Fleschove lakoće čitanja i razinom Flesch-Kincaid, koristeći standardne formule. Pogledajte koliko je vaše pisanje lako čitati. Besplatno.",
-  "id": "/loona-text-tools/hr/reading-level-calculator/",
+  "id": "/hr/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

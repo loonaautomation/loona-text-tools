@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya SMS",
   "short_name": "Kihesabu cha Vibambo vya SMS",
   "description": "Kihesabu cha bure cha vibambo vya SMS: utambuzi wa GSM biti 7 dhidi ya Unicode, hesabu ya sehemu na vibambo vilivyobaki — moja kwa moja, katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/sms-character-counter/",
+  "id": "/sw/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

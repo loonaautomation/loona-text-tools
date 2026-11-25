@@ -2,7 +2,7 @@
   "name": "Loona میٹا تفصیل لمبائی چیکر",
   "short_name": "میٹا تفصیل لمبائی چیکر",
   "description": "مفت میٹا تفصیل لمبائی چیکر کاؤنٹر: 160 حروف کی حد کے مقابل لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/meta-description-length-checker/",
+  "id": "/ur/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Розв'язуйте шаблони кросвордів на кшталт c?oss?ord за словником зі 172,820 англійських слів. Вводьте відомі літери, використовуйте ? для відсутніх клітинок і фільтруйте за обов'язковими літерами. Безкоштовно, без реєстрації, 100% на вашому пристрої.",
-  "id": "/loona-text-tools/uk/crossword-solver/",
+  "id": "/uk/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

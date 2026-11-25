@@ -2,7 +2,7 @@
   "name": "Loona Konwerter zapisu jak w zdaniu",
   "short_name": "Konwerter zapisu jak w zdaniu",
   "description": "Darmowy konwerter zapisu jak w zdaniu — wklej tekst i otrzymaj zapis jak w zdaniu natychmiast. Konwersja na żywo w Twojej przeglądarce, bez rejestracji, bez przesyłania.",
-  "id": "/loona-text-tools/pl/sentence-case-converter/",
+  "id": "/pl/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

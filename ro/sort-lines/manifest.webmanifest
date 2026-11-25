@@ -2,7 +2,7 @@
   "name": "Loona Sortare linii online",
   "short_name": "Sortare linii online",
   "description": "Sortează liniile de text alfabetic (A-Z sau Z-A), după lungime, în ordine inversă sau amestecate aleatoriu. Sortator de linii online gratuit - fără înregistrare, instant și privat.",
-  "id": "/loona-text-tools/ro/sort-lines/",
+  "id": "/ro/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rastgele Konu Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Rastgele Konu Oluşturucu Çevrimiçi Ücretsiz",
   "description": "Denemeler, konuşmalar, münazaralar, paragraflar, sunumlar ve hikâyeler için rastgele konular üretin - 9 kategoride elle yazılmış 900 konu, düzeye göre filtrelenmiş. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/random-topic-generator/",
+  "id": "/tr/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

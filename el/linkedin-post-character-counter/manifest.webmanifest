@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Αναρτήσεων LinkedIn",
   "short_name": "Μετρητής Χαρακτήρων Αναρτήσεων LinkedIn",
   "description": "Δωρεάν μετρητής χαρακτήρων αναρτήσεων LinkedIn: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 3,000 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/linkedin-post-character-counter/",
+  "id": "/el/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

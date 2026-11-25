@@ -2,7 +2,7 @@
   "name": "Loona प्रति पृष्ठ शब्द कैलकुलेटर",
   "short_name": "प्रति पृष्ठ शब्द कैलकुलेटर",
   "description": "मुफ़्त प्रति-पृष्ठ शब्द कैलकुलेटर: पृष्ठ गणना और प्रति पृष्ठ शब्द पाने के लिए शब्द, फ़ॉन्ट आकार और लाइन स्पेसिंग दर्ज करें।",
-  "id": "/loona-text-tools/hi/words-per-page-calculator/",
+  "id": "/hi/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

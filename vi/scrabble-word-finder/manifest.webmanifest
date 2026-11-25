@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Tìm các nước đi ghi điểm cao nhất từ giá chữ cái của bạn và kiểm tra xem bất kỳ từ nào có hợp lệ không. Từ điển ENABLE đầy đủ 172.820 từ, hỗ trợ ô trống, 100% trên thiết bị của bạn. Miễn phí, không cần đăng ký.",
-  "id": "/loona-text-tools/vi/scrabble-word-finder/",
+  "id": "/vi/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

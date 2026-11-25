@@ -2,7 +2,7 @@
   "name": "Loona Hesabu ya Maneno ya Chapisho la Blogu",
   "short_name": "Hesabu ya Maneno ya Chapisho la Blogu",
   "description": "Kikagua hesabu ya maneno ya chapisho la blogu: hesabu ya moja kwa moja yenye mikanda ya urefu kwa habari (300–500), machapisho ya kawaida (1,000–1,500) na miongozo ya kina (2,000+).",
-  "id": "/loona-text-tools/sw/blog-post-word-count/",
+  "id": "/sw/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov Twitter / X",
   "short_name": "Počítadlo znakov Twitter / X",
   "description": "Bezplatné počítadlo znakov Twitter / X: počítanie znakov naživo oproti limitu 280 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/twitter-character-counter/",
+  "id": "/sk/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

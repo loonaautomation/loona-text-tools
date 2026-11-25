@@ -2,7 +2,7 @@
   "name": "Loona Typing Test Online Free",
   "short_name": "Typing Test Online Free",
   "description": "Free 60-second typing test: measure your typing speed in WPM, accuracy and characters per minute with easy, medium and hard texts. No sign-up, runs 100% in your browser.",
-  "id": "/loona-text-tools/typing-test/",
+  "id": "/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

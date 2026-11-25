@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับย่อหน้าออนไลน์ฟรี",
   "short_name": "ตัวนับย่อหน้าออนไลน์ฟรี",
   "description": "นับย่อหน้าในข้อความใด ๆ ทันที พร้อมประโยคและคำต่อย่อหน้า และย่อหน้าที่ยาวที่สุดและสั้นที่สุด ตัวนับย่อหน้าฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/paragraph-counter/",
+  "id": "/th/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

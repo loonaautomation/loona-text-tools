@@ -2,7 +2,7 @@
   "name": "Loona Реч от 5 минути",
   "short_name": "Реч от 5 минути",
   "description": "Колко думи в реч от 5 минути? 550–900 думи (750 при разговорно темпо). Безплатен брояч на живо с проверка на времето за говорене.",
-  "id": "/loona-text-tools/bg/5-minute-speech-word-count/",
+  "id": "/bg/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

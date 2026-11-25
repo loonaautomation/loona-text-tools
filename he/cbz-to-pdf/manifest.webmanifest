@@ -2,7 +2,7 @@
   "name": "Loona ממיר CBZ ל-PDF בחינם",
   "short_name": "ממיר CBZ ל-PDF בחינם",
   "description": "המירו ארכיוני קומיקס CBZ ו-ZIP ל-PDF בחינם בדפדפן שלכם. עמודים בסדר טבעי (1, 2, 10), תמונה אחת לעמוד בגודל מלא. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/cbz-to-pdf/",
+  "id": "/he/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

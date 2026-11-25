@@ -2,7 +2,7 @@
   "name": "Loona Essay på 2,000 ord",
   "short_name": "Essay på 2,000 ord",
   "description": "Gratis teller for essay på 2,000 ord: direkte ordtelling mot målet på 2,000 ord, sider med enkel og dobbel linjeavstand, avsnitt, lese- og taletid.",
-  "id": "/loona-text-tools/nb/2000-word-essay-word-counter/",
+  "id": "/nb/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

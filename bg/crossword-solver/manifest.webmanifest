@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Решавайте шаблони за кръстословици като c?oss?ord спрямо 172,820 английски думи. Въвеждайте буквите, които знаете, използвайте ? за липсващите квадратчета и филтрирайте по задължителни букви. Безплатно, без регистрация, 100% на вашето устройство.",
-  "id": "/loona-text-tools/bg/crossword-solver/",
+  "id": "/bg/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

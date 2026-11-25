@@ -2,7 +2,7 @@
   "name": "Loona Převodník flatcase",
   "short_name": "Převodník flatcase",
   "description": "Bezplatný převodník flatcase — vložte text a okamžitě získejte flatcase. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/flat-case-converter/",
+  "id": "/cs/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

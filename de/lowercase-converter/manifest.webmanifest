@@ -2,7 +2,7 @@
   "name": "Loona Kleinbuchstaben-Konverter",
   "short_name": "Kleinbuchstaben-Konverter",
   "description": "Kostenloser Kleinbuchstaben-Konverter — Text einfügen und sofort Kleinbuchstaben erhalten. Live-Umwandlung in Ihrem Browser, keine Registrierung, kein Upload.",
-  "id": "/loona-text-tools/de/lowercase-converter/",
+  "id": "/de/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Находите ходы с наибольшим количеством очков из букв на вашей полке и проверяйте допустимость любого слова. Полный словарь ENABLE на 172,820 слов, поддержка пустых фишек, 100% на вашем устройстве. Бесплатно, без регистрации.",
-  "id": "/loona-text-tools/ru/scrabble-word-finder/",
+  "id": "/ru/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

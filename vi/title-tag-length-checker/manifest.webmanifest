@@ -2,7 +2,7 @@
   "name": "Loona Công cụ kiểm tra độ dài thẻ tiêu đề",
   "short_name": "Công cụ kiểm tra độ dài thẻ tiêu đề",
   "description": "Bộ đếm kiểm tra độ dài thẻ tiêu đề miễn phí: đếm ký tự trực tiếp so với giới hạn 60 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/title-tag-length-checker/",
+  "id": "/vi/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

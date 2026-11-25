@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง EPUB เป็น HTML ฟรี",
   "short_name": "ตัวแปลง EPUB เป็น HTML ฟรี",
   "description": "แปลงอีบุ๊ก EPUB เป็นไฟล์ HTML เดี่ยวที่ครบในตัวเองฟรี ในเบราว์เซอร์ของคุณ บทตามลำดับ การจัดตัวอักษรพื้นฐาน รูปภาพขนาดเล็กฝังอยู่ ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/epub-to-html/",
+  "id": "/th/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

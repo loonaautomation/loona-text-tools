@@ -2,7 +2,7 @@
   "name": "Loona Конвертер регістру речення",
   "short_name": "Конвертер регістру речення",
   "description": "Безкоштовний конвертер регістру речення — вставте текст і отримайте регістр речення миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/sentence-case-converter/",
+  "id": "/uk/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona المفكرة عبر الإنترنت مجانًا",
   "short_name": "المفكرة عبر الإنترنت مجانًا",
   "description": "مفكرة مجانية عبر الإنترنت تحفظ تلقائيًا في متصفحك أثناء كتابتك - مع التنزيل والطباعة وعدّ الكلمات. بلا تسجيل؛ ملاحظاتك لا تغادر جهازك أبدًا.",
-  "id": "/loona-text-tools/ar/online-notepad/",
+  "id": "/ar/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

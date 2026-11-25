@@ -2,7 +2,7 @@
   "name": "Loona EPUB to Text - Extract Plain Text from an EPUB Ebook",
   "short_name": "EPUB to Text - Extract Plain Text from an EPUB Ebook",
   "description": "Convert EPUB ebooks to clean plain text (.txt) free, in your browser. Chapters in reading order, headings preserved, chapter list and word count shown first. No upload, no sign-up.",
-  "id": "/loona-text-tools/en-us/epub-to-text/",
+  "id": "/en-us/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Teks ke EPUB Gratis",
   "short_name": "Pengonversi Teks ke EPUB Gratis",
   "description": "Konversi teks biasa atau Markdown menjadi ebook EPUB yang valid secara gratis, di browser Anda. Judul dan penulis, bab dari judul, terbuka di pembaca EPUB mana pun. Tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/text-to-epub/",
+  "id": "/id/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

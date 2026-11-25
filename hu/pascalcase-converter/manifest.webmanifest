@@ -2,7 +2,7 @@
   "name": "Loona PascalCase-átalakító",
   "short_name": "PascalCase-átalakító",
   "description": "Ingyenes PascalCase-átalakító — illesszen be szöveget, és azonnal PascalCase-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/pascalcase-converter/",
+  "id": "/hu/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

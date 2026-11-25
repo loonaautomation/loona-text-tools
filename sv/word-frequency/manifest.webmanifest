@@ -2,7 +2,7 @@
   "name": "Loona Ordfrekvensräknare online",
   "short_name": "Ordfrekvensräknare online",
   "description": "Räkna hur ofta varje ord förekommer i din text och se en rankad frekvenstabell med procentsatser. Gratis ordfrekvensräknare online - ingen registrering, omedelbart.",
-  "id": "/loona-text-tools/sv/word-frequency/",
+  "id": "/sv/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

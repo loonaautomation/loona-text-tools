@@ -2,7 +2,7 @@
   "name": "Loona تصویر سے Excel کنورٹر آن لائن مفت",
   "short_name": "تصویر سے Excel کنورٹر آن لائن مفت",
   "description": "جدول کی تصویر، اسکین یا اسکرین شاٹ کو مفت OCR کے ساتھ اصل Excel (.xlsx) فائل میں بدلیں جو 100% آپ کے براؤزر میں چلتا ہے۔ ڈاؤن لوڈ سے پہلے جدول میں ترمیم کریں - کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/image-to-excel-converter/",
+  "id": "/ur/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

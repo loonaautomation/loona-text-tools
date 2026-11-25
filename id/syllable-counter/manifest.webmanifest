@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Suku Kata Online Gratis",
   "short_name": "Penghitung Suku Kata Online Gratis",
   "description": "Hitung suku kata dalam kata, kalimat atau teks penuh apa pun secara instan - total suku kata, rincian per kata dan rata-rata. Penghitung suku kata gratis, tanpa pendaftaran, bekerja offline.",
-  "id": "/loona-text-tools/id/syllable-counter/",
+  "id": "/id/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

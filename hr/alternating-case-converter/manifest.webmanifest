@@ -2,7 +2,7 @@
   "name": "Loona nAiZmJeNiČNi pretvarač",
   "short_name": "nAiZmJeNiČNi pretvarač",
   "description": "Besplatan nAiZmJeNiČNi pretvarač — zalijepite tekst i trenutačno dobijte nAiZmJeNiČNi tekst. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/alternating-case-converter/",
+  "id": "/hr/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

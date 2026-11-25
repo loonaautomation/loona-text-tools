@@ -2,7 +2,7 @@
   "name": "Loona Sổ tay trực tuyến miễn phí",
   "short_name": "Sổ tay trực tuyến miễn phí",
   "description": "Một sổ tay trực tuyến miễn phí tự động lưu trong trình duyệt khi bạn gõ - kèm theo tải xuống, in và đếm từ. Không cần đăng ký; ghi chú của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-text-tools/vi/online-notepad/",
+  "id": "/vi/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

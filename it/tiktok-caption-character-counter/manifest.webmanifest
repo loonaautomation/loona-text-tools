@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri didascalie TikTok",
   "short_name": "Contatore di caratteri didascalie TikTok",
   "description": "Contatore gratuito Contatore di caratteri didascalie TikTok: conteggio caratteri in tempo reale rispetto al limite di 2.200 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/tiktok-caption-character-counter/",
+  "id": "/it/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

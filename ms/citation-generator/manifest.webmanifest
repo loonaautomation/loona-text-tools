@@ -2,7 +2,7 @@
   "name": "Loona Penjana Sitasi Dalam talian Percuma",
   "short_name": "Penjana Sitasi Dalam talian Percuma",
   "description": "Buat sitasi yang diformat dengan benar untuk laman web, buku dan artikel jurnal dalam APA 7, MLA 9 dan tarikh-penulis Chicago - percuma, serta-merta, di pelayar anda.",
-  "id": "/loona-text-tools/ms/citation-generator/",
+  "id": "/ms/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

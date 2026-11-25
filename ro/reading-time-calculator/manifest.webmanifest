@@ -2,7 +2,7 @@
   "name": "Loona Calculator al timpului de citire",
   "short_name": "Calculator al timpului de citire",
   "description": "Lipește orice text și vezi cât durează citirea lui la viteze lente, medii și rapide - plus de câte cuvinte ai nevoie pentru un timp de citire țintă. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/reading-time-calculator/",
+  "id": "/ro/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

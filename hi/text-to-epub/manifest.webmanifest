@@ -2,7 +2,7 @@
   "name": "Loona टेक्स्ट से EPUB कन्वर्टर मुफ़्त",
   "short_name": "टेक्स्ट से EPUB कन्वर्टर मुफ़्त",
   "description": "सादे टेक्स्ट या Markdown को मान्य EPUB ईबुक में मुफ़्त बदलें, अपने ब्राउज़र में। शीर्षक और लेखक, शीर्षकों से अध्याय, किसी भी EPUB रीडर में खुलता है। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/text-to-epub/",
+  "id": "/hi/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

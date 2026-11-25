@@ -2,7 +2,7 @@
   "name": "Loona Konuşmadan Metne Çevrimiçi Ücretsiz",
   "short_name": "Konuşmadan Metne Çevrimiçi Ücretsiz",
   "description": "Sesinizle dikte edin ve metne dönüşmesini izleyin - İngilizce, Urduca ve daha fazla dil için ücretsiz çevrimiçi konuşmadan metne. Kayıt yok; Chrome ve Edge'de çalışır.",
-  "id": "/loona-text-tools/tr/speech-to-text/",
+  "id": "/tr/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

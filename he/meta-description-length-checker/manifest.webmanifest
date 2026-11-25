@@ -2,7 +2,7 @@
   "name": "Loona בודק אורך תיאור מטא",
   "short_name": "בודק אורך תיאור מטא",
   "description": "בודק אורך תיאור מטא בחינם: ספירת תווים חיה מול מגבלת 160 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/meta-description-length-checker/",
+  "id": "/he/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

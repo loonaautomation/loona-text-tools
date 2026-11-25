@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków tytułu na YouTube",
   "short_name": "Licznik znaków tytułu na YouTube",
   "description": "Darmowy licznik znaków tytułu na YouTube: liczenie znaków na żywo względem limitu 100 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/youtube-title-character-counter/",
+  "id": "/pl/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

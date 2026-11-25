@@ -2,7 +2,7 @@
   "name": "Loona Générateur de sujets aléatoires en ligne gratuit",
   "short_name": "Générateur de sujets aléatoires",
   "description": "Générez des sujets aléatoires pour rédactions, discours, débats, paragraphes, présentations et histoires : 900 sujets écrits à la main en 9 catégories, filtrés par niveau. Gratuit, sans inscription.",
-  "id": "/loona-text-tools/fr/random-topic-generator/",
+  "id": "/fr/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

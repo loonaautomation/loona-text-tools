@@ -2,7 +2,7 @@
   "name": "Loona Brojač učestalosti riječi na mreži",
   "short_name": "Brojač učestalosti riječi na mreži",
   "description": "Brojite koliko se često svaka riječ pojavljuje u vašem tekstu i pogledajte poredanu tablicu učestalosti s postocima. Besplatan mrežni brojač učestalosti riječi – bez registracije, trenutačno.",
-  "id": "/loona-text-tools/hr/word-frequency/",
+  "id": "/hr/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

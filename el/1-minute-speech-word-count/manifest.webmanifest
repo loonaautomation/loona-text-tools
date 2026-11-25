@@ -2,7 +2,7 @@
   "name": "Loona Ομιλία 1 Λεπτού",
   "short_name": "Ομιλία 1 Λεπτού",
   "description": "Πόσες λέξεις σε μια ομιλία 1 λεπτού; 110–180 λέξεις (150 με συνομιλιακό ρυθμό). Δωρεάν ζωντανός μετρητής με έλεγχο χρόνου ομιλίας.",
-  "id": "/loona-text-tools/el/1-minute-speech-word-count/",
+  "id": "/el/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

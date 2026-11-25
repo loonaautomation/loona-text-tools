@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare online",
   "short_name": "Teckenräknare online",
   "description": "Räkna tecken med och utan mellanslag och kontrollera gränser för X (Twitter), SMS, metabeskrivningar och mer. Gratis teckenräknare online - ingen registrering behövs.",
-  "id": "/loona-text-tools/sv/character-counter/",
+  "id": "/sv/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

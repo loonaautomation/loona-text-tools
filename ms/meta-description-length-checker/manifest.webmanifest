@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Panjang Deskripsi Meta",
   "short_name": "Penyemak Panjang Deskripsi Meta",
   "description": "Pengira penyemak panjang deskripsi meta percuma: hitungan aksara langsung terhadap had 160 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/meta-description-length-checker/",
+  "id": "/ms/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

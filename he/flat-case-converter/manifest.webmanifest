@@ -2,7 +2,7 @@
   "name": "Loona ממיר flatcase",
   "short_name": "ממיר flatcase",
   "description": "ממיר flatcase בחינם — הדביקו טקסט וקבלו flatcase מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/flat-case-converter/",
+  "id": "/he/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eliminare punctuație online gratuită",
   "short_name": "Eliminare punctuație online gratuită",
   "description": "Elimină punctuația din orice text cu un clic - puncte, virgule, ghilimele și altele - cu opțiuni de păstrare a apostrofurile și a cratimelor. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/remove-punctuation/",
+  "id": "/ro/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertor flatcase",
   "short_name": "Convertor flatcase",
   "description": "Convertor flatcase gratuit — lipește text și obține flatcase instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/flat-case-converter/",
+  "id": "/ro/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram कैप्शन अक्षर गणक",
   "short_name": "Instagram कैप्शन अक्षर गणक",
   "description": "मुफ़्त Instagram कैप्शन अक्षर गणक गणक: 2,200-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/instagram-caption-character-counter/",
+  "id": "/hi/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

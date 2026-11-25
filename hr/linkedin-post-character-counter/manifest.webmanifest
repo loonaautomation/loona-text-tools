@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za LinkedIn objave",
   "short_name": "Brojač znakova za LinkedIn objave",
   "description": "Besplatan brojač znakova za LinkedIn objave: broj znakova uživo u odnosu na ograničenje od 3,000 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/linkedin-post-character-counter/",
+  "id": "/hr/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

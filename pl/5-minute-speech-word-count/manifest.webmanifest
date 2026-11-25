@@ -2,7 +2,7 @@
   "name": "Loona Przemówienie na 5 minut",
   "short_name": "Przemówienie na 5 minut",
   "description": "Ile słów ma przemówienie na 5 minut? 550–900 słów (750 przy tempie konwersacyjnym). Darmowy licznik na żywo ze sprawdzaniem czasu mówienia.",
-  "id": "/loona-text-tools/pl/5-minute-speech-word-count/",
+  "id": "/pl/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

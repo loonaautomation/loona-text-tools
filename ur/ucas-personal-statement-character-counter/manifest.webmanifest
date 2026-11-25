@@ -2,7 +2,7 @@
   "name": "Loona UCAS ذاتی بیان حروف گننے والا",
   "short_name": "UCAS ذاتی بیان حروف گننے والا",
   "description": "مفت UCAS ذاتی بیان حروف گننے والا کاؤنٹر: 4,000 حروف کی حد کے خلاف لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے گئے۔",
-  "id": "/loona-text-tools/ur/ucas-personal-statement-character-counter/",
+  "id": "/ur/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za Reddit objave",
   "short_name": "Brojač znakova za Reddit objave",
   "description": "Besplatan brojač znakova za Reddit objave: broj znakova uživo u odnosu na ograničenje od 40,000 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/reddit-post-character-counter/",
+  "id": "/hr/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

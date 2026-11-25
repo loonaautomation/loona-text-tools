@@ -2,7 +2,7 @@
   "name": "Loona テキストから ASCII への変換ツールオンラインフリー",
   "short_name": "テキストから ASCII への変換ツールオンラインフリー",
   "description": "テキストを ASCII コード（すべての文字の十進数、十六進数、八進数、二進数）に変換し、ASCII コードをテキストに戻します。無料、即時、登録不要。",
-  "id": "/loona-text-tools/ja/text-to-ascii-converter/",
+  "id": "/ja/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים לתיאור YouTube",
   "short_name": "מונה תווים לתיאור YouTube",
   "description": "מונה תווי תיאורי YouTube בחינם: ספירת תווים חיה מול מגבלת 5,000 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/youtube-description-character-counter/",
+  "id": "/he/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

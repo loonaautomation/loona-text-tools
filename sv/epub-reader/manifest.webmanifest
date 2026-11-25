@@ -2,7 +2,7 @@
   "name": "Loona EPUB-läsare online gratis",
   "short_name": "EPUB-läsare online gratis",
   "description": "Öppna och läs EPUB-e-böcker online gratis, direkt i din webbläsare. Kapitellista, justerbar teckenstorlek och mörkt läge. 100% privat - din e-bok lämnar aldrig din enhet. Ingen registrering.",
-  "id": "/loona-text-tools/sv/epub-reader/",
+  "id": "/sv/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Anteckningsblock online gratis",
   "short_name": "Anteckningsblock online gratis",
   "description": "Ett gratis anteckningsblock online som sparar automatiskt i din webbläsare medan du skriver - nedladdning, utskrift och ordräkning ingår. Ingen registrering; dina anteckningar lämnar aldrig din enhet.",
-  "id": "/loona-text-tools/sv/online-notepad/",
+  "id": "/sv/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Rozwiązuj wzory krzyżówek, takie jak c?oss?ord, względem 172,820 angielskich słów. Wpisz litery, które znasz, użyj ? dla brakujących pól i filtruj literami, które muszą wystąpić. Za darmo, bez rejestracji, 100% na urządzeniu.",
-  "id": "/loona-text-tools/pl/crossword-solver/",
+  "id": "/pl/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

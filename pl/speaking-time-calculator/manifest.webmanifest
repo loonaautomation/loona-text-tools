@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator czasu przemówienia",
   "short_name": "Kalkulator czasu przemówienia",
   "description": "Wklej swoje przemówienie lub tekst wystąpienia i zobacz, ile zajmuje jego wygłoszenie w tempie wolnym, konwersacyjnym i szybkim - plus ile słów mieści się w docelowym czasie. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/speaking-time-calculator/",
+  "id": "/pl/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

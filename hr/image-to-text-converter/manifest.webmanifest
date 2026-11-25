@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač slike u tekst (OCR) na mreži besplatno",
   "short_name": "Pretvarač slike u tekst (OCR) na mreži besplatno",
   "description": "Izdvojite tekst koji se može uređivati iz slika i fotografija besplatnim OCR-om koji radi 100% u vašem pregledniku. PNG, JPG, WebP i BMP - vaša se slika nikada ne prenosi.",
-  "id": "/loona-text-tools/hr/image-to-text-converter/",
+  "id": "/hr/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Contador de caracteres de Twitter / X",
   "short_name": "Contador de caracteres de Twitter / X",
   "description": "Contador de caracteres de Twitter / X gratuito: conteo de caracteres en vivo frente al límite de 280 caracteres, con palabras y caracteres restantes mostrados mientras escribes.",
-  "id": "/loona-text-tools/es/twitter-character-counter/",
+  "id": "/es/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مترجم شفرة مورس عبر الإنترنت",
   "short_name": "مترجم شفرة مورس عبر الإنترنت",
   "description": "ترجم النص إلى شفرة مورس وشفرة مورس إلى نص، واسمعها كصفيرات حقيقية. مترجم شفرة مورس مجاني عبر الإنترنت - بلا تسجيل، يعمل في متصفحك.",
-  "id": "/loona-text-tools/ar/morse-code-translator/",
+  "id": "/ar/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

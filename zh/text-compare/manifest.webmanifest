@@ -2,7 +2,7 @@
   "name": "Loona 在线文本对比",
   "short_name": "在线文本对比",
   "description": "逐行比较两段文本,确切查看哪些行被添加、删除或保留。免费在线文本比较工具——无需注册,在您的浏览器中私密进行。",
-  "id": "/loona-text-tools/zh/text-compare/",
+  "id": "/zh/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

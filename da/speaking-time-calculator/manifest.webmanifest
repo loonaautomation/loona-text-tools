@@ -2,7 +2,7 @@
   "name": "Loona Taletidsberegner",
   "short_name": "Taletidsberegner",
   "description": "Indsæt din tale eller dit manuskript og se, hvor lang tid det tager at levere ved langsomme, samtale- og hurtige tempoer - plus hvor mange ord der passer til en ønsket tid. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/speaking-time-calculator/",
+  "id": "/da/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

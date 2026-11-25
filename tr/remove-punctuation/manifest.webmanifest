@@ -2,7 +2,7 @@
   "name": "Loona Noktalama İşaretlerini Çevrimiçi Ücretsiz Kaldırın",
   "short_name": "Noktalama İşaretlerini Çevrimiçi Ücretsiz Kaldırın",
   "description": "Herhangi bir metinden noktalama işaretlerini tek tıklamayla kaldırın - noktalar, virgüller, tırnaklar ve daha fazlası - kesme işaretlerini ve tireleri koruma seçenekleriyle. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/remove-punctuation/",
+  "id": "/tr/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

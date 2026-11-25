@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Karakter Online",
   "short_name": "Penghitung Karakter Online",
   "description": "Hitung karakter dengan dan tanpa spasi dan periksa batas untuk X (Twitter), SMS, deskripsi meta dan lainnya. Penghitung karakter online gratis - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/character-counter/",
+  "id": "/id/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

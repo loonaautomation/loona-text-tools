@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรโพสต์ LinkedIn",
   "short_name": "ตัวนับตัวอักษรโพสต์ LinkedIn",
   "description": "ตัวนับตัวอักษรโพสต์ LinkedIn ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 3,000 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/linkedin-post-character-counter/",
+  "id": "/th/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

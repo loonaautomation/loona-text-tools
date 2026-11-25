@@ -2,7 +2,7 @@
   "name": "Loona Ta bort radbrytningar online",
   "short_name": "Ta bort radbrytningar online",
   "description": "Ta bort radbrytningar och foga ihop brutna rader till rena stycken - perfekt för text kopierad från PDF:er. Gratis radbrytningsborttagare online, ingen registrering, omedelbara resultat.",
-  "id": "/loona-text-tools/sv/remove-line-breaks/",
+  "id": "/sv/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

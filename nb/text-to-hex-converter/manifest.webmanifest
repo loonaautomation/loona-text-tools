@@ -2,7 +2,7 @@
   "name": "Loona Omformer fra tekst til heks gratis på nett",
   "short_name": "Omformer fra tekst til heks gratis på nett",
   "description": "Konverter tekst til heksadesimal og heks tilbake til tekst, med korrekt håndtering av UTF-8 for bokstaver med aksent, urdu og emoji. Gratis heksomformer, ingen registrering.",
-  "id": "/loona-text-tools/nb/text-to-hex-converter/",
+  "id": "/nb/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

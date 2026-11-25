@@ -2,7 +2,7 @@
   "name": "Loona Convertor aLtErNaTiNg CaSe",
   "short_name": "Convertor aLtErNaTiNg CaSe",
   "description": "Convertor aLtErNaTiNg CaSe gratuit — lipește text și obține aLtErNaTiNg CaSe instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/alternating-case-converter/",
+  "id": "/ro/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מאתר מילים חוזרות אונליין בחינם",
   "short_name": "מאתר מילים חוזרות אונליין בחינם",
   "description": "מצאו כל מילה שמופיעה יותר מפעם אחת בטקסט שלכם, מדורגת לפי תדירות החזרה שלה. תפסו מילים כפולות בטעות ומילים בשימוש יתר. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/repeated-words-finder/",
+  "id": "/he/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

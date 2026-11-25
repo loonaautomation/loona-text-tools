@@ -2,7 +2,7 @@
   "name": "Loona Liczba słów powieści według gatunku",
   "short_name": "Liczba słów powieści według gatunku",
   "description": "Liczba słów powieści według gatunku: dla dorosłych 70,000–120,000, YA 50,000–90,000, dla młodszych nastolatków 20,000–55,000. Darmowy licznik na żywo z celami dla gatunków.",
-  "id": "/loona-text-tools/pl/novel-word-count-guide/",
+  "id": "/pl/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Esei 2.000 Perkataan",
   "short_name": "Esei 2.000 Perkataan",
   "description": "Pengira esei 2.000 perkataan percuma: hitungan perkataan langsung menuju target 2.000 perkataan, halaman jarak tunggal dan ganda, perenggan, masa membaca dan bertutur.",
-  "id": "/loona-text-tools/ms/2000-word-essay-word-counter/",
+  "id": "/ms/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

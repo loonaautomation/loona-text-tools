@@ -2,7 +2,7 @@
   "name": "Loona Morse Code Translator - With Real Sound",
   "short_name": "Morse Code Translator - With Real Sound",
   "description": "Translate text to Morse code and Morse code back to text, and hear it as real beeps. Free online Morse code translator - no sign-up, works in your browser.",
-  "id": "/loona-text-tools/en-us/morse-code-translator/",
+  "id": "/en-us/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

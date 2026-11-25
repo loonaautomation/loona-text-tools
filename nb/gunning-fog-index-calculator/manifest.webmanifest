@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog-indekskalkulator",
   "short_name": "Gunning Fog-indekskalkulator",
   "description": "Gratis Gunning Fog-indekskalkulator: lim inn tekst for Fog-indeksen, antall komplekse ord og årene med skolegang den antyder.",
-  "id": "/loona-text-tools/nb/gunning-fog-index-calculator/",
+  "id": "/nb/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

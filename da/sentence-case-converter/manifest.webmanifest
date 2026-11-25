@@ -2,7 +2,7 @@
   "name": "Loona Sætningsstil-konverter",
   "short_name": "Sætningsstil-konverter",
   "description": "Gratis Sætningsstil-konverter — indsæt tekst og få Sætningsstil øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/sentence-case-converter/",
+  "id": "/da/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

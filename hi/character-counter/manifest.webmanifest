@@ -2,7 +2,7 @@
   "name": "Loona अक्षर गणक ऑनलाइन",
   "short_name": "अक्षर गणक ऑनलाइन",
   "description": "स्पेस के साथ और बिना अक्षर गिनें और X (Twitter), SMS, मेटा विवरण और अधिक के लिए सीमाएँ जांचें। मुफ़्त ऑनलाइन अक्षर गणक - साइन-अप की ज़रूरत नहीं।",
-  "id": "/loona-text-tools/hi/character-counter/",
+  "id": "/hi/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

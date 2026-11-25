@@ -2,7 +2,7 @@
   "name": "Loona Compteur de caractères de publications Reddit",
   "short_name": "Compteur de caractères de publications Reddit",
   "description": "Compteur de caractères de publications Reddit gratuit : comptage de caractères en direct par rapport à la limite de 40,000 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
-  "id": "/loona-text-tools/fr/reddit-post-character-counter/",
+  "id": "/fr/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

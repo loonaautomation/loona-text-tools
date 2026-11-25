@@ -2,7 +2,7 @@
   "name": "Loona Generator și verificator de anagrame online gratuit",
   "short_name": "Generator și verificator de anagrame online gratuit",
   "description": "Găsește anagrame ale oricărui cuvânt din cuvinte englezești reale și verifică dacă două cuvinte sau expresii sunt anagrame unul al celuilalt. Rezolvator gratuit de anagrame, fără înregistrare.",
-  "id": "/loona-text-tools/ro/anagram-generator/",
+  "id": "/ro/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

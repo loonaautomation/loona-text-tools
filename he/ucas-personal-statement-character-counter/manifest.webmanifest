@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים להצהרה אישית של UCAS",
   "short_name": "מונה תווים להצהרה אישית של UCAS",
   "description": "מונה תווי הצהרת UCAS אישית בחינם: ספירת תווים חיה מול מגבלת 4,000 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/ucas-personal-statement-character-counter/",
+  "id": "/he/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

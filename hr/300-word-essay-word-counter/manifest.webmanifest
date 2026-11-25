@@ -2,7 +2,7 @@
   "name": "Loona Esej od 300 riječi",
   "short_name": "Esej od 300 riječi",
   "description": "Besplatan brojač eseja od 300 riječi: broj riječi uživo do cilja od 300 riječi, stranice s jednostrukim i dvostrukim proredom, odlomci, vrijeme čitanja i govora.",
-  "id": "/loona-text-tools/hr/300-word-essay-word-counter/",
+  "id": "/hr/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

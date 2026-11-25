@@ -2,7 +2,7 @@
   "name": "Loona Toespraak van 10 minuten",
   "short_name": "Toespraak van 10 minuten",
   "description": "Hoeveel woorden in een toespraak van 10 minuten? 1.100–1.800 woorden (1.500 in gesprekstempo). Gratis live teller met spreektijdcon",
-  "id": "/loona-text-tools/nl/10-minute-speech-word-count/",
+  "id": "/nl/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

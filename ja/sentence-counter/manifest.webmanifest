@@ -2,7 +2,7 @@
   "name": "Loona 文カウンターオンラインフリー",
   "short_name": "文カウンターオンラインフリー",
   "description": "任意のテキストの文、段落、単語、文字を即座に数え、平均文長も表示します。無料文カウンター、登録不要、ブラウザーで動作します。",
-  "id": "/loona-text-tools/ja/sentence-counter/",
+  "id": "/ja/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

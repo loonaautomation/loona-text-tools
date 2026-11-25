@@ -2,7 +2,7 @@
   "name": "Loona Görüntüden Excel'e Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Görüntüden Excel'e Dönüştürücü Çevrimiçi Ücretsiz",
   "description": "Bir tablonun fotoğrafını, taramasını veya ekran görüntüsünü, tarayıcınızda %100 çalışan ücretsiz OCR ile gerçek bir Excel (.xlsx) dosyasına dönüştürün. İndirmeden önce tabloyu düzenleyin - yükleme yok, kayıt yok.",
-  "id": "/loona-text-tools/tr/image-to-excel-converter/",
+  "id": "/tr/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

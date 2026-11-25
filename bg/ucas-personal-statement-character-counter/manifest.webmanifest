@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за лично изявление за UCAS",
   "short_name": "Брояч на знаци за лично изявление за UCAS",
   "description": "Безплатен брояч на знаци за лично изявление за UCAS: броене на знаци на живо спрямо ограничението от 4,000 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/ucas-personal-statement-character-counter/",
+  "id": "/bg/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

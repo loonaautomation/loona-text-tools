@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Aksara Tak Terlihat",
   "short_name": "Penyemak Aksara Tak Terlihat",
   "description": "Ungkap aksara tak terlihat yang bersembunyi dalam teks anda - jarak lebar-nol, BOM, jarak non-pemisah dan tanda arah - dan padam dalam satu klik. Percuma.",
-  "id": "/loona-text-tools/ms/invisible-character-checker/",
+  "id": "/ms/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

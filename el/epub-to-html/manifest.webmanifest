@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας EPUB σε HTML Δωρεάν",
   "short_name": "Μετατροπέας EPUB σε HTML Δωρεάν",
   "description": "Μετατρέψτε ebook EPUB σε ένα μονό αυτοτελές αρχείο HTML δωρεάν, στο πρόγραμμα περιήγησής σας. Κεφάλαια με σειρά, βασική τυπογραφία, μικρές εικόνες ενσωματωμένες. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/epub-to-html/",
+  "id": "/el/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

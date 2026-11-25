@@ -2,7 +2,7 @@
   "name": "Loona अदृश्य अक्षर जांचक",
   "short_name": "अदृश्य अक्षर जांचक",
   "description": "अपने टेक्स्ट में छिपे अदृश्य अक्षर प्रकट करें - zero-width स्पेस, BOM, non-breaking स्पेस और दिशा चिह्न - और उन्हें एक क्लिक में हटाएँ। मुफ़्त।",
-  "id": "/loona-text-tools/hi/invisible-character-checker/",
+  "id": "/hi/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

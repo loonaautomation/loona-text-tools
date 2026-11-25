@@ -2,7 +2,7 @@
   "name": "Loona Hapus Tanda Baca Online Gratis",
   "short_name": "Hapus Tanda Baca Online Gratis",
   "description": "Hapus tanda baca dari teks apa pun dalam satu klik - titik, koma, tanda kutip dan lainnya - dengan opsi mempertahankan apostrof dan tanda hubung. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/remove-punctuation/",
+  "id": "/id/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

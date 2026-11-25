@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Tajuk YouTube",
   "short_name": "Pengira Aksara Tajuk YouTube",
   "description": "Pengira pengira aksara tajuk YouTube percuma: hitungan aksara langsung terhadap had 100 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/youtube-title-character-counter/",
+  "id": "/ms/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

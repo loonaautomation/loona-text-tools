@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Mada za Nasibu Mtandaoni Bure",
   "short_name": "Kizalishaji cha Mada za Nasibu Mtandaoni Bure",
   "description": "Zalisha mada za nasibu kwa insha, hotuba, mijadala, aya, mawasilisho na hadithi - mada 900 zilizoandikwa kwa mkono katika kategoria 9, zimechujwa kwa kiwango. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/random-topic-generator/",
+  "id": "/sw/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Poista välimerkit verkossa ilmaiseksi",
   "short_name": "Poista välimerkit verkossa ilmaiseksi",
   "description": "Poista välimerkit mistä tahansa tekstistä yhdellä napsautuksella – pisteet, pilkut, lainausmerkit ja muuta – asetuksilla heittomerkkien ja yhdysmerkkien säilyttämiseen. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/remove-punctuation/",
+  "id": "/fi/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

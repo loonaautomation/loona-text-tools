@@ -2,7 +2,7 @@
   "name": "Loona Instagram-kuvatekstien merkkilaskuri",
   "short_name": "Instagram-kuvatekstien merkkilaskuri",
   "description": "Ilmainen Instagram-kuvatekstien merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 2,200 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/instagram-caption-character-counter/",
+  "id": "/fi/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Train-Case",
   "short_name": "Pengonversi Train-Case",
   "description": "Pengonversi Train-Case percuma — tampal teks dan dapatkan Train-Case serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/train-case-converter/",
+  "id": "/ms/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Find de højest scorende træk fra dit bogstavstativ, og tjek, om et ord er gyldigt. Fuld ENABLE-ordbog på 172 820 ord, blanke brikker understøttet, 100 % på din enhed. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/scrabble-word-finder/",
+  "id": "/da/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

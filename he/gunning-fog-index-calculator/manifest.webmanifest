@@ -2,7 +2,7 @@
   "name": "Loona מחשבון מדד Gunning Fog",
   "short_name": "מחשבון מדד Gunning Fog",
   "description": "מחשבון מדד Gunning Fog בחינם: הדביקו טקסט למדד ה-Fog, ספירת מילים מורכבות ושנות הלימוד שהוא מרמז.",
-  "id": "/loona-text-tools/he/gunning-fog-index-calculator/",
+  "id": "/he/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

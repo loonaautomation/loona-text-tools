@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงตัวพิมพ์ใหญ่",
   "short_name": "ตัวแปลงตัวพิมพ์ใหญ่",
   "description": "ตัวแปลงตัวพิมพ์ใหญ่ฟรี — วางข้อความแล้วได้ตัวพิมพ์ใหญ่ทั้งหมดทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/uppercase-converter/",
+  "id": "/th/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

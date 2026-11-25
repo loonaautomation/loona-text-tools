@@ -2,7 +2,7 @@
   "name": "Loona Verificator de palindroame online gratuit",
   "short_name": "Verificator de palindroame online gratuit",
   "description": "Verifică dacă orice cuvânt, număr sau propoziție este un palindrom - se citește la fel de la cap la coadă și de la coadă la cap. Afișează textul curățat și inversul lui. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/palindrome-checker/",
+  "id": "/ro/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

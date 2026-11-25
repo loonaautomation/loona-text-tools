@@ -2,7 +2,7 @@
   "name": "Loona PascalCase pretvarač",
   "short_name": "PascalCase pretvarač",
   "description": "Besplatan PascalCase pretvarač — zalijepite tekst i trenutačno dobijte PascalCase. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/pascalcase-converter/",
+  "id": "/hr/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

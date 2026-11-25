@@ -2,7 +2,7 @@
   "name": "Loona Ujian Menaip Dalam talian Percuma",
   "short_name": "Ujian Menaip Dalam talian Percuma",
   "description": "Ujian menaip 60 saat percuma: ukur kelajuan menaip anda dalam WPM, ketepatan dan aksara per minit dengan teks mudah, sedang dan sukar. Tanpa pendaftaran, berjalan 100% di pelayar anda.",
-  "id": "/loona-text-tools/ms/typing-test/",
+  "id": "/ms/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

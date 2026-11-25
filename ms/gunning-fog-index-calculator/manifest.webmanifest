@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Indeks Gunning Fog",
   "short_name": "Kalkulator Indeks Gunning Fog",
   "description": "Kalkulator indeks Gunning Fog percuma: tampal teks untuk indeks Fog, jumlah perkataan kompleks dan tahun sekolah yang tersirat.",
-  "id": "/loona-text-tools/ms/gunning-fog-index-calculator/",
+  "id": "/ms/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

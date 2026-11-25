@@ -2,7 +2,7 @@
   "name": "Loona Käännä teksti verkossa",
   "short_name": "Käännä teksti verkossa",
   "description": "Käännä teksti neljällä tavalla: koko teksti takaperin, jokainen sana takaperin, sanajärjestys käännettynä tai rivijärjestys käännettynä. Ilmainen tekstin kääntäjä verkossa – rekisteröitymistä ei tarvita.",
-  "id": "/loona-text-tools/fi/reverse-text/",
+  "id": "/fi/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar hex-omzetter online gratis",
   "short_name": "Tekst naar hex-omzetter online gratis",
   "description": "Zet tekst om naar hexadecimaal en hex terug naar tekst, met correcte UTF-8-verwerking voor letters met accenten, Urdu en emoji. Gratis hex-omzetter, geen registratie.",
-  "id": "/loona-text-tools/nl/text-to-hex-converter/",
+  "id": "/nl/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

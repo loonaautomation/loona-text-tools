@@ -2,7 +2,7 @@
   "name": "Loona DOCX'ten EPUB'a Dönüştürücü Ücretsiz",
   "short_name": "DOCX'ten EPUB'a Dönüştürücü Ücretsiz",
   "description": "DOCX Word belgelerini tarayıcınızda ücretsiz olarak EPUB e-kitaplarına dönüştürün. Başlıklar bölümlere dönüşür; kalın, italik, listeler ve görseller dönüştürülür. Yükleme yok, kayıt yok.",
-  "id": "/loona-text-tools/tr/docx-to-epub/",
+  "id": "/tr/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

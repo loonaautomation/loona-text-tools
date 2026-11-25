@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณดัชนี Gunning Fog",
   "short_name": "ตัวคำนวณดัชนี Gunning Fog",
   "description": "ตัวคำนวณดัชนี Gunning Fog ฟรี: วางข้อความเพื่อรับดัชนี Fog จำนวนคำที่ซับซ้อน และจำนวนปีการศึกษาที่บ่งบอก",
-  "id": "/loona-text-tools/th/gunning-fog-index-calculator/",
+  "id": "/th/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 在线邮箱提取器,免费",
   "short_name": "在线邮箱提取器,免费",
   "description": "从任何文本、文档或网页内容中提取每个电子邮件地址——去重并逐行列出。100% 在您的浏览器中运行。免费,无需注册。",
-  "id": "/loona-text-tools/zh/email-extractor/",
+  "id": "/zh/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

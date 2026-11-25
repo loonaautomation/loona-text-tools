@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Pronađite poteze s najviše bodova iz svog stalka slova i provjerite je li bilo koja riječ valjana. Cijeli ENABLE rječnik od 172,820 riječi, podržane prazne pločice, 100% na uređaju. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/scrabble-word-finder/",
+  "id": "/hr/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

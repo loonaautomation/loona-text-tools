@@ -2,7 +2,7 @@
   "name": "Loona Tavulaskuri verkossa ilmaiseksi",
   "short_name": "Tavulaskuri verkossa ilmaiseksi",
   "description": "Laske tavut missä tahansa sanassa, lauseessa tai kokonaisessa tekstissä välittömästi – tavujen kokonaismäärä, sanakohtainen erittely ja keskiarvot. Ilmainen tavulaskuri, ei rekisteröitymistä, toimii offline-tilassa.",
-  "id": "/loona-text-tools/fi/syllable-counter/",
+  "id": "/fi/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

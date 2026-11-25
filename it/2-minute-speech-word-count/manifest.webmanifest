@@ -2,7 +2,7 @@
   "name": "Loona Discorso di 2 minuti",
   "short_name": "Discorso di 2 minuti",
   "description": "Quante parole in un discorso di 2 minuti? 220–360 parole (300 a ritmo conversazionale). Contatore in tempo reale gratuito con controllo del tempo di parola.",
-  "id": "/loona-text-tools/it/2-minute-speech-word-count/",
+  "id": "/it/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

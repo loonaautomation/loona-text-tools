@@ -2,7 +2,7 @@
   "name": "Loona עורך מטא-דאטה של EPUB בחינם",
   "short_name": "עורך מטא-דאטה של EPUB בחינם",
   "description": "ערכו מטא-דאטה של EPUB בחינם בדפדפן שלכם: כותרת, מחבר, שפה, הוצאה לאור ותיאור, עם מידע על כריכה מוצג. פרקים לא נוגעים בהם, ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/epub-metadata-editor/",
+  "id": "/he/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

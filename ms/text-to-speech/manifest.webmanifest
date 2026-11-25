@@ -2,7 +2,7 @@
   "name": "Loona Teks ke Ucapan Dalam talian Percuma",
   "short_name": "Teks ke Ucapan Dalam talian Percuma",
   "description": "Ubah teks apa pun menjadi audio lisan alami percuma dalam talian - suara Inggeris dan Urdu, kelajuan dan nada yang dapat disesuaikan. Tanpa pendaftaran, tidak ada yang dimuat naik, bekerja di pelayar anda.",
-  "id": "/loona-text-tools/ms/text-to-speech/",
+  "id": "/ms/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

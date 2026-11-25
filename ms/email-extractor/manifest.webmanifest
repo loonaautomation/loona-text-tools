@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Emel Dalam talian Percuma",
   "short_name": "Pengekstrak Emel Dalam talian Percuma",
   "description": "Ekstrak setiap alamat emel dari teks, dokumen atau konten halaman web apa pun - deduplikasi dan dicantumkan satu per baris. Berjalan 100% di pelayar anda. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/email-extractor/",
+  "id": "/ms/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

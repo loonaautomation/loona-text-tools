@@ -2,7 +2,7 @@
   "name": "Loona 3-মিনিটের বক্তৃতা",
   "short_name": "3-মিনিটের বক্তৃতা",
   "description": "3-মিনিটের বক্তৃতায় কত শব্দ? 330–540 শব্দ (কথোপকথনের গতিতে 450)। বলার-সময় যাচাইসহ বিনামূল্যের সরাসরি গণক।",
-  "id": "/loona-text-tools/bn/3-minute-speech-word-count/",
+  "id": "/bn/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

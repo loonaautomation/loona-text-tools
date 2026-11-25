@@ -2,7 +2,7 @@
   "name": "Loona Ucapan 2 Minit",
   "short_name": "Ucapan 2 Minit",
   "description": "Berapa banyak perkataan dalam ucapan 2 minit? 220–360 perkataan (300 pada kelajuan percakapan). Pengira langsung percuma dengan penyemakan masa bertutur.",
-  "id": "/loona-text-tools/ms/2-minute-speech-word-count/",
+  "id": "/ms/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

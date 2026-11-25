@@ -2,7 +2,7 @@
   "name": "Loona Vend tekst om online",
   "short_name": "Vend tekst om online",
   "description": "Vend tekst om på fire måder: hele teksten baglæns, hvert ord baglæns, ordrækkefølge vendt eller linjerækkefølge vendt. Gratis online tekstvender - ingen tilmelding nødvendig.",
-  "id": "/loona-text-tools/da/reverse-text/",
+  "id": "/da/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

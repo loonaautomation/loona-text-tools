@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Giải mã bất kỳ chữ cái nào thành từ tiếng Anh thật bằng từ điển ENABLE đầy đủ 172.820 từ - kết quả được nhóm theo độ dài kèm điểm Scrabble, bộ lọc bắt đầu bằng, kết thúc bằng và chứa, cùng hỗ trợ ô trống. Miễn phí, không cần đăng ký, và các chữ cái của bạn không bao giờ rời khỏi trình duyệt.",
-  "id": "/loona-text-tools/vi/word-unscrambler/",
+  "id": "/vi/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

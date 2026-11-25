@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator på nett",
   "short_name": "Lorem Ipsum-generator på nett",
   "description": "Generer lorem ipsum-fylltekst etter avsnitt, setning eller ord - klar til å limes inn i design og oppsett. Gratis lorem ipsum-generator, ingen registrering nødvendig.",
-  "id": "/loona-text-tools/nb/lorem-ipsum-generator/",
+  "id": "/nb/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Introdu încercările tale de Wordle și atinge căsuțele în gri, galben sau verde: acest ajutor gratuit îți arată fiecare răspuns care încă se potrivește și cele mai bune încercări următoare. Logică corectă pentru literele duble, fără înregistrare, și totul rulează în browserul tău.",
-  "id": "/loona-text-tools/ro/wordle-helper/",
+  "id": "/ro/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków Twittera / X",
   "short_name": "Licznik znaków Twittera / X",
   "description": "Darmowy licznik znaków Twittera / X: liczenie znaków na żywo względem limitu 280 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/twitter-character-counter/",
+  "id": "/pl/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

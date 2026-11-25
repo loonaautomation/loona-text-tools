@@ -2,7 +2,7 @@
   "name": "Loona Převodník PascalCase",
   "short_name": "Převodník PascalCase",
   "description": "Bezplatný převodník PascalCase — vložte text a okamžitě získejte PascalCase. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/pascalcase-converter/",
+  "id": "/cs/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona snake_case-átalakító",
   "short_name": "snake_case-átalakító",
   "description": "Ingyenes snake_case-átalakító — illesszen be szöveget, és azonnal snake_case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/snake-case-converter/",
+  "id": "/hu/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

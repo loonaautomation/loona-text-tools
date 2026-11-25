@@ -2,7 +2,7 @@
   "name": "Loona ממיר אותיות קטנות",
   "short_name": "ממיר אותיות קטנות",
   "description": "ממיר אותיות קטנות בחינם — הדביקו טקסט וקבלו אותיות קטנות מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/lowercase-converter/",
+  "id": "/he/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

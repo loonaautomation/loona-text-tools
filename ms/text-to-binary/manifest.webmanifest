@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Teks ke Biner Dalam talian",
   "short_name": "Pengonversi Teks ke Biner Dalam talian",
   "description": "Penukaran teks ke kod biner (0 dan 1) dan biner kembali ke teks yang dapat dibaca, dengan sokongan Unicode penuh. Pengonversi teks ke biner percuma - bagus untuk pelajar ilmu komputer.",
-  "id": "/loona-text-tools/ms/text-to-binary/",
+  "id": "/ms/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר dot.case",
   "short_name": "ממיר dot.case",
   "description": "ממיר dot.case בחינם — הדביקו טקסט וקבלו dot.case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/dot-case-converter/",
+  "id": "/he/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

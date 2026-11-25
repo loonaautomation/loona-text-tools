@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków online",
   "short_name": "Licznik znaków online",
   "description": "Licz znaki ze spacjami i bez spacji oraz sprawdzaj limity dla X (Twittera), SMS, opisów meta i nie tylko. Darmowy licznik znaków online - rejestracja niepotrzebna.",
-  "id": "/loona-text-tools/pl/character-counter/",
+  "id": "/pl/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Darmowy generator cytowań online",
   "short_name": "Darmowy generator cytowań online",
   "description": "Generuj poprawnie sformatowane cytowania dla stron internetowych, książek i artykułów w czasopismach w stylach APA wydanie 7, MLA 9 i Chicago autor-data - za darmo, natychmiast, w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/citation-generator/",
+  "id": "/pl/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Insha ya Maneno 3,000",
   "short_name": "Insha ya Maneno 3,000",
   "description": "Kihesabu cha bure cha insha ya maneno 3,000: hesabu ya moja kwa moja ya maneno hadi lengo la maneno 3,000, kurasa zenye nafasi moja na mbili, aya, muda wa kusoma na kuzungumza.",
-  "id": "/loona-text-tools/sw/3000-word-essay-word-counter/",
+  "id": "/sw/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

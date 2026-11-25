@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Muda wa Kuzungumza",
   "short_name": "Kikokotoo cha Muda wa Kuzungumza",
   "description": "Bandika hotuba au hati yako na uone inachukua muda gani kuwasilisha kwa kasi za polepole, za mazungumzo na za haraka - pamoja na maneno mangapi yanayotosha muda lengwa. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/speaking-time-calculator/",
+  "id": "/sw/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

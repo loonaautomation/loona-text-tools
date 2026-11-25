@@ -2,7 +2,7 @@
   "name": "Loona عكس النص عبر الإنترنت",
   "short_name": "عكس النص عبر الإنترنت",
   "description": "اعكس النص بأربع طرق: النص كله للخلف، كل كلمة للخلف، ترتيب الكلمات مقلوبًا، أو ترتيب الأسطر مقلوبًا. عاكس نص مجاني عبر الإنترنت - لا حاجة للتسجيل.",
-  "id": "/loona-text-tools/ar/reverse-text/",
+  "id": "/ar/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

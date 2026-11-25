@@ -2,7 +2,7 @@
   "name": "Loona TikTok キャプション文字数カウンター",
   "short_name": "TikTok キャプション文字数カウンター",
   "description": "無料 TikTok キャプション文字数カウンター：2,200文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/tiktok-caption-character-counter/",
+  "id": "/ja/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Selesaikan pola teka-teki silang seperti c?oss?ord terhadap 172.820 kata bahasa Inggris. Ketik huruf yang Anda tahu, gunakan ? untuk kotak yang hilang, saring dengan huruf yang harus ada. Gratis, tanpa pendaftaran, 100% di perangkat Anda.",
-  "id": "/loona-text-tools/id/crossword-solver/",
+  "id": "/id/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

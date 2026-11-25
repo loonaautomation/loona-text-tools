@@ -2,7 +2,7 @@
   "name": "Loona Fancy-Text-Generator online",
   "short_name": "Fancy-Text-Generator online",
   "description": "Klartext in stilvolle Unicode-Schriften verwandeln – fett, Schreibschrift, Fraktur, eingekreist, Kapitälchen und mehr – für Bios, Bildunterschriften und Benutzernamen. Kostenloser Fancy-Text-Generator.",
-  "id": "/loona-text-tools/de/fancy-text-generator/",
+  "id": "/de/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

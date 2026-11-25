@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka úrovně čtení",
   "short_name": "Kalkulačka úrovně čtení",
   "description": "Ohodnoťte jakýkoli text škálou Flesch Reading Ease a úrovní třídy Flesch-Kincaid, pomocí standardních vzorců. Podívejte se, jak snadno se vaše psaní čte. Zdarma.",
-  "id": "/loona-text-tools/cs/reading-level-calculator/",
+  "id": "/cs/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

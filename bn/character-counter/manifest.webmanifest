@@ -2,7 +2,7 @@
   "name": "Loona অক্ষর গণক অনলাইন",
   "short_name": "অক্ষর গণক অনলাইন",
   "description": "ফাঁকসহ ও ফাঁক ছাড়া অক্ষর গুনুন আর X (Twitter), SMS, মেটা বিবরণসহ আরও অনেক কিছুর সীমা যাচাই করুন। বিনামূল্যের অনলাইন অক্ষর গণক - কোনো সাইন-আপ লাগে না।",
-  "id": "/loona-text-tools/bn/character-counter/",
+  "id": "/bn/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

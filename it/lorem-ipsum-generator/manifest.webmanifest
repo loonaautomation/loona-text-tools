@@ -2,7 +2,7 @@
   "name": "Loona Generatore di Lorem Ipsum online",
   "short_name": "Generatore di Lorem Ipsum online",
   "description": "Genera testo segnaposto lorem ipsum per paragrafo, frase o parola - pronto da incollare in design e layout. Generatore lorem ipsum gratuito, nessuna registrazione necessaria.",
-  "id": "/loona-text-tools/it/lorem-ipsum-generator/",
+  "id": "/it/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

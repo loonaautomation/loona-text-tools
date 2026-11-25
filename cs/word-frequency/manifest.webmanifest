@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo četnosti slov online",
   "short_name": "Počítadlo četnosti slov online",
   "description": "Počítejte, jak často se každé slovo ve vašem textu vyskytuje, a prohlédněte si seřazenou tabulku četnosti s procenty. Bezplatné online počítadlo četnosti slov - bez registrace, okamžitě.",
-  "id": "/loona-text-tools/cs/word-frequency/",
+  "id": "/cs/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

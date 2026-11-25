@@ -2,7 +2,7 @@
   "name": "Loona Trova e sostituisci testo online",
   "short_name": "Trova e sostituisci testo online",
   "description": "Trova una parola o frase e sostituisci ogni occorrenza nel tuo testo in una volta, con opzioni sensibili a maiuscole, parola intera e modello. Strumento online gratuito - nessuna registrazione.",
-  "id": "/loona-text-tools/it/find-and-replace/",
+  "id": "/it/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

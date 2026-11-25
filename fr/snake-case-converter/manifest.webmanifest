@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur snake_case",
   "short_name": "Convertisseur snake_case",
   "description": "Convertisseur snake_case gratuit — collez du texte et obtenez snake_case instantanément. Conversion en direct dans votre navigateur, sans inscription, sans téléchargement.",
-  "id": "/loona-text-tools/fr/snake-case-converter/",
+  "id": "/fr/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

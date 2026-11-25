@@ -2,7 +2,7 @@
   "name": "Loona Buscar y reemplazar texto en línea",
   "short_name": "Buscar y reemplazar texto en línea",
   "description": "Busca una palabra o frase y reemplaza cada aparición en tu texto de una vez, con opciones de distinción de mayúsculas, palabra completa y patrones. Herramienta en línea gratuita: sin registro.",
-  "id": "/loona-text-tools/es/find-and-replace/",
+  "id": "/es/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

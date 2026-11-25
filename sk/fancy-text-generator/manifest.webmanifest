@@ -2,7 +2,7 @@
   "name": "Loona Generátor ozdobného textu online",
   "short_name": "Generátor ozdobného textu online",
   "description": "Zmeňte obyčajný text na štýlové písma Unicode - tučné, písané, fraktur, v krúžkoch, malé veľké a ďalšie - pre biá, popisky a používateľské mená. Bezplatný generátor ozdobného textu.",
-  "id": "/loona-text-tools/sk/fancy-text-generator/",
+  "id": "/sk/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

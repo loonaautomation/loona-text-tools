@@ -2,7 +2,7 @@
   "name": "Loona Převodník textu do binární soustavy online",
   "short_name": "Převodník textu do binární soustavy online",
   "description": "Převeďte text na binární kód (0 a 1) a binární kód zpět na čitelný text, s plnou podporou Unicode. Bezplatný převodník textu do binární soustavy - skvělý pro studenty informatiky.",
-  "id": "/loona-text-tools/cs/text-to-binary/",
+  "id": "/cs/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

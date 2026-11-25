@@ -2,7 +2,7 @@
   "name": "Loona Titel-Tag-Längenprüfer",
   "short_name": "Titel-Tag-Längenprüfer",
   "description": "Kostenloser Titel-Tag-Längenprüfer Zähler: Live-Zeichenzählung gegen das 60-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/title-tag-length-checker/",
+  "id": "/de/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

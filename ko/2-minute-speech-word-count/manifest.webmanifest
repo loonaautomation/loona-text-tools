@@ -2,7 +2,7 @@
   "name": "Loona 2분 연설",
   "short_name": "2분 연설",
   "description": "2분 연설에 단어가 몇 개일까요? 220–360단어 (대화 속도로 300). 말하기 시간 확인이 있는 무료 실시간 카운터예요.",
-  "id": "/loona-text-tools/ko/2-minute-speech-word-count/",
+  "id": "/ko/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

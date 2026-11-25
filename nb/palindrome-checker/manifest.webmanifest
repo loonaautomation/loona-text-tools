@@ -2,7 +2,7 @@
   "name": "Loona Palindromsjekker gratis på nett",
   "short_name": "Palindromsjekker gratis på nett",
   "description": "Sjekk om et ord, tall eller en setning er et palindrom - leses likt forlengs og baklengs. Viser den rensede teksten og reversen av den. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/palindrome-checker/",
+  "id": "/nb/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

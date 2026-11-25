@@ -2,7 +2,7 @@
   "name": "Loona Jämför text online",
   "short_name": "Jämför text online",
   "description": "Jämför två texter rad för rad och se exakt vilka rader som lagts till, tagits bort eller behållits. Gratis diff-verktyg för text online - ingen registrering, privat i din webbläsare.",
-  "id": "/loona-text-tools/sv/text-compare/",
+  "id": "/sv/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

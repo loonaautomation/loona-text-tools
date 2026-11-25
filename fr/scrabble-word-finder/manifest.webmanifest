@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Trouvez les coups les mieux notés depuis votre chevalet de lettres et vérifiez si n'importe quel mot est valable. Dictionnaire ENABLE complet de 172,820 mots, jetons blancs pris en charge, 100 % sur votre appareil. Gratuit et sans inscription.",
-  "id": "/loona-text-tools/fr/scrabble-word-finder/",
+  "id": "/fr/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

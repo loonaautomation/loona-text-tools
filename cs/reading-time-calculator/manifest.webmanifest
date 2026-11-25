@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka doby čtení",
   "short_name": "Kalkulačka doby čtení",
   "description": "Vložte jakýkoli text a podívejte se, jak dlouho trvá jeho přečtení při pomalé, průměrné a rychlé rychlosti - plus kolik slov potřebujete pro cílovou dobu čtení. Zdarma, bez registrace.",
-  "id": "/loona-text-tools/cs/reading-time-calculator/",
+  "id": "/cs/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

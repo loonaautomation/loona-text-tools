@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів SMS",
   "short_name": "Лічильник символів SMS",
   "description": "Безкоштовний лічильник символів SMS: виявлення GSM 7-біт проти Unicode, кількість сегментів і символи, що залишилися — наживо, у вашому браузері.",
-  "id": "/loona-text-tools/uk/sms-character-counter/",
+  "id": "/uk/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

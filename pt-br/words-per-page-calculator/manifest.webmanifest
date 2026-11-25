@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de Palavras por Página",
   "short_name": "Calculadora de Palavras por Página",
   "description": "Calculadora de palavras por página grátis: digite palavras, tamanho de letra e espaçamento entre linhas para obter a contagem de páginas e as palavras por página.",
-  "id": "/loona-text-tools/pt-br/words-per-page-calculator/",
+  "id": "/pt-br/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

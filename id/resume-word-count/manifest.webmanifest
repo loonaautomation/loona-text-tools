@@ -2,7 +2,7 @@
   "name": "Loona Jumlah Kata Resume",
   "short_name": "Jumlah Kata Resume",
   "description": "Pemeriksa jumlah kata resume: hitungan langsung dengan target satu halaman (400–600 kata), perkiraan halaman dan panduan pemangkasan.",
-  "id": "/loona-text-tools/id/resume-word-count/",
+  "id": "/id/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

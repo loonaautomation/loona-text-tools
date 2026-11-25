@@ -2,7 +2,7 @@
   "name": "Loona מחולל Lorem Ipsum אונליין",
   "short_name": "מחולל Lorem Ipsum אונליין",
   "description": "צרו טקסט דמה Lorem Ipsum לפי פסקה, משפט או מילה - מוכן להדבקה בעיצובים ובפריסות. מחולל Lorem Ipsum חינמי, ללא צורך בהרשמה.",
-  "id": "/loona-text-tools/he/lorem-ipsum-generator/",
+  "id": "/he/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

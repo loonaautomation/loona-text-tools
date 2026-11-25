@@ -2,7 +2,7 @@
   "name": "Loona محوّل النص إلى ASCII عبر الإنترنت مجانًا",
   "short_name": "محوّل النص إلى ASCII عبر الإنترنت مجانًا",
   "description": "تحويل النص إلى رموز ASCII (عشري وست عشري وثماني وثنائي لكل حرف) وتحويل رموز ASCII إلى نص. مجاني، فوري، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/text-to-ascii-converter/",
+  "id": "/ar/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

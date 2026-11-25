@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/remove-line-breaks/",
+  "id": "/en-gb/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Resumidor de Textos Online",
   "short_name": "Resumidor de Textos Online",
   "description": "Resuma qualquer texto longo instantaneamente: cole um artigo, um ensaio ou um relatório e receba de volta as suas frases originais mais importantes. Resumidor de textos online gratuito - sem cadastro, 100% privado.",
-  "id": "/loona-text-tools/pt/text-summarizer/",
+  "id": "/pt/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

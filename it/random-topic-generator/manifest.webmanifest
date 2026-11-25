@@ -2,7 +2,7 @@
   "name": "Loona Generatore di argomenti casuali online gratis",
   "short_name": "Generatore di argomenti casuali",
   "description": "Genera argomenti casuali per saggi, discorsi, dibattiti, paragrafi, presentazioni e storie: 900 argomenti scritti a mano in 9 categorie, filtrati per livello. Gratis, senza registrazione.",
-  "id": "/loona-text-tools/it/random-topic-generator/",
+  "id": "/it/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

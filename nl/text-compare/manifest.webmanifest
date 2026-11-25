@@ -2,7 +2,7 @@
   "name": "Loona Tekst online vergelijken",
   "short_name": "Tekst online vergelijken",
   "description": "Vergelijk twee teksten regel voor regel en zie precies welke regels zijn toegevoegd, verwijderd of behouden. Gratis online tool voor tekstverschillen - geen registratie, privé in je browser.",
-  "id": "/loona-text-tools/nl/text-compare/",
+  "id": "/nl/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

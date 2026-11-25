@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/anagram-generator/",
+  "id": "/en-gb/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

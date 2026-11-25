@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Saisissez vos essais Wordle et touchez les cases en gris, jaune ou vert : cet assistant gratuit vous montre chaque réponse qui convient encore et les meilleurs essais suivants. Logique correcte pour les lettres en double, sans inscription, et tout fonctionne dans votre navigateur.",
-  "id": "/loona-text-tools/fr/wordle-helper/",
+  "id": "/fr/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

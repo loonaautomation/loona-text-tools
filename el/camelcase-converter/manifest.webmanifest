@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας camelCase",
   "short_name": "Μετατροπέας camelCase",
   "description": "Δωρεάν μετατροπέας camelCase — επικολλήστε κείμενο και πάρετε camelCase αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/camelcase-converter/",
+  "id": "/el/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

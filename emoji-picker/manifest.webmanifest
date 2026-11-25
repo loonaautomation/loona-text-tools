@@ -2,7 +2,7 @@
   "name": "Loona Emoji Picker Online Free",
   "short_name": "Emoji Picker Online Free",
   "description": "Free emoji picker: browse or search 1,900+ emojis and symbols, pick a skin tone, click to copy one emoji or a whole tray. No sign-up, runs 100% in your browser.",
-  "id": "/loona-text-tools/emoji-picker/",
+  "id": "/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

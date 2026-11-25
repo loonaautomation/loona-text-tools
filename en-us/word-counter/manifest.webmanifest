@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Count words, characters, sentences and paragraphs in any text instantly, with reading time and speaking time. Free word counter, no sign-up, works offline.",
-  "id": "/loona-text-tools/en-us/word-counter/",
+  "id": "/en-us/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

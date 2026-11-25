@@ -2,7 +2,7 @@
   "name": "Loona 回文チェッカーオンラインフリー",
   "short_name": "回文チェッカーオンラインフリー",
   "description": "単語、数字、文が回文かどうか — 前から読んでも後ろから読んでも同じ — を確認します。クリーニングされたテキストとその反転を表示します。無料、登録不要。",
-  "id": "/loona-text-tools/ja/palindrome-checker/",
+  "id": "/ja/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

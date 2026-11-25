@@ -2,7 +2,7 @@
   "name": "Loona Mondatszámláló online ingyen",
   "short_name": "Mondatszámláló online ingyen",
   "description": "Számoljon mondatokat, bekezdéseket, szavakat és karaktereket bármely szövegben azonnal, az átlagos mondathosszal. Ingyenes mondatszámláló, regisztráció nélkül, a böngészőjében működik.",
-  "id": "/loona-text-tools/hu/sentence-counter/",
+  "id": "/hu/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

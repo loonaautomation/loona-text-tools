@@ -2,7 +2,7 @@
   "name": "Loona Tegnteller for LinkedIn-innlegg",
   "short_name": "Tegnteller for LinkedIn-innlegg",
   "description": "Gratis tegnteller for LinkedIn-innlegg: direkte tegntelling mot grensen på 3,000 tegn, med ord og gjenværende tegn vist mens du skriver.",
-  "id": "/loona-text-tools/nb/linkedin-post-character-counter/",
+  "id": "/nb/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

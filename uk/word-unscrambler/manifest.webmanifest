@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Складайте з будь-яких літер справжні англійські слова за допомогою повного словника ENABLE на 172,820 слів: результати згруповано за довжиною, з балами Scrabble, фільтрами «починається з», «закінчується на» та «містить», а також підтримкою порожніх фішок. Безкоштовно, без реєстрації, і ваші літери ніколи не залишають браузер.",
-  "id": "/loona-text-tools/uk/word-unscrambler/",
+  "id": "/uk/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

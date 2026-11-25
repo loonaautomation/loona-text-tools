@@ -2,7 +2,7 @@
   "name": "Loona ای میل ایکسٹریکٹر آن لائن مفت",
   "short_name": "ای میل ایکسٹریکٹر آن لائن مفت",
   "description": "کسی بھی متن، دستاویز یا ویب صفحہ مواد سے ہر ای میل پتہ نکالیں - دہرے ہٹا کر ہر سطر پر ایک درج۔ 100% آپ کے براؤزر میں چلتا ہے۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/email-extractor/",
+  "id": "/ur/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

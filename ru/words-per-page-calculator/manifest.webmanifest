@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор слов на страницу",
   "short_name": "Калькулятор слов на страницу",
   "description": "Бесплатный калькулятор слов на страницу: введите количество слов, размер шрифта и межстрочный интервал, чтобы получить количество страниц и слов на странице.",
-  "id": "/loona-text-tools/ru/words-per-page-calculator/",
+  "id": "/ru/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

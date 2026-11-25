@@ -2,7 +2,7 @@
   "name": "Loona oBrNuTa SlOvA pretvarač",
   "short_name": "oBrNuTa SlOvA pretvarač",
   "description": "Besplatan oBrNuTi pretvarač — zalijepite tekst i trenutačno dobijte oBrNuTi tekst. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/inverse-case-converter/",
+  "id": "/hr/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

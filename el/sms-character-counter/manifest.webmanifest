@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων SMS",
   "short_name": "Μετρητής Χαρακτήρων SMS",
   "description": "Δωρεάν μετρητής χαρακτήρων SMS: ανίχνευση GSM 7-bit έναντι Unicode, πλήθος τμημάτων και εναπομένοντες χαρακτήρες — ζωντανά, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-text-tools/el/sms-character-counter/",
+  "id": "/el/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

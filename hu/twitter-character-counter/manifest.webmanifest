@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X karakterszámláló",
   "short_name": "Twitter / X karakterszámláló",
   "description": "Ingyenes Twitter / X karakterszámláló számláló: élő karakterszám a 280 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/twitter-character-counter/",
+  "id": "/hu/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 3 minuutin puhe",
   "short_name": "3 minuutin puhe",
   "description": "Kuinka monta sanaa 3 minuutin puheessa? 330–540 sanaa (450 keskustelutahdilla). Ilmainen reaaliaikainen laskuri puheajan tarkistuksella.",
-  "id": "/loona-text-tools/fi/3-minute-speech-word-count/",
+  "id": "/fi/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

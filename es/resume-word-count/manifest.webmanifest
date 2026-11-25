@@ -2,7 +2,7 @@
   "name": "Loona Conteo de palabras de currículums",
   "short_name": "Conteo de palabras de currículums",
   "description": "Verificador de conteo de palabras de currículums: conteo en vivo con el objetivo de una página (400–600 palabras), estimación de páginas y guía para recortar.",
-  "id": "/loona-text-tools/es/resume-word-count/",
+  "id": "/es/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

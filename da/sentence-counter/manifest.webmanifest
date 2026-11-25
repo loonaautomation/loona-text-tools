@@ -2,7 +2,7 @@
   "name": "Loona Sætningstæller online gratis",
   "short_name": "Sætningstæller online gratis",
   "description": "Tæl sætninger, afsnit, ord og tegn i enhver tekst øjeblikkeligt, med gennemsnitlig sætningslængde. Gratis sætningstæller, ingen tilmelding, virker i din browser.",
-  "id": "/loona-text-tools/da/sentence-counter/",
+  "id": "/da/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

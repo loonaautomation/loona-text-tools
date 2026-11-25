@@ -2,7 +2,7 @@
   "name": "Loona Find and Replace Text Online",
   "short_name": "Find and Replace Text Online",
   "description": "Find a word or phrase and replace every occurrence in your text at once, with case-sensitive, whole-word and pattern options. Free online tool - no sign-up.",
-  "id": "/loona-text-tools/find-and-replace/",
+  "id": "/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Număr de cuvinte pentru postare de blog",
   "short_name": "Număr de cuvinte pentru postare de blog",
   "description": "Verificator al numărului de cuvinte pentru postare de blog: numărătoare în direct cu benzile de lungime pentru știri (300–500), postări standard (1,000–1,500) și ghiduri aprofundate (2,000+).",
-  "id": "/loona-text-tools/ro/blog-post-word-count/",
+  "id": "/ro/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

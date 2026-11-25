@@ -2,7 +2,7 @@
   "name": "Loona สุนทรพจน์ 5 นาที",
   "short_name": "สุนทรพจน์ 5 นาที",
   "description": "สุนทรพจน์ 5 นาทีมีกี่คำ? 550–900 คำ (750 คำที่จังหวะสนทนา) ตัวนับแบบสดฟรีพร้อมการตรวจสอบเวลาพูด",
-  "id": "/loona-text-tools/th/5-minute-speech-word-count/",
+  "id": "/th/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

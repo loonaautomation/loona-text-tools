@@ -2,7 +2,7 @@
   "name": "Loona Pemilih Emoji Online Gratis",
   "short_name": "Pemilih Emoji Online Gratis",
   "description": "Pemilih emoji gratis: jelajahi atau cari 1,900+ emoji dan simbol, pilih warna kulit, klik untuk menyalin satu emoji atau satu baki penuh. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-text-tools/id/emoji-picker/",
+  "id": "/id/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

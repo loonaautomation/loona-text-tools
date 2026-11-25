@@ -2,7 +2,7 @@
   "name": "Loona camelCase Converter",
   "short_name": "camelCase Converter",
   "description": "Free camelCase converter — paste text and get camelCase instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/camelcase-converter/",
+  "id": "/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

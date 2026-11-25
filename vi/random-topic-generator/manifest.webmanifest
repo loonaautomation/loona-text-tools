@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo chủ đề ngẫu nhiên trực tuyến miễn phí",
   "short_name": "Trình tạo chủ đề ngẫu nhiên trực tuyến miễn phí",
   "description": "Tạo chủ đề ngẫu nhiên cho bài luận, bài nói, tranh luận, đoạn văn, thuyết trình và truyện - 900 chủ đề viết tay trong 9 danh mục, được lọc theo cấp độ. Miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/random-topic-generator/",
+  "id": "/vi/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

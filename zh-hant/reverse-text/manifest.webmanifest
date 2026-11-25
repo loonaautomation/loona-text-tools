@@ -2,7 +2,7 @@
   "name": "Loona 線上文字倒序",
   "short_name": "線上文字倒序",
   "description": "以四種方式倒序文字:全文向後、每個單詞向後、詞序翻轉或行序翻轉。免費線上文字倒序器——無需註冊。",
-  "id": "/loona-text-tools/zh-hant/reverse-text/",
+  "id": "/zh-hant/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

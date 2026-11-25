@@ -2,7 +2,7 @@
   "name": "Loona حاسبة مستوى القراءة",
   "short_name": "حاسبة مستوى القراءة",
   "description": "قيّم أي نص بمقياس Flesch Reading Ease وFlesch-Kincaid Grade Level، باستخدام الصيغ القياسية. شاهد مدى سهولة قراءة كتابتك. مجانًا.",
-  "id": "/loona-text-tools/ar/reading-level-calculator/",
+  "id": "/ar/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

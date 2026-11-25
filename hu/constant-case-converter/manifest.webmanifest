@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE-átalakító",
   "short_name": "CONSTANT_CASE-átalakító",
   "description": "Ingyenes CONSTANT_CASE-átalakító — illesszen be szöveget, és azonnal CONSTANT_CASE-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/constant-case-converter/",
+  "id": "/hu/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Anagramgenerator & checker online gratis",
   "short_name": "Anagramgenerator & checker online gratis",
   "description": "Vind anagrammen van elk woord uit echte Engelse woorden, en controleer of twee woorden of woordgroepen anagrammen van elkaar zijn. Gratis anagramoplosser, geen registratie.",
-  "id": "/loona-text-tools/nl/anagram-generator/",
+  "id": "/nl/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

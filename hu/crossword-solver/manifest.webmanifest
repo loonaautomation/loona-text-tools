@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Oldjon meg keresztrejtvénymintákat, mint a c?oss?ord, 172,820 angol szó alapján. Írja be az ismert betűket, használjon ? jelet a hiányzó mezőkre, és szűrjön kötelező betűkre. Ingyenes, regisztráció nélkül, 100%-ban az eszközön.",
-  "id": "/loona-text-tools/hu/crossword-solver/",
+  "id": "/hu/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

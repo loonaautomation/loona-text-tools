@@ -2,7 +2,7 @@
   "name": "Loona Emoji Seçici Çevrimiçi Ücretsiz",
   "short_name": "Emoji Seçici Çevrimiçi Ücretsiz",
   "description": "Ücretsiz emoji seçici: 1,900+ emoji ve sembole göz atın veya arayın, bir cilt tonu seçin, tek bir emojiyi veya tepsinin tamamını kopyalamak için tıklayın. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-text-tools/tr/emoji-picker/",
+  "id": "/tr/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

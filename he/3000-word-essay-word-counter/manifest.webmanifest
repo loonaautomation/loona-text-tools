@@ -2,7 +2,7 @@
   "name": "Loona חיבור של 3,000 מילים",
   "short_name": "חיבור של 3,000 מילים",
   "description": "מונה חיבורים של 3,000 מילים בחינם: ספירת מילים חיה ליעד של 3,000 מילים, עמודים ברווח יחיד וכפול, פסקאות, זמן קריאה וזמן דיבור.",
-  "id": "/loona-text-tools/he/3000-word-essay-word-counter/",
+  "id": "/he/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

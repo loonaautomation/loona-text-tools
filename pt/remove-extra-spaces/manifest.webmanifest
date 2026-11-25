@@ -2,7 +2,7 @@
   "name": "Loona Remover Espaços Extra Online",
   "short_name": "Remover Espaços Extra Online",
   "description": "Remova espaços extra, tabuladores e linhas em branco do texto com um clique. Arrume texto copiado de PDF, e-mails e páginas web. Removedor online gratuito - sem registo.",
-  "id": "/loona-text-tools/pt/remove-extra-spaces/",
+  "id": "/pt/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

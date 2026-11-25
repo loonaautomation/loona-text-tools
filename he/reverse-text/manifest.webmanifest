@@ -2,7 +2,7 @@
   "name": "Loona היפוך טקסט אונליין",
   "short_name": "היפוך טקסט אונליין",
   "description": "הפכו טקסט בארבע דרכים: טקסט שלם אחורה, כל מילה אחורה, סדר מילים מהופך, או סדר שורות מהופך. מהפך טקסט מקוון חינמי - ללא צורך בהרשמה.",
-  "id": "/loona-text-tools/he/reverse-text/",
+  "id": "/he/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

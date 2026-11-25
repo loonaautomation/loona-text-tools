@@ -2,7 +2,7 @@
   "name": "Loona Rimuovi righe duplicate online",
   "short_name": "Rimuovi righe duplicate online",
   "description": "Rimuovi le righe duplicate da qualsiasi elenco o testo e mantieni solo le righe uniche, in ordine originale. Rimuovi-righe-duplicate gratuito - nessuna registrazione, risultati istantanei.",
-  "id": "/loona-text-tools/it/remove-duplicate-lines/",
+  "id": "/it/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

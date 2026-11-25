@@ -2,7 +2,7 @@
   "name": "Loona Ordenar Linhas Online",
   "short_name": "Ordenar Linhas Online",
   "description": "Ordene linhas de texto alfabeticamente (A-Z ou Z-A), por comprimento, por ordem inversa ou misturadas aleatoriamente. Ordenador de linhas online gratuito - sem registo, instantâneo e privado.",
-  "id": "/loona-text-tools/pt-pt/sort-lines/",
+  "id": "/pt-pt/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

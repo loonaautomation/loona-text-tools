@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Picha kwenda Maandishi (OCR) Mtandaoni Bure",
   "short_name": "Kibadilishaji cha Picha kwenda Maandishi (OCR) Mtandaoni Bure",
   "description": "Toa maandishi yanayoweza kuhaririwa kutoka picha na foto kwa OCR ya bure inayoendeshwa 100% katika kivinjari chako. PNG, JPG, WebP na BMP - picha yako haipakiwi kamwe.",
-  "id": "/loona-text-tools/sw/image-to-text-converter/",
+  "id": "/sw/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

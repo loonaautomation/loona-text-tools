@@ -2,7 +2,7 @@
   "name": "Loona Tekst til tale online gratis",
   "short_name": "Tekst til tale online gratis",
   "description": "Gør enhver tekst til naturlig talt lyd gratis online - engelske og urdu-stemmer, justerbar hastighed og tonehøjde. Ingen tilmelding, intet uploadet, virker i din browser.",
-  "id": "/loona-text-tools/da/text-to-speech/",
+  "id": "/da/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

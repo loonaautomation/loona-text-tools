@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid-arvosanalaskuri",
   "short_name": "Flesch–Kincaid-arvosanalaskuri",
   "description": "Ilmainen Flesch–Kincaid-arvosanalaskuri: liitä teksti arvosanatasoa ja lukemisen helppouspisteitä varten, sanat lausetta kohti ja tavut sanaa kohti.",
-  "id": "/loona-text-tools/fi/flesch-kincaid-grade-calculator/",
+  "id": "/fi/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

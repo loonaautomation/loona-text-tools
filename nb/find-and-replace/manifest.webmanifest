@@ -2,7 +2,7 @@
   "name": "Loona Søk og erstatt tekst på nett",
   "short_name": "Søk og erstatt tekst på nett",
   "description": "Finn et ord eller en frase og erstatt hver forekomst i teksten din på én gang, med alternativer for store/små bokstaver, hele ord og mønster. Gratis verktøy på nett - ingen registrering.",
-  "id": "/loona-text-tools/nb/find-and-replace/",
+  "id": "/nb/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Text Compare Online",
   "short_name": "Text Compare Online",
   "description": "Compare two texts line by line and see exactly which lines were added, removed or kept. Free online text diff tool - no sign-up, private in your browser.",
-  "id": "/loona-text-tools/text-compare/",
+  "id": "/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

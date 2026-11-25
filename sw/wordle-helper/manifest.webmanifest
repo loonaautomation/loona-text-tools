@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Weka makisio yako ya Wordle na gusa vigae viwe kijivu, manjano au kijani: msaidizi huyu wa bure anakuonyesha kila jibu ambalo bado linafaa na makisio bora yanayofuata. Mantiki sahihi kwa herufi maradufu, bila kujisajili, na kila kitu huendeshwa kwenye kivinjari chako.",
-  "id": "/loona-text-tools/sw/wordle-helper/",
+  "id": "/sw/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

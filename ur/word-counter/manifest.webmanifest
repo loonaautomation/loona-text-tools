@@ -2,7 +2,7 @@
   "name": "Loona Word Counter آن لائن مفت",
   "short_name": "Word Counter آن لائن مفت",
   "description": "کسی بھی متن میں الفاظ، حروف، جملے اور پیراگراف فوراً گنیں، مطالعہ وقت اور بولنے کے وقت کے ساتھ۔ مفت الفاظ کاؤنٹر، کوئی سائن اپ نہیں، آف لائن کام کرتا ہے۔",
-  "id": "/loona-text-tools/ur/word-counter/",
+  "id": "/ur/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sortera rader online",
   "short_name": "Sortera rader online",
   "description": "Sortera textrader alfabetiskt (A-Ö eller Ö-A), efter längd, i omvänd ordning eller blandat slumpmässigt. Gratis radsorterare online - ingen registrering, omedelbart och privat.",
-  "id": "/loona-text-tools/sv/sort-lines/",
+  "id": "/sv/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

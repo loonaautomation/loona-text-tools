@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов заявлений UCAS",
   "short_name": "Счётчик символов заявлений UCAS",
   "description": "Бесплатный счётчик символов личного заявления UCAS: подсчёт символов в реальном времени с учётом лимита в 4,000 символов, со словами и оставшимися символами по мере ввода.",
-  "id": "/loona-text-tools/ru/ucas-personal-statement-character-counter/",
+  "id": "/ru/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

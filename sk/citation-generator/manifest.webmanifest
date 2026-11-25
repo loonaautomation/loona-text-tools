@@ -2,7 +2,7 @@
   "name": "Loona Generátor citácií online zadarmo",
   "short_name": "Generátor citácií online zadarmo",
   "description": "Generujte správne naformátované citácie pre webové stránky, knihy a články v časopisoch v APA 7., MLA 9 a Chicago autor-dátum - zadarmo, okamžite, vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/citation-generator/",
+  "id": "/sk/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

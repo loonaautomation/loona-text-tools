@@ -2,7 +2,7 @@
   "name": "Loona Convertidor del alfabeto fonético de la OTAN",
   "short_name": "Convertidor del alfabeto fonético de la OTAN",
   "description": "Convierte cualquier texto al alfabeto fonético de la OTAN (Alfa, Bravo, Charlie) y decodifica la ortografía OTAN de nuevo a texto simple. Gratis, instantáneo, sin registro.",
-  "id": "/loona-text-tools/es/nato-phonetic-alphabet-converter/",
+  "id": "/es/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

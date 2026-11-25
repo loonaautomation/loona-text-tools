@@ -2,7 +2,7 @@
   "name": "Loona Fjern linjeskift på nett",
   "short_name": "Fjern linjeskift på nett",
   "description": "Fjern linjeskift og sett ødelagte linjer sammen til rene avsnitt - perfekt for tekst kopiert fra PDF-er. Gratis fjerner av linjeskift på nett, ingen registrering, øyeblikkelige resultater.",
-  "id": "/loona-text-tools/nb/remove-line-breaks/",
+  "id": "/nb/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Image to Text Converter - Extract Text from an Image (OCR)",
   "short_name": "Image to Text Converter - Extract Text from an Image (OCR)",
   "description": "Extract editable text from images and photos with free OCR that runs 100% in your browser. PNG, JPG, WebP and BMP - your image is never uploaded.",
-  "id": "/loona-text-tools/en-us/image-to-text-converter/",
+  "id": "/en-us/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

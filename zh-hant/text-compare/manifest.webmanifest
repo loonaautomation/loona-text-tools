@@ -2,7 +2,7 @@
   "name": "Loona 線上文字對比",
   "short_name": "線上文字對比",
   "description": "逐行比較兩段文字,確切檢視哪些行被新增、刪除或保留。免費線上文字比較工具——無需註冊,在您的瀏覽器中私密進行。",
-  "id": "/loona-text-tools/zh-hant/text-compare/",
+  "id": "/zh-hant/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

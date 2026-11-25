@@ -2,7 +2,7 @@
   "name": "Loona テキストから十六進数への変換ツールオンラインフリー",
   "short_name": "テキストから十六進数への変換ツールオンラインフリー",
   "description": "テキストを十六進数に変換し、十六進数をテキストに戻します。アクセント付き文字、ウルドゥー語、絵文字の UTF-8 を正しく処理します。無料の十六進数変換ツール、登録不要。",
-  "id": "/loona-text-tools/ja/text-to-hex-converter/",
+  "id": "/ja/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

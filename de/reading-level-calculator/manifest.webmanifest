@@ -2,7 +2,7 @@
   "name": "Loona Lesbarkeits-Rechner",
   "short_name": "Lesbarkeits-Rechner",
   "description": "Beliebigen Text mit der Flesch-Reading-Ease-Skala und der Flesch-Kincaid-Stufe bewerten, mit den Standardformeln. Sehen Sie, wie leicht Ihr Schreiben zu lesen ist. Kostenlos.",
-  "id": "/loona-text-tools/de/reading-level-calculator/",
+  "id": "/de/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

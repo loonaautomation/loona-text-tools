@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da immagine a testo (OCR) online gratuito",
   "short_name": "Convertitore da immagine a testo (OCR) online gratuito",
   "description": "Estrai testo modificabile da immagini e foto con OCR gratuito che funziona al 100% nel tuo browser. PNG, JPG, WebP e BMP - la tua immagine non viene mai caricata.",
-  "id": "/loona-text-tools/it/image-to-text-converter/",
+  "id": "/it/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

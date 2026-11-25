@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo slabik online zdarma",
   "short_name": "Počítadlo slabik online zdarma",
   "description": "Počítejte slabiky v jakémkoli slově, větě nebo celém textu okamžitě - celkový počet slabik, rozpis podle slov a průměry. Bezplatné počítadlo slabik, bez registrace, funguje offline.",
-  "id": "/loona-text-tools/cs/syllable-counter/",
+  "id": "/cs/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

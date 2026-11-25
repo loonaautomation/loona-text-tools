@@ -2,7 +2,7 @@
   "name": "Loona path/case-átalakító",
   "short_name": "path/case-átalakító",
   "description": "Ingyenes path/case-átalakító — illesszen be szöveget, és azonnal path/case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/path-case-converter/",
+  "id": "/hu/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

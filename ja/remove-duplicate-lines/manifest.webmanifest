@@ -2,7 +2,7 @@
   "name": "Loona 重複行を削除オンライン",
   "short_name": "重複行を削除オンライン",
   "description": "任意のリストやテキストから重複行を削除し、元の順序でユニークな行だけを保持します。無料重複行削除ツール - 登録不要、即時結果。",
-  "id": "/loona-text-tools/ja/remove-duplicate-lines/",
+  "id": "/ja/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

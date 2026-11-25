@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Descurcă orice litere în cuvinte englezești reale folosind dicționarul ENABLE complet de 172,820 de cuvinte - rezultate grupate după lungime, cu punctaje Scrabble, filtre începe cu, se termină cu și conține, plus acceptarea pieselor goale. Gratuit, fără înregistrare, iar literele tale nu părăsesc niciodată browserul.",
-  "id": "/loona-text-tools/ro/word-unscrambler/",
+  "id": "/ro/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Editor di metadati EPUB gratuito",
   "short_name": "Editor di metadati EPUB gratuito",
   "description": "Modifica i metadati EPUB gratuitamente nel tuo browser: titolo, autore, lingua, editore e descrizione, con informazioni sulla copertina mostrate. Capitoli intatti, nessun caricamento, nessuna registrazione.",
-  "id": "/loona-text-tools/it/epub-metadata-editor/",
+  "id": "/it/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

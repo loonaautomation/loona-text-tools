@@ -2,7 +2,7 @@
   "name": "Loona Extra spaties online verwijderen",
   "short_name": "Extra spaties online verwijderen",
   "description": "Verwijder extra spaties, tabs en lege regels met één klik uit tekst. Ruim tekst op die uit PDF's, e-mails en webpagina's is gekopieerd. Gratis online verwijderaar - geen registratie nodig.",
-  "id": "/loona-text-tools/nl/remove-extra-spaces/",
+  "id": "/nl/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

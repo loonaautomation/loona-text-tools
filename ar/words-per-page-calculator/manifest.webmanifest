@@ -2,7 +2,7 @@
   "name": "Loona حاسبة الكلمات لكل صفحة",
   "short_name": "حاسبة الكلمات لكل صفحة",
   "description": "حاسبة كلمات لكل صفحة مجانية: أدخل الكلمات وحجم الخط وتباعد الأسطر للحصول على عدد الصفحات والكلمات لكل صفحة.",
-  "id": "/loona-text-tools/ar/words-per-page-calculator/",
+  "id": "/ar/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Desembaralhe quaisquer letras e transforme-as em palavras reais em inglês com o dicionário ENABLE completo de 172,820 palavras — resultados agrupados por comprimento, com pontuações de Scrabble, filtros começa por, termina em e contém, e apoio para peças em branco. Grátis, sem registo, e as suas letras nunca saem do seu navegador.",
-  "id": "/loona-text-tools/pt-pt/word-unscrambler/",
+  "id": "/pt-pt/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

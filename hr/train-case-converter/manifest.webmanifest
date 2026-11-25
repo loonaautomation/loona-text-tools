@@ -2,7 +2,7 @@
   "name": "Loona Train-Case pretvarač",
   "short_name": "Train-Case pretvarač",
   "description": "Besplatan Train-Case pretvarač — zalijepite tekst i trenutačno dobijte Train-Case. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/train-case-converter/",
+  "id": "/hr/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

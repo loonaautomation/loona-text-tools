@@ -2,7 +2,7 @@
   "name": "Loona Převodník path/case",
   "short_name": "Převodník path/case",
   "description": "Bezplatný převodník path/case — vložte text a okamžitě získejte path/case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/path-case-converter/",
+  "id": "/cs/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

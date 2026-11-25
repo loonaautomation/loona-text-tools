@@ -2,7 +2,7 @@
   "name": "Loona Szövegek összehasonlítása online",
   "short_name": "Szövegek összehasonlítása online",
   "description": "Hasonlítson össze két szöveget soronként, és nézze meg pontosan, mely sorok kerültek hozzáadásra, eltávolításra vagy maradtak meg. Ingyenes online szövegkülönbség-eszköz - regisztráció nélkül, privát módon a böngészőjében.",
-  "id": "/loona-text-tools/hu/text-compare/",
+  "id": "/hu/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

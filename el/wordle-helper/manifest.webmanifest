@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Πληκτρολόγησε τις μαντεψιές σου στο Wordle και πάτα τα πλακίδια σε γκρι, κίτρινο ή πράσινο: αυτός ο δωρεάν βοηθός σου δείχνει κάθε απάντηση που ταιριάζει ακόμα και τις καλύτερες επόμενες μαντεψιές. Σωστή λογική για τα διπλά γράμματα, χωρίς εγγραφή, και όλα τρέχουν στον περιηγητή σου.",
-  "id": "/loona-text-tools/el/wordle-helper/",
+  "id": "/el/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

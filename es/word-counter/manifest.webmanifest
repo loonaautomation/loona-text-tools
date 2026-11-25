@@ -2,7 +2,7 @@
   "name": "Loona Contador de palabras en línea gratis",
   "short_name": "Contador de palabras en línea gratis",
   "description": "Cuenta palabras, caracteres, frases y párrafos en cualquier texto al instante, con tiempo de lectura y de exposición oral. Contador de palabras gratuito, sin registro, funciona sin conexión.",
-  "id": "/loona-text-tools/es/word-counter/",
+  "id": "/es/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

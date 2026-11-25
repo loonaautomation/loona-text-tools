@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів дописів LinkedIn",
   "short_name": "Лічильник символів дописів LinkedIn",
   "description": "Безкоштовний лічильник символів дописів LinkedIn: підрахунок символів наживо проти ліміту 3,000 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/linkedin-post-character-counter/",
+  "id": "/uk/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertor text în hexazecimal online gratuit",
   "short_name": "Convertor text în hexazecimal online gratuit",
   "description": "Convertește textul în hexazecimal și hexazecimalul înapoi în text, tratând corect UTF-8 pentru litere accentuate, urdu și emoji. Convertor hex gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/text-to-hex-converter/",
+  "id": "/ro/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

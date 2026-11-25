@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha flatcase",
   "short_name": "Kibadilishaji cha flatcase",
   "description": "Kibadilishaji cha bure cha flatcase — bandika maandishi na upate flatcase mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/flat-case-converter/",
+  "id": "/sw/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

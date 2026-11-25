@@ -2,7 +2,7 @@
   "name": "Loona Metinden İkiliye Dönüştürücü Çevrimiçi",
   "short_name": "Metinden İkiliye Dönüştürücü Çevrimiçi",
   "description": "Metni ikili koda (0'lar ve 1'ler) ve ikiliyi okunabilir metne dönüştürün, tam Unicode desteğiyle. Ücretsiz metinden ikiliye dönüştürücü - bilgisayar bilimi öğrencileri için harika.",
-  "id": "/loona-text-tools/tr/text-to-binary/",
+  "id": "/tr/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

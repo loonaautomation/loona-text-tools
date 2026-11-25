@@ -2,7 +2,7 @@
   "name": "Loona YouTube-leírás karakterszámláló",
   "short_name": "YouTube-leírás karakterszámláló",
   "description": "Ingyenes YouTube-leírás karakterszámláló számláló: élő karakterszám az 5,000 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/youtube-description-character-counter/",
+  "id": "/hu/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

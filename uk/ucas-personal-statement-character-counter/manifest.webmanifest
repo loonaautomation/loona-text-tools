@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів особистої заяви UCAS",
   "short_name": "Лічильник символів особистої заяви UCAS",
   "description": "Безкоштовний лічильник символів особистої заяви UCAS: підрахунок символів наживо проти ліміту 4,000 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/ucas-personal-statement-character-counter/",
+  "id": "/uk/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

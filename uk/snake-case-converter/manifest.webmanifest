@@ -2,7 +2,7 @@
   "name": "Loona Конвертер snake_case",
   "short_name": "Конвертер snake_case",
   "description": "Безкоштовний конвертер snake_case — вставте текст і отримайте snake_case миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/snake-case-converter/",
+  "id": "/uk/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

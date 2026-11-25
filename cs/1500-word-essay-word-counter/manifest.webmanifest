@@ -2,7 +2,7 @@
   "name": "Loona Esej o 1,500 slovech",
   "short_name": "Esej o 1,500 slovech",
   "description": "Bezplatné počítadlo esejí o 1,500 slovech: živý počet slov k cíli 1,500 slov, strany při jednoduchém a dvojitém řádkování, odstavce, doba čtení a mluvení.",
-  "id": "/loona-text-tools/cs/1500-word-essay-word-counter/",
+  "id": "/cs/1500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

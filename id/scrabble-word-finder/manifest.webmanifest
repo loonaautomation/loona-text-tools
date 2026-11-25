@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Temukan permainan berskor tertinggi dari rak huruf Anda dan periksa apakah kata apa pun valid. Kamus ENABLE lengkap berisi 172.820 kata, ubin kosong didukung, 100% di perangkat Anda. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/scrabble-word-finder/",
+  "id": "/id/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 變位詞生成器和檢查器,線上免費",
   "short_name": "變位詞生成器和檢查器,線上免費",
   "description": "從真正的英語單詞中查詢任何單詞的變位詞,並檢查兩個單詞或短語是否互為變位詞。免費的變位詞求解器,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/anagram-generator/",
+  "id": "/zh-hant/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

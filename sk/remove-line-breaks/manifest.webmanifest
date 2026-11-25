@@ -2,7 +2,7 @@
   "name": "Loona Odstránenie zalomení riadkov online",
   "short_name": "Odstránenie zalomení riadkov online",
   "description": "Odstráňte zalomenia riadkov a spojte polámané riadky do čistých odsekov - ideálne pre text skopírovaný z PDF. Bezplatný online odstraňovač zalomení riadkov, bez registrácie, okamžité výsledky.",
-  "id": "/loona-text-tools/sk/remove-line-breaks/",
+  "id": "/sk/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 500 Kelimelik Deneme",
   "short_name": "500 Kelimelik Deneme",
   "description": "Ücretsiz 500 kelimelik deneme sayacı: 500 kelime hedefine canlı kelime sayısı, tek ve çift aralıklı sayfalar, paragraflar, okuma ve konuşma süresi.",
-  "id": "/loona-text-tools/tr/500-word-essay-word-counter/",
+  "id": "/tr/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

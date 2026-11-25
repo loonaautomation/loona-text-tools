@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Τυχαίων Θεμάτων Online Δωρεάν",
   "short_name": "Γεννήτρια Τυχαίων Θεμάτων Online Δωρεάν",
   "description": "Δημιουργήστε τυχαία θέματα για εκθέσεις, ομιλίες, αντιλογίες, παραγράφους, παρουσιάσεις και ιστορίες - 900 χειρόγραφα θέματα σε 9 κατηγορίες, φιλτραρισμένα κατά επίπεδο. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/random-topic-generator/",
+  "id": "/el/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

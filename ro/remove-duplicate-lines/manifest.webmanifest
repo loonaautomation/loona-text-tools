@@ -2,7 +2,7 @@
   "name": "Loona Eliminare linii duplicate online",
   "short_name": "Eliminare linii duplicate online",
   "description": "Elimină liniile duplicate din orice listă sau text și păstrează doar liniile unice, în ordinea originală. Eliminator gratuit de linii duplicate - fără înregistrare, rezultate instant.",
-  "id": "/loona-text-tools/ro/remove-duplicate-lines/",
+  "id": "/ro/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

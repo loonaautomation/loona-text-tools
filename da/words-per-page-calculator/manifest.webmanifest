@@ -2,7 +2,7 @@
   "name": "Loona Beregnere til ord pr. side",
   "short_name": "Beregnere til ord pr. side",
   "description": "Gratis beregner til ord pr. side: indtast ord, skriftstørrelse og linjeafstand for at få sideantallet og ord pr. side.",
-  "id": "/loona-text-tools/da/words-per-page-calculator/",
+  "id": "/da/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

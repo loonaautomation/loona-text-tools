@@ -2,7 +2,7 @@
   "name": "Loona خطاب من 10 دقائق",
   "short_name": "خطاب من 10 دقائق",
   "description": "كم كلمة في خطاب من 10 دقائق؟ 1,100–1,800 كلمة (1,500 بإيقاع المحادثة). عدّاد مباشر مجاني مع فحص وقت التحدث.",
-  "id": "/loona-text-tools/ar/10-minute-speech-word-count/",
+  "id": "/ar/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

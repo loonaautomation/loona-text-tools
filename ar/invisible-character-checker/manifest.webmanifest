@@ -2,7 +2,7 @@
   "name": "Loona فاحص الأحرف غير المرئية",
   "short_name": "فاحص الأحرف غير المرئية",
   "description": "اكشف الأحرف غير المرئية المختبئة في نصك - مسافات صفرية العرض وBOM ومسافات غير منقسمة وعلامات اتجاه - وأزلها بنقرة واحدة. مجانًا.",
-  "id": "/loona-text-tools/ar/invisible-character-checker/",
+  "id": "/ar/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona camelCase-omvandlare",
   "short_name": "camelCase-omvandlare",
   "description": "Gratis camelCase-omvandlare — klistra in text och få camelCase omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/camelcase-converter/",
+  "id": "/sv/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

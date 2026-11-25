@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Karakter Tak Terlihat",
   "short_name": "Pemeriksa Karakter Tak Terlihat",
   "description": "Ungkap karakter tak terlihat yang bersembunyi dalam teks Anda - spasi lebar-nol, BOM, spasi non-pemisah dan tanda arah - dan hapus dalam satu klik. Gratis.",
-  "id": "/loona-text-tools/id/invisible-character-checker/",
+  "id": "/id/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "حُلّ أنماط الكلمات المتقاطعة مثل c?oss?ord مقابل 172,820 كلمة إنجليزية. اكتب الأحرف التي تعرفها، واستخدم ? للمربعات الناقصة، ورشّح حسب الأحرف الواجب احتواؤها. مجاني، دون تسجيل، و100% على جهازك.",
-  "id": "/loona-text-tools/ar/crossword-solver/",
+  "id": "/ar/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

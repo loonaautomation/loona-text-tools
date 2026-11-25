@@ -2,7 +2,7 @@
   "name": "Loona Rimuovi interruzioni di riga online",
   "short_name": "Rimuovi interruzioni di riga online",
   "description": "Rimuovi le interruzioni di riga e unisci le righe rotte in paragrafi puliti - perfetto per il testo copiato dai PDF. Rimuovi-interruzioni online gratuito, nessuna registrazione, risultati istantanei.",
-  "id": "/loona-text-tools/it/remove-line-breaks/",
+  "id": "/it/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

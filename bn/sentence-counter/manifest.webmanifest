@@ -2,7 +2,7 @@
   "name": "Loona বাক্য গণক অনলাইনে বিনামূল্যে",
   "short_name": "বাক্য গণক অনলাইনে বিনামূল্যে",
   "description": "যেকোনো টেক্সটে তাৎক্ষণিক বাক্য, অনুচ্ছেদ, শব্দ ও অক্ষর গুনুন, গড় বাক্য দৈর্ঘ্যসহ। বিনামূল্যের বাক্য গণক, কোনো সাইন-আপ নেই, আপনার ব্রাউজারে কাজ করে।",
-  "id": "/loona-text-tools/bn/sentence-counter/",
+  "id": "/bn/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

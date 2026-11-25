@@ -2,7 +2,7 @@
   "name": "Loona Kontroll av osynliga tecken",
   "short_name": "Kontroll av osynliga tecken",
   "description": "Avslöja osynliga tecken som gömmer sig i din text - nollbreddsmellanslag, BOM, hårda mellanslag och riktningsmärken - och ta bort dem med ett klick. Gratis.",
-  "id": "/loona-text-tools/sv/invisible-character-checker/",
+  "id": "/sv/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

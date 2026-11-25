@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač teksta u ASCII na mreži besplatno",
   "short_name": "Pretvarač teksta u ASCII na mreži besplatno",
   "description": "Pretvorite tekst u ASCII kodove (decimalne, heksadekadske, oktalne i binarne za svaki znak) i pretvorite ASCII kodove natrag u tekst. Besplatno, trenutačno, bez registracije.",
-  "id": "/loona-text-tools/hr/text-to-ascii-converter/",
+  "id": "/hr/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

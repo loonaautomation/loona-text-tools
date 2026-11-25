@@ -2,7 +2,7 @@
   "name": "Loona 텍스트 찾기 및 바꾸기 온라인",
   "short_name": "텍스트 찾기 및 바꾸기 온라인",
   "description": "단어나 구를 찾고 텍스트의 모든 출현을 한 번에 바꾸세요. 대소문자 구분, 전체 단어, 패턴 옵션이 있어요. 무료 온라인 도구 - 회원가입 없음이에요.",
-  "id": "/loona-text-tools/ko/find-and-replace/",
+  "id": "/ko/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

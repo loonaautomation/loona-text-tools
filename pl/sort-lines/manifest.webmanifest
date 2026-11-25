@@ -2,7 +2,7 @@
   "name": "Loona Sortowanie wierszy online",
   "short_name": "Sortowanie wierszy online",
   "description": "Sortuj wiersze tekstu alfabetycznie (A-Z lub Z-A), według długości, w odwrotnej kolejności lub przetasowane losowo. Darmowe narzędzie online do sortowania wierszy - bez rejestracji, natychmiastowe i prywatne.",
-  "id": "/loona-text-tools/pl/sort-lines/",
+  "id": "/pl/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

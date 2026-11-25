@@ -2,7 +2,7 @@
   "name": "Loona ตัวค้นหาคำที่ซ้ำกันออนไลน์ฟรี",
   "short_name": "ตัวค้นหาคำที่ซ้ำกันออนไลน์ฟรี",
   "description": "ค้นหาทุกคำที่ปรากฏมากกว่าหนึ่งครั้งในข้อความของคุณ จัดอันดับตามความถี่ที่ซ้ำ จับคำซ้ำโดยไม่ตั้งใจและคำที่ใช้มากเกินไป ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/repeated-words-finder/",
+  "id": "/th/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

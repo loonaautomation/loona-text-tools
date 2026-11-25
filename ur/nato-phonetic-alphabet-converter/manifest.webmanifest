@@ -2,7 +2,7 @@
   "name": "Loona NATO صوتی حروفِ تہجی کنورٹر",
   "short_name": "NATO صوتی حروفِ تہجی کنورٹر",
   "description": "کسی بھی متن کو NATO صوتی حروفِ تہجی (Alfa, Bravo, Charlie) میں بدلیں اور NATO ہجے کو واپس سادہ متن میں ڈیکوڈ کریں۔ مفت، فوری، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/nato-phonetic-alphabet-converter/",
+  "id": "/ur/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

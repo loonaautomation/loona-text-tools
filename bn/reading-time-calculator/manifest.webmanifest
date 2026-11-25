@@ -2,7 +2,7 @@
   "name": "Loona পঠন সময় ক্যালকুলেটর",
   "short_name": "পঠন সময় ক্যালকুলেটর",
   "description": "যেকোনো টেক্সট পেস্ট করুন আর দেখুন ধীর, গড় ও দ্রুত গতিতে পড়তে কত সময় লাগে - সঙ্গে লক্ষ্য পঠন সময়ের জন্য কত শব্দ লাগে। বিনামূল্যে, কোনো সাইন-আপ নেই।",
-  "id": "/loona-text-tools/bn/reading-time-calculator/",
+  "id": "/bn/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

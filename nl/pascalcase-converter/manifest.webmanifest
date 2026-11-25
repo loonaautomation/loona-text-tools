@@ -2,7 +2,7 @@
   "name": "Loona PascalCase-omzetter",
   "short_name": "PascalCase-omzetter",
   "description": "Gratis PascalCase-omzetter — plak tekst en krijg direct PascalCase. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/pascalcase-converter/",
+  "id": "/nl/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

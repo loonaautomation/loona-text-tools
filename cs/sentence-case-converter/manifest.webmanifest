@@ -2,7 +2,7 @@
   "name": "Loona Převodník Sentence Case",
   "short_name": "Převodník Sentence Case",
   "description": "Bezplatný převodník Sentence Case — vložte text a okamžitě získejte Sentence case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/sentence-case-converter/",
+  "id": "/cs/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

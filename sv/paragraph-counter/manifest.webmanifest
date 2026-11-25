@@ -2,7 +2,7 @@
   "name": "Loona Styckeräknare online gratis",
   "short_name": "Styckeräknare online gratis",
   "description": "Räkna stycken i vilken text som helst omedelbart, med meningar och ord per stycke samt det längsta och kortaste stycket. Gratis styckeräknare, ingen registrering.",
-  "id": "/loona-text-tools/sv/paragraph-counter/",
+  "id": "/sv/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

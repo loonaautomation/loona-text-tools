@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri titolo YouTube",
   "short_name": "Contatore di caratteri titolo YouTube",
   "description": "Contatore gratuito Contatore di caratteri titolo YouTube: conteggio caratteri in tempo reale rispetto al limite di 100 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/youtube-title-character-counter/",
+  "id": "/it/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

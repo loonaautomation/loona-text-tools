@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för YouTube-beskrivningar",
   "short_name": "Teckenräknare för YouTube-beskrivningar",
   "description": "Gratis teckenräknare för YouTube-beskrivning räknare: levande teckenantal mot gränsen på 5.000 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/youtube-description-character-counter/",
+  "id": "/sv/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

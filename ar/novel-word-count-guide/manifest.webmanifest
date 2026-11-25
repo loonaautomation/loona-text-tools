@@ -2,7 +2,7 @@
   "name": "Loona عدد كلمات الرواية حسب النوع",
   "short_name": "عدد كلمات الرواية حسب النوع",
   "description": "عدد كلمات الرواية حسب النوع: للبالغين 70,000–120,000، للشباب 50,000–90,000، للصف المتوسط 20,000–55,000. عدّاد مباشر مجاني مع أهداف النوع.",
-  "id": "/loona-text-tools/ar/novel-word-count-guide/",
+  "id": "/ar/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

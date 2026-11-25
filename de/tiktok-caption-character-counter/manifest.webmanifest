@@ -2,7 +2,7 @@
   "name": "Loona TikTok-Bildunterschrift-Zeichenzähler",
   "short_name": "TikTok-Bildunterschrift-Zeichenzähler",
   "description": "Kostenloser TikTok-Bildunterschrift-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 2.200-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/tiktok-caption-character-counter/",
+  "id": "/de/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

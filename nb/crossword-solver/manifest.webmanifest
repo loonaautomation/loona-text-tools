@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Løs kryssordmønstre som c?oss?ord mot 172 820 engelske ord. Skriv bokstavene du kjenner, bruk ? for manglende ruter, og filtrer etter bokstaver som må være med. Gratis, ingen registrering, 100 % på enheten din.",
-  "id": "/loona-text-tools/nb/crossword-solver/",
+  "id": "/nb/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona متن سے ASCII کنورٹر آن لائن مفت",
   "short_name": "متن سے ASCII کنورٹر آن لائن مفت",
   "description": "متن کو ASCII کوڈز (ہر حرف کے لیے اعشاری، hex، آکٹل اور بائنری) میں بدلیں اور ASCII کوڈز کو واپس متن میں بدلیں۔ مفت، فوری، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/text-to-ascii-converter/",
+  "id": "/ur/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

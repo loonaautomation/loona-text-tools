@@ -2,7 +2,7 @@
   "name": "Loona ジャンル別小説単語数",
   "short_name": "ジャンル別小説単語数",
   "description": "ジャンル別小説単語数：成人 70,000–120,000、YA 50,000–90,000、中級 20,000–55,000。ジャンル目標付きの無料ライブカウンター。",
-  "id": "/loona-text-tools/ja/novel-word-count-guide/",
+  "id": "/ja/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

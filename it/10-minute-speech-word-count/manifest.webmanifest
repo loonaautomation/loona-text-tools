@@ -2,7 +2,7 @@
   "name": "Loona Discorso di 10 minuti",
   "short_name": "Discorso di 10 minuti",
   "description": "Quante parole in un discorso di 10 minuti? 1.100–1.800 parole (1.500 a ritmo conversazionale). Contatore in tempo reale gratuito con controllo del tempo di parola.",
-  "id": "/loona-text-tools/it/10-minute-speech-word-count/",
+  "id": "/it/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

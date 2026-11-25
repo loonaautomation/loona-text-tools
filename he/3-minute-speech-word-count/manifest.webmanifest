@@ -2,7 +2,7 @@
   "name": "Loona נאום של 3 דקות",
   "short_name": "נאום של 3 דקות",
   "description": "כמה מילים בנאום של 3 דקות? 330–540 מילים (450 בקצב שיחה). מונה חי חינמי עם בדיקת זמן דיבור.",
-  "id": "/loona-text-tools/he/3-minute-speech-word-count/",
+  "id": "/he/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

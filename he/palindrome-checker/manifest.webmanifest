@@ -2,7 +2,7 @@
   "name": "Loona בודק פלינדרומים אונליין בחינם",
   "short_name": "בודק פלינדרומים אונליין בחינם",
   "description": "בדקו אם מילה, מספר או משפט כלשהם הם פלינדרום - נקראים אותו דבר קדימה ואחורה. מציג את הטקסט המנוקה ואת ההיפוך שלו. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/palindrome-checker/",
+  "id": "/he/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

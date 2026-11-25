@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free Flesch–Kincaid grade calculator: paste text for the grade level and reading-ease score, with words per sentence and syllables per word.",
-  "id": "/loona-text-tools/en-us/flesch-kincaid-grade-calculator/",
+  "id": "/en-us/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

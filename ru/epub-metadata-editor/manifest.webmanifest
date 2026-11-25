@@ -2,7 +2,7 @@
   "name": "Loona Редактор метаданных EPUB бесплатно",
   "short_name": "Редактор метаданных EPUB бесплатно",
   "description": "Редактируйте метаданные EPUB бесплатно в своём браузере: название, автор, язык, издатель и описание, с показанной информацией об обложке. Главы нетронуты, без загрузки, без регистрации.",
-  "id": "/loona-text-tools/ru/epub-metadata-editor/",
+  "id": "/ru/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

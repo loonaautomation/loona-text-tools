@@ -2,7 +2,7 @@
   "name": "Loona Zhrnutie textu online — zhrňte dlhý text okamžite | Loona Text Tools",
   "short_name": "Zhrnutie textu online — zhrňte dlhý text okamžite | Loona Text Tools",
   "description": "Zhrňte akýkoľvek dlhý text okamžite: vložte článok, esej alebo správu a získajte späť jeho najdôležitejšie pôvodné vety. Bezplatné online zhrnutie textu — bez registrácie, 100 % súkromné.",
-  "id": "/loona-text-tools/sk/text-summarizer/",
+  "id": "/sk/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

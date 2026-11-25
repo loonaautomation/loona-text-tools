@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Citações Online Grátis",
   "short_name": "Gerador de Citações Online Grátis",
   "description": "Gere citações corretamente formatadas para websites, livros e artigos de revistas científicas em APA 7.ª, MLA 9 e Chicago autor-data - grátis, instantâneo, no seu navegador.",
-  "id": "/loona-text-tools/pt/citation-generator/",
+  "id": "/pt/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

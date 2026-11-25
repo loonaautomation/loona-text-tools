@@ -2,7 +2,7 @@
   "name": "Loona Regelnummers online toevoegen",
   "short_name": "Regelnummers online toevoegen",
   "description": "Voeg nummers toe aan elke regel van je tekst, met je eigen keuze voor start, stap, opvulling en scheidingsteken. Gratis tool voor regelnummering - geen registratie, direct en privé.",
-  "id": "/loona-text-tools/nl/add-line-numbers/",
+  "id": "/nl/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertor iNVERSE cASE",
   "short_name": "Convertor iNVERSE cASE",
   "description": "Convertor iNVERSE cASE gratuit — lipește text și obține iNVERSE cASE instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/inverse-case-converter/",
+  "id": "/ro/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

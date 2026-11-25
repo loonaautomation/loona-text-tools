@@ -2,7 +2,7 @@
   "name": "Loona 線上文字轉語音,免費",
   "short_name": "線上文字轉語音,免費",
   "description": "將任何文字變成自然的語音音訊,線上免費——英語和烏爾都語語音,可調速度和音調。無需註冊,不上傳任何東西,在您的瀏覽器中工作。",
-  "id": "/loona-text-tools/zh-hant/text-to-speech/",
+  "id": "/zh-hant/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

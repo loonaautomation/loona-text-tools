@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare till Titelstil",
   "short_name": "Omvandlare till Titelstil",
   "description": "Gratis omvandlare till Titelstil — klistra in text och få Titelstil omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/title-case-converter/",
+  "id": "/sv/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

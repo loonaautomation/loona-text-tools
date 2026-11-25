@@ -2,7 +2,7 @@
   "name": "Loona Kis- és nagybetű-átalakító online",
   "short_name": "Kis- és nagybetű-átalakító online",
   "description": "Alakítsa a szöveget NAGYBETŰS, kisbetűs, Címkezdő, Mondatkezdő, Nagybetűs vagy VáLtAkOzÓ alakra egyetlen kattintással. Ingyenes online betűátalakító - regisztráció nem szükséges.",
-  "id": "/loona-text-tools/hu/case-converter/",
+  "id": "/hu/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

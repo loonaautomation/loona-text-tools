@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi EPUB ke Teks Percuma",
   "short_name": "Pengonversi EPUB ke Teks Percuma",
   "description": "Penukaran ebook EPUB ke teks biasa bersih (.txt) percuma, di pelayar anda. Bab dalam turutan membaca, tajuk dipertahankan, senarai bab dan jumlah perkataan ditampilkan terlebih dahulu. Tanpa muat naik, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/epub-to-text/",
+  "id": "/ms/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

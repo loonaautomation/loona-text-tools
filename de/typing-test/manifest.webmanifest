@@ -2,7 +2,7 @@
   "name": "Loona Tipptest online kostenlos",
   "short_name": "Tipptest online kostenlos",
   "description": "Kostenloser 60-Sekunden-Tipptest: Messen Sie Ihre Tippgeschwindigkeit in WpM, Genauigkeit und Zeichen pro Minute mit leichten, mittleren und schweren Texten. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-text-tools/de/typing-test/",
+  "id": "/de/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

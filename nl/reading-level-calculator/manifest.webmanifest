@@ -2,7 +2,7 @@
   "name": "Loona Leesniveaucalculator",
   "short_name": "Leesniveaucalculator",
   "description": "Beoordeel elke tekst met de Flesch Reading Ease-schaal en het Flesch-Kincaid-niveau, met de standaardformules. Zie hoe makkelijk je schrijfwerk leest. Gratis.",
-  "id": "/loona-text-tools/nl/reading-level-calculator/",
+  "id": "/nl/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

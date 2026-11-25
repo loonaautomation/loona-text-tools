@@ -2,7 +2,7 @@
   "name": "Loona Generátor slugov online",
   "short_name": "Generátor slugov online",
   "description": "Zmeňte akýkoľvek názov na čistý, SEO-priateľský slug URL: malé písmená, bez medzier, bez špeciálnych znakov. Bezplatný online generátor slugov s úplným náhľadom URL - bez registrácie.",
-  "id": "/loona-text-tools/sk/slug-generator/",
+  "id": "/sk/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

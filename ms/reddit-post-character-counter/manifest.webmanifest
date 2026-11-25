@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Postingan Reddit",
   "short_name": "Pengira Aksara Postingan Reddit",
   "description": "Pengira pengira aksara postingan Reddit percuma: hitungan aksara langsung terhadap had 40.000 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/reddit-post-character-counter/",
+  "id": "/ms/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

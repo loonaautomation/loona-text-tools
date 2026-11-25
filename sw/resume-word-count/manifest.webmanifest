@@ -2,7 +2,7 @@
   "name": "Loona Hesabu ya Maneno ya Resume",
   "short_name": "Hesabu ya Maneno ya Resume",
   "description": "Kikaguzi cha hesabu ya maneno ya resume: hesabu ya moja kwa moja yenye lengo la ukurasa mmoja (maneno 400–600), kadiri ya ukurasa na mwongozo wa kupunguza.",
-  "id": "/loona-text-tools/sw/resume-word-count/",
+  "id": "/sw/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

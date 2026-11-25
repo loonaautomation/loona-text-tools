@@ -2,7 +2,7 @@
   "name": "Loona Công cụ kiểm tra độ dài mô tả meta",
   "short_name": "Công cụ kiểm tra độ dài mô tả meta",
   "description": "Bộ đếm kiểm tra độ dài mô tả meta miễn phí: đếm ký tự trực tiếp so với giới hạn 160 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/meta-description-length-checker/",
+  "id": "/vi/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

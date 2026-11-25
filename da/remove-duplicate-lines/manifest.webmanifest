@@ -2,7 +2,7 @@
   "name": "Loona Fjern dubletlinjer online",
   "short_name": "Fjern dubletlinjer online",
   "description": "Fjern dubletlinjer fra enhver liste eller tekst og behold kun de unikke linjer, i oprindelig rækkefølge. Gratis dubletlinjefjerner - ingen tilmelding, øjeblikkelige resultater.",
-  "id": "/loona-text-tools/da/remove-duplicate-lines/",
+  "id": "/da/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

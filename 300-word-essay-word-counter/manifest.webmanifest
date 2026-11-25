@@ -2,7 +2,7 @@
   "name": "Loona 300-Word Essay",
   "short_name": "300-Word Essay",
   "description": "Free 300-word essay counter: live word count to the 300-word target, pages single- and double-spaced, paragraphs, reading and speaking time.",
-  "id": "/loona-text-tools/300-word-essay-word-counter/",
+  "id": "/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

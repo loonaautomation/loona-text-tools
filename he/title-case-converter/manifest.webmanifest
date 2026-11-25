@@ -2,7 +2,7 @@
   "name": "Loona ממיר Title Case",
   "short_name": "ממיר Title Case",
   "description": "ממיר Title Case בחינם — הדביקו טקסט וקבלו Title Case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/title-case-converter/",
+  "id": "/he/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

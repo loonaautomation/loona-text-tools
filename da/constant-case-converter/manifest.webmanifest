@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE-konverter",
   "short_name": "CONSTANT_CASE-konverter",
   "description": "Gratis CONSTANT_CASE-konverter — indsæt tekst og få CONSTANT_CASE øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/constant-case-converter/",
+  "id": "/da/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

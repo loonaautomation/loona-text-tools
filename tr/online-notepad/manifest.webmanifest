@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Not Defteri Ücretsiz",
   "short_name": "Çevrimiçi Not Defteri Ücretsiz",
   "description": "Yazarken tarayıcınızda otomatik kaydeden ücretsiz bir çevrimiçi not defteri - indirme, yazdırma ve kelime sayısı dahil. Kayıt yok; notlarınız cihazınızdan asla ayrılmaz.",
-  "id": "/loona-text-tools/tr/online-notepad/",
+  "id": "/tr/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

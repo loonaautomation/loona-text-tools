@@ -2,7 +2,7 @@
   "name": "Loona Калкулатор за индекс Gunning Fog",
   "short_name": "Калкулатор за индекс Gunning Fog",
   "description": "Безплатен калкулатор за индекс Gunning Fog: поставете текст за индекса Fog, броя на сложните думи и годините обучение, които той предполага.",
-  "id": "/loona-text-tools/bg/gunning-fog-index-calculator/",
+  "id": "/bg/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona กลับข้อความออนไลน์",
   "short_name": "กลับข้อความออนไลน์",
   "description": "กลับข้อความสี่วิธี: ทั้งข้อความย้อนกลับ แต่ละคำย้อนกลับ ลำดับคำพลิก หรือลำดับบรรทัดพลิก ตัวกลับข้อความออนไลน์ฟรี — ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/reverse-text/",
+  "id": "/th/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

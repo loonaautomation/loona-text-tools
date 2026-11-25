@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/text-to-hex-converter/",
+  "id": "/en-gb/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

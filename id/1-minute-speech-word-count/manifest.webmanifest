@@ -2,7 +2,7 @@
   "name": "Loona Pidato 1 Menit",
   "short_name": "Pidato 1 Menit",
   "description": "Berapa banyak kata dalam pidato 1 menit? 110–180 kata (150 pada kecepatan percakapan). Penghitung langsung gratis dengan pemeriksaan waktu berbicara.",
-  "id": "/loona-text-tools/id/1-minute-speech-word-count/",
+  "id": "/id/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Xóa khoảng trắng thừa trực tuyến",
   "short_name": "Xóa khoảng trắng thừa trực tuyến",
   "description": "Xóa khoảng trắng thừa, tab và dòng trống khỏi văn bản chỉ trong một cú nhấp chuột. Dọn dẹp văn bản sao chép từ PDF, email và trang web. Công cụ xóa trực tuyến miễn phí - không cần đăng ký.",
-  "id": "/loona-text-tools/vi/remove-extra-spaces/",
+  "id": "/vi/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

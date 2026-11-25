@@ -2,7 +2,7 @@
   "name": "Loona ספירת מילים לקורות חיים",
   "short_name": "ספירת מילים לקורות חיים",
   "description": "בודק ספירת מילים לקורות חיים: ספירה חיה עם יעד העמוד האחד (400–600 מילים), הערכת עמוד והנחיות קיצוץ.",
-  "id": "/loona-text-tools/he/resume-word-count/",
+  "id": "/he/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

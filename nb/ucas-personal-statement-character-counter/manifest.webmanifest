@@ -2,7 +2,7 @@
   "name": "Loona Tegnteller for UCAS personlig søknad",
   "short_name": "Tegnteller for UCAS personlig søknad",
   "description": "Gratis tegnteller for UCAS personlig søknad: direkte tegntelling mot grensen på 4,000 tegn, med ord og gjenværende tegn vist mens du skriver.",
-  "id": "/loona-text-tools/nb/ucas-personal-statement-character-counter/",
+  "id": "/nb/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

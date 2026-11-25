@@ -2,7 +2,7 @@
   "name": "Loona 1,200 詞作文——有多長?詞數統計",
   "short_name": "1,200 詞作文——有多長?詞數統計",
   "description": "免費的 1,200 詞作文計數器:實時統計至 1,200 詞目標的詞數、單倍和雙倍行距的頁數、段落、閱讀和演講時間。",
-  "id": "/loona-text-tools/zh-hant/1200-word-essay-word-counter/",
+  "id": "/zh-hant/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

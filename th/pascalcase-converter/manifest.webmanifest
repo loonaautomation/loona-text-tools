@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง PascalCase",
   "short_name": "ตัวแปลง PascalCase",
   "description": "ตัวแปลง PascalCase ฟรี — วางข้อความแล้วได้ PascalCase ทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/pascalcase-converter/",
+  "id": "/th/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Esai 500 Kata",
   "short_name": "Esai 500 Kata",
   "description": "Penghitung esai 500 kata gratis: hitungan kata langsung menuju target 500 kata, halaman spasi tunggal dan ganda, paragraf, waktu membaca dan berbicara.",
-  "id": "/loona-text-tools/id/500-word-essay-word-counter/",
+  "id": "/id/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

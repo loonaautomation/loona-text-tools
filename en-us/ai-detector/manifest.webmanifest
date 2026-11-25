@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Paste any text and see the writing signals AI detectors measure - sentence rhythm, vocabulary diversity, repeated phrases and predictability. Free AI detector: no sign-up, no verdicts, and your text never leaves your browser.",
-  "id": "/loona-text-tools/en-us/ai-detector/",
+  "id": "/en-us/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

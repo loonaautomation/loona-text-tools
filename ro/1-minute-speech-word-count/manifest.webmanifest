@@ -2,7 +2,7 @@
   "name": "Loona Discurs de 1 minut",
   "short_name": "Discurs de 1 minut",
   "description": "Câte cuvinte într-un discurs de 1 minut? 110–180 de cuvinte (150 în ritm conversațional). Contor gratuit în direct, cu verificarea timpului de vorbire.",
-  "id": "/loona-text-tools/ro/1-minute-speech-word-count/",
+  "id": "/ro/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

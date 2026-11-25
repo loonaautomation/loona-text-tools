@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Teks Bergaya Online",
   "short_name": "Pembuat Teks Bergaya Online",
   "description": "Ubah teks biasa menjadi font Unicode bergaya - tebal, skrip, fraktur, melingkar, kapital kecil dan lainnya - untuk bio, keterangan dan nama pengguna. Pembuat teks bergaya gratis.",
-  "id": "/loona-text-tools/id/fancy-text-generator/",
+  "id": "/id/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

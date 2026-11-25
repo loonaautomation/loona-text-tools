@@ -2,7 +2,7 @@
   "name": "Loona EPUB-lukija verkossa ilmaiseksi",
   "short_name": "EPUB-lukija verkossa ilmaiseksi",
   "description": "Avaa ja lue EPUB-e-kirjoja verkossa ilmaiseksi, suoraan selaimessasi. Lukuluettelo, säädettävä fonttikoko ja tumma tila. 100 % yksityinen – e-kirjasi ei koskaan poistu laitteeltasi. Ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/epub-reader/",
+  "id": "/fi/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

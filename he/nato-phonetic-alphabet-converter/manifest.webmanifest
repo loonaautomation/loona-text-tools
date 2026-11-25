@@ -2,7 +2,7 @@
   "name": "Loona ממיר אלפבית פונטי של נאט\"ו",
   "short_name": "ממיר אלפבית פונטי של נאט\"ו",
   "description": "המירו כל טקסט לאלפבית הפונטי של נאט",
-  "id": "/loona-text-tools/he/nato-phonetic-alphabet-converter/",
+  "id": "/he/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

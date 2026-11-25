@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Hali ya Herufi Mtandaoni",
   "short_name": "Kibadilishaji cha Hali ya Herufi Mtandaoni",
   "description": "Badilisha maandishi kuwa HERUFI KUBWA, herufi ndogo, Hali ya Mada, Hali ya sentensi, Herufi Kubwa kwa Kila Neno au hali ya aLtErNaTiNg kwa kubofya mara moja. Kibadilishaji cha bure cha hali ya herufi mtandaoni - hakuna kujisajili kunakohitajika.",
-  "id": "/loona-text-tools/sw/case-converter/",
+  "id": "/sw/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

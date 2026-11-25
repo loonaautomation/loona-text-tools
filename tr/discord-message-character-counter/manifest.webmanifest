@@ -2,7 +2,7 @@
   "name": "Loona Discord Mesajı Karakter Sayacı",
   "short_name": "Discord Mesajı Karakter Sayacı",
   "description": "Ücretsiz Discord Mesajı Karakter Sayacı sayacı: 2.000 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/discord-message-character-counter/",
+  "id": "/tr/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

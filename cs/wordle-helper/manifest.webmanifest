@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Zadejte své pokusy ve Wordle a klepněte na políčka šedě, žlutě nebo zeleně: tento bezplatný pomocník vám ukáže každou odpověď, která ještě vyhovuje, a nejlepší další pokusy. Správná logika pro zdvojená písmena, bez registrace, a vše běží ve vašem prohlížeči.",
-  "id": "/loona-text-tools/cs/wordle-helper/",
+  "id": "/cs/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

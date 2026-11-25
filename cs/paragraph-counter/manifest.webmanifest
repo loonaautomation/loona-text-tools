@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo odstavců online zdarma",
   "short_name": "Počítadlo odstavců online zdarma",
   "description": "Počítejte odstavce v jakémkoli textu okamžitě, s větami a slovy na odstavec a nejdelším a nejkratším odstavcem. Bezplatné počítadlo odstavců, bez registrace.",
-  "id": "/loona-text-tools/cs/paragraph-counter/",
+  "id": "/cs/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

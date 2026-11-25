@@ -2,7 +2,7 @@
   "name": "Loona Penjana Slug Dalam talian",
   "short_name": "Penjana Slug Dalam talian",
   "description": "Ubah tajuk apa pun menjadi slug URL yang bersih dan ramah SEO: huruf kecil, tanpa jarak, tanpa aksara khusus. Pembuat slug dalam talian percuma dengan pratonton URL penuh - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/slug-generator/",
+  "id": "/ms/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

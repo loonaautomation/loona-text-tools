@@ -2,7 +2,7 @@
   "name": "Loona Ismétlődő sorok eltávolítása online",
   "short_name": "Ismétlődő sorok eltávolítása online",
   "description": "Távolítsa el az ismétlődő sorokat bármely listából vagy szövegből, és csak az egyedi sorokat tartsa meg, eredeti sorrendben. Ingyenes ismétlődő sor eltávolító - regisztráció nélkül, azonnali eredmények.",
-  "id": "/loona-text-tools/hu/remove-duplicate-lines/",
+  "id": "/hu/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

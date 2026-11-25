@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid 等級計算器",
   "short_name": "Flesch–Kincaid 等級計算器",
   "description": "免費的 Flesch–Kincaid 等級計算器:貼上文字,得到等級水平和閱讀易度分數,附每句詞數和每詞音節數。",
-  "id": "/loona-text-tools/zh-hant/flesch-kincaid-grade-calculator/",
+  "id": "/zh-hant/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

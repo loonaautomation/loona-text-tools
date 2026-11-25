@@ -2,7 +2,7 @@
   "name": "Loona PascalCase 변환기",
   "short_name": "PascalCase 변환기",
   "description": "무료 PascalCase 변환기 — 텍스트를 붙여 넣으면 즉시 PascalCase를 얻어요. 브라우저에서 실시간 변환, 회원가입 없음, 업로드 없음이에요.",
-  "id": "/loona-text-tools/ko/pascalcase-converter/",
+  "id": "/ko/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

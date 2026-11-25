@@ -2,7 +2,7 @@
   "name": "Loona Palindromkontroll online gratis",
   "short_name": "Palindromkontroll online gratis",
   "description": "Kontrollera om något ord, nummer eller mening är ett palindrom - läses likadant framlänges och baklänges. Visar den rensade texten och dess omvändning. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/palindrome-checker/",
+  "id": "/sv/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

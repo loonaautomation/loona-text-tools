@@ -2,7 +2,7 @@
   "name": "Loona Conteo de palabras de novelas por género",
   "short_name": "Conteo de palabras de novelas por género",
   "description": "Conteo de palabras de novelas por género: adultos 70,000–120,000, juvenil 50,000–90,000, grado medio 20,000–55,000. Contador en vivo gratuito con objetivos por género.",
-  "id": "/loona-text-tools/es/novel-word-count-guide/",
+  "id": "/es/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

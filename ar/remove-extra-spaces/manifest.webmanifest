@@ -2,7 +2,7 @@
   "name": "Loona إزالة المسافات الزائدة عبر الإنترنت",
   "short_name": "إزالة المسافات الزائدة عبر الإنترنت",
   "description": "أزل المسافات الزائدة وعلامات الجدولة والأسطر الفارغة من النص بنقرة واحدة. رتّب نصًا منسوخًا من PDFs ورسائل بريد وصفحات ويب. مزيل مجاني عبر الإنترنت - لا حاجة للتسجيل.",
-  "id": "/loona-text-tools/ar/remove-extra-spaces/",
+  "id": "/ar/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

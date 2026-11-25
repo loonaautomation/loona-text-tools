@@ -2,7 +2,7 @@
   "name": "Loona Verificatore lunghezza tag title",
   "short_name": "Verificatore lunghezza tag title",
   "description": "Contatore gratuito Verificatore lunghezza tag title: conteggio caratteri in tempo reale rispetto al limite di 60 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/title-tag-length-checker/",
+  "id": "/it/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

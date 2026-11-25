@@ -2,7 +2,7 @@
   "name": "Loona Omvänd text online",
   "short_name": "Omvänd text online",
   "description": "Vänd text på fyra sätt: hela texten baklänges, varje ord baklänges, ordordningen omvänd, eller radordningen omvänd. Gratis textvändare online - ingen registrering behövs.",
-  "id": "/loona-text-tools/sv/reverse-text/",
+  "id": "/sv/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

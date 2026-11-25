@@ -2,7 +2,7 @@
   "name": "Loona محوّل الأحرف الصغيرة",
   "short_name": "محوّل الأحرف الصغيرة",
   "description": "محوّل lowercase مجانًا — الصق النص واحصل على lowercase فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/lowercase-converter/",
+  "id": "/ar/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

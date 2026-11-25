@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Voer je Wordle-pogingen in en tik de vakjes grijs, geel of groen aan: deze gratis helper toont je elk antwoord dat nog past en de beste volgende pogingen. Correcte logica voor dubbele letters, geen aanmelding, en alles draait in je browser.",
-  "id": "/loona-text-tools/nl/wordle-helper/",
+  "id": "/nl/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

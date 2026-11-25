@@ -2,7 +2,7 @@
   "name": "Loona ממיר DOCX ל-EPUB בחינם",
   "short_name": "ממיר DOCX ל-EPUB בחינם",
   "description": "המירו מסמכי Word בפורמט DOCX לספרי EPUB בחינם בדפדפן שלכם. כותרות הופכות לפרקים; מודגש, נטוי, רשימות ותמונות מומרים. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/docx-to-epub/",
+  "id": "/he/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

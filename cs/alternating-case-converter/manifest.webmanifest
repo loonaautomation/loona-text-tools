@@ -2,7 +2,7 @@
   "name": "Loona Převodník sTřÍdAvÉ vElIkOsTi",
   "short_name": "Převodník sTřÍdAvÉ vElIkOsTi",
   "description": "Bezplatný převodník sTřÍdAvÉ vElIkOsTi — vložte text a okamžitě získejte sTřÍdAvOu VeLiKoSt. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/alternating-case-converter/",
+  "id": "/cs/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

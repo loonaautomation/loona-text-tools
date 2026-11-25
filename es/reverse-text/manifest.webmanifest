@@ -2,7 +2,7 @@
   "name": "Loona Invertir texto en línea",
   "short_name": "Invertir texto en línea",
   "description": "Invierte el texto de cuatro maneras: texto completo hacia atrás, cada palabra hacia atrás, orden de palabras volteado u orden de líneas volteado. Inversor de texto en línea gratuito: sin registro.",
-  "id": "/loona-text-tools/es/reverse-text/",
+  "id": "/es/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

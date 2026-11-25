@@ -2,7 +2,7 @@
   "name": "Loona Έκθεση 500 Λέξεων",
   "short_name": "Έκθεση 500 Λέξεων",
   "description": "Δωρεάν μετρητής έκθεσης 500 λέξεων: ζωντανό πλήθος λέξεων προς τον στόχο των 500 λέξεων, σελίδες με μονό και διπλό διάστιχο, παράγραφοι, χρόνος ανάγνωσης και ομιλίας.",
-  "id": "/loona-text-tools/el/500-word-essay-word-counter/",
+  "id": "/el/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

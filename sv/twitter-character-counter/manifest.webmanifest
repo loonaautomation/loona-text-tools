@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för Twitter / X",
   "short_name": "Teckenräknare för Twitter / X",
   "description": "Gratis teckenräknare för Twitter / X räknare: levande teckenantal mot gränsen på 280 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/twitter-character-counter/",
+  "id": "/sv/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

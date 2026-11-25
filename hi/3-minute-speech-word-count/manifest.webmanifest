@@ -2,7 +2,7 @@
   "name": "Loona 3-मिनट भाषण",
   "short_name": "3-मिनट भाषण",
   "description": "3-मिनट के भाषण में कितने शब्द? 330–540 शब्द (बातचीत गति पर 450)। बोलने-के-समय की जांच के साथ मुफ़्त लाइव गणक।",
-  "id": "/loona-text-tools/hi/3-minute-speech-word-count/",
+  "id": "/hi/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

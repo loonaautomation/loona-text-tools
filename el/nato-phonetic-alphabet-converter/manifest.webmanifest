@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Φωνητικού Αλφαβήτου NATO",
   "short_name": "Μετατροπέας Φωνητικού Αλφαβήτου NATO",
   "description": "Μετατρέψτε οποιοδήποτε κείμενο στο φωνητικό αλφάβητο NATO (Alfa, Bravo, Charlie) και αποκωδικοποιήστε την ορθογραφία NATO πίσω σε απλό κείμενο. Δωρεάν, αμέσως, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/nato-phonetic-alphabet-converter/",
+  "id": "/el/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

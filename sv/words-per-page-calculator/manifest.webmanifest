@@ -2,7 +2,7 @@
   "name": "Loona Beräknare för ord per sida",
   "short_name": "Beräknare för ord per sida",
   "description": "Gratis beräknare för ord per sida: ange ord, teckenstorlek och radavstånd för att få sidantalet och ord per sida.",
-  "id": "/loona-text-tools/sv/words-per-page-calculator/",
+  "id": "/sv/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

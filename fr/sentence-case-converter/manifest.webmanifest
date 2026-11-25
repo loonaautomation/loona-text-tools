@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur de casse de phrase",
   "short_name": "Convertisseur de casse de phrase",
   "description": "Convertisseur casse de phrase gratuit — collez du texte et obtenez casse de phrase instantanément. Conversion en direct dans votre navigateur, sans inscription, sans téléchargement.",
-  "id": "/loona-text-tools/fr/sentence-case-converter/",
+  "id": "/fr/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Speaking Time Calculator",
   "short_name": "Speaking Time Calculator",
   "description": "Paste your speech or script and see how long it takes to deliver at slow, conversational and fast paces - plus how many words fit a target time. Free, no sign-up.",
-  "id": "/loona-text-tools/speaking-time-calculator/",
+  "id": "/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

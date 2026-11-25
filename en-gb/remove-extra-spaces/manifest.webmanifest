@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/remove-extra-spaces/",
+  "id": "/en-gb/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

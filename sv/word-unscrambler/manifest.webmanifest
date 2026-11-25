@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Ordna valfria bokstäver till riktiga engelska ord med hela ENABLE-ordlistan på 172 820 ord – resultat grupperade efter längd, med Scrabble-poäng, filter för börjar med, slutar med och innehåller, samt stöd för blanka brickor. Gratis, ingen registrering, och dina bokstäver lämnar aldrig din webbläsare.",
-  "id": "/loona-text-tools/sv/word-unscrambler/",
+  "id": "/sv/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

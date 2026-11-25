@@ -2,7 +2,7 @@
   "name": "Loona טקסט לדיבור אונליין בחינם",
   "short_name": "טקסט לדיבור אונליין בחינם",
   "description": "הפכו כל טקסט לשמע מדובר טבעי בחינם באינטרנט - קולות באנגלית ובאורדו, מהירות וגובה קול מתכווננים. ללא הרשמה, שום דבר לא מועלה, עובד בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/text-to-speech/",
+  "id": "/he/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Morsekodeoversætter online",
   "short_name": "Morsekodeoversætter online",
   "description": "Oversæt tekst til morsekode og morsekode tilbage til tekst, og hør den som rigtige bip. Gratis online morsekodeoversætter - ingen tilmelding, virker i din browser.",
-  "id": "/loona-text-tools/da/morse-code-translator/",
+  "id": "/da/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

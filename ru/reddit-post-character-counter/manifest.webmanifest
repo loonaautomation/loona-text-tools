@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов для постов Reddit",
   "short_name": "Счётчик символов для постов Reddit",
   "description": "Бесплатный счётчик символов для постов Reddit: подсчёт символов в реальном времени с учётом лимита в 40,000 символов, со словами и оставшимися символами по мере ввода.",
-  "id": "/loona-text-tools/ru/reddit-post-character-counter/",
+  "id": "/ru/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

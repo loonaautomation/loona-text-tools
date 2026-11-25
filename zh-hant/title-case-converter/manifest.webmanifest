@@ -2,7 +2,7 @@
   "name": "Loona 標題大小寫轉換器",
   "short_name": "標題大小寫轉換器",
   "description": "免費的 標題大小寫 轉換器——貼上文字,立即得到 標題大小寫。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/title-case-converter/",
+  "id": "/zh-hant/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

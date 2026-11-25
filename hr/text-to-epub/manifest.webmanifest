@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač teksta u EPUB besplatno",
   "short_name": "Pretvarač teksta u EPUB besplatno",
   "description": "Pretvorite običan tekst ili Markdown u valjanu EPUB e-knjigu besplatno, u svom pregledniku. Naslov i autor, poglavlja iz naslova, otvara se u bilo kojem čitaču EPUB-a. Bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/text-to-epub/",
+  "id": "/hr/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

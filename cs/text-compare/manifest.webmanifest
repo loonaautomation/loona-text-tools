@@ -2,7 +2,7 @@
   "name": "Loona Porovnání textů online",
   "short_name": "Porovnání textů online",
   "description": "Porovnejte dva texty řádek po řádku a podívejte se přesně, které řádky byly přidány, odstraněny nebo zachovány. Bezplatný online nástroj pro porovnání textů - bez registrace, soukromě ve vašem prohlížeči.",
-  "id": "/loona-text-tools/cs/text-compare/",
+  "id": "/cs/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

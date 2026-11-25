@@ -2,7 +2,7 @@
   "name": "Loona Sortér linjer online",
   "short_name": "Sortér linjer online",
   "description": "Sortér tekstlinjer alfabetisk (A-Z eller Z-A), efter længde, i omvendt rækkefølge eller blandet tilfældigt. Gratis online linjesorterer - ingen tilmelding, øjeblikkelig og privat.",
-  "id": "/loona-text-tools/da/sort-lines/",
+  "id": "/da/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

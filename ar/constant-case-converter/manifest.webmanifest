@@ -2,7 +2,7 @@
   "name": "Loona محوّل CONSTANT_CASE",
   "short_name": "محوّل CONSTANT_CASE",
   "description": "محوّل CONSTANT_CASE مجانًا — الصق النص واحصل على CONSTANT_CASE فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/constant-case-converter/",
+  "id": "/ar/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

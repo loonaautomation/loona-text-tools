@@ -2,7 +2,7 @@
   "name": "Loona Palindromin tarkistin verkossa ilmaiseksi",
   "short_name": "Palindromin tarkistin verkossa ilmaiseksi",
   "description": "Tarkista, onko mikä tahansa sana, numero tai lause palindromi – luetaan samalla tavalla etuperin ja takaperin. Näyttää puhdistetun tekstin ja sen käänteisen muodon. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/palindrome-checker/",
+  "id": "/fi/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Train-Case",
   "short_name": "Μετατροπέας Train-Case",
   "description": "Δωρεάν μετατροπέας Train-Case — επικολλήστε κείμενο και πάρετε Train-Case αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/train-case-converter/",
+  "id": "/el/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TikTok-felirat karakterszámláló",
   "short_name": "TikTok-felirat karakterszámláló",
   "description": "Ingyenes TikTok-felirat karakterszámláló számláló: élő karakterszám a 2,200 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/tiktok-caption-character-counter/",
+  "id": "/hu/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

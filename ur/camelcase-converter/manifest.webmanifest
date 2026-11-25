@@ -2,7 +2,7 @@
   "name": "Loona camelCase کنورٹر",
   "short_name": "camelCase کنورٹر",
   "description": "مفت camelCase کنورٹر — متن پیسٹ کریں اور فوراً camelCase پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/camelcase-converter/",
+  "id": "/ur/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

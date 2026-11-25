@@ -2,7 +2,7 @@
   "name": "Loona Převodník camelCase",
   "short_name": "Převodník camelCase",
   "description": "Bezplatný převodník camelCase — vložte text a okamžitě získejte camelCase. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/camelcase-converter/",
+  "id": "/cs/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

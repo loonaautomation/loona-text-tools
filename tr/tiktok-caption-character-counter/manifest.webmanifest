@@ -2,7 +2,7 @@
   "name": "Loona TikTok Açıklaması Karakter Sayacı",
   "short_name": "TikTok Açıklaması Karakter Sayacı",
   "description": "Ücretsiz TikTok Açıklaması Karakter Sayacı sayacı: 2.200 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/tiktok-caption-character-counter/",
+  "id": "/tr/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

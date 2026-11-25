@@ -2,7 +2,7 @@
   "name": "Loona Blocnotes online gratuit",
   "short_name": "Blocnotes online gratuit",
   "description": "Un blocnotes online gratuit care salvează automat în browserul tău, pe măsură ce tastezi - descărcare, imprimare și număr de cuvinte incluse. Fără înregistrare; notițele tale nu părăsesc niciodată dispozitivul.",
-  "id": "/loona-text-tools/ro/online-notepad/",
+  "id": "/ro/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Kecil",
   "short_name": "Pengonversi Huruf Kecil",
   "description": "Pengonversi huruf kecil percuma — tampal teks dan dapatkan huruf kecil serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/lowercase-converter/",
+  "id": "/ms/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

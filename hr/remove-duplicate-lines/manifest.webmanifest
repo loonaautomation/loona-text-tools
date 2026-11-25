@@ -2,7 +2,7 @@
   "name": "Loona Ukloni duplicirane retke na mreži",
   "short_name": "Ukloni duplicirane retke na mreži",
   "description": "Uklonite duplicirane retke iz bilo kojeg popisa ili teksta i zadržite samo jedinstvene retke, izvornim redoslijedom. Besplatan uklanjač dupliciranih redaka - bez registracije, trenutačni rezultati.",
-  "id": "/loona-text-tools/hr/remove-duplicate-lines/",
+  "id": "/hr/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znaků popisků TikToku",
   "short_name": "Počítadlo znaků popisků TikToku",
   "description": "Bezplatné počítadlo znaků popisků TikToku: živý počet znaků vůči limitu 2,200 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
-  "id": "/loona-text-tools/cs/tiktok-caption-character-counter/",
+  "id": "/cs/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

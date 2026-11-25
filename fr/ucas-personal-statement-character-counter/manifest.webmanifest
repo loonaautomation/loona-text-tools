@@ -2,7 +2,7 @@
   "name": "Loona Compteur de caractères de déclarations personnelles UCAS",
   "short_name": "Compteur de caractères de déclarations personnelles UCAS",
   "description": "Compteur de caractères de déclarations personnelles UCAS gratuit : comptage de caractères en direct par rapport à la limite de 4,000 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
-  "id": "/loona-text-tools/fr/ucas-personal-statement-character-counter/",
+  "id": "/fr/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

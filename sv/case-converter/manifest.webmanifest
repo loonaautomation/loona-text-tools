@@ -2,7 +2,7 @@
   "name": "Loona Skiftlägesomvandlare online",
   "short_name": "Skiftlägesomvandlare online",
   "description": "Omvandla text till VERSALER, gemener, Titelstil, meningsstil, Versaliserad eller vÄxLaNdE stil med ett klick. Gratis skiftlägesomvandlare online - ingen registrering behövs.",
-  "id": "/loona-text-tools/sv/case-converter/",
+  "id": "/sv/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

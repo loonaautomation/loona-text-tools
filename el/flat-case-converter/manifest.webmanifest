@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας flatcase",
   "short_name": "Μετατροπέας flatcase",
   "description": "Δωρεάν μετατροπέας flatcase — επικολλήστε κείμενο και πάρετε flatcase αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/flat-case-converter/",
+  "id": "/el/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rimuovi punteggiatura online gratuito",
   "short_name": "Rimuovi punteggiatura online gratuito",
   "description": "Rimuovi la punteggiatura da qualsiasi testo in un clic - punti, virgole, virgolette e altro - con opzioni per mantenere apostrofi e trattini. Gratuito, nessuna registrazione.",
-  "id": "/loona-text-tools/it/remove-punctuation/",
+  "id": "/it/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

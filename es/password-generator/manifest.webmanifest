@@ -2,7 +2,7 @@
   "name": "Loona Generador de contraseñas en línea",
   "short_name": "Generador de contraseñas en línea",
   "description": "Genera contraseñas fuertes y aleatorias con la longitud y los símbolos que elijas, más un medidor de fortaleza honesto. Generador de contraseñas gratuito: creado solo en tu dispositivo.",
-  "id": "/loona-text-tools/es/password-generator/",
+  "id": "/es/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

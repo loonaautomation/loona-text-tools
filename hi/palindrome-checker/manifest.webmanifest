@@ -2,7 +2,7 @@
   "name": "Loona पैलिंड्रोम जांचक ऑनलाइन मुफ़्त",
   "short_name": "पैलिंड्रोम जांचक ऑनलाइन मुफ़्त",
   "description": "जांचें कि कोई शब्द, संख्या या वाक्य पैलिंड्रोम है या नहीं - आगे और पीछे से एक जैसा पढ़ा जाता है। साफ़ किया टेक्स्ट और उसका उल्टा दिखाता है। मुफ़्त, कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/palindrome-checker/",
+  "id": "/hi/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

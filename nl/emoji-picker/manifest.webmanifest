@@ -2,7 +2,7 @@
   "name": "Loona Emoji-kiezer Online Gratis",
   "short_name": "Emoji-kiezer Online Gratis",
   "description": "Gratis emoji-kiezer: blader of zoek door 1,900+ emoji's en symbolen, kies een huidtint, klik om één emoji of een heel bakje te kopiëren. Geen aanmelding, werkt 100% in je browser.",
-  "id": "/loona-text-tools/nl/emoji-picker/",
+  "id": "/nl/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

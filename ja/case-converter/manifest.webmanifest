@@ -2,7 +2,7 @@
   "name": "Loona ケース変換ツールオンライン",
   "short_name": "ケース変換ツールオンライン",
   "description": "テキストをワンクリックで UPPERCASE、lowercase、Title Case、Sentence case、Capitalized、aLtErNaTiNg case に変換します。無料オンラインケース変換ツール — 登録は不要です。",
-  "id": "/loona-text-tools/ja/case-converter/",
+  "id": "/ja/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona الفاظ کی تکرار گننے والا آن لائن",
   "short_name": "الفاظ کی تکرار گننے والا آن لائن",
   "description": "گنیں کہ آپ کے متن میں ہر لفظ کتنی بار آیا ہے اور فیصد کے ساتھ درجہ بند تکرار جدول دیکھیں۔ مفت آن لائن الفاظ تکرار کاؤنٹر - کوئی سائن اپ نہیں، فوری۔",
-  "id": "/loona-text-tools/ur/word-frequency/",
+  "id": "/ur/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

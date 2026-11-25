@@ -2,7 +2,7 @@
   "name": "Loona Calculadora del índice Gunning Fog",
   "short_name": "Calculadora del índice Gunning Fog",
   "description": "Calculadora del índice Gunning Fog gratuita: pega texto para obtener el índice Fog, el conteo de palabras complejas y los años de escolaridad que implica.",
-  "id": "/loona-text-tools/es/gunning-fog-index-calculator/",
+  "id": "/es/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

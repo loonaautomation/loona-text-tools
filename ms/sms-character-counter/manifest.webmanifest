@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara SMS",
   "short_name": "Pengira Aksara SMS",
   "description": "Pengira aksara SMS percuma: pengesanan GSM 7-bit vs Unicode, jumlah segmen dan sisa aksara — langsung, di pelayar anda.",
-  "id": "/loona-text-tools/ms/sms-character-counter/",
+  "id": "/ms/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง dot.case",
   "short_name": "ตัวแปลง dot.case",
   "description": "ตัวแปลง dot.case ฟรี — วางข้อความแล้วได้ dot.case ทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/dot-case-converter/",
+  "id": "/th/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

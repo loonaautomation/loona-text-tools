@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Maneno kwa Ukurasa",
   "short_name": "Kikokotoo cha Maneno kwa Ukurasa",
   "description": "Kikokotoo cha bure cha maneno kwa ukurasa: weka maneno, ukubwa wa fonti na nafasi ya mistari kupata hesabu ya kurasa na maneno kwa ukurasa.",
-  "id": "/loona-text-tools/sw/words-per-page-calculator/",
+  "id": "/sw/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

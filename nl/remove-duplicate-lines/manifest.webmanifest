@@ -2,7 +2,7 @@
   "name": "Loona Dubbele regels online verwijderen",
   "short_name": "Dubbele regels online verwijderen",
   "description": "Verwijder dubbele regels uit elke lijst of tekst en behoud alleen de unieke regels, in oorspronkelijke volgorde. Gratis verwijderaar van dubbele regels - geen registratie, directe resultaten.",
-  "id": "/loona-text-tools/nl/remove-duplicate-lines/",
+  "id": "/nl/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

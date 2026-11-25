@@ -2,7 +2,7 @@
   "name": "Loona Véletlen témagenerátor online ingyen",
   "short_name": "Véletlen témagenerátor online ingyen",
   "description": "Generáljon véletlen témákat esszékhez, beszédekhez, vitákhoz, bekezdésekhez, prezentációkhoz és történetekhez - 900 kézzel írt téma 9 kategóriában, szint szerint szűrve. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/random-topic-generator/",
+  "id": "/hu/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

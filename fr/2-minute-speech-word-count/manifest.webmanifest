@@ -2,7 +2,7 @@
   "name": "Loona Discours de 2 minutes",
   "short_name": "Discours de 2 minutes",
   "description": "Combien de mots dans un discours de 2 minutes ? 220–360 mots (300 au rythme de conversation). Compteur gratuit en direct avec vérification du temps de parole.",
-  "id": "/loona-text-tools/fr/2-minute-speech-word-count/",
+  "id": "/fr/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

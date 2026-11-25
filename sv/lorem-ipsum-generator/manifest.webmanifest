@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator online",
   "short_name": "Lorem Ipsum-generator online",
   "description": "Generera lorem ipsum-platshållartext per stycke, mening eller ord - redo att klistras in i designer och layouter. Gratis lorem ipsum-generator, ingen registrering behövs.",
-  "id": "/loona-text-tools/sv/lorem-ipsum-generator/",
+  "id": "/sv/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

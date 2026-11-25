@@ -2,7 +2,7 @@
   "name": "Loona Sök och ersätt text online",
   "short_name": "Sök och ersätt text online",
   "description": "Hitta ett ord eller en fras och ersätt varje förekomst i din text på en gång, med alternativ för skiftlägeskänslighet, hela ord och mönster. Gratis verktyg online - ingen registrering.",
-  "id": "/loona-text-tools/sv/find-and-replace/",
+  "id": "/sv/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

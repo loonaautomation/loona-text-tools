@@ -2,7 +2,7 @@
   "name": "Loona Генератор на цитати онлайн безплатно",
   "short_name": "Генератор на цитати онлайн безплатно",
   "description": "Генерирайте правилно форматирани цитати за уебсайтове, книги и статии в списания в APA 7-о, MLA 9 и Chicago автор-дата - безплатно, мигновено, във вашия браузър.",
-  "id": "/loona-text-tools/bg/citation-generator/",
+  "id": "/bg/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

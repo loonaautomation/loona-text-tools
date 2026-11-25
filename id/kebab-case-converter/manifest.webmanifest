@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi kebab-case",
   "short_name": "Pengonversi kebab-case",
   "description": "Pengonversi kebab-case gratis — tempel teks dan dapatkan kebab-case secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/kebab-case-converter/",
+  "id": "/id/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

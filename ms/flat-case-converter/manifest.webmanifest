@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi flatcase",
   "short_name": "Pengonversi flatcase",
   "description": "Pengonversi flatcase percuma — tampal teks dan dapatkan flatcase serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/flat-case-converter/",
+  "id": "/ms/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

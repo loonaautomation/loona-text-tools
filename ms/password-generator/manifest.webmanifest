@@ -2,7 +2,7 @@
   "name": "Loona Penjana Kata Laluan Dalam talian",
   "short_name": "Penjana Kata Laluan Dalam talian",
   "description": "Buat kata laluan rawak yang kuat dengan panjang dan simbol pilihan anda, ditambah pengukur kekuatan yang jujur. Pembuat kata laluan percuma - dibuat hanya di peranti anda.",
-  "id": "/loona-text-tools/ms/password-generator/",
+  "id": "/ms/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

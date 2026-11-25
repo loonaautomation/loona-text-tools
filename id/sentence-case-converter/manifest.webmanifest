@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Kalimat",
   "short_name": "Pengonversi Huruf Kalimat",
   "description": "Pengonversi huruf kalimat gratis — tempel teks dan dapatkan Huruf kalimat secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/sentence-case-converter/",
+  "id": "/id/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів Twitter / X",
   "short_name": "Лічильник символів Twitter / X",
   "description": "Безкоштовний лічильник символів Twitter / X: підрахунок символів наживо проти ліміту 280 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/twitter-character-counter/",
+  "id": "/uk/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Aufsatz mit 800 Wörtern",
   "short_name": "Aufsatz mit 800 Wörtern",
   "description": "Kostenloser Zähler für Aufsätze mit 800 Wörtern: Live-Wortzählung zum 800-Wörter-Ziel, Seiten mit einfachem und doppeltem Zeilenabstand, Absätze, Lese- und Sprechzeit.",
-  "id": "/loona-text-tools/de/800-word-essay-word-counter/",
+  "id": "/de/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

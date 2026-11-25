@@ -2,7 +2,7 @@
   "name": "Loona Tekst online zoeken en vervangen",
   "short_name": "Tekst online zoeken en vervangen",
   "description": "Zoek een woord of woordgroep en vervang elke voorkoming in één keer in je tekst, met opties voor hoofdlettergevoelig, hele woorden en patronen. Gratis online tool - geen registratie.",
-  "id": "/loona-text-tools/nl/find-and-replace/",
+  "id": "/nl/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

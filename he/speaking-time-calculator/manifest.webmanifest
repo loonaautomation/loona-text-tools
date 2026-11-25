@@ -2,7 +2,7 @@
   "name": "Loona מחשבון זמן דיבור",
   "short_name": "מחשבון זמן דיבור",
   "description": "הדביקו את הנאום או התסריט שלכם וראו כמה זמן לוקח להגיש אותו בקצבים איטי, שיחה ומהיר - ועוד כמה מילים מתאימות לזמן יעד. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/speaking-time-calculator/",
+  "id": "/he/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

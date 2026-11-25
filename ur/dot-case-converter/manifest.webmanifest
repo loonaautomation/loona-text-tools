@@ -2,7 +2,7 @@
   "name": "Loona dot.case کنورٹر",
   "short_name": "dot.case کنورٹر",
   "description": "مفت dot.case کنورٹر — متن پیسٹ کریں اور فوراً dot.case پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/dot-case-converter/",
+  "id": "/ur/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

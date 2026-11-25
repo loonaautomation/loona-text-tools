@@ -2,7 +2,7 @@
   "name": "Loona Traduttore di codice Morse online",
   "short_name": "Traduttore di codice Morse online",
   "description": "Traduci il testo in codice Morse e il codice Morse di nuovo in testo, e ascoltalo come veri bip. Traduttore di codice Morse online gratuito - nessuna registrazione, funziona nel tuo browser.",
-  "id": "/loona-text-tools/it/morse-code-translator/",
+  "id": "/it/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

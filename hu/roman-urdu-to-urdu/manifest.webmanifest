@@ -2,7 +2,7 @@
   "name": "Loona Római urduból urdu írásra alakító online ingyen",
   "short_name": "Római urduból urdu írásra alakító online ingyen",
   "description": "Alakítsa a római urdut (latin betűket) megfelelő urdu írássá azonnal - a 'mera naam' valódi urdu írássá válik. Ingyenes római urduból urduvá alakító Pakisztán számára.",
-  "id": "/loona-text-tools/hu/roman-urdu-to-urdu/",
+  "id": "/hu/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

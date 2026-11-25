@@ -2,7 +2,7 @@
   "name": "Loona ٹائٹل ٹیگ لمبائی چیکر",
   "short_name": "ٹائٹل ٹیگ لمبائی چیکر",
   "description": "مفت ٹائٹل ٹیگ لمبائی چیکر کاؤنٹر: 60 حروف کی حد کے مقابل لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/title-tag-length-checker/",
+  "id": "/ur/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Vind de hoogst scorende zetten uit je letterrekje en controleer of een woord geldig is. Volledig ENABLE-woordenboek met 172.820 woorden, blanco tegels ondersteund, 100% op je apparaat. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/scrabble-word-finder/",
+  "id": "/nl/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

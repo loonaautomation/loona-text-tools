@@ -2,7 +2,7 @@
   "name": "Loona UCAS személyes nyilatkozat karakterszámláló",
   "short_name": "UCAS személyes nyilatkozat karakterszámláló",
   "description": "Ingyenes UCAS személyes nyilatkozat karakterszámláló számláló: élő karakterszám a 4,000 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/ucas-personal-statement-character-counter/",
+  "id": "/hu/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

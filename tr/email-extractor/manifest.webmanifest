@@ -2,7 +2,7 @@
   "name": "Loona E-posta Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "E-posta Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir metinden, belgeden veya web sayfası içeriğinden her e-posta adresini çıkarın - yinelenenleri kaldırılmış ve her satırda bir tane listelenmiş. Tarayıcınızda %100 çalışır. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/email-extractor/",
+  "id": "/tr/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

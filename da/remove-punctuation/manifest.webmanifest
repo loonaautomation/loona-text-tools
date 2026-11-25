@@ -2,7 +2,7 @@
   "name": "Loona Fjern tegnsætning online gratis",
   "short_name": "Fjern tegnsætning online gratis",
   "description": "Fjern tegnsætning fra enhver tekst med ét klik - punktummer, kommaer, anførselstegn og mere - med indstillinger til at beholde apostroffer og bindestreger. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/remove-punctuation/",
+  "id": "/da/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

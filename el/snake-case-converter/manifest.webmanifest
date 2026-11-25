@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας snake_case",
   "short_name": "Μετατροπέας snake_case",
   "description": "Δωρεάν μετατροπέας snake_case — επικολλήστε κείμενο και πάρετε snake_case αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/snake-case-converter/",
+  "id": "/el/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

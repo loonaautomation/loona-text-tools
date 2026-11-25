@@ -2,7 +2,7 @@
   "name": "Loona ממיר PascalCase",
   "short_name": "ממיר PascalCase",
   "description": "ממיר PascalCase בחינם — הדביקו טקסט וקבלו PascalCase מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/pascalcase-converter/",
+  "id": "/he/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

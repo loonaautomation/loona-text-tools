@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi Train-Case",
   "short_name": "Công cụ chuyển đổi Train-Case",
   "description": "Công cụ chuyển đổi Train-Case miễn phí — dán văn bản và nhận Train-Case ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/train-case-converter/",
+  "id": "/vi/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

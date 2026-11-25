@@ -2,7 +2,7 @@
   "name": "Loona Mondatkezdő-átalakító",
   "short_name": "Mondatkezdő-átalakító",
   "description": "Ingyenes mondatkezdő-átalakító — illesszen be szöveget, és azonnal mondatkezdőt kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/sentence-case-converter/",
+  "id": "/hu/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

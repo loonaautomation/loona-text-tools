@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Füge einen beliebigen Text ein und sieh dir die Schreibsignale an, die KI-Detektoren messen – Satzrhythmus, Wortschatzvielfalt, wiederholte Formulierungen und Vorhersagbarkeit. Kostenloser KI-Detektor: ohne Anmeldung, ohne Urteil, und dein Text verlässt nie deinen Browser.",
-  "id": "/loona-text-tools/de/ai-detector/",
+  "id": "/de/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

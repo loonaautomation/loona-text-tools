@@ -2,7 +2,7 @@
   "name": "Loona 在线文本倒序",
   "short_name": "在线文本倒序",
   "description": "以四种方式倒序文本:全文向后、每个单词向后、词序翻转或行序翻转。免费在线文本倒序器——无需注册。",
-  "id": "/loona-text-tools/zh/reverse-text/",
+  "id": "/zh/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

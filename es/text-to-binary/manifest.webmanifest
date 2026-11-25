@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de texto a binario en línea",
   "short_name": "Convertidor de texto a binario en línea",
   "description": "Convierte texto a código binario (0 y 1) y binario de nuevo a texto legible, con compatibilidad Unicode completa. Convertidor gratuito de texto a binario: ideal para estudiantes de informática.",
-  "id": "/loona-text-tools/es/text-to-binary/",
+  "id": "/es/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

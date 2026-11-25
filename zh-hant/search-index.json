@@ -1,7 +1,7 @@
 [
  {
   "n": "單詞計數器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/word-counter/",
+  "u": "https://text.loonaautomation.com/zh-hant/word-counter/",
   "s": "Loona Text Tools",
   "d": "單詞、字元、句子、段落和閱讀時間——在您輸入時實時計數。",
   "k": "word counter word counter ",
@@ -10,7 +10,7 @@
  },
  {
   "n": "字元計數器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/character-counter/",
+  "u": "https://text.loonaautomation.com/zh-hant/character-counter/",
   "s": "Loona Text Tools",
   "d": "含空格和不含空格的字元數,外加 X、簡訊和元文字的實時限制。",
   "k": "character counter character counter x",
@@ -19,7 +19,7 @@
  },
  {
   "n": "句子計數器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/sentence-counter/",
+  "u": "https://text.loonaautomation.com/zh-hant/sentence-counter/",
   "s": "Loona Text Tools",
   "d": "任何文字中的句子、段落、單詞和字元——在您輸入時實時計數。",
   "k": "sentence counter sentence counter ",
@@ -28,7 +28,7 @@
  },
  {
   "n": "閱讀時間計算器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/reading-time-calculator/",
+  "u": "https://text.loonaautomation.com/zh-hant/reading-time-calculator/",
   "s": "Loona Text Tools",
   "d": "在慢速、平均和快速閱讀速度下,任何文字讀完需要多長時間。",
   "k": "reading time calculator reading time calculator ",
@@ -37,7 +37,7 @@
  },
  {
   "n": "演講時間計算器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/speaking-time-calculator/",
+  "u": "https://text.loonaautomation.com/zh-hant/speaking-time-calculator/",
   "s": "Loona Text Tools",
   "d": "一份演講或講稿講完需要多長時間——外加目標時間所需的詞數。",
   "k": "speaking time calculator speaking time calculator ",
@@ -46,7 +46,7 @@
  },
  {
   "n": "打字測試",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/typing-test/",
+  "u": "https://text.loonaautomation.com/zh-hant/typing-test/",
   "s": "Loona Text Tools",
   "d": "60 秒打字測試——您的 WPM 速度、準確率和 CPM,輸入時實時顯示。",
   "k": "typing test typing test 60 wpm cpm",
@@ -55,7 +55,7 @@
  },
  {
   "n": "大小寫轉換器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/case-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/case-converter/",
   "s": "Loona Text Tools",
   "d": "UPPERCASE、小寫、標題大小寫、句子大小寫等等——每次一鍵。",
   "k": "case converter case converter uppercase",
@@ -64,7 +64,7 @@
  },
  {
   "n": "刪除重複行",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/remove-duplicate-lines/",
+  "u": "https://text.loonaautomation.com/zh-hant/remove-duplicate-lines/",
   "s": "Loona Text Tools",
   "d": "刪除重複行,每個唯一行只保留一次,按順序排列。",
   "k": "remove duplicate lines remove duplicate lines ",
@@ -73,7 +73,7 @@
  },
  {
   "n": "行排序",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/sort-lines/",
+  "u": "https://text.loonaautomation.com/zh-hant/sort-lines/",
   "s": "Loona Text Tools",
   "d": "將行按 A-Z、Z-A、長度排序、倒序,或公平地隨機打亂。",
   "k": "sort lines sort lines a z z a",
@@ -82,7 +82,7 @@
  },
  {
   "n": "文字倒序",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/reverse-text/",
+  "u": "https://text.loonaautomation.com/zh-hant/reverse-text/",
   "s": "Loona Text Tools",
   "d": "將文字向後翻轉——全文、每個單詞、詞序或行序。",
   "k": "reverse text reverse text ",
@@ -91,7 +91,7 @@
  },
  {
   "n": "刪除多餘空格",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/remove-extra-spaces/",
+  "u": "https://text.loonaautomation.com/zh-hant/remove-extra-spaces/",
   "s": "Loona Text Tools",
   "d": "把雜亂複製文字中的雙空格、製表符和參差邊緣擠出去。",
   "k": "remove extra spaces remove extra spaces ",
@@ -100,7 +100,7 @@
  },
  {
   "n": "查詢與替換",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/find-and-replace/",
+  "u": "https://text.loonaautomation.com/zh-hant/find-and-replace/",
   "s": "Loona Text Tools",
   "d": "一次性把一個詞或短語的每個出現替換為另一個。",
   "k": "find and replace find and replace ",
@@ -109,7 +109,7 @@
  },
  {
   "n": "文字轉語音",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-to-speech/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-to-speech/",
   "s": "Loona Text Tools",
   "d": "聽任何文字被朗讀出來——英語、烏爾都語和更多語音,速度由您定。",
   "k": "text to speech text to speech ",
@@ -118,7 +118,7 @@
  },
  {
   "n": "語音轉文字",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/speech-to-text/",
+  "u": "https://text.loonaautomation.com/zh-hant/speech-to-text/",
   "s": "Loona Text Tools",
   "d": "說話,看著您的詞變成文字——英語、烏爾都語等等。",
   "k": "speech to text speech to text ",
@@ -127,7 +127,7 @@
  },
  {
   "n": "密碼生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/password-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/password-generator/",
   "s": "Loona Text Tools",
   "d": "帶您選擇的長度和符號的強大隨機密碼。",
   "k": "password generator password generator ",
@@ -136,7 +136,7 @@
  },
  {
   "n": "文字對比",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-compare/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-compare/",
   "s": "Loona Text Tools",
   "d": "並排放置兩段文字,確切檢視哪些行發生了變化。",
   "k": "text compare text compare ",
@@ -145,7 +145,7 @@
  },
  {
   "n": "詞頻統計",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/word-frequency/",
+  "u": "https://text.loonaautomation.com/zh-hant/word-frequency/",
   "s": "Loona Text Tools",
   "d": "您最常用的單詞排名表,帶有計數和百分比。",
   "k": "word frequency word frequency ",
@@ -154,7 +154,7 @@
  },
  {
   "n": "刪除換行符",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/remove-line-breaks/",
+  "u": "https://text.loonaautomation.com/zh-hant/remove-line-breaks/",
   "s": "Loona Text Tools",
   "d": "把 PDF 風格的斷行重新連線成乾淨、流暢的段落。",
   "k": "remove line breaks remove line breaks pdf",
@@ -163,7 +163,7 @@
  },
  {
   "n": "新增行號",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/add-line-numbers/",
+  "u": "https://text.loonaautomation.com/zh-hant/add-line-numbers/",
   "s": "Loona Text Tools",
   "d": "為每一行編號——選擇起始值、步長、填充和分隔符。",
   "k": "add line numbers add line numbers ",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Lorem Ipsum 生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/lorem-ipsum-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/lorem-ipsum-generator/",
   "s": "Loona Text Tools",
   "d": "按段落、句子或單詞生成的經典佔位文字,適用於您的設計。",
   "k": "lorem ipsum generator lorem ipsum generator ",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Slug 生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/slug-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/slug-generator/",
   "s": "Loona Text Tools",
   "d": "把任何標題變成乾淨、對搜尋友好的 URL slug,實時進行。",
   "k": "slug generator slug generator url slug",
@@ -190,7 +190,7 @@
  },
  {
   "n": "摩爾斯電碼翻譯器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/morse-code-translator/",
+  "u": "https://text.loonaautomation.com/zh-hant/morse-code-translator/",
   "s": "Loona Text Tools",
   "d": "文字轉摩爾斯電碼並還原——帶真實的嗶嗶播放。",
   "k": "morse code translator morse code translator ",
@@ -199,7 +199,7 @@
  },
  {
   "n": "文字轉二進位制",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-to-binary/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-to-binary/",
   "s": "Loona Text Tools",
   "d": "把文字看作計算機儲存的 0 和 1——並把二進位制解碼回來。",
   "k": "text to binary text to binary 0 1",
@@ -208,7 +208,7 @@
  },
  {
   "n": "羅馬烏爾都語轉烏爾都語",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/roman-urdu-to-urdu/",
+  "u": "https://text.loonaautomation.com/zh-hant/roman-urdu-to-urdu/",
   "s": "Loona Text Tools",
   "d": "把 'mera naam Ahmed hai' 立即變成正確的烏爾都文字。",
   "k": "roman urdu to urdu roman urdu to urdu mera naam ahmed hai",
@@ -217,7 +217,7 @@
  },
  {
   "n": "線上記事本",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/online-notepad/",
+  "u": "https://text.loonaautomation.com/zh-hant/online-notepad/",
   "s": "Loona Text Tools",
   "d": "會在瀏覽器中自動儲存的記事本——包括下載和列印。",
   "k": "online notepad online notepad ",
@@ -226,7 +226,7 @@
  },
  {
   "n": "花式文字生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/fancy-text-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/fancy-text-generator/",
   "s": "Loona Text Tools",
   "d": "粗體、花體、圓圈和倒置文字,適用於個人簡介和標題。",
   "k": "fancy text generator fancy text generator ",
@@ -235,7 +235,7 @@
  },
  {
   "n": "音節計數器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/syllable-counter/",
+  "u": "https://text.loonaautomation.com/zh-hant/syllable-counter/",
   "s": "Loona Text Tools",
   "d": "統計每個單詞和總體的音節——非常適合詩歌、俳句和歌詞。",
   "k": "syllable counter syllable counter ",
@@ -244,7 +244,7 @@
  },
  {
   "n": "段落計數器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/paragraph-counter/",
+  "u": "https://text.loonaautomation.com/zh-hant/paragraph-counter/",
   "s": "Loona Text Tools",
   "d": "統計段落,帶有每段的詞語和句子,並標出最長的一段。",
   "k": "paragraph counter paragraph counter ",
@@ -253,7 +253,7 @@
  },
  {
   "n": "閱讀水平計算器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/reading-level-calculator/",
+  "u": "https://text.loonaautomation.com/zh-hant/reading-level-calculator/",
   "s": "Loona Text Tools",
   "d": "Flesch 閱讀易度和等級分數,附通俗易懂的結論。",
   "k": "reading level calculator reading level calculator flesch",
@@ -262,7 +262,7 @@
  },
  {
   "n": "迴文檢查器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/palindrome-checker/",
+  "u": "https://text.loonaautomation.com/zh-hant/palindrome-checker/",
   "s": "Loona Text Tools",
   "d": "它正讀反讀一樣嗎?檢查單詞、數字和整句話。",
   "k": "palindrome checker palindrome checker ",
@@ -271,7 +271,7 @@
  },
  {
   "n": "變位詞生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/anagram-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/anagram-generator/",
   "s": "Loona Text Tools",
   "d": "查詢藏在您字母中的真正單詞,並即時測試變位詞對。",
   "k": "anagram generator anagram generator ",
@@ -280,7 +280,7 @@
  },
  {
   "n": "北約音標字母",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/nato-phonetic-alphabet-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/nato-phonetic-alphabet-converter/",
   "s": "Loona Text Tools",
   "d": "以飛行員的方式拼寫任何東西——Alfa、Bravo、Charlie——並把它解碼回來。",
   "k": "nato phonetic alphabet nato phonetic alphabet alfa bravo charlie",
@@ -289,7 +289,7 @@
  },
  {
   "n": "文字轉 ASCII 轉換器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-to-ascii-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-to-ascii-converter/",
   "s": "Loona Text Tools",
   "d": "每個字元背後的十進位制、十六進位制、八進位制和二進位制程式碼,以及還原。",
   "k": "text to ascii converter text to ascii converter ",
@@ -298,7 +298,7 @@
  },
  {
   "n": "文字轉十六進位制轉換器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-to-hex-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-to-hex-converter/",
   "s": "Loona Text Tools",
   "d": "文字轉十六進位制位元組並還原,為每種語言提供正確的 UTF-8。",
   "k": "text to hex converter text to hex converter utf 8",
@@ -307,7 +307,7 @@
  },
  {
   "n": "重複詞查詢器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/repeated-words-finder/",
+  "u": "https://text.loonaautomation.com/zh-hant/repeated-words-finder/",
   "s": "Loona Text Tools",
   "d": "您使用過不止一次的每個詞,按頻率排名——外加意外的雙詞。",
   "k": "repeated words finder repeated words finder ",
@@ -316,7 +316,7 @@
  },
  {
   "n": "隱形字元檢查器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/invisible-character-checker/",
+  "u": "https://text.loonaautomation.com/zh-hant/invisible-character-checker/",
   "s": "Loona Text Tools",
   "d": "揭示覆制文字中的零寬和隱藏字元,並刪除它們。",
   "k": "invisible character checker invisible character checker ",
@@ -325,7 +325,7 @@
  },
  {
   "n": "刪除標點符號",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/remove-punctuation/",
+  "u": "https://text.loonaautomation.com/zh-hant/remove-punctuation/",
   "s": "Loona Text Tools",
   "d": "一鍵從文字中剝離標點,保持詞語乾淨。",
   "k": "remove punctuation remove punctuation ",
@@ -334,7 +334,7 @@
  },
  {
   "n": "郵箱提取器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/email-extractor/",
+  "u": "https://text.loonaautomation.com/zh-hant/email-extractor/",
   "s": "Loona Text Tools",
   "d": "從任何文字中提取每個電子郵件地址——去重,每行一個。",
   "k": "email extractor email extractor ",
@@ -343,7 +343,7 @@
  },
  {
   "n": "圖片轉文字 (OCR)",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/image-to-text-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/image-to-text-converter/",
   "s": "Loona Text Tools",
   "d": "從照片、掃描件和截圖中提取可編輯的文字——瀏覽器中免費的 OCR。",
   "k": "image to text (ocr) image to text (ocr) ocr",
@@ -352,7 +352,7 @@
  },
  {
   "n": "圖片轉 Excel 轉換器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/image-to-excel-converter/",
+  "u": "https://text.loonaautomation.com/zh-hant/image-to-excel-converter/",
   "s": "Loona Text Tools",
   "d": "把表格的照片或截圖變成真正的 Excel 檔案——檢查並編輯單元格,然後下載。",
   "k": "image to excel converter image to excel converter excel",
@@ -361,7 +361,7 @@
  },
  {
   "n": "引用生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/citation-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/citation-generator/",
   "s": "Loona Text Tools",
   "d": "APA 第 7 版、MLA 第 9 版和芝加哥格式,適用於網站、書籍和期刊文章的引用。",
   "k": "citation generator citation generator apa 7 mla 9",
@@ -370,7 +370,7 @@
  },
  {
   "n": "EPUB 閱讀器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/epub-reader/",
+  "u": "https://text.loonaautomation.com/zh-hant/epub-reader/",
   "s": "Loona Text Tools",
   "d": "就在您的瀏覽器中開啟和閱讀 EPUB 電子書——章節列表、可調字號和深色模式。",
   "k": "epub reader epub reader epub",
@@ -379,7 +379,7 @@
  },
  {
   "n": "EPUB 轉文字",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/epub-to-text/",
+  "u": "https://text.loonaautomation.com/zh-hant/epub-to-text/",
   "s": "Loona Text Tools",
   "d": "把 EPUB 電子書變成乾淨的純文字檔案——章節按閱讀順序,標題保留。",
   "k": "epub to text epub to text epub",
@@ -388,7 +388,7 @@
  },
  {
   "n": "EPUB 轉 HTML",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/epub-to-html/",
+  "u": "https://text.loonaautomation.com/zh-hant/epub-to-html/",
   "s": "Loona Text Tools",
   "d": "把 EPUB 電子書變成一個自包含的 HTML 檔案,圖片嵌入其中。",
   "k": "epub to html epub to html epub html",
@@ -397,7 +397,7 @@
  },
  {
   "n": "CBZ 轉 PDF",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/cbz-to-pdf/",
+  "u": "https://text.loonaautomation.com/zh-hant/cbz-to-pdf/",
   "s": "Loona Text Tools",
   "d": "把漫畫壓縮包變成 PDF——頁面按自然順序,每頁一張圖片。",
   "k": "cbz to pdf cbz to pdf pdf",
@@ -406,7 +406,7 @@
  },
  {
   "n": "DOCX 轉 EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/docx-to-epub/",
+  "u": "https://text.loonaautomation.com/zh-hant/docx-to-epub/",
   "s": "Loona Text Tools",
   "d": "把 Word 文件變成 EPUB 電子書——標題變成章節。",
   "k": "docx to epub docx to epub word epub",
@@ -415,7 +415,7 @@
  },
  {
   "n": "EPUB 後設資料編輯器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/epub-metadata-editor/",
+  "u": "https://text.loonaautomation.com/zh-hant/epub-metadata-editor/",
   "s": "Loona Text Tools",
   "d": "編輯電子書的標題、作者、出版社和描述——章節不動。",
   "k": "epub metadata editor epub metadata editor ",
@@ -424,7 +424,7 @@
  },
  {
   "n": "文字/Markdown 轉 EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-to-epub/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-to-epub/",
   "s": "Loona Text Tools",
   "d": "把純文字或 Markdown 變成一本能在任何閱讀器中開啟的正確 EPUB 電子書。",
   "k": "text / markdown to epub text / markdown to epub markdown epub",
@@ -433,7 +433,7 @@
  },
  {
   "n": "隨機話題生成器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/random-topic-generator/",
+  "u": "https://text.loonaautomation.com/zh-hant/random-topic-generator/",
   "s": "Loona Text Tools",
   "d": "900個手寫的作文、演講、辯論、故事和兒童話題，分為9個類別，按學校級別篩選，無重複。",
   "k": "random topic generator random topic generator 900 9",
@@ -442,7 +442,7 @@
  },
  {
   "n": "表情符號選擇器",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/emoji-picker/",
+  "u": "https://text.loonaautomation.com/zh-hant/emoji-picker/",
   "s": "Loona Text Tools",
   "d": "瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製，支援膚色和複製匣。",
   "k": "emoji picker emoji picker 瀏覽或搜尋 1,900+ 個表情符號和符號 — 點擊即可複製,支援膚色和複製匣。",
@@ -451,7 +451,7 @@
  },
  {
   "n": "文字摘要工具",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/text-summarizer/",
+  "u": "https://text.loonaautomation.com/zh-hant/text-summarizer/",
   "s": "Loona Text Tools",
   "d": "貼上長篇文章、論文或報告，取得其最重要的原始句子。在瀏覽器中產生擷取式摘要——從不上傳，從不改寫。",
   "k": "文字摘要 總結文字 文章摘要 摘要產生器 線上摘要 縮短文章 論文摘要 自動摘要 文字總結工具 擷取摘要",
@@ -460,11 +460,11 @@
  },
  {
   "n": "Loona AI Detector",
-  "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/ai-detector/",
+  "u": "https://text.loonaautomation.com/zh-hant/ai-detector/",
   "s": "Loona Text Tools",
   "d": "查看 AI 檢測器測量的寫作訊號——句子節奏、詞彙多樣性、重複短語和可預測性。誠實的訊號,不是結論——而且您的文字從不離開瀏覽器。",
   "k": "ai檢測器 ai檢測 ai寫作檢測 chatgpt檢測 ai文字檢測 檢測ai生成內容",
   "p": 151,
   "c": "Tool"
  }
-,{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/wordle-helper/", "s": "Loona Text Tools", "d": "輸入你的 Wordle 猜測，把方塊點成灰色、黃色或綠色：查看每一個仍然符合的答案和最佳的下一次猜測，並採用正確的重複字母邏輯。", "k": "wordle helper wordle 助手 繁體中文 wordle 求解器 答案 方塊 灰色 黃色 綠色 重複字母 最佳下一次猜測 單詞遊戲", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/word-unscrambler/", "s": "Loona Text Tools", "d": "將打亂的字母從完整的 172,820 詞詞典中還原成真實單詞 — 按長度分組，附 Scrabble 分數，並支援空白牌。", "k": "單詞還原 打亂字母 字母重排 字謎 混合字母 用這些字母組成單詞 拼字遊戲單詞查找 用我的字母造詞 通配符 空白牌 word unscrambler unscramble letters anagram solver scrabble helper words with friends 幫助 單詞遊戲", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/scrabble-word-finder/", "s": "Loona Text Tools", "d": "從你的字母架中找到得分最高的打法，支援空白牌和棋盤模式 — 還有一個能平息任何爭議的單詞檢查器。", "k": "scrabble 單詞查找 拼字遊戲單詞 最高分打法 字母架 scrabble 單詞檢查器 有效的拼字遊戲單詞 空白牌 scrabble word finder scrabble cheat word checker words with friends 幫助 單詞遊戲", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://loonaautomation.github.io/loona-text-tools/zh-hant/crossword-solver/", "s": "Loona Text Tools", "d": "輸入你知道的字母，用 ? 表示不知道的方格 — 按模式搜尋 172,820 個單詞，完成整個網格。", "k": "縱橫字謎求解器 縱橫字謎幫助 按模式查找單詞 用已知字母找單詞 9個字母的單詞 縱橫字謎 填補空缺 缺失的字母 crossword solver crossword helper word pattern search 縱橫字謎單詞", "p": 155, "c": "Tool"}]
+,{"n": "Loona Wordle Helper", "u": "https://text.loonaautomation.com/zh-hant/wordle-helper/", "s": "Loona Text Tools", "d": "輸入你的 Wordle 猜測，把方塊點成灰色、黃色或綠色：查看每一個仍然符合的答案和最佳的下一次猜測，並採用正確的重複字母邏輯。", "k": "wordle helper wordle 助手 繁體中文 wordle 求解器 答案 方塊 灰色 黃色 綠色 重複字母 最佳下一次猜測 單詞遊戲", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://text.loonaautomation.com/zh-hant/word-unscrambler/", "s": "Loona Text Tools", "d": "將打亂的字母從完整的 172,820 詞詞典中還原成真實單詞 — 按長度分組，附 Scrabble 分數，並支援空白牌。", "k": "單詞還原 打亂字母 字母重排 字謎 混合字母 用這些字母組成單詞 拼字遊戲單詞查找 用我的字母造詞 通配符 空白牌 word unscrambler unscramble letters anagram solver scrabble helper words with friends 幫助 單詞遊戲", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://text.loonaautomation.com/zh-hant/scrabble-word-finder/", "s": "Loona Text Tools", "d": "從你的字母架中找到得分最高的打法，支援空白牌和棋盤模式 — 還有一個能平息任何爭議的單詞檢查器。", "k": "scrabble 單詞查找 拼字遊戲單詞 最高分打法 字母架 scrabble 單詞檢查器 有效的拼字遊戲單詞 空白牌 scrabble word finder scrabble cheat word checker words with friends 幫助 單詞遊戲", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://text.loonaautomation.com/zh-hant/crossword-solver/", "s": "Loona Text Tools", "d": "輸入你知道的字母，用 ? 表示不知道的方格 — 按模式搜尋 172,820 個單詞，完成整個網格。", "k": "縱橫字謎求解器 縱橫字謎幫助 按模式查找單詞 用已知字母找單詞 9個字母的單詞 縱橫字謎 填補空缺 缺失的字母 crossword solver crossword helper word pattern search 縱橫字謎單詞", "p": 155, "c": "Tool"}]

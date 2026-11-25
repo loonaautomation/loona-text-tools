@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Imej ke Excel Dalam talian Percuma",
   "short_name": "Pengonversi Imej ke Excel Dalam talian Percuma",
   "description": "Penukaran foto, pindaian atau tangkapan skrin jadual menjadi fail Excel (.xlsx) asli dengan OCR percuma yang berjalan 100% di pelayar anda. Edit jadual sebelum memuat turun - tanpa muat naik, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/image-to-excel-converter/",
+  "id": "/ms/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

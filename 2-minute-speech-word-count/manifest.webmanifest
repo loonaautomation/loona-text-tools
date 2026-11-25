@@ -2,7 +2,7 @@
   "name": "Loona 2-Minute Speech",
   "short_name": "2-Minute Speech",
   "description": "How many words in a 2-minute speech? 220–360 words (300 at conversational pace). Free live counter with speaking-time check.",
-  "id": "/loona-text-tools/2-minute-speech-word-count/",
+  "id": "/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

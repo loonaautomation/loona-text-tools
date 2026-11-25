@@ -2,7 +2,7 @@
   "name": "Loona 300 Kelimelik Deneme",
   "short_name": "300 Kelimelik Deneme",
   "description": "Ücretsiz 300 kelimelik deneme sayacı: 300 kelime hedefine canlı kelime sayısı, tek ve çift aralıklı sayfalar, paragraflar, okuma ve konuşma süresi.",
-  "id": "/loona-text-tools/tr/300-word-essay-word-counter/",
+  "id": "/tr/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

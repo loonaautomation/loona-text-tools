@@ -2,7 +2,7 @@
   "name": "Loona Ταξινόμηση Γραμμών Online",
   "short_name": "Ταξινόμηση Γραμμών Online",
   "description": "Ταξινομήστε γραμμές κειμένου αλφαβητικά (Α-Ω ή Ω-Α), κατά μήκος, σε αντίστροφη σειρά ή ανακατεμένες τυχαία. Δωρεάν online ταξινομητής γραμμών - χωρίς εγγραφή, άμεσο και ιδιωτικό.",
-  "id": "/loona-text-tools/el/sort-lines/",
+  "id": "/el/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

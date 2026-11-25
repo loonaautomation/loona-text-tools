@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "पूरे 172,820 शब्दों वाले ENABLE शब्दकोश से किसी भी अक्षर-समूह को असली अंग्रेज़ी शब्दों में बदलें - लंबाई के अनुसार समूहित परिणाम, Scrabble स्कोर, इनसे शुरू, इन पर समाप्त और इनमें शामिल फ़िल्टर, और खाली टाइल समर्थन के साथ। मुफ़्त, बिना साइन-अप, और आपके अक्षर कभी आपके ब्राउज़र से बाहर नहीं जाते।",
-  "id": "/loona-text-tools/hi/word-unscrambler/",
+  "id": "/hi/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

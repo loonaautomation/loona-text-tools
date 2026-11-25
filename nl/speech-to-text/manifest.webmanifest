@@ -2,7 +2,7 @@
   "name": "Loona Spraak naar tekst online gratis",
   "short_name": "Spraak naar tekst online gratis",
   "description": "Dicteer met je stem en zie hoe het tekst wordt - gratis online spraak naar tekst voor Engels, Urdu en meer talen. Geen registratie; werkt in Chrome en Edge.",
-  "id": "/loona-text-tools/nl/speech-to-text/",
+  "id": "/nl/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

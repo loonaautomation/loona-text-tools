@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Indsæt en hvilken som helst tekst og se de skrivesignaler, AI-detektorer måler - sætningsrytme, ordforrådsdiversitet, gentagne sætninger og forudsigelighed. Gratis AI-detektor: ingen tilmelding, ingen domme, og din tekst forlader aldrig din browser.",
-  "id": "/loona-text-tools/da/ai-detector/",
+  "id": "/da/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

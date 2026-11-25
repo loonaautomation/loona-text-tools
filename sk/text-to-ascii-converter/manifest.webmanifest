@@ -2,7 +2,7 @@
   "name": "Loona Prevodník textu na ASCII online zadarmo",
   "short_name": "Prevodník textu na ASCII online zadarmo",
   "description": "Preveďte text na kódy ASCII (desiatkové, hexadecimálne, osmičkové a binárne pre každý znak) a preveďte kódy ASCII späť na text. Zadarmo, okamžite, bez registrácie.",
-  "id": "/loona-text-tools/sk/text-to-ascii-converter/",
+  "id": "/sk/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

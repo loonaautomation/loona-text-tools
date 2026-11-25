@@ -2,7 +2,7 @@
   "name": "Loona 線上重複詞查詢器,免費",
   "short_name": "線上重複詞查詢器,免費",
   "description": "查詢文字中出現不止一次的每個單詞,按重複頻率排名。抓住意外的雙詞和過度使用的詞。免費,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/repeated-words-finder/",
+  "id": "/zh-hant/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

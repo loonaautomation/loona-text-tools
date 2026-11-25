@@ -2,7 +2,7 @@
   "name": "Loona Okuma Düzeyi Hesaplayıcı",
   "short_name": "Okuma Düzeyi Hesaplayıcı",
   "description": "Herhangi bir metni, standart formülleri kullanarak Flesch Okuma Kolaylığı ölçeği ve Flesch-Kincaid Sınıf Düzeyi ile puanlayın. Yazınızın okunmasının ne kadar kolay olduğunu görün. Ücretsiz.",
-  "id": "/loona-text-tools/tr/reading-level-calculator/",
+  "id": "/tr/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

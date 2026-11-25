@@ -2,7 +2,7 @@
   "name": "Loona Überflüssige Leerzeichen online entfernen",
   "short_name": "Überflüssige Leerzeichen online entfernen",
   "description": "Überflüssige Leerzeichen, Tabs und Leerzeilen aus Text mit einem Klick entfernen. Text aufräumen, der aus PDFs, E-Mails und Webseiten kopiert wurde. Kostenloser Online-Entferner – keine Registrierung nötig.",
-  "id": "/loona-text-tools/de/remove-extra-spaces/",
+  "id": "/de/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

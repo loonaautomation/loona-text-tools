@@ -2,7 +2,7 @@
   "name": "Loona ลบบรรทัดที่ซ้ำกันออนไลน์",
   "short_name": "ลบบรรทัดที่ซ้ำกันออนไลน์",
   "description": "ลบบรรทัดที่ซ้ำออกจากรายการหรือข้อความใด ๆ และเก็บเฉพาะบรรทัดที่ไม่ซ้ำ ตามลำดับเดิม ตัวลบบรรทัดซ้ำฟรี — ไม่ต้องสมัครสมาชิก ผลลัพธ์ทันที",
-  "id": "/loona-text-tools/th/remove-duplicate-lines/",
+  "id": "/th/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

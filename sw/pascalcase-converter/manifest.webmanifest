@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha PascalCase",
   "short_name": "Kibadilishaji cha PascalCase",
   "description": "Kibadilishaji cha bure cha PascalCase — bandika maandishi na upate PascalCase mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/pascalcase-converter/",
+  "id": "/sw/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

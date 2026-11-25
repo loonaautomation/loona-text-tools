@@ -2,7 +2,7 @@
   "name": "Loona ממיר טקסט לבינארי אונליין",
   "short_name": "ממיר טקסט לבינארי אונליין",
   "description": "המירו טקסט לקוד בינארי (0s ו-1s) ובינארי בחזרה לטקסט קריא, עם תמיכת Unicode מלאה. ממיר טקסט לבינארי חינמי - נהדר לסטודנטים למדעי המחשב.",
-  "id": "/loona-text-tools/he/text-to-binary/",
+  "id": "/he/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha camelCase",
   "short_name": "Kibadilishaji cha camelCase",
   "description": "Kibadilishaji cha bure cha camelCase — bandika maandishi na upate camelCase mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/camelcase-converter/",
+  "id": "/sw/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

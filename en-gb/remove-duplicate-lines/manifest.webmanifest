@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/remove-duplicate-lines/",
+  "id": "/en-gb/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

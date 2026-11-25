@@ -2,7 +2,7 @@
   "name": "Loona Sayfa Başına Kelime Hesaplayıcı",
   "short_name": "Sayfa Başına Kelime Hesaplayıcı",
   "description": "Ücretsiz sayfa başına kelime hesaplayıcı: sayfa sayısını ve sayfa başına kelimeyi almak için kelimeleri, yazı tipi boyutunu ve satır aralığını girin.",
-  "id": "/loona-text-tools/tr/words-per-page-calculator/",
+  "id": "/tr/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

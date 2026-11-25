@@ -2,7 +2,7 @@
   "name": "Loona ספירת מילים לרומן לפי ז'אנר",
   "short_name": "ספירת מילים לרומן לפי ז'אנר",
   "description": "ספירת מילים לרומן לפי ז'אנר: מבוגרים 70,000–120,000, צעירים 50,000–90,000, גיל ביניים 20,000–55,000. מונה חי חינמי עם יעדי ז'אנר.",
-  "id": "/loona-text-tools/he/novel-word-count-guide/",
+  "id": "/he/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube शीर्षक अक्षर गणक",
   "short_name": "YouTube शीर्षक अक्षर गणक",
   "description": "मुफ़्त YouTube शीर्षक अक्षर गणक गणक: 100-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/youtube-title-character-counter/",
+  "id": "/hi/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

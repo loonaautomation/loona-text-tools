@@ -2,7 +2,7 @@
   "name": "Loona Typtest online gratis",
   "short_name": "Typtest online gratis",
   "description": "Gratis typtest van 60 seconden: meet je typsnelheid in WPM, nauwkeurigheid en tekens per minuut met makkelijke, gemiddelde en moeilijke teksten. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-text-tools/nl/typing-test/",
+  "id": "/nl/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Palavras-passe Online",
   "short_name": "Gerador de Palavras-passe Online",
   "description": "Gere palavras-passe fortes e aleatórias com o comprimento e os símbolos que escolher, mais um medidor de força honesto. Gerador de palavras-passe gratuito - criado apenas no seu dispositivo.",
-  "id": "/loona-text-tools/pt/password-generator/",
+  "id": "/pt/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

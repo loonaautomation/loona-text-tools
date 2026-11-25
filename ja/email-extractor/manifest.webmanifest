@@ -2,7 +2,7 @@
   "name": "Loona メール抽出ツールオンラインフリー",
   "short_name": "メール抽出ツールオンラインフリー",
   "description": "あらゆるテキスト、文書、Web ページの内容からすべてのメールアドレスを抽出します — 重複を除き、一行ずつ一覧表示します。ブラウザーで100%動作します。無料、登録不要。",
-  "id": "/loona-text-tools/ja/email-extractor/",
+  "id": "/ja/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Aufsatz mit 1.500 Wörtern",
   "short_name": "Aufsatz mit 1.500 Wörtern",
   "description": "Kostenloser Zähler für Aufsätze mit 1.500 Wörtern: Live-Wortzählung zum 1.500-Wörter-Ziel, Seiten mit einfachem und doppeltem Zeilenabstand, Absätze, Lese- und Sprechzeit.",
-  "id": "/loona-text-tools/de/1500-word-essay-word-counter/",
+  "id": "/de/1500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

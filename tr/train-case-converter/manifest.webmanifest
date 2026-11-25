@@ -2,7 +2,7 @@
   "name": "Loona Train-Case Dönüştürücü",
   "short_name": "Train-Case Dönüştürücü",
   "description": "Ücretsiz Train-Case dönüştürücü — metni yapıştırın ve anında Train-Case elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/train-case-converter/",
+  "id": "/tr/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

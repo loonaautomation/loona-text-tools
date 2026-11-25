@@ -2,7 +2,7 @@
   "name": "Loona מחולל Slug אונליין",
   "short_name": "מחולל Slug אונליין",
   "description": "הפכו כל כותרת ל-slug נקי וידידותי ל-SEO לכתובת URL: אותיות קטנות, ללא רווחים, ללא תווים מיוחדים. מחולל slug חינמי באינטרנט עם תצוגה מקדימה מלאה של כתובת ה-URL - ללא הרשמה.",
-  "id": "/loona-text-tools/he/slug-generator/",
+  "id": "/he/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

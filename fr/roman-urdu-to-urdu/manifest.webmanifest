@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur d’ourdou romanisé vers l’écriture ourdou en ligne gratuit",
   "short_name": "Convertisseur d’ourdou romanisé vers l’écriture ourdou en ligne gratuit",
   "description": "Convertissez l’ourdou romanisé (lettres latines) en écriture ourdou correcte instantanément - ‘mera naam’ devient une vraie écriture ourdou. Convertisseur gratuit d’ourdou romanisé vers ourdou pour le Pakistan.",
-  "id": "/loona-text-tools/fr/roman-urdu-to-urdu/",
+  "id": "/fr/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

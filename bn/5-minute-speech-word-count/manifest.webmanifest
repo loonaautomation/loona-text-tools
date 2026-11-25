@@ -2,7 +2,7 @@
   "name": "Loona 5-মিনিটের বক্তৃতা",
   "short_name": "5-মিনিটের বক্তৃতা",
   "description": "5-মিনিটের বক্তৃতায় কত শব্দ? 550–900 শব্দ (কথোপকথনের গতিতে 750)। বলার-সময় যাচাইসহ বিনামূল্যের সরাসরি গণক।",
-  "id": "/loona-text-tools/bn/5-minute-speech-word-count/",
+  "id": "/bn/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

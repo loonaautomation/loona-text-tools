@@ -2,7 +2,7 @@
   "name": "Loona Kikaguzi cha Urefu wa Maelezo ya Meta",
   "short_name": "Kikaguzi cha Urefu wa Maelezo ya Meta",
   "description": "Kikaguzi cha bure cha urefu wa maelezo ya meta: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 160, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/meta-description-length-checker/",
+  "id": "/sw/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

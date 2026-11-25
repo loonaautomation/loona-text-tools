@@ -2,7 +2,7 @@
   "name": "Loona YouTube-Beschreibung-Zeichenzähler",
   "short_name": "YouTube-Beschreibung-Zeichenzähler",
   "description": "Kostenloser YouTube-Beschreibung-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 5.000-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/youtube-description-character-counter/",
+  "id": "/de/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

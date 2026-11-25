@@ -2,7 +2,7 @@
   "name": "Loona kebab-case pretvarač",
   "short_name": "kebab-case pretvarač",
   "description": "Besplatan kebab-case pretvarač — zalijepite tekst i trenutačno dobijte kebab-case. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/kebab-case-converter/",
+  "id": "/hr/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

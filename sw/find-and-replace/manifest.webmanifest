@@ -2,7 +2,7 @@
   "name": "Loona Tafuta na Badilisha Maandishi Mtandaoni",
   "short_name": "Tafuta na Badilisha Maandishi Mtandaoni",
   "description": "Tafuta neno au kifungu na ubadilishe kila tukio katika maandishi yako kwa wakati mmoja, ukiwa na chaguo za kuzingatia herufi kubwa na ndogo, neno kamili na muundo. Zana ya bure ya mtandaoni - bila kujisajili.",
-  "id": "/loona-text-tools/sw/find-and-replace/",
+  "id": "/sw/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

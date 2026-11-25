@@ -2,7 +2,7 @@
   "name": "Loona 句子大小寫轉換器",
   "short_name": "句子大小寫轉換器",
   "description": "免費的 句子大小寫 轉換器——貼上文字,立即得到 句子大小寫。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/sentence-case-converter/",
+  "id": "/zh-hant/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

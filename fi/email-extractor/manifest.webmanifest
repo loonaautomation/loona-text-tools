@@ -2,7 +2,7 @@
   "name": "Loona Sähköpostiosoitteiden poimija verkossa ilmaiseksi",
   "short_name": "Sähköpostiosoitteiden poimija verkossa ilmaiseksi",
   "description": "Poimi jokainen sähköpostiosoite mistä tahansa tekstistä, asiakirjasta tai verkkosivun sisällöstä – kaksoiskappaleet poistettuina ja lueteltuina yksi riville. Toimii 100 % selaimessasi. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/email-extractor/",
+  "id": "/fi/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

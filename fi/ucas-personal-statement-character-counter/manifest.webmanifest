@@ -2,7 +2,7 @@
   "name": "Loona UCAS-henkilökohtaisen esittelyn merkkilaskuri",
   "short_name": "UCAS-henkilökohtaisen esittelyn merkkilaskuri",
   "description": "Ilmainen UCAS-henkilökohtaisen esittelyn merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 4,000 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/ucas-personal-statement-character-counter/",
+  "id": "/fi/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dokezo la Mtandaoni Bure",
   "short_name": "Dokezo la Mtandaoni Bure",
   "description": "Daftari ya bure ya mtandaoni inayohifadhi kiotomatiki katika kivinjari chako unapoandika - upakuaji, uchapishaji na hesabu ya maneno vimejumuishwa. Bila kujisajili; madokezo yako hayatoki kamwe kwenye kifaa chako.",
-  "id": "/loona-text-tools/sw/online-notepad/",
+  "id": "/sw/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

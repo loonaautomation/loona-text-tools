@@ -2,7 +2,7 @@
   "name": "Loona टाइटल टैग लंबाई जांचक",
   "short_name": "टाइटल टैग लंबाई जांचक",
   "description": "मुफ़्त टाइटल टैग लंबाई जांचक गणक: 60-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/title-tag-length-checker/",
+  "id": "/hi/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fjern ekstra mellemrum online",
   "short_name": "Fjern ekstra mellemrum online",
   "description": "Fjern ekstra mellemrum, tabulatorer og tomme linjer fra tekst med ét klik. Ryd tekst kopieret fra PDF'er, e-mails og websider. Gratis online fjerner - ingen tilmelding nødvendig.",
-  "id": "/loona-text-tools/da/remove-extra-spaces/",
+  "id": "/da/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

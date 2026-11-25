@@ -2,7 +2,7 @@
   "name": "Loona Sentence Counter - Count Sentences, Paragraphs & Words",
   "short_name": "Sentence Counter - Count Sentences, Paragraphs & Words",
   "description": "Count sentences, paragraphs, words and characters in any text instantly, with average sentence length. Free sentence counter, no sign-up, works in your browser.",
-  "id": "/loona-text-tools/en-us/sentence-counter/",
+  "id": "/en-us/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

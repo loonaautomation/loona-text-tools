@@ -2,7 +2,7 @@
   "name": "Loona Sms-tekenteller",
   "short_name": "Sms-tekenteller",
   "description": "Gratis sms-tekenteller: GSM 7-bit versus Unicode-detectie, aantal segmenten en resterende tekens — live, in je browser.",
-  "id": "/loona-text-tools/nl/sms-character-counter/",
+  "id": "/nl/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

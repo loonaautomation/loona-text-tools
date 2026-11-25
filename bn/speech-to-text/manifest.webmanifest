@@ -2,7 +2,7 @@
   "name": "Loona বক্তৃতা থেকে টেক্সট অনলাইনে বিনামূল্যে",
   "short_name": "বক্তৃতা থেকে টেক্সট অনলাইনে বিনামূল্যে",
   "description": "আপনার কণ্ঠে বলুন আর তা টেক্সট হতে দেখুন - ইংরেজি, উর্দু ও আরও ভাষার জন্য বিনামূল্যের অনলাইন বক্তৃতা থেকে টেক্সট। কোনো সাইন-আপ নেই; Chrome ও Edge-এ কাজ করে।",
-  "id": "/loona-text-tools/bn/speech-to-text/",
+  "id": "/bn/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

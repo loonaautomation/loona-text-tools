@@ -2,7 +2,7 @@
   "name": "Loona Convertor text în EPUB gratuit",
   "short_name": "Convertor text în EPUB gratuit",
   "description": "Convertește gratuit text simplu sau Markdown într-o carte electronică EPUB validă, în browserul tău. Titlu și autor, capitole din titluri, se deschide în orice cititor EPUB. Fără încărcare, fără înregistrare.",
-  "id": "/loona-text-tools/ro/text-to-epub/",
+  "id": "/ro/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

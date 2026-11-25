@@ -2,7 +2,7 @@
   "name": "Loona Số từ bài viết blog",
   "short_name": "Số từ bài viết blog",
   "description": "Công cụ kiểm tra số từ bài viết blog: đếm trực tiếp với các dải độ dài cho tin tức (300–500), bài viết tiêu chuẩn (1,000–1,500) và hướng dẫn chuyên sâu (2,000+).",
-  "id": "/loona-text-tools/vi/blog-post-word-count/",
+  "id": "/vi/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

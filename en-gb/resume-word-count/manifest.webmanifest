@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/resume-word-count/",
+  "id": "/en-gb/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר camelCase",
   "short_name": "ממיר camelCase",
   "description": "ממיר camelCase בחינם — הדביקו טקסט וקבלו camelCase מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/camelcase-converter/",
+  "id": "/he/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

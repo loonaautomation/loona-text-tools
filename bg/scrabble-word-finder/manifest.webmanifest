@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Намирайте ходовете с най-много точки от буквите на стойката си и проверявайте дали дадена дума е валидна. Пълен речник ENABLE от 172,820 думи, поддръжка на празни плочки, 100% на вашето устройство. Безплатно, без регистрация.",
-  "id": "/loona-text-tools/bg/scrabble-word-finder/",
+  "id": "/bg/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

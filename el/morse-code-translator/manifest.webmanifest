@@ -2,7 +2,7 @@
   "name": "Loona Μεταφραστής Κώδικα Μορς Online",
   "short_name": "Μεταφραστής Κώδικα Μορς Online",
   "description": "Μεταφράστε κείμενο σε κώδικα Morse και κώδικα Morse πίσω σε κείμενο, και ακούστε το ως πραγματικά μπιπ. Δωρεάν online μεταφραστής κώδικα Morse - χωρίς εγγραφή, λειτουργεί στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-text-tools/el/morse-code-translator/",
+  "id": "/el/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

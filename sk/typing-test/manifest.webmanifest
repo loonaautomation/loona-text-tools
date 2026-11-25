@@ -2,7 +2,7 @@
   "name": "Loona Test písania online zadarmo",
   "short_name": "Test písania online zadarmo",
   "description": "Bezplatný 60-sekundový test písania: merajte svoju rýchlosť písania vo WPM, presnosť a znaky za minútu s ľahkými, strednými a ťažkými textami. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/typing-test/",
+  "id": "/sk/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

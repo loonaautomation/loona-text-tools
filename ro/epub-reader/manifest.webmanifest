@@ -2,7 +2,7 @@
   "name": "Loona Cititor EPUB online gratuit",
   "short_name": "Cititor EPUB online gratuit",
   "description": "Deschide și citește cărți electronice EPUB online gratuit, chiar în browserul tău. Listă de capitole, mărime a fontului reglabilă și mod întunecat. 100% privat - cartea ta electronică nu părăsește niciodată dispozitivul. Fără înregistrare.",
-  "id": "/loona-text-tools/ro/epub-reader/",
+  "id": "/ro/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

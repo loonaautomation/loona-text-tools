@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Teks ke Heksadesimal Dalam talian Percuma",
   "short_name": "Pengonversi Teks ke Heksadesimal Dalam talian Percuma",
   "description": "Penukaran teks ke heksadesimal dan heks kembali ke teks, menangani UTF-8 dengan benar untuk huruf beraksen, Urdu dan emoji. Pengonversi heks percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/text-to-hex-converter/",
+  "id": "/ms/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

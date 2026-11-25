@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač EPUB u HTML besplatno",
   "short_name": "Pretvarač EPUB u HTML besplatno",
   "description": "Pretvorite EPUB e-knjige u jednu samostalnu HTML datoteku besplatno, u svom pregledniku. Poglavlja redom, osnovna tipografija, male slike ugrađene. Bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/epub-to-html/",
+  "id": "/hr/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bekezdésszámláló online ingyen",
   "short_name": "Bekezdésszámláló online ingyen",
   "description": "Számolja a bekezdéseket bármely szövegben azonnal, mondatokkal és szavakkal bekezdésenként, valamint a leghosszabb és legrövidebb bekezdéssel. Ingyenes bekezdésszámláló, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/paragraph-counter/",
+  "id": "/hu/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

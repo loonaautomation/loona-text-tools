@@ -2,7 +2,7 @@
   "name": "Loona Word Frequency Counter - Your Most-Used Words, Ranked",
   "short_name": "Word Frequency Counter - Your Most-Used Words, Ranked",
   "description": "Count how often every word appears in your text and see a ranked frequency table with percentages. Free online word frequency counter - no sign-up, instant.",
-  "id": "/loona-text-tools/en-us/word-frequency/",
+  "id": "/en-us/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

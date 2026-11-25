@@ -2,7 +2,7 @@
   "name": "Loona Omzetter naar hoofdletters",
   "short_name": "Omzetter naar hoofdletters",
   "description": "Gratis omzetter naar HOOFDLETTERS — plak tekst en krijg direct HOOFDLETTERS. Live omzetting in je browser",
-  "id": "/loona-text-tools/nl/uppercase-converter/",
+  "id": "/nl/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

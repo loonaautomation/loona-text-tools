@@ -2,7 +2,7 @@
   "name": "Loona ממיר Train-Case",
   "short_name": "ממיר Train-Case",
   "description": "ממיר Train-Case בחינם — הדביקו טקסט וקבלו Train-Case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/train-case-converter/",
+  "id": "/he/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

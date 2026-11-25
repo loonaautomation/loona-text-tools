@@ -2,7 +2,7 @@
   "name": "Loona Szöveg megfordítása online",
   "short_name": "Szöveg megfordítása online",
   "description": "Fordítsa meg a szöveget négyféleképpen: az egész szöveget hátrafelé, minden szót hátrafelé, a szósorrendet felcserélve, vagy a sorsorrendet felcserélve. Ingyenes online szövegmegfordító - regisztráció nem szükséges.",
-  "id": "/loona-text-tools/hu/reverse-text/",
+  "id": "/hu/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brojač odlomaka na mreži besplatno",
   "short_name": "Brojač odlomaka na mreži besplatno",
   "description": "Brojite odlomke u bilo kojem tekstu trenutačno, s rečenicama i riječima po odlomku te najduljim i najkraćim odlomkom. Besplatan brojač odlomaka, bez registracije.",
-  "id": "/loona-text-tools/hr/paragraph-counter/",
+  "id": "/hr/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

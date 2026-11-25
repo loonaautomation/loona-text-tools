@@ -2,7 +2,7 @@
   "name": "Loona Zinnenteller online gratis",
   "short_name": "Zinnenteller online gratis",
   "description": "Tel zinnen, alinea's, woorden en tekens in elke tekst direct, met gemiddelde zinslengte. Gratis zinnenteller, geen registratie, werkt in je browser.",
-  "id": "/loona-text-tools/nl/sentence-counter/",
+  "id": "/nl/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

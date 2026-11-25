@@ -2,7 +2,7 @@
   "name": "Loona मेटा विवरण लंबाई जांचक",
   "short_name": "मेटा विवरण लंबाई जांचक",
   "description": "मुफ़्त मेटा विवरण लंबाई जांचक गणक: 160-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/meta-description-length-checker/",
+  "id": "/hi/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Broj riječi životopisa",
   "short_name": "Broj riječi životopisa",
   "description": "Provjerivač broja riječi životopisa: broj uživo s ciljem jedne stranice (400–600 riječi), procjena stranice i smjernice za skraćivanje.",
-  "id": "/loona-text-tools/hr/resume-word-count/",
+  "id": "/hr/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

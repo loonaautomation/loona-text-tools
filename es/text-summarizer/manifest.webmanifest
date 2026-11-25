@@ -2,7 +2,7 @@
   "name": "Loona Resumidor de textos online: resume textos largos al instante | Loona Text Tools",
   "short_name": "Resumidor de textos online: resume textos largos al instante | Loona Text Tools",
   "description": "Resume cualquier texto largo al instante: pega un artículo, un ensayo o un informe y recupera sus frases originales más importantes. Resumidor de textos online gratis, sin registro y 100 % privado.",
-  "id": "/loona-text-tools/es/text-summarizer/",
+  "id": "/es/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

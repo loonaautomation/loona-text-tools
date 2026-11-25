@@ -2,7 +2,7 @@
   "name": "Loona Süslü Metin Oluşturucu Çevrimiçi",
   "short_name": "Süslü Metin Oluşturucu Çevrimiçi",
   "description": "Düz metni stilli Unicode yazı tiplerine dönüştürün - kalın, script, fraktur, daireli, küçük büyük harfler ve daha fazlası - biyografiler, açıklamalar ve kullanıcı adları için. Ücretsiz süslü metin oluşturucu.",
-  "id": "/loona-text-tools/tr/fancy-text-generator/",
+  "id": "/tr/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

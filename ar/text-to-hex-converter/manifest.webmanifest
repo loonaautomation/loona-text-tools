@@ -2,7 +2,7 @@
   "name": "Loona محوّل النص إلى الست عشري عبر الإنترنت مجانًا",
   "short_name": "محوّل النص إلى الست عشري عبر الإنترنت مجانًا",
   "description": "تحويل النص إلى ست عشري والست عشري إلى نص، مع معالجة UTF-8 بشكل صحيح للأحرف المشكّلة والأردية والإيموجي. محوّل ست عشري مجاني، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/text-to-hex-converter/",
+  "id": "/ar/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

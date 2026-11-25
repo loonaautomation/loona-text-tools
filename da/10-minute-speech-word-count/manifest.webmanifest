@@ -2,7 +2,7 @@
   "name": "Loona 10-minutters tale",
   "short_name": "10-minutters tale",
   "description": "Hvor mange ord i en tale på 10 minutter? 1,100–1,800 ord (1,500 i samtaletempo). Gratis live tæller med taletidstjek.",
-  "id": "/loona-text-tools/da/10-minute-speech-word-count/",
+  "id": "/da/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

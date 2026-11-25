@@ -2,7 +2,7 @@
   "name": "Loona Công cụ kiểm tra Palindrome trực tuyến miễn phí",
   "short_name": "Công cụ kiểm tra Palindrome trực tuyến miễn phí",
   "description": "Kiểm tra xem bất kỳ từ, số hoặc câu nào có phải là palindrome không - đọc xuôi ngược như nhau. Hiển thị văn bản đã làm sạch và bản đảo ngược của nó. Miễn phí, không cần đăng ký.",
-  "id": "/loona-text-tools/vi/palindrome-checker/",
+  "id": "/vi/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

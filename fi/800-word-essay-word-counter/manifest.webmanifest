@@ -2,7 +2,7 @@
   "name": "Loona 800 sanan essee",
   "short_name": "800 sanan essee",
   "description": "Ilmainen 800 sanan esseelaskuri: reaaliaikainen sanalaskenta 800 sanan tavoitteeseen, sivut yksirivisellä ja kaksirivisellä välillä, kappaleet, luku- ja puheaika.",
-  "id": "/loona-text-tools/fi/800-word-essay-word-counter/",
+  "id": "/fi/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

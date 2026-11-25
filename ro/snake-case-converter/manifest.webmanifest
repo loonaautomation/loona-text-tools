@@ -2,7 +2,7 @@
   "name": "Loona Convertor snake_case",
   "short_name": "Convertor snake_case",
   "description": "Convertor snake_case gratuit — lipește text și obține snake_case instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/snake-case-converter/",
+  "id": "/ro/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

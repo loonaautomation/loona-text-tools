@@ -2,7 +2,7 @@
   "name": "Loona Reddit پوسٹ حروف گننے والا",
   "short_name": "Reddit پوسٹ حروف گننے والا",
   "description": "مفت Reddit پوسٹ حروف گننے والا کاؤنٹر: 40,000 حروف کی حد کے مقابل لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/reddit-post-character-counter/",
+  "id": "/ur/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

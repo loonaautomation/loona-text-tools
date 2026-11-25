@@ -2,7 +2,7 @@
   "name": "Loona DOCX to EPUB - Turn a Word Document into an Ebook",
   "short_name": "DOCX to EPUB - Turn a Word Document into an Ebook",
   "description": "Convert DOCX Word documents to EPUB ebooks free in your browser. Headings become chapters; bold, italic, lists and images convert. No upload, no sign-up.",
-  "id": "/loona-text-tools/en-us/docx-to-epub/",
+  "id": "/en-us/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

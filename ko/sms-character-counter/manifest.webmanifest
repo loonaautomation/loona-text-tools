@@ -2,7 +2,7 @@
   "name": "Loona SMS 문자 수 세기",
   "short_name": "SMS 문자 수 세기",
   "description": "무료 SMS 문자 카운터: GSM 7비트 대 Unicode 감지, 세그먼트 수, 남은 문자 — 실시간으로, 브라우저에서요.",
-  "id": "/loona-text-tools/ko/sms-character-counter/",
+  "id": "/ko/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

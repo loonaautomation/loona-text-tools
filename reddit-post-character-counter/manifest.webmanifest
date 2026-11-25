@@ -2,7 +2,7 @@
   "name": "Loona Reddit Post Character Counter",
   "short_name": "Reddit Post Character Counter",
   "description": "Free Reddit Post Character Counter counter: live character count against the 40,000-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/reddit-post-character-counter/",
+  "id": "/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

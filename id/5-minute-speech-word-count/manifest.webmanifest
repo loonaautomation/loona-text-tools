@@ -2,7 +2,7 @@
   "name": "Loona Pidato 5 Menit",
   "short_name": "Pidato 5 Menit",
   "description": "Berapa banyak kata dalam pidato 5 menit? 550–900 kata (750 pada kecepatan percakapan). Penghitung langsung gratis dengan pemeriksaan waktu berbicara.",
-  "id": "/loona-text-tools/id/5-minute-speech-word-count/",
+  "id": "/id/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

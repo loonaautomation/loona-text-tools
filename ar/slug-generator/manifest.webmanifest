@@ -2,7 +2,7 @@
   "name": "Loona مولّد السلَغ عبر الإنترنت",
   "short_name": "مولّد السلَغ عبر الإنترنت",
   "description": "حوّل أي عنوان إلى سلَغ URL نظيف وودود لـSEO: أحرف صغيرة، بلا مسافات، بلا أحرف خاصة. مولّد سلَغ مجاني عبر الإنترنت مع معاينة URL كاملة - بلا تسجيل.",
-  "id": "/loona-text-tools/ar/slug-generator/",
+  "id": "/ar/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

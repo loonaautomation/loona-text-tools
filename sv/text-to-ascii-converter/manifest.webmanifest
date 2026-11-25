@@ -2,7 +2,7 @@
   "name": "Loona Text till ASCII-omvandlare online gratis",
   "short_name": "Text till ASCII-omvandlare online gratis",
   "description": "Omvandla text till ASCII-koder (decimal, hex, oktal och binär för varje tecken) och omvandla ASCII-koder tillbaka till text. Gratis, omedelbart, ingen registrering.",
-  "id": "/loona-text-tools/sv/text-to-ascii-converter/",
+  "id": "/sv/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

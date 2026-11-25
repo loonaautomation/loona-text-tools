@@ -2,7 +2,7 @@
   "name": "Loona Comparare text online",
   "short_name": "Comparare text online",
   "description": "Compară două texte linie cu linie și vezi exact ce linii au fost adăugate, eliminate sau păstrate. Instrument online gratuit de diferențe între texte - fără înregistrare, privat în browserul tău.",
-  "id": "/loona-text-tools/ro/text-compare/",
+  "id": "/ro/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

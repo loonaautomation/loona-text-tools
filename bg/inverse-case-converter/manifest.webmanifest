@@ -2,7 +2,7 @@
   "name": "Loona Конвертор оБРАТЕН рЕГИСТЪР",
   "short_name": "Конвертор оБРАТЕН рЕГИСТЪР",
   "description": "Безплатен конвертор оБРАТЕН рЕГИСТЪР — поставете текст и получете оБРАТЕН рЕГИСТЪР мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
-  "id": "/loona-text-tools/bg/inverse-case-converter/",
+  "id": "/bg/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

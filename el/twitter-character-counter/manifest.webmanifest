@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Twitter / X",
   "short_name": "Μετρητής Χαρακτήρων Twitter / X",
   "description": "Δωρεάν μετρητής χαρακτήρων Twitter / X: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 280 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/twitter-character-counter/",
+  "id": "/el/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

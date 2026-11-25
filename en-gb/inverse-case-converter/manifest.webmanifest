@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/inverse-case-converter/",
+  "id": "/en-gb/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi văn bản sang Hex trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi văn bản sang Hex trực tuyến miễn phí",
   "description": "Chuyển đổi văn bản sang thập lục phân và hex trở lại thành văn bản, xử lý đúng UTF-8 cho chữ có dấu, tiếng Urdu và emoji. Công cụ chuyển đổi hex miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/text-to-hex-converter/",
+  "id": "/vi/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

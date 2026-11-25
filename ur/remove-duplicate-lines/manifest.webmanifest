@@ -2,7 +2,7 @@
   "name": "Loona دہری سطریں آن لائن ہٹائیں",
   "short_name": "دہری سطریں آن لائن ہٹائیں",
   "description": "کسی بھی فہرست یا متن سے دہری سطریں ہٹائیں اور صرف منفرد سطریں رکھیں، اصل ترتیب میں۔ مفت دہری سطر ہٹانے والا - کوئی سائن اپ نہیں، فوری نتائج۔",
-  "id": "/loona-text-tools/ur/remove-duplicate-lines/",
+  "id": "/ur/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

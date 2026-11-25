@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Βαθμού Flesch–Kincaid",
   "short_name": "Υπολογιστής Βαθμού Flesch–Kincaid",
   "description": "Δωρεάν υπολογιστής βαθμού Flesch–Kincaid: επικολλήστε κείμενο για το επίπεδο βαθμού και τη βαθμολογία ευκολίας ανάγνωσης, με λέξεις ανά πρόταση και συλλαβές ανά λέξη.",
-  "id": "/loona-text-tools/el/flesch-kincaid-grade-calculator/",
+  "id": "/el/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

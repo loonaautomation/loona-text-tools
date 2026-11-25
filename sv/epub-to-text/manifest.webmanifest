@@ -2,7 +2,7 @@
   "name": "Loona EPUB till text-omvandlare gratis",
   "short_name": "EPUB till text-omvandlare gratis",
   "description": "Omvandla EPUB-e-böcker till ren vanlig text (.txt) gratis, i din webbläsare. Kapitel i läsordning, rubriker bevarade, kapitellista och ordantal visas först. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-text-tools/sv/epub-to-text/",
+  "id": "/sv/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

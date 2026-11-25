@@ -2,7 +2,7 @@
   "name": "Loona 不可視文字チェッカー",
   "short_name": "不可視文字チェッカー",
   "description": "テキストに隠れた不可視文字 — ゼロ幅スペース、BOM、改行しないスペース、方向マーク — を明らかにし、ワンクリックで削除します。無料。",
-  "id": "/loona-text-tools/ja/invisible-character-checker/",
+  "id": "/ja/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

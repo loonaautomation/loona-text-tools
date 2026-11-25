@@ -2,7 +2,7 @@
   "name": "Loona flatcase-omzetter",
   "short_name": "flatcase-omzetter",
   "description": "Gratis flatcase-omzetter — plak tekst en krijg direct flatcase. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/flat-case-converter/",
+  "id": "/nl/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

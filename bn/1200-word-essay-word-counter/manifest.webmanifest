@@ -2,7 +2,7 @@
   "name": "Loona 1,200-শব্দের প্রবন্ধ",
   "short_name": "1,200-শব্দের প্রবন্ধ",
   "description": "বিনামূল্যে 1,200-শব্দের প্রবন্ধ গণক: 1,200-শব্দের লক্ষ্য পর্যন্ত সরাসরি শব্দ গণনা, single- ও double-spaced পৃষ্ঠা, অনুচ্ছেদ, পঠন ও বলার সময়।",
-  "id": "/loona-text-tools/bn/1200-word-essay-word-counter/",
+  "id": "/bn/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

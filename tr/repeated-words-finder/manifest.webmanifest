@@ -2,7 +2,7 @@
   "name": "Loona Yinelenen Kelime Bulucu Çevrimiçi Ücretsiz",
   "short_name": "Yinelenen Kelime Bulucu Çevrimiçi Ücretsiz",
   "description": "Metninizde birden çok kez geçen her kelimeyi, tekrarlanma sıklığına göre sıralanmış olarak bulun. Kazara ikilenmiş kelimeleri ve aşırı kullanılmış kelimeleri yakalayın. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/repeated-words-finder/",
+  "id": "/tr/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

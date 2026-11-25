@@ -2,7 +2,7 @@
   "name": "Loona 線上打字測試,免費",
   "short_name": "線上打字測試,免費",
   "description": "免費的 60 秒打字測試:用簡單、中等和困難文字測量您的打字速度(WPM)、準確率和每分鐘字元數。無需註冊,100% 在您的瀏覽器中執行。",
-  "id": "/loona-text-tools/zh-hant/typing-test/",
+  "id": "/zh-hant/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

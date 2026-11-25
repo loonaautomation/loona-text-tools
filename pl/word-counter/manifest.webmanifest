@@ -2,7 +2,7 @@
   "name": "Loona Darmowy licznik słów online",
   "short_name": "Darmowy licznik słów online",
   "description": "Licz słowa, znaki, zdania i akapity w dowolnym tekście natychmiast, wraz z czasem czytania i czasem mówienia. Darmowy licznik słów, bez rejestracji, działa offline.",
-  "id": "/loona-text-tools/pl/word-counter/",
+  "id": "/pl/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

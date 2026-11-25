@@ -2,7 +2,7 @@
   "name": "Loona Lesezeit-Rechner",
   "short_name": "Lesezeit-Rechner",
   "description": "Beliebigen Text einfügen und sehen, wie lange er bei langsamer, durchschnittlicher und schneller Geschwindigkeit zu lesen braucht – plus, wie viele Wörter Sie für eine Ziel-Lesezeit brauchen. Kostenlos, keine Registrierung.",
-  "id": "/loona-text-tools/de/reading-time-calculator/",
+  "id": "/de/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

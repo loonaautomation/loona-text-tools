@@ -2,7 +2,7 @@
   "name": "Loona Balik Teks Dalam talian",
   "short_name": "Balik Teks Dalam talian",
   "description": "Balik teks dengan empat cara: seluruh teks ke belakang, setiap perkataan ke belakang, turutan perkataan dibalik, atau turutan baris dibalik. Pembalik teks dalam talian percuma - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/reverse-text/",
+  "id": "/ms/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר path/case",
   "short_name": "ממיר path/case",
   "description": "ממיר path/case בחינם — הדביקו טקסט וקבלו path/case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/path-case-converter/",
+  "id": "/he/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

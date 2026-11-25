@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Herufi Kubwa",
   "short_name": "Kibadilishaji cha Herufi Kubwa",
   "description": "Kibadilishaji cha bure cha herufi kubwa — bandika maandishi na upate HERUFI KUBWA mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/uppercase-converter/",
+  "id": "/sw/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

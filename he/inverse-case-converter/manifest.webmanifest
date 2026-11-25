@@ -2,7 +2,7 @@
   "name": "Loona ממיר iNVERSE cASE",
   "short_name": "ממיר iNVERSE cASE",
   "description": "ממיר iNVERSE cASE בחינם — הדביקו טקסט וקבלו iNVERSE cASE מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/inverse-case-converter/",
+  "id": "/he/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

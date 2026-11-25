@@ -2,7 +2,7 @@
   "name": "Loona Online poznámkový blok zdarma",
   "short_name": "Online poznámkový blok zdarma",
   "description": "Bezplatný online poznámkový blok, který se při psaní automaticky ukládá ve vašem prohlížeči - včetně stahování, tisku a počítání slov. Bez registrace; vaše poznámky nikdy neopustí vaše zařízení.",
-  "id": "/loona-text-tools/cs/online-notepad/",
+  "id": "/cs/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

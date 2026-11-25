@@ -2,7 +2,7 @@
   "name": "Loona Промова на 5 хвилин",
   "short_name": "Промова на 5 хвилин",
   "description": "Скільки слів у промові на 5 хвилин? 550–900 слів (750 за розмовного темпу). Безкоштовний лічильник наживо з перевіркою часу виступу.",
-  "id": "/loona-text-tools/uk/5-minute-speech-word-count/",
+  "id": "/uk/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

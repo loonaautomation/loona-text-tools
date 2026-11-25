@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "c?oss?ord gibi bulmaca desenlerini 172.820 İngilizce kelimeye karşı çözün. Bildiğiniz harfleri yazın, eksik kareler için ? kullanın, mutlaka bulunması gereken harflere göre filtreleyin. Ücretsiz, kayıt yok, %100 cihazda.",
-  "id": "/loona-text-tools/tr/crossword-solver/",
+  "id": "/tr/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

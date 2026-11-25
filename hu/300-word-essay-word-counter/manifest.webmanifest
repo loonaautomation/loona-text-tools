@@ -2,7 +2,7 @@
   "name": "Loona 300 szavas esszé",
   "short_name": "300 szavas esszé",
   "description": "Ingyenes 300 szavas esszészámláló: élő szószám a 300 szavas célig, oldalak szimpla és dupla sorközzel, bekezdések, olvasási és beszédidő.",
-  "id": "/loona-text-tools/hu/300-word-essay-word-counter/",
+  "id": "/hu/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

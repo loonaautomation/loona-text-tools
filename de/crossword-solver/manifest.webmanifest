@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Lösen Sie Kreuzworträtsel-Muster wie c?oss?ord gegen 172.820 englische Wörter. Geben Sie die bekannten Buchstaben ein, nutzen Sie ? für fehlende Felder und filtern Sie nach Muss-Buchstaben. Kostenlos, ohne Anmeldung, 100 % auf Ihrem Gerät.",
-  "id": "/loona-text-tools/de/crossword-solver/",
+  "id": "/de/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

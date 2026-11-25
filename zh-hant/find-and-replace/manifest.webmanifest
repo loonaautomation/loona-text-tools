@@ -2,7 +2,7 @@
   "name": "Loona 線上查詢與替換文字",
   "short_name": "線上查詢與替換文字",
   "description": "查詢一個詞或短語,一次性替換文字中的每處出現,帶有區分大小寫、全詞和模式選項。免費線上工具——無需註冊。",
-  "id": "/loona-text-tools/zh-hant/find-and-replace/",
+  "id": "/zh-hant/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

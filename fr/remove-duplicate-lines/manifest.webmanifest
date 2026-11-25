@@ -2,7 +2,7 @@
   "name": "Loona Supprimer les lignes en double en ligne",
   "short_name": "Supprimer les lignes en double en ligne",
   "description": "Supprimez les lignes en double de n’importe quelle liste ou texte et ne gardez que les lignes uniques, dans l’ordre d’origine. Suppresseur de lignes en double gratuit - aucune inscription, résultats instantanés.",
-  "id": "/loona-text-tools/fr/remove-duplicate-lines/",
+  "id": "/fr/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

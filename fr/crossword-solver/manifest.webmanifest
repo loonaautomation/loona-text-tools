@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Résolvez des motifs de mots croisés comme c?oss?ord parmi 172,820 mots anglais. Tapez les lettres que vous connaissez, utilisez ? pour les cases manquantes et filtrez par lettres obligatoires. Gratuit, sans inscription et 100 % sur votre appareil.",
-  "id": "/loona-text-tools/fr/crossword-solver/",
+  "id": "/fr/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

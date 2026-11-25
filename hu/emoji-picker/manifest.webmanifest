@@ -2,7 +2,7 @@
   "name": "Loona Emojiválasztó online ingyen",
   "short_name": "Emojiválasztó online ingyen",
   "description": "Ingyenes emojiválasztó: böngéssz vagy keress 1,900+ emoji és szimbólum között, válassz bőrtónust, kattints egy emoji vagy egy teljes tálca másolásához. Regisztráció nélkül, 100%-ban a böngésződben fut.",
-  "id": "/loona-text-tools/hu/emoji-picker/",
+  "id": "/hu/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

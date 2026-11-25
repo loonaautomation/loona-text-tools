@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de mayúsculas y minúsculas en línea",
   "short_name": "Convertidor de mayúsculas y minúsculas en línea",
   "description": "Convierte texto a MAYÚSCULAS, minúsculas, Title Case, minúsculas tipo frase, Capitalizado o aLtErNaDo con un clic. Convertidor de mayúsculas en línea gratuito: sin registro.",
-  "id": "/loona-text-tools/es/case-converter/",
+  "id": "/es/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

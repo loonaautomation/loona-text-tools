@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Παραπομπών Online Δωρεάν",
   "short_name": "Γεννήτρια Παραπομπών Online Δωρεάν",
   "description": "Δημιουργήστε σωστά μορφοποιημένες παραπομπές για ιστότοπους, βιβλία και άρθρα περιοδικών σε APA 7η, MLA 9 και Chicago συγγραφέας-ημερομηνία - δωρεάν, αμέσως, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-text-tools/el/citation-generator/",
+  "id": "/el/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

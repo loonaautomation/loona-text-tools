@@ -2,7 +2,7 @@
   "name": "Loona Vyhľadávač opakovaných slov online zadarmo",
   "short_name": "Vyhľadávač opakovaných slov online zadarmo",
   "description": "Nájdite každé slovo, ktoré sa vo vašom texte vyskytuje viac než raz, hodnotené podľa toho, ako často sa opakuje. Zachyťte náhodné dvojité slová a nadužívané slová. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/repeated-words-finder/",
+  "id": "/sk/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

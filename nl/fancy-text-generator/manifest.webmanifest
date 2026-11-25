@@ -2,7 +2,7 @@
   "name": "Loona Siertekstgenerator online",
   "short_name": "Siertekstgenerator online",
   "description": "Zet platte tekst om naar stijlvolle Unicode-lettertypen - vet, handschrift, fraktur, omcirkeld, kleinkapitalen en meer - voor bios, bijschriften en gebruikersnamen. Gratis siertekstgenerator.",
-  "id": "/loona-text-tools/nl/fancy-text-generator/",
+  "id": "/nl/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

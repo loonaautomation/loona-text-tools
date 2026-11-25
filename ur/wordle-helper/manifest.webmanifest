@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "اپنے Wordle اندازے لکھیں اور ٹائلوں کو سرمئی، پیلی یا سبز ٹیپ کریں: یہ مفت مددگار آپ کو ہر وہ جواب دکھاتا ہے جو اب بھی فٹ بیٹھتا ہے اور بہترین اگلے اندازے۔ دہرے حروف کے لیے درست منطق، کوئی سائن اپ نہیں، اور سب کچھ آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-text-tools/ur/wordle-helper/",
+  "id": "/ur/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

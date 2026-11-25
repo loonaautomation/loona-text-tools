@@ -2,7 +2,7 @@
   "name": "Loona Anagramma-generátor és -ellenőrző online ingyen",
   "short_name": "Anagramma-generátor és -ellenőrző online ingyen",
   "description": "Találjon anagrammákat bármely szóra valódi angol szavakból, és ellenőrizze, hogy két szó vagy kifejezés egymás anagrammája-e. Ingyenes anagrammafejtő, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/anagram-generator/",
+  "id": "/hu/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

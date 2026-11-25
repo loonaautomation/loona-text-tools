@@ -2,7 +2,7 @@
   "name": "Loona Prevodník iNVERSE cASE",
   "short_name": "Prevodník iNVERSE cASE",
   "description": "Bezplatný prevodník iNVERSE cASE — vložte text a získajte iNVERSE cASE okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
-  "id": "/loona-text-tools/sk/inverse-case-converter/",
+  "id": "/sk/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

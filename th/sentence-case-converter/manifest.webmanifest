@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Sentence Case",
   "short_name": "ตัวแปลง Sentence Case",
   "description": "ตัวแปลงตัวพิมพ์แบบประโยคฟรี — วางข้อความแล้วได้ตัวพิมพ์แบบประโยคทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/sentence-case-converter/",
+  "id": "/th/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

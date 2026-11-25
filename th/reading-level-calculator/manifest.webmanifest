@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณระดับการอ่าน",
   "short_name": "ตัวคำนวณระดับการอ่าน",
   "description": "ให้คะแนนข้อความใด ๆ ด้วยมาตรา Flesch Reading Ease และระดับชั้น Flesch-Kincaid โดยใช้สูตรมาตรฐาน ดูว่างานเขียนของคุณอ่านง่ายแค่ไหน ฟรี",
-  "id": "/loona-text-tools/th/reading-level-calculator/",
+  "id": "/th/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

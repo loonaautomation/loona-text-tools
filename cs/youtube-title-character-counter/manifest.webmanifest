@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znaků titulku YouTube",
   "short_name": "Počítadlo znaků titulku YouTube",
   "description": "Bezplatné počítadlo znaků titulku YouTube: živý počet znaků vůči limitu 100 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
-  "id": "/loona-text-tools/cs/youtube-title-character-counter/",
+  "id": "/cs/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

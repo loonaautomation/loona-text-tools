@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka času čítania",
   "short_name": "Kalkulačka času čítania",
   "description": "Vložte akýkoľvek text a pozrite si, ako dlho trvá jeho čítanie pri pomalej, priemernej a rýchlej rýchlosti - plus koľko slov potrebujete na cieľový čas čítania. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/reading-time-calculator/",
+  "id": "/sk/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

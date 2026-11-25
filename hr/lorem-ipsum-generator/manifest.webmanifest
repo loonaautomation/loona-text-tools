@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum generator na mreži",
   "short_name": "Lorem Ipsum generator na mreži",
   "description": "Generirajte lorem ipsum zamjenski tekst po odlomku, rečenici ili riječi - spreman za lijepljenje u dizajne i rasporede. Besplatan lorem ipsum generator, registracija nije potrebna.",
-  "id": "/loona-text-tools/hr/lorem-ipsum-generator/",
+  "id": "/hr/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

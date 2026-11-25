@@ -2,7 +2,7 @@
   "name": "Loona पासवर्ड जनरेटर ऑनलाइन",
   "short_name": "पासवर्ड जनरेटर ऑनलाइन",
   "description": "अपनी पसंद की लंबाई और प्रतीकों के साथ मज़बूत, यादृच्छिक पासवर्ड जनरेट करें, साथ में ईमानदार मज़बूती मीटर। मुफ़्त पासवर्ड जनरेटर - केवल आपके डिवाइस पर बनाए गए।",
-  "id": "/loona-text-tools/hi/password-generator/",
+  "id": "/hi/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

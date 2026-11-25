@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Dalam talian",
   "short_name": "Pengonversi Huruf Dalam talian",
   "description": "Penukaran teks ke HURUF BESAR, huruf kecil, Huruf Tajuk, Huruf ayat, Huruf Besar atau huruf aLtErNaTiNg dalam satu klik. Pengonversi huruf dalam talian percuma - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/case-converter/",
+  "id": "/ms/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

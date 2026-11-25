@@ -2,7 +2,7 @@
   "name": "Loona Woordenaantal van roman per genre",
   "short_name": "Woordenaantal van roman per genre",
   "description": "Woordenaantal van roman per genre: volwassenen 70.000–120.000, YA 50.000–90.000, jeugd 20.000–55.000. Gratis live teller met genredoelen.",
-  "id": "/loona-text-tools/nl/novel-word-count-guide/",
+  "id": "/nl/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

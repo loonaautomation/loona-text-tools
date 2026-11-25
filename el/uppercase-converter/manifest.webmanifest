@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Κεφαλαίων",
   "short_name": "Μετατροπέας Κεφαλαίων",
   "description": "Δωρεάν μετατροπέας σε κεφαλαία — επικολλήστε κείμενο και πάρετε ΚΕΦΑΛΑΙΑ αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/uppercase-converter/",
+  "id": "/el/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

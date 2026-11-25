@@ -2,7 +2,7 @@
   "name": "Loona 在线段落计数器,免费",
   "short_name": "在线段落计数器,免费",
   "description": "即时统计任何文本的段落,带有每段的句子和词语以及最长和最短的段落。免费段落计数器,无需注册。",
-  "id": "/loona-text-tools/zh/paragraph-counter/",
+  "id": "/zh/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

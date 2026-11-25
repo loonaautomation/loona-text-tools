@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri dichiarazione personale UCAS",
   "short_name": "Contatore di caratteri dichiarazione personale UCAS",
   "description": "Contatore gratuito Contatore di caratteri dichiarazione personale UCAS: conteggio caratteri in tempo reale rispetto al limite di 4.000 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/ucas-personal-statement-character-counter/",
+  "id": "/it/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

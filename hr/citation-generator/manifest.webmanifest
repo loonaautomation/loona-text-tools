@@ -2,7 +2,7 @@
   "name": "Loona Generator citata na mreži besplatno",
   "short_name": "Generator citata na mreži besplatno",
   "description": "Generirajte ispravno oblikovane citate za web stranice, knjige i članke u časopisima u APA 7th, MLA 9 i Chicago autor-datum - besplatno, trenutačno, u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/citation-generator/",
+  "id": "/hr/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

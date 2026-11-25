@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за съобщения в Discord",
   "short_name": "Брояч на знаци за съобщения в Discord",
   "description": "Безплатен брояч на знаци за съобщения в Discord: броене на знаци на живо спрямо ограничението от 2,000 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/discord-message-character-counter/",
+  "id": "/bg/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

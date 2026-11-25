@@ -2,7 +2,7 @@
   "name": "Loona کیس کنورٹر آن لائن",
   "short_name": "کیس کنورٹر آن لائن",
   "description": "ایک کلک میں متن کو UPPERCASE، lowercase، Title Case، Sentence case، Capitalized یا aLtErNaTiNg کیس میں بدلیں۔ مفت آن لائن کیس کنورٹر - سائن اپ کی ضرورت نہیں۔",
-  "id": "/loona-text-tools/ur/case-converter/",
+  "id": "/ur/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ordtelling for CV",
   "short_name": "Ordtelling for CV",
   "description": "Sjekker for ordtelling for CV: direkte telling med målet for én side (400–600 ord), sideanslag og veiledning for trimming.",
-  "id": "/loona-text-tools/nb/resume-word-count/",
+  "id": "/nb/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

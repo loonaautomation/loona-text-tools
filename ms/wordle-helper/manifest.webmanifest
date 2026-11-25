@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Masukkan tekaan Wordle anda dan ketik jubin kepada kelabu, kuning atau hijau: pembantu percuma ini menunjukkan setiap jawapan yang masih padan dan tekaan seterusnya yang terbaik. Logik yang betul untuk huruf berganda, tanpa pendaftaran, dan semuanya berjalan dalam pelayar anda.",
-  "id": "/loona-text-tools/ms/wordle-helper/",
+  "id": "/ms/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מחולל אנגרמות ובודק אונליין בחינם",
   "short_name": "מחולל אנגרמות ובודק אונליין בחינם",
   "description": "מצאו אנגרמות של כל מילה ממילים אמיתיות באנגלית, ובדקו אם שתי מילים או ביטויים הם אנגרמות זה של זה. פותר אנגרמות חינמי, ללא הרשמה.",
-  "id": "/loona-text-tools/he/anagram-generator/",
+  "id": "/he/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

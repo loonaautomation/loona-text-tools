@@ -2,7 +2,7 @@
   "name": "Loona Uppsats på 500 ord",
   "short_name": "Uppsats på 500 ord",
   "description": "Gratis räknare för uppsats på 500 ord: levande ordantal mot målet på 500 ord, sidor med enkelt och dubbelt radavstånd, stycken, läs- och taltid.",
-  "id": "/loona-text-tools/sv/500-word-essay-word-counter/",
+  "id": "/sv/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

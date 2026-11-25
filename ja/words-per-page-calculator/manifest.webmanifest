@@ -2,7 +2,7 @@
   "name": "Loona 一ページあたり単語数計算ツール",
   "short_name": "一ページあたり単語数計算ツール",
   "description": "無料の一ページあたり単語数計算ツール：単語、フォントサイズ、行間を入力すると、ページ数と一ページあたりの単語数が得られます。",
-  "id": "/loona-text-tools/ja/words-per-page-calculator/",
+  "id": "/ja/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

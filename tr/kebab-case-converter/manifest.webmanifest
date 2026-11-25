@@ -2,7 +2,7 @@
   "name": "Loona kebab-case Dönüştürücü",
   "short_name": "kebab-case Dönüştürücü",
   "description": "Ücretsiz kebab-case dönüştürücü — metni yapıştırın ve anında kebab-case elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/kebab-case-converter/",
+  "id": "/tr/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

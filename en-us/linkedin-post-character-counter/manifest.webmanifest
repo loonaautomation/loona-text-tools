@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free LinkedIn Post Character Counter counter: live character count against the 3,000-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/en-us/linkedin-post-character-counter/",
+  "id": "/en-us/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

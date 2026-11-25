@@ -2,7 +2,7 @@
   "name": "Loona بے ترتیب موضوع جنریٹر آن لائن مفت",
   "short_name": "بے ترتیب موضوع جنریٹر آن لائن مفت",
   "description": "مضامین، تقاریر، مباحثوں، پیراگرافوں، پریزنٹیشنز اور کہانیوں کے لیے بے ترتیب موضوعات بنائیں - 900 ہاتھ سے لکھے موضوعات 9 زمروں میں، سطح کے حساب سے چھانے گئے۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/random-topic-generator/",
+  "id": "/ur/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

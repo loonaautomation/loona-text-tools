@@ -2,7 +2,7 @@
   "name": "Loona Train-Case কনভার্টার",
   "short_name": "Train-Case কনভার্টার",
   "description": "বিনামূল্যে Train-Case কনভার্টার — টেক্সট পেস্ট করুন আর তাৎক্ষণিক Train-Case পান। আপনার ব্রাউজারে সরাসরি রূপান্তর, কোনো সাইন-আপ নেই, কোনো আপলোড নেই।",
-  "id": "/loona-text-tools/bn/train-case-converter/",
+  "id": "/bn/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

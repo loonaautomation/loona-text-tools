@@ -2,7 +2,7 @@
   "name": "Loona Typing Test - Check Your Speed in Words Per Minute",
   "short_name": "Typing Test - Check Your Speed in Words Per Minute",
   "description": "Free 60-second typing test: measure your typing speed in WPM, accuracy and characters per minute with easy, medium and hard texts. No sign-up, runs 100% in your browser.",
-  "id": "/loona-text-tools/en-us/typing-test/",
+  "id": "/en-us/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

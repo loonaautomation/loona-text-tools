@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller online",
   "short_name": "Tekenteller online",
   "description": "Tel tekens met en zonder spaties en controleer limieten voor X (Twitter), sms, meta descriptions en meer. Gratis online tekenteller - geen registratie nodig.",
-  "id": "/loona-text-tools/nl/character-counter/",
+  "id": "/nl/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

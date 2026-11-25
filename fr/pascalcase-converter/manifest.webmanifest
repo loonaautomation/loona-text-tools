@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur PascalCase",
   "short_name": "Convertisseur PascalCase",
   "description": "Convertisseur PascalCase gratuit — collez du texte et obtenez PascalCase instantanément. Conversion en direct dans votre navigateur, sans inscription, sans téléchargement.",
-  "id": "/loona-text-tools/fr/pascalcase-converter/",
+  "id": "/fr/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

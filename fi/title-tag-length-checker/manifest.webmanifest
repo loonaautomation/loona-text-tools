@@ -2,7 +2,7 @@
   "name": "Loona Otsikkotunnisteen pituuden tarkistin",
   "short_name": "Otsikkotunnisteen pituuden tarkistin",
   "description": "Ilmainen otsikkotunnisteen pituuden tarkistin laskuri: reaaliaikainen merkkilaskenta 60 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/title-tag-length-checker/",
+  "id": "/fi/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

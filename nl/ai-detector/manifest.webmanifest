@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Plak een willekeurige tekst en zie de schrijfsignalen die AI-detectoren meten - zinsritme, woordenschatdiversiteit, herhaalde zinnen en voorspelbaarheid. Gratis AI-detector: geen aanmelding, geen oordelen, en je tekst verlaat nooit je browser.",
-  "id": "/loona-text-tools/nl/ai-detector/",
+  "id": "/nl/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

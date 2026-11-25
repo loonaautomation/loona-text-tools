@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Περιγραφής YouTube",
   "short_name": "Μετρητής Χαρακτήρων Περιγραφής YouTube",
   "description": "Δωρεάν μετρητής χαρακτήρων περιγραφής YouTube: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 5,000 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/youtube-description-character-counter/",
+  "id": "/el/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

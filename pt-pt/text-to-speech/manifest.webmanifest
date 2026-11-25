@@ -2,7 +2,7 @@
   "name": "Loona Texto para Voz Online Grátis",
   "short_name": "Texto para Voz Online Grátis",
   "description": "Transforme qualquer texto em áudio falado natural grátis online - vozes em inglês e urdu, velocidade e tom ajustáveis. Sem registo, nada carregado, funciona no seu navegador.",
-  "id": "/loona-text-tools/pt-pt/text-to-speech/",
+  "id": "/pt-pt/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

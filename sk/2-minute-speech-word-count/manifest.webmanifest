@@ -2,7 +2,7 @@
   "name": "Loona Prejav na 2 minúty",
   "short_name": "Prejav na 2 minúty",
   "description": "Koľko slov v 2-minútovom prejave? 220–360 slov (300 pri konverzačnom tempe). Bezplatné počítadlo naživo s kontrolou času hovorenia.",
-  "id": "/loona-text-tools/sk/2-minute-speech-word-count/",
+  "id": "/sk/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

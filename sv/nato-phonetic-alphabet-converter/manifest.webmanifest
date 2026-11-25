@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare för NATO:s fonetiska alfabet",
   "short_name": "Omvandlare för NATO:s fonetiska alfabet",
   "description": "Omvandla vilken text som helst till NATO:s fonetiska alfabet (Alfa, Bravo, Charlie) och avkoda NATO-stavning tillbaka till vanlig text. Gratis, omedelbart, ingen registrering.",
-  "id": "/loona-text-tools/sv/nato-phonetic-alphabet-converter/",
+  "id": "/sv/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

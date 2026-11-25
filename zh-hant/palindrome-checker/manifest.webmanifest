@@ -2,7 +2,7 @@
   "name": "Loona 線上迴文檢查器,免費",
   "short_name": "線上迴文檢查器,免費",
   "description": "檢查任何單詞、數字或句子是否為迴文——正讀反讀都一樣。顯示清理後的文字及其倒序。免費,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/palindrome-checker/",
+  "id": "/zh-hant/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

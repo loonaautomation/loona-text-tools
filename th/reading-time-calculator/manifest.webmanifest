@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณเวลาอ่าน",
   "short_name": "ตัวคำนวณเวลาอ่าน",
   "description": "วางข้อความใด ๆ แล้วดูว่าใช้เวลาอ่านนานแค่ไหนที่ความเร็วช้า ปานกลาง และเร็ว — บวกจำนวนคำที่คุณต้องการสำหรับเวลาอ่านที่ตั้งเป้า ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/reading-time-calculator/",
+  "id": "/th/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

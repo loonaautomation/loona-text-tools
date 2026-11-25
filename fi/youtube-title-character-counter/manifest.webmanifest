@@ -2,7 +2,7 @@
   "name": "Loona YouTube-otsikoiden merkkilaskuri",
   "short_name": "YouTube-otsikoiden merkkilaskuri",
   "description": "Ilmainen YouTube-otsikoiden merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 100 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/youtube-title-character-counter/",
+  "id": "/fi/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

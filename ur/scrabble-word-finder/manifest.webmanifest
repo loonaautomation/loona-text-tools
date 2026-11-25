@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "اپنے حرف ریک سے سب سے زیادہ اسکور والی چالیں تلاش کریں اور جانچیں کہ کوئی لفظ درست ہے یا نہیں۔ مکمل 172,820 الفاظ کی ENABLE لغت، خالی ٹائلز کی سہولت، 100% آپ کے آلے پر۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/scrabble-word-finder/",
+  "id": "/ur/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

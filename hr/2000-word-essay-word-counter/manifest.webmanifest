@@ -2,7 +2,7 @@
   "name": "Loona Esej od 2,000 riječi",
   "short_name": "Esej od 2,000 riječi",
   "description": "Besplatan brojač eseja od 2,000 riječi: broj riječi uživo do cilja od 2,000 riječi, stranice s jednostrukim i dvostrukim proredom, odlomci, vrijeme čitanja i govora.",
-  "id": "/loona-text-tools/hr/2000-word-essay-word-counter/",
+  "id": "/hr/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

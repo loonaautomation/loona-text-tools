@@ -2,7 +2,7 @@
   "name": "Loona Text / Markdown to EPUB - Make Your Own EPUB Ebook",
   "short_name": "Text / Markdown to EPUB - Make Your Own EPUB Ebook",
   "description": "Convert plain text or Markdown into a valid EPUB ebook free, in your browser. Title and author, chapters from headings, opens in any EPUB reader. No upload, no sign-up.",
-  "id": "/loona-text-tools/en-us/text-to-epub/",
+  "id": "/en-us/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

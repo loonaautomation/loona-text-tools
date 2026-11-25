@@ -2,7 +2,7 @@
   "name": "Loona Buscador de palabras repetidas en línea gratis",
   "short_name": "Buscador de palabras repetidas en línea gratis",
   "description": "Encuentra cada palabra que aparece más de una vez en tu texto, clasificada por cuántas veces se repite. Detecta palabras dobles accidentales y palabras sobreusadas. Gratis, sin registro.",
-  "id": "/loona-text-tools/es/repeated-words-finder/",
+  "id": "/es/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

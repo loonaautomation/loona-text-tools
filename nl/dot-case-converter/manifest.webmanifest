@@ -2,7 +2,7 @@
   "name": "Loona dot.case-omzetter",
   "short_name": "dot.case-omzetter",
   "description": "Gratis dot.case-omzetter — plak tekst en krijg direct dot.case. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/dot-case-converter/",
+  "id": "/nl/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

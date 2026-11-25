@@ -2,7 +2,7 @@
   "name": "Loona خطاب من 5 دقائق",
   "short_name": "خطاب من 5 دقائق",
   "description": "كم كلمة في خطاب من 5 دقائق؟ 550–900 كلمة (750 بإيقاع المحادثة). عدّاد مباشر مجاني مع فحص وقت التحدث.",
-  "id": "/loona-text-tools/ar/5-minute-speech-word-count/",
+  "id": "/ar/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

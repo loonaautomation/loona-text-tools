@@ -2,7 +2,7 @@
   "name": "Loona Blogbejegyzés szószáma",
   "short_name": "Blogbejegyzés szószáma",
   "description": "Blogbejegyzés szószám-ellenőrző: élő számlálás a hosszsávokkal hírekhez (300–500), szokásos bejegyzésekhez (1,000–1,500) és mélyreható útmutatókhoz (2,000+).",
-  "id": "/loona-text-tools/hu/blog-post-word-count/",
+  "id": "/hu/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Discord বার্তার অক্ষর গণক",
   "short_name": "Discord বার্তার অক্ষর গণক",
   "description": "বিনামূল্যে Discord বার্তার অক্ষর গণক গণক: 2,000-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/discord-message-character-counter/",
+  "id": "/bn/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

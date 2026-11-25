@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Panjang Tag Tajuk",
   "short_name": "Penyemak Panjang Tag Tajuk",
   "description": "Pengira penyemak panjang tag tajuk percuma: hitungan aksara langsung terhadap had 60 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/title-tag-length-checker/",
+  "id": "/ms/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

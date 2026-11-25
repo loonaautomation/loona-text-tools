@@ -2,7 +2,7 @@
   "name": "Loona Sprawdzanie długości tagu tytułu",
   "short_name": "Sprawdzanie długości tagu tytułu",
   "description": "Darmowe sprawdzanie długości tagu tytułu: liczenie znaków na żywo względem limitu 60 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/title-tag-length-checker/",
+  "id": "/pl/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

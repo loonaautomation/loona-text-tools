@@ -2,7 +2,7 @@
   "name": "Loona Adgangskodegenerator online",
   "short_name": "Adgangskodegenerator online",
   "description": "Generér stærke, tilfældige adgangskoder med den længde og de symboler, du vælger, plus en ærlig styrkemåler. Gratis adgangskodegenerator - oprettet kun på din enhed.",
-  "id": "/loona-text-tools/da/password-generator/",
+  "id": "/da/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

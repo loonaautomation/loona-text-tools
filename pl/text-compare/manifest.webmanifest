@@ -2,7 +2,7 @@
   "name": "Loona Porównywanie tekstu online",
   "short_name": "Porównywanie tekstu online",
   "description": "Porównaj dwa teksty wiersz po wierszu i zobacz dokładnie, które wiersze zostały dodane, usunięte lub zachowane. Darmowe narzędzie online do porównywania tekstów - bez rejestracji, prywatnie w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/text-compare/",
+  "id": "/pl/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

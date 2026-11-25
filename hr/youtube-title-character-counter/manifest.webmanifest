@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za YouTube naslove",
   "short_name": "Brojač znakova za YouTube naslove",
   "description": "Besplatan brojač znakova za YouTube naslove: broj znakova uživo u odnosu na ograničenje od 100 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/youtube-title-character-counter/",
+  "id": "/hr/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

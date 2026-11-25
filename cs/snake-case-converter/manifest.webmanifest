@@ -2,7 +2,7 @@
   "name": "Loona Převodník snake_case",
   "short_name": "Převodník snake_case",
   "description": "Bezplatný převodník snake_case — vložte text a okamžitě získejte snake_case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/snake-case-converter/",
+  "id": "/cs/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

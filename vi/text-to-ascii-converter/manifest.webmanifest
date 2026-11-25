@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi văn bản sang ASCII trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi văn bản sang ASCII trực tuyến miễn phí",
   "description": "Chuyển đổi văn bản thành mã ASCII (thập phân, hex, bát phân và nhị phân cho mỗi ký tự) và chuyển đổi mã ASCII trở lại thành văn bản. Miễn phí, tức thì, không đăng ký.",
-  "id": "/loona-text-tools/vi/text-to-ascii-converter/",
+  "id": "/vi/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

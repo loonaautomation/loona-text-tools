@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "글자 랙에서 가장 높은 점수를 받는 플레이를 찾고, 어떤 단어든 유효한지 확인하세요. 172,820단어의 ENABLE 사전 전체, 빈 타일 지원, 100% 기기에서 실행. 무료, 가입 불필요.",
-  "id": "/loona-text-tools/ko/scrabble-word-finder/",
+  "id": "/ko/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

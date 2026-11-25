@@ -2,7 +2,7 @@
   "name": "Loona Izdvajač e-pošte na mreži besplatno",
   "short_name": "Izdvajač e-pošte na mreži besplatno",
   "description": "Izdvojite svaku adresu e-pošte iz bilo kojeg teksta, dokumenta ili sadržaja web stranice - bez duplikata i navedene po jedna u svakom retku. Radi 100% u vašem pregledniku. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/email-extractor/",
+  "id": "/hr/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

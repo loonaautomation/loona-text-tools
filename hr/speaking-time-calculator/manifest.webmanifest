@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator vremena govora",
   "short_name": "Kalkulator vremena govora",
   "description": "Zalijepite svoj govor ili scenarij i pogledajte koliko traje izvođenje sporim, razgovornim i brzim tempom - plus koliko riječi stane u ciljano vrijeme. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/speaking-time-calculator/",
+  "id": "/hr/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

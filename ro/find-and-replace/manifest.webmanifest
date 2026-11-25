@@ -2,7 +2,7 @@
   "name": "Loona Căutare și înlocuire text online",
   "short_name": "Căutare și înlocuire text online",
   "description": "Găsește un cuvânt sau o expresie și înlocuiește fiecare apariție din textul tău dintr-o dată, cu opțiuni sensibile la majuscule/minuscule, de cuvânt întreg și de model. Instrument online gratuit - fără înregistrare.",
-  "id": "/loona-text-tools/ro/find-and-replace/",
+  "id": "/ro/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

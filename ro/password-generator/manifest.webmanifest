@@ -2,7 +2,7 @@
   "name": "Loona Generator de parole online",
   "short_name": "Generator de parole online",
   "description": "Generează parole puternice și aleatorii, cu lungimea și simbolurile alese de tine, plus un indicator onest al puterii. Generator de parole gratuit - create doar pe dispozitivul tău.",
-  "id": "/loona-text-tools/ro/password-generator/",
+  "id": "/ro/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

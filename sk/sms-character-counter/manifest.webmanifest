@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov SMS",
   "short_name": "Počítadlo znakov SMS",
   "description": "Bezplatné počítadlo znakov SMS: detekcia GSM 7-bit vs Unicode, počet segmentov a zostávajúce znaky — naživo, vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/sms-character-counter/",
+  "id": "/sk/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Resolva padrões de palavras cruzadas como c?oss?ord contra 172,820 palavras em inglês. Escreva as letras que conhece, use ? para as casas em falta e filtre pelas letras que deve conter. Grátis, sem registo e 100% no seu dispositivo.",
-  "id": "/loona-text-tools/pt-pt/crossword-solver/",
+  "id": "/pt-pt/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

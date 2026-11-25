@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за публикации в LinkedIn",
   "short_name": "Брояч на знаци за публикации в LinkedIn",
   "description": "Безплатен брояч на знаци за публикации в LinkedIn: броене на знаци на живо спрямо ограничението от 3,000 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/linkedin-post-character-counter/",
+  "id": "/bg/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

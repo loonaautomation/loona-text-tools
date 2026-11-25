@@ -2,7 +2,7 @@
   "name": "Loona Převodník dot.case",
   "short_name": "Převodník dot.case",
   "description": "Bezplatný převodník dot.case — vložte text a okamžitě získejte dot.case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/dot-case-converter/",
+  "id": "/cs/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

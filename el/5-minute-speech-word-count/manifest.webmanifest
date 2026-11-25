@@ -2,7 +2,7 @@
   "name": "Loona Ομιλία 5 Λεπτών",
   "short_name": "Ομιλία 5 Λεπτών",
   "description": "Πόσες λέξεις σε μια ομιλία 5 λεπτών; 550–900 λέξεις (750 με συνομιλιακό ρυθμό). Δωρεάν ζωντανός μετρητής με έλεγχο χρόνου ομιλίας.",
-  "id": "/loona-text-tools/el/5-minute-speech-word-count/",
+  "id": "/el/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

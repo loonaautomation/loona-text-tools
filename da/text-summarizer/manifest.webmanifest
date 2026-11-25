@@ -2,7 +2,7 @@
   "name": "Loona Tekstopsummering online – Opsummer lang tekst med det samme | Loona Text Tools",
   "short_name": "Tekstopsummering online – Opsummer lang tekst med det samme | Loona Text Tools",
   "description": "Opsummer enhver lang tekst med det samme: Indsæt en artikel, et essay eller en rapport og få dens vigtigste originalsætninger tilbage. Gratis tekstopsummering online – ingen tilmelding, 100 % privat.",
-  "id": "/loona-text-tools/da/text-summarizer/",
+  "id": "/da/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

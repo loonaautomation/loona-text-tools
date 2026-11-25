@@ -2,7 +2,7 @@
   "name": "Loona Szövegösszefoglaló online – Foglalj össze hosszú szöveget azonnal | Loona Text Tools",
   "short_name": "Szövegösszefoglaló online – Foglalj össze hosszú szöveget azonnal | Loona Text Tools",
   "description": "Foglalj össze bármilyen hosszú szöveget azonnal: illessz be egy cikket, esszét vagy jelentést, és visszakapod a legfontosabb eredeti mondatait. Ingyenes online szövegösszefoglaló – regisztráció nélkül, 100%-ban privát.",
-  "id": "/loona-text-tools/hu/text-summarizer/",
+  "id": "/hu/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

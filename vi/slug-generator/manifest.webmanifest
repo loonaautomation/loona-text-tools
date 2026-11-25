@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo Slug trực tuyến",
   "short_name": "Trình tạo Slug trực tuyến",
   "description": "Biến bất kỳ tiêu đề nào thành một slug URL sạch, thân thiện với SEO: chữ thường, không khoảng trắng, không ký tự đặc biệt. Trình tạo slug trực tuyến miễn phí với xem trước URL đầy đủ - không đăng ký.",
-  "id": "/loona-text-tools/vi/slug-generator/",
+  "id": "/vi/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

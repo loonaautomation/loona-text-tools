@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "أدخل تخميناتك في Wordle والمس المربعات بالرمادي أو الأصفر أو الأخضر: يُظهر لك هذا المساعد المجاني كل إجابة ما زالت ممكنة وأفضل التخمينات التالية. منطق صحيح للحروف المكررة، دون تسجيل، وكل شيء يعمل في متصفحك.",
-  "id": "/loona-text-tools/ar/wordle-helper/",
+  "id": "/ar/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

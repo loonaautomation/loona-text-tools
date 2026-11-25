@@ -2,7 +2,7 @@
   "name": "Loona สุนทรพจน์ 10 นาที",
   "short_name": "สุนทรพจน์ 10 นาที",
   "description": "สุนทรพจน์ 10 นาทีมีกี่คำ? 1,100–1,800 คำ (1,500 คำที่จังหวะสนทนา) ตัวนับแบบสดฟรีพร้อมการตรวจสอบเวลาพูด",
-  "id": "/loona-text-tools/th/10-minute-speech-word-count/",
+  "id": "/th/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

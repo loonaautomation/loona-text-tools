@@ -2,7 +2,7 @@
   "name": "Loona Alıntı Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Alıntı Oluşturucu Çevrimiçi Ücretsiz",
   "description": "Web siteleri, kitaplar ve dergi makaleleri için APA 7., MLA 9 ve Chicago yazar-tarih biçiminde doğru biçimlendirilmiş alıntılar oluşturun - ücretsiz, anında, tarayıcınızda.",
-  "id": "/loona-text-tools/tr/citation-generator/",
+  "id": "/tr/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

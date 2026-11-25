@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Τίτλου YouTube",
   "short_name": "Μετρητής Χαρακτήρων Τίτλου YouTube",
   "description": "Δωρεάν μετρητής χαρακτήρων τίτλων YouTube: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 100 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/youtube-title-character-counter/",
+  "id": "/el/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konuşma Süresi Hesaplayıcı",
   "short_name": "Konuşma Süresi Hesaplayıcı",
   "description": "Konuşmanızı veya metninizi yapıştırın ve yavaş, konuşma ve hızlı tempolarda sunmanın ne kadar sürdüğünü görün - ayrıca hedef bir süreye kaç kelimenin sığdığını. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/speaking-time-calculator/",
+  "id": "/tr/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

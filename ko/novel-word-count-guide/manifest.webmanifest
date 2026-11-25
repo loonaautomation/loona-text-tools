@@ -2,7 +2,7 @@
   "name": "Loona 장르별 소설 단어 수",
   "short_name": "장르별 소설 단어 수",
   "description": "장르별 소설 단어 수: 성인 70,000–120,000, YA 50,000–90,000, 중학년 20,000–55,000. 장르 목표가 있는 무료 실시간 카운터예요.",
-  "id": "/loona-text-tools/ko/novel-word-count-guide/",
+  "id": "/ko/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

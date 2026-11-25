@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов описаний YouTube",
   "short_name": "Счётчик символов описаний YouTube",
   "description": "Бесплатный счётчик символов описаний YouTube: подсчёт символов в реальном времени с учётом лимита в 5,000 символов, со словами и оставшимися символами по мере ввода.",
-  "id": "/loona-text-tools/ru/youtube-description-character-counter/",
+  "id": "/ru/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Gambar ke Excel Online Gratis",
   "short_name": "Pengonversi Gambar ke Excel Online Gratis",
   "description": "Konversi foto, pindaian atau tangkapan layar tabel menjadi file Excel (.xlsx) asli dengan OCR gratis yang berjalan 100% di browser Anda. Edit tabel sebelum mengunduh - tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/image-to-excel-converter/",
+  "id": "/id/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

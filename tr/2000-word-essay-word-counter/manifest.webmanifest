@@ -2,7 +2,7 @@
   "name": "Loona 2.000 Kelimelik Deneme",
   "short_name": "2.000 Kelimelik Deneme",
   "description": "Ücretsiz 2.000 kelimelik deneme sayacı: 2.000 kelime hedefine canlı kelime sayısı, tek ve çift aralıklı sayfalar, paragraflar, okuma ve konuşma süresi.",
-  "id": "/loona-text-tools/tr/2000-word-essay-word-counter/",
+  "id": "/tr/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

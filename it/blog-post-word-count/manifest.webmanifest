@@ -2,7 +2,7 @@
   "name": "Loona Conteggio parole post blog",
   "short_name": "Conteggio parole post blog",
   "description": "Verificatore conteggio parole post blog: conteggio in tempo reale con le fasce di lunghezza per notizie (300–500), post standard (1.000–1.500) e guide approfondite (2.000+).",
-  "id": "/loona-text-tools/it/blog-post-word-count/",
+  "id": "/it/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

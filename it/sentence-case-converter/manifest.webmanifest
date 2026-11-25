@@ -2,7 +2,7 @@
   "name": "Loona Convertitore Maiuscolo di frase",
   "short_name": "Convertitore Maiuscolo di frase",
   "description": "Convertitore Maiuscolo di frase gratuito — incolla il testo e ottieni Maiuscolo di frase all'istante. Conversione in tempo reale nel tuo browser, nessuna registrazione, nessun caricamento.",
-  "id": "/loona-text-tools/it/sentence-case-converter/",
+  "id": "/it/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free camelCase converter — paste text and get camelCase instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/en-us/camelcase-converter/",
+  "id": "/en-us/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

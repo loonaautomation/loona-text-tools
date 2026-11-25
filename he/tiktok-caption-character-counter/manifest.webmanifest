@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים לכיתוב TikTok",
   "short_name": "מונה תווים לכיתוב TikTok",
   "description": "מונה תווי כיתובי TikTok בחינם: ספירת תווים חיה מול מגבלת 2,200 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/tiktok-caption-character-counter/",
+  "id": "/he/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

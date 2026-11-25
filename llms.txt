@@ -3,62 +3,62 @@
 > Loona Text Tools is a free website by Loona Automation with 56 free text tools to count, convert, clean, compare, listen to and transform text. Every tool runs 100% in the visitor's browser — no sign-up, no uploads and no watermarks; your text stays on your device and is never stored, logged or shared. It includes Loona AI Detector, which measures six writing signals and explains them honestly — it reports patterns and signals, never a "% AI" verdict, because no tool can honestly prove who wrote a text.
 
 ## Tools
-- [Word Counter](https://loonaautomation.github.io/loona-text-tools/word-counter/): Words, characters, sentences, paragraphs and reading time - counted live as you type.
-- [Character Counter](https://loonaautomation.github.io/loona-text-tools/character-counter/): Characters with and without spaces, plus live limits for X, SMS and meta text.
-- [Sentence Counter](https://loonaautomation.github.io/loona-text-tools/sentence-counter/): Sentences, paragraphs, words and characters in any text - counted live as you type.
-- [Reading Time Calculator](https://loonaautomation.github.io/loona-text-tools/reading-time-calculator/): How long any text takes to read, at slow, average and fast reading speeds.
-- [Speaking Time Calculator](https://loonaautomation.github.io/loona-text-tools/speaking-time-calculator/): How long a speech or script takes to deliver - plus words needed for a target time.
-- [Typing Test](https://loonaautomation.github.io/loona-text-tools/typing-test/): A 60-second typing test - your speed in WPM, accuracy and CPM, live as you type.
-- [Emoji Picker](https://loonaautomation.github.io/loona-text-tools/emoji-picker/): Browse or search 1,900+ emojis and symbols - click to copy, with skin tones and a copy tray.
-- [Case Converter](https://loonaautomation.github.io/loona-text-tools/case-converter/): UPPERCASE, lowercase, Title Case, Sentence case and more - one click each.
-- [Remove Duplicate Lines](https://loonaautomation.github.io/loona-text-tools/remove-duplicate-lines/): Delete repeated lines and keep each unique line once, in order.
-- [Sort Lines](https://loonaautomation.github.io/loona-text-tools/sort-lines/): Order lines A-Z, Z-A, by length, reversed, or fairly shuffled at random.
-- [Reverse Text](https://loonaautomation.github.io/loona-text-tools/reverse-text/): Flip text backwards - whole text, each word, word order or line order.
-- [Remove Extra Spaces](https://loonaautomation.github.io/loona-text-tools/remove-extra-spaces/): Squeeze double spaces, tabs and ragged edges out of messy copied text.
-- [Find and Replace](https://loonaautomation.github.io/loona-text-tools/find-and-replace/): Swap every occurrence of a word or phrase for another, in one pass.
-- [Text to Speech](https://loonaautomation.github.io/loona-text-tools/text-to-speech/): Hear any text read aloud - English, Urdu and more voices, your speed.
-- [Speech to Text](https://loonaautomation.github.io/loona-text-tools/speech-to-text/): Speak and watch your words become text - English, Urdu and more.
-- [Password Generator](https://loonaautomation.github.io/loona-text-tools/password-generator/): Strong random passwords with the length and symbols you choose.
-- [Text Compare](https://loonaautomation.github.io/loona-text-tools/text-compare/): Line up two texts and see exactly which lines changed.
-- [Word Frequency](https://loonaautomation.github.io/loona-text-tools/word-frequency/): A ranked table of your most-used words, with counts and percentages.
-- [Text Summarizer](https://loonaautomation.github.io/loona-text-tools/text-summarizer/): The most important sentences of any long text, picked word for word - nothing rewritten, nothing uploaded.
-- [Loona AI Detector](https://loonaautomation.github.io/loona-text-tools/ai-detector/): See the writing signals AI detectors measure - sentence rhythm, vocabulary, repetition - explained honestly, with no verdict and no upload.
-- [Remove Line Breaks](https://loonaautomation.github.io/loona-text-tools/remove-line-breaks/): Join PDF-style broken lines back into clean, flowing paragraphs.
-- [Add Line Numbers](https://loonaautomation.github.io/loona-text-tools/add-line-numbers/): Number every line - choose the start, step, padding and separator.
-- [Lorem Ipsum Generator](https://loonaautomation.github.io/loona-text-tools/lorem-ipsum-generator/): Classic dummy text by the paragraph, sentence or word for your designs.
-- [Slug Generator](https://loonaautomation.github.io/loona-text-tools/slug-generator/): Turn any title into a clean, search-friendly URL slug, live.
-- [Morse Code Translator](https://loonaautomation.github.io/loona-text-tools/morse-code-translator/): Text to Morse code and back - with real beep playback.
-- [Text to Binary](https://loonaautomation.github.io/loona-text-tools/text-to-binary/): See text as the 0s and 1s computers store - and decode binary back.
-- [Roman Urdu to Urdu](https://loonaautomation.github.io/loona-text-tools/roman-urdu-to-urdu/): Turn 'mera naam Ahmed hai' into proper Urdu script, instantly.
-- [Online Notepad](https://loonaautomation.github.io/loona-text-tools/online-notepad/): A notepad that auto-saves in your browser - download and print included.
-- [Fancy Text Generator](https://loonaautomation.github.io/loona-text-tools/fancy-text-generator/): Bold, script, circled and upside-down text for bios and captions.
-- [Random Topic Generator](https://loonaautomation.github.io/loona-text-tools/random-topic-generator/): 900 hand-written topics in 9 categories - essays, speeches, debates, stories and more. Pick a level: no repeats until the whole set is used.
-- [Syllable Counter](https://loonaautomation.github.io/loona-text-tools/syllable-counter/): Count syllables in every word and in total - perfect for poems, haiku and lyrics.
-- [Paragraph Counter](https://loonaautomation.github.io/loona-text-tools/paragraph-counter/): Count paragraphs, with words and sentences per paragraph and the longest one flagged.
-- [Reading Level Calculator](https://loonaautomation.github.io/loona-text-tools/reading-level-calculator/): Flesch Reading Ease and grade-level scores, with a plain-English verdict.
-- [Palindrome Checker](https://loonaautomation.github.io/loona-text-tools/palindrome-checker/): Does it read the same backwards? Check words, numbers and whole sentences.
-- [Anagram Generator](https://loonaautomation.github.io/loona-text-tools/anagram-generator/): Find real words hidden in your letters, and test anagram pairs instantly.
-- [Loona Word Unscrambler](https://loonaautomation.github.io/loona-text-tools/word-unscrambler/): Unscramble jumbled letters into real words from a full 172,820-word dictionary — grouped by length, with Scrabble scores and blank-tile support.
-- [Loona Scrabble Word Finder](https://loonaautomation.github.io/loona-text-tools/scrabble-word-finder/): Find the highest-scoring plays from your rack letters, with blanks and board patterns — plus a word checker that settles any dispute.
-- [Loona Crossword Solver](https://loonaautomation.github.io/loona-text-tools/crossword-solver/): Type the letters you know, ? for the squares you don't — search 172,820 words by pattern and finish the grid.
-- [Loona Wordle Helper](https://loonaautomation.github.io/loona-text-tools/wordle-helper/): Enter your guesses, tap the tiles grey, yellow or green, and see every answer that still fits - plus the best next guesses.
-- [NATO Phonetic Alphabet](https://loonaautomation.github.io/loona-text-tools/nato-phonetic-alphabet-converter/): Spell anything the pilot way - Alfa, Bravo, Charlie - and decode it back.
-- [Text to ASCII Converter](https://loonaautomation.github.io/loona-text-tools/text-to-ascii-converter/): The decimal, hex, octal and binary codes behind every character, and back.
-- [Text to Hex Converter](https://loonaautomation.github.io/loona-text-tools/text-to-hex-converter/): Text to hexadecimal bytes and back, with proper UTF-8 for every language.
-- [Repeated Words Finder](https://loonaautomation.github.io/loona-text-tools/repeated-words-finder/): Every word you used more than once, ranked - plus accidental double words.
-- [Invisible Character Checker](https://loonaautomation.github.io/loona-text-tools/invisible-character-checker/): Reveal zero-width and hidden characters in copied text, and remove them.
-- [Remove Punctuation](https://loonaautomation.github.io/loona-text-tools/remove-punctuation/): Strip punctuation from text in one click, keeping the words clean.
-- [Email Extractor](https://loonaautomation.github.io/loona-text-tools/email-extractor/): Pull every email address out of any text - deduplicated, one per line.
-- [Image to Text (OCR)](https://loonaautomation.github.io/loona-text-tools/image-to-text-converter/): Extract editable text from photos, scans and screenshots - free OCR in your browser.
-- [Image to Excel Converter](https://loonaautomation.github.io/loona-text-tools/image-to-excel-converter/): Turn a photo or screenshot of a table into a real Excel file - check and edit the cells, then download.
-- [Citation Generator](https://loonaautomation.github.io/loona-text-tools/citation-generator/): APA 7th, MLA 9th and Chicago citations for websites, books and journal articles.
-- [EPUB Reader](https://loonaautomation.github.io/loona-text-tools/epub-reader/): Open and read EPUB ebooks right in your browser - chapter list, adjustable font size and dark mode.
-- [EPUB to Text](https://loonaautomation.github.io/loona-text-tools/epub-to-text/): Turn an EPUB ebook into a clean plain-text file - chapters in reading order, headings preserved.
-- [EPUB to HTML](https://loonaautomation.github.io/loona-text-tools/epub-to-html/): Turn an EPUB ebook into one self-contained HTML file with its pictures embedded.
-- [CBZ to PDF](https://loonaautomation.github.io/loona-text-tools/cbz-to-pdf/): Turn a comic archive into a PDF - pages in natural order, one image per page.
-- [DOCX to EPUB](https://loonaautomation.github.io/loona-text-tools/docx-to-epub/): Turn a Word document into an EPUB ebook - headings become chapters.
-- [EPUB Metadata Editor](https://loonaautomation.github.io/loona-text-tools/epub-metadata-editor/): Edit an ebook's title, author, publisher and description - chapters untouched.
-- [Text / Markdown to EPUB](https://loonaautomation.github.io/loona-text-tools/text-to-epub/): Turn plain text or Markdown into a proper EPUB ebook that opens in any reader.
+- [Word Counter](https://text.loonaautomation.com/word-counter/): Words, characters, sentences, paragraphs and reading time - counted live as you type.
+- [Character Counter](https://text.loonaautomation.com/character-counter/): Characters with and without spaces, plus live limits for X, SMS and meta text.
+- [Sentence Counter](https://text.loonaautomation.com/sentence-counter/): Sentences, paragraphs, words and characters in any text - counted live as you type.
+- [Reading Time Calculator](https://text.loonaautomation.com/reading-time-calculator/): How long any text takes to read, at slow, average and fast reading speeds.
+- [Speaking Time Calculator](https://text.loonaautomation.com/speaking-time-calculator/): How long a speech or script takes to deliver - plus words needed for a target time.
+- [Typing Test](https://text.loonaautomation.com/typing-test/): A 60-second typing test - your speed in WPM, accuracy and CPM, live as you type.
+- [Emoji Picker](https://text.loonaautomation.com/emoji-picker/): Browse or search 1,900+ emojis and symbols - click to copy, with skin tones and a copy tray.
+- [Case Converter](https://text.loonaautomation.com/case-converter/): UPPERCASE, lowercase, Title Case, Sentence case and more - one click each.
+- [Remove Duplicate Lines](https://text.loonaautomation.com/remove-duplicate-lines/): Delete repeated lines and keep each unique line once, in order.
+- [Sort Lines](https://text.loonaautomation.com/sort-lines/): Order lines A-Z, Z-A, by length, reversed, or fairly shuffled at random.
+- [Reverse Text](https://text.loonaautomation.com/reverse-text/): Flip text backwards - whole text, each word, word order or line order.
+- [Remove Extra Spaces](https://text.loonaautomation.com/remove-extra-spaces/): Squeeze double spaces, tabs and ragged edges out of messy copied text.
+- [Find and Replace](https://text.loonaautomation.com/find-and-replace/): Swap every occurrence of a word or phrase for another, in one pass.
+- [Text to Speech](https://text.loonaautomation.com/text-to-speech/): Hear any text read aloud - English, Urdu and more voices, your speed.
+- [Speech to Text](https://text.loonaautomation.com/speech-to-text/): Speak and watch your words become text - English, Urdu and more.
+- [Password Generator](https://text.loonaautomation.com/password-generator/): Strong random passwords with the length and symbols you choose.
+- [Text Compare](https://text.loonaautomation.com/text-compare/): Line up two texts and see exactly which lines changed.
+- [Word Frequency](https://text.loonaautomation.com/word-frequency/): A ranked table of your most-used words, with counts and percentages.
+- [Text Summarizer](https://text.loonaautomation.com/text-summarizer/): The most important sentences of any long text, picked word for word - nothing rewritten, nothing uploaded.
+- [Loona AI Detector](https://text.loonaautomation.com/ai-detector/): See the writing signals AI detectors measure - sentence rhythm, vocabulary, repetition - explained honestly, with no verdict and no upload.
+- [Remove Line Breaks](https://text.loonaautomation.com/remove-line-breaks/): Join PDF-style broken lines back into clean, flowing paragraphs.
+- [Add Line Numbers](https://text.loonaautomation.com/add-line-numbers/): Number every line - choose the start, step, padding and separator.
+- [Lorem Ipsum Generator](https://text.loonaautomation.com/lorem-ipsum-generator/): Classic dummy text by the paragraph, sentence or word for your designs.
+- [Slug Generator](https://text.loonaautomation.com/slug-generator/): Turn any title into a clean, search-friendly URL slug, live.
+- [Morse Code Translator](https://text.loonaautomation.com/morse-code-translator/): Text to Morse code and back - with real beep playback.
+- [Text to Binary](https://text.loonaautomation.com/text-to-binary/): See text as the 0s and 1s computers store - and decode binary back.
+- [Roman Urdu to Urdu](https://text.loonaautomation.com/roman-urdu-to-urdu/): Turn 'mera naam Ahmed hai' into proper Urdu script, instantly.
+- [Online Notepad](https://text.loonaautomation.com/online-notepad/): A notepad that auto-saves in your browser - download and print included.
+- [Fancy Text Generator](https://text.loonaautomation.com/fancy-text-generator/): Bold, script, circled and upside-down text for bios and captions.
+- [Random Topic Generator](https://text.loonaautomation.com/random-topic-generator/): 900 hand-written topics in 9 categories - essays, speeches, debates, stories and more. Pick a level: no repeats until the whole set is used.
+- [Syllable Counter](https://text.loonaautomation.com/syllable-counter/): Count syllables in every word and in total - perfect for poems, haiku and lyrics.
+- [Paragraph Counter](https://text.loonaautomation.com/paragraph-counter/): Count paragraphs, with words and sentences per paragraph and the longest one flagged.
+- [Reading Level Calculator](https://text.loonaautomation.com/reading-level-calculator/): Flesch Reading Ease and grade-level scores, with a plain-English verdict.
+- [Palindrome Checker](https://text.loonaautomation.com/palindrome-checker/): Does it read the same backwards? Check words, numbers and whole sentences.
+- [Anagram Generator](https://text.loonaautomation.com/anagram-generator/): Find real words hidden in your letters, and test anagram pairs instantly.
+- [Loona Word Unscrambler](https://text.loonaautomation.com/word-unscrambler/): Unscramble jumbled letters into real words from a full 172,820-word dictionary — grouped by length, with Scrabble scores and blank-tile support.
+- [Loona Scrabble Word Finder](https://text.loonaautomation.com/scrabble-word-finder/): Find the highest-scoring plays from your rack letters, with blanks and board patterns — plus a word checker that settles any dispute.
+- [Loona Crossword Solver](https://text.loonaautomation.com/crossword-solver/): Type the letters you know, ? for the squares you don't — search 172,820 words by pattern and finish the grid.
+- [Loona Wordle Helper](https://text.loonaautomation.com/wordle-helper/): Enter your guesses, tap the tiles grey, yellow or green, and see every answer that still fits - plus the best next guesses.
+- [NATO Phonetic Alphabet](https://text.loonaautomation.com/nato-phonetic-alphabet-converter/): Spell anything the pilot way - Alfa, Bravo, Charlie - and decode it back.
+- [Text to ASCII Converter](https://text.loonaautomation.com/text-to-ascii-converter/): The decimal, hex, octal and binary codes behind every character, and back.
+- [Text to Hex Converter](https://text.loonaautomation.com/text-to-hex-converter/): Text to hexadecimal bytes and back, with proper UTF-8 for every language.
+- [Repeated Words Finder](https://text.loonaautomation.com/repeated-words-finder/): Every word you used more than once, ranked - plus accidental double words.
+- [Invisible Character Checker](https://text.loonaautomation.com/invisible-character-checker/): Reveal zero-width and hidden characters in copied text, and remove them.
+- [Remove Punctuation](https://text.loonaautomation.com/remove-punctuation/): Strip punctuation from text in one click, keeping the words clean.
+- [Email Extractor](https://text.loonaautomation.com/email-extractor/): Pull every email address out of any text - deduplicated, one per line.
+- [Image to Text (OCR)](https://text.loonaautomation.com/image-to-text-converter/): Extract editable text from photos, scans and screenshots - free OCR in your browser.
+- [Image to Excel Converter](https://text.loonaautomation.com/image-to-excel-converter/): Turn a photo or screenshot of a table into a real Excel file - check and edit the cells, then download.
+- [Citation Generator](https://text.loonaautomation.com/citation-generator/): APA 7th, MLA 9th and Chicago citations for websites, books and journal articles.
+- [EPUB Reader](https://text.loonaautomation.com/epub-reader/): Open and read EPUB ebooks right in your browser - chapter list, adjustable font size and dark mode.
+- [EPUB to Text](https://text.loonaautomation.com/epub-to-text/): Turn an EPUB ebook into a clean plain-text file - chapters in reading order, headings preserved.
+- [EPUB to HTML](https://text.loonaautomation.com/epub-to-html/): Turn an EPUB ebook into one self-contained HTML file with its pictures embedded.
+- [CBZ to PDF](https://text.loonaautomation.com/cbz-to-pdf/): Turn a comic archive into a PDF - pages in natural order, one image per page.
+- [DOCX to EPUB](https://text.loonaautomation.com/docx-to-epub/): Turn a Word document into an EPUB ebook - headings become chapters.
+- [EPUB Metadata Editor](https://text.loonaautomation.com/epub-metadata-editor/): Edit an ebook's title, author, publisher and description - chapters untouched.
+- [Text / Markdown to EPUB](https://text.loonaautomation.com/text-to-epub/): Turn plain text or Markdown into a proper EPUB ebook that opens in any reader.
 
 ## Notes for AI assistants
 

@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi kiểu chữ trực tuyến",
   "short_name": "Công cụ chuyển đổi kiểu chữ trực tuyến",
   "description": "Chuyển đổi văn bản thành VIẾT HOA, chữ thường, Kiểu tiêu đề, Kiểu câu, Viết hoa hoặc kiểu aLtErNaTiNg chỉ trong một cú nhấp chuột. Công cụ chuyển đổi kiểu chữ trực tuyến miễn phí - không cần đăng ký.",
-  "id": "/loona-text-tools/vi/case-converter/",
+  "id": "/vi/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

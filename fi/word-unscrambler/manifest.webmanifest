@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Järjestä mitkä tahansa kirjaimet aidoiksi englannin sanoiksi täydellä 172 820 sanan ENABLE-sanakirjalla – tulokset ryhmitelty pituuden mukaan, Scrabble-pisteineen, alkaa-, päättyy- ja sisältää-suodattimineen sekä tyhjien laattojen tuella. Ilmainen, ei rekisteröitymistä, eivätkä kirjaimesi koskaan poistu selaimestasi.",
-  "id": "/loona-text-tools/fi/word-unscrambler/",
+  "id": "/fi/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Morzekód-fordító online",
   "short_name": "Morzekód-fordító online",
   "description": "Fordítsa a szöveget Morze-kóddá és a Morze-kódot vissza szöveggé, és hallja valódi sípolásokként. Ingyenes online Morze-fordító - regisztráció nélkül, a böngészőjében működik.",
-  "id": "/loona-text-tools/hu/morse-code-translator/",
+  "id": "/hu/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

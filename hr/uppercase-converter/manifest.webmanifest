@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač u velika slova",
   "short_name": "Pretvarač u velika slova",
   "description": "Besplatan pretvarač u velika slova — zalijepite tekst i trenutačno dobijte VELIKA SLOVA. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/uppercase-converter/",
+  "id": "/hr/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

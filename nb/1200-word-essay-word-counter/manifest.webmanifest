@@ -2,7 +2,7 @@
   "name": "Loona Essay på 1,200 ord",
   "short_name": "Essay på 1,200 ord",
   "description": "Gratis teller for essay på 1,200 ord: direkte ordtelling mot målet på 1,200 ord, sider med enkel og dobbel linjeavstand, avsnitt, lese- og taletid.",
-  "id": "/loona-text-tools/nb/1200-word-essay-word-counter/",
+  "id": "/nb/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CBZ से PDF कन्वर्टर मुफ़्त",
   "short_name": "CBZ से PDF कन्वर्टर मुफ़्त",
   "description": "CBZ और ZIP कॉमिक आर्काइव को अपने ब्राउज़र में मुफ़्त PDF में बदलें। पृष्ठ प्राकृतिक क्रम में (1, 2, 10), प्रति पृष्ठ एक छवि पूर्ण आकार में। कोई अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/cbz-to-pdf/",
+  "id": "/hi/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

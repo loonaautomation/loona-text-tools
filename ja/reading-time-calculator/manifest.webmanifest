@@ -2,7 +2,7 @@
   "name": "Loona 読書時間計算ツール",
   "short_name": "読書時間計算ツール",
   "description": "任意のテキストを貼り付けて、遅い、平均、速いの速度で読むのにどれくらいかかるかを確認してください - さらに目標読書時間に必要な単語数も。無料、登録不要。",
-  "id": "/loona-text-tools/ja/reading-time-calculator/",
+  "id": "/ja/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

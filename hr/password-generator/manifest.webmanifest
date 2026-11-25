@@ -2,7 +2,7 @@
   "name": "Loona Generator lozinki na mreži",
   "short_name": "Generator lozinki na mreži",
   "description": "Generirajte jake, nasumične lozinke duljine i simbola koje odaberete, uz pošten mjerač jačine. Besplatan generator lozinki - izrađen samo na vašem uređaju.",
-  "id": "/loona-text-tools/hr/password-generator/",
+  "id": "/hr/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

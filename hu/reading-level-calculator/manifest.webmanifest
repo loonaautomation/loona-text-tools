@@ -2,7 +2,7 @@
   "name": "Loona Olvasási szint számítása",
   "short_name": "Olvasási szint számítása",
   "description": "Pontozzon bármely szöveget a Flesch Reading Ease skálával és a Flesch-Kincaid Grade Level szinttel, a szabványos képleteket használva. Nézze meg, milyen könnyű olvasni az írását. Ingyenesen.",
-  "id": "/loona-text-tools/hu/reading-level-calculator/",
+  "id": "/hu/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

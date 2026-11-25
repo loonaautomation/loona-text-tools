@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "任意のテキストを貼り付けると、AI検出ツールが測定する文章のシグナル — 文のリズム、語彙の多様性、繰り返されるフレーズ、予測しやすさ — が確認できます。無料のAI検出ツール：登録不要、判定なし、そしてあなたのテキストがブラウザの外に出ることは決してありません。",
-  "id": "/loona-text-tools/ja/ai-detector/",
+  "id": "/ja/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

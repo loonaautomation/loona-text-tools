@@ -2,7 +2,7 @@
   "name": "Loona AfWiSsElEnDe-casingomzetter",
   "short_name": "AfWiSsElEnDe-casingomzetter",
   "description": "Gratis omzetter naar aFwIsSeLeNdE cAsInG — plak tekst en krijg direct aFwIsSeLeNdE cAsInG. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/alternating-case-converter/",
+  "id": "/nl/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

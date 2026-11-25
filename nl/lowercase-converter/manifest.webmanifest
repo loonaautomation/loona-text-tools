@@ -2,7 +2,7 @@
   "name": "Loona Omzetter naar kleine letters",
   "short_name": "Omzetter naar kleine letters",
   "description": "Gratis omzetter naar kleine letters — plak tekst en krijg direct kleine letters. Live omzetting in je bro",
-  "id": "/loona-text-tools/nl/lowercase-converter/",
+  "id": "/nl/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

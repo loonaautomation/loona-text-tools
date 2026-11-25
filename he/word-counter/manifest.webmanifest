@@ -2,7 +2,7 @@
   "name": "Loona מונה מילים מקוון בחינם",
   "short_name": "מונה מילים מקוון בחינם",
   "description": "ספרו מילים, תווים, משפטים ופסקאות בכל טקסט מיד, עם זמן קריאה וזמן דיבור. מונה מילים חינמי, ללא הרשמה, עובד לא מקוון.",
-  "id": "/loona-text-tools/he/word-counter/",
+  "id": "/he/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

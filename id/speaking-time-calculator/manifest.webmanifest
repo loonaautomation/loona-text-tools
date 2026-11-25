@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Waktu Berbicara",
   "short_name": "Kalkulator Waktu Berbicara",
   "description": "Tempel pidato atau naskah Anda dan lihat berapa lama waktu penyampaiannya pada kecepatan lambat, percakapan dan cepat - ditambah berapa banyak kata yang muat dalam waktu target. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/speaking-time-calculator/",
+  "id": "/id/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

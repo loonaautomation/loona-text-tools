@@ -2,7 +2,7 @@
   "name": "Loona Morsekoodin kääntäjä verkossa",
   "short_name": "Morsekoodin kääntäjä verkossa",
   "description": "Käännä teksti morsekoodiksi ja morsekoodi takaisin tekstiksi ja kuule se aitoina piippauksina. Ilmainen morsekoodin kääntäjä verkossa – ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-text-tools/fi/morse-code-translator/",
+  "id": "/fi/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

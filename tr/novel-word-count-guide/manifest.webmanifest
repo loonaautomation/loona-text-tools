@@ -2,7 +2,7 @@
   "name": "Loona Türe Göre Roman Kelime Sayısı",
   "short_name": "Türe Göre Roman Kelime Sayısı",
   "description": "Türe göre roman kelime sayısı: yetişkin 70.000–120.000, genç yetişkin 50.000–90.000, orta düzey 20.000–55.000. Tür hedefleriyle ücretsiz canlı sayaç.",
-  "id": "/loona-text-tools/tr/novel-word-count-guide/",
+  "id": "/tr/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

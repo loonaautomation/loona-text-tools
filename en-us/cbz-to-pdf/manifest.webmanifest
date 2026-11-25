@@ -2,7 +2,7 @@
   "name": "Loona CBZ to PDF - Convert a Comic Archive into a PDF",
   "short_name": "CBZ to PDF - Convert a Comic Archive into a PDF",
   "description": "Convert CBZ and ZIP comic archives to PDF free in your browser. Pages in natural order (1, 2, 10), one image per page at full size. No upload, no sign-up.",
-  "id": "/loona-text-tools/en-us/cbz-to-pdf/",
+  "id": "/en-us/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

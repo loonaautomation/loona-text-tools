@@ -2,7 +2,7 @@
   "name": "Loona Kildegenerator online gratis",
   "short_name": "Kildegenerator online gratis",
   "description": "Generér korrekt formaterede henvisninger til websteder, bøger og tidsskriftsartikler i APA 7., MLA 9 og Chicago forfatter-årstal - gratis, øjeblikkeligt, i din browser.",
-  "id": "/loona-text-tools/da/citation-generator/",
+  "id": "/da/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

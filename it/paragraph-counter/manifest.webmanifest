@@ -2,7 +2,7 @@
   "name": "Loona Contatore di paragrafi online gratuito",
   "short_name": "Contatore di paragrafi online gratuito",
   "description": "Conta i paragrafi in qualsiasi testo all'istante, con frasi e parole per paragrafo e il paragrafo più lungo e più corto. Contatore di paragrafi gratuito, nessuna registrazione.",
-  "id": "/loona-text-tools/it/paragraph-counter/",
+  "id": "/it/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

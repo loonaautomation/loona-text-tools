@@ -2,7 +2,7 @@
   "name": "Loona Prevoditelj Morseova koda na mreži",
   "short_name": "Prevoditelj Morseova koda na mreži",
   "description": "Prevedite tekst u Morseov kod i Morseov kod natrag u tekst i čujte ga kao prave zvučne signale. Besplatan mrežni prevoditelj Morseova koda - bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/morse-code-translator/",
+  "id": "/hr/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

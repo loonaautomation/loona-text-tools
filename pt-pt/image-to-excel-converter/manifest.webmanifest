@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Imagem para Excel Online Grátis",
   "short_name": "Conversor de Imagem para Excel Online Grátis",
   "description": "Converta uma fotografia, digitalização ou captura de ecrã de uma tabela num ficheiro Excel (.xlsx) real com OCR gratuito que funciona 100% no seu navegador. Edite a tabela antes de descarregar - sem carregamento, sem registo.",
-  "id": "/loona-text-tools/pt-pt/image-to-excel-converter/",
+  "id": "/pt-pt/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

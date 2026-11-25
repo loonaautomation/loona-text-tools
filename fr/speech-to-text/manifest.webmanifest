@@ -2,7 +2,7 @@
   "name": "Loona Parole vers texte en ligne gratuit",
   "short_name": "Parole vers texte en ligne gratuit",
   "description": "Dictez avec votre voix et regardez-la devenir du texte - parole vers texte en ligne gratuit pour l’anglais, l’ourdou et plus de langues. Aucune inscription ; fonctionne dans Chrome et Edge.",
-  "id": "/loona-text-tools/fr/speech-to-text/",
+  "id": "/fr/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

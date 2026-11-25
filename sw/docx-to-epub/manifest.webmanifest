@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha DOCX kwenda EPUB Bure",
   "short_name": "Kibadilishaji cha DOCX kwenda EPUB Bure",
   "description": "Badilisha nyaraka za Word za DOCX kuwa vitabu vya EPUB bure katika kivinjari chako. Vichwa huwa sura; herufi nzito, italiki, orodha na picha hubadilika. Hakuna kupakia, hakuna kujisajili.",
-  "id": "/loona-text-tools/sw/docx-to-epub/",
+  "id": "/sw/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

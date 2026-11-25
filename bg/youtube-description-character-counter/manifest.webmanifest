@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за описания в YouTube",
   "short_name": "Брояч на знаци за описания в YouTube",
   "description": "Безплатен брояч на знаци за описания в YouTube: броене на знаци на живо спрямо ограничението от 5,000 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/youtube-description-character-counter/",
+  "id": "/bg/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

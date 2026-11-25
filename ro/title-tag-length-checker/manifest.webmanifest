@@ -2,7 +2,7 @@
   "name": "Loona Verificator al lungimii etichetei de titlu",
   "short_name": "Verificator al lungimii etichetei de titlu",
   "description": "Verificator gratuit al lungimii etichetei de titlu: numărătoare de caractere în direct față de limita de 60 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/title-tag-length-checker/",
+  "id": "/ro/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

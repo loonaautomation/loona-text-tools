@@ -2,7 +2,7 @@
   "name": "Loona EPUB till HTML-omvandlare gratis",
   "short_name": "EPUB till HTML-omvandlare gratis",
   "description": "Omvandla EPUB-e-böcker till en enda fristående HTML-fil gratis, i din webbläsare. Kapitel i ordning, grundläggande typografi, små bilder inbäddade. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-text-tools/sv/epub-to-html/",
+  "id": "/sv/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

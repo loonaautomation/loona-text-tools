@@ -2,7 +2,7 @@
   "name": "Loona Text till tal online gratis",
   "short_name": "Text till tal online gratis",
   "description": "Förvandla vilken text som helst till naturligt talat ljud gratis online - engelska och urduiska röster, justerbar hastighet och tonhöjd. Ingen registrering, ingenting uppladdat, fungerar i din webbläsare.",
-  "id": "/loona-text-tools/sv/text-to-speech/",
+  "id": "/sv/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

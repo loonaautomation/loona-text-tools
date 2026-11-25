@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Kata Per Halaman",
   "short_name": "Kalkulator Kata Per Halaman",
   "description": "Kalkulator kata-per-halaman gratis: masukkan kata, ukuran font dan spasi baris untuk mendapatkan jumlah halaman dan kata per halaman.",
-  "id": "/loona-text-tools/id/words-per-page-calculator/",
+  "id": "/id/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

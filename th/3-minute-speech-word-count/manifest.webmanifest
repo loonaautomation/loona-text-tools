@@ -2,7 +2,7 @@
   "name": "Loona สุนทรพจน์ 3 นาที",
   "short_name": "สุนทรพจน์ 3 นาที",
   "description": "สุนทรพจน์ 3 นาทีมีกี่คำ? 330–540 คำ (450 คำที่จังหวะสนทนา) ตัวนับแบบสดฟรีพร้อมการตรวจสอบเวลาพูด",
-  "id": "/loona-text-tools/th/3-minute-speech-word-count/",
+  "id": "/th/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Karakter Sayacı Çevrimiçi",
   "short_name": "Karakter Sayacı Çevrimiçi",
   "description": "Karakterleri boşluklu ve boşluksuz sayın ve X (Twitter), SMS, meta açıklamaları ve daha fazlası için sınırları kontrol edin. Ücretsiz çevrimiçi karakter sayacı - kayıt gerekmez.",
-  "id": "/loona-text-tools/tr/character-counter/",
+  "id": "/tr/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

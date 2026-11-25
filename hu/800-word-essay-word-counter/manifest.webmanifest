@@ -2,7 +2,7 @@
   "name": "Loona 800 szavas esszé",
   "short_name": "800 szavas esszé",
   "description": "Ingyenes 800 szavas esszészámláló: élő szószám a 800 szavas célig, oldalak szimpla és dupla sorközzel, bekezdések, olvasási és beszédidő.",
-  "id": "/loona-text-tools/hu/800-word-essay-word-counter/",
+  "id": "/hu/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

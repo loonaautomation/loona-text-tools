@@ -2,7 +2,7 @@
   "name": "Loona Liczba słów CV",
   "short_name": "Liczba słów CV",
   "description": "Sprawdzanie liczby słów CV: liczenie na żywo z celem jednej strony (400–600 słów), szacunkową liczbą stron i wskazówkami dotyczącymi przycinania.",
-  "id": "/loona-text-tools/pl/resume-word-count/",
+  "id": "/pl/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

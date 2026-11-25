@@ -2,7 +2,7 @@
   "name": "Loona Ordtelling for roman etter sjanger",
   "short_name": "Ordtelling for roman etter sjanger",
   "description": "Ordtelling for roman etter sjanger: voksne 70,000–120,000, YA 50,000–90,000, mellomtrinn 20,000–55,000. Gratis direkte teller med sjangermål.",
-  "id": "/loona-text-tools/nb/novel-word-count-guide/",
+  "id": "/nb/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

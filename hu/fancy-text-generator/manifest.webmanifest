@@ -2,7 +2,7 @@
   "name": "Loona Díszes szöveg generátora online",
   "short_name": "Díszes szöveg generátora online",
   "description": "Alakítsa az egyszerű szöveget stílusos Unicode betűkké - félkövér, írott, fraktur, karikázott, kis kapitális és még több - bemutatkozásokhoz, feliratokhoz és felhasználónevekhez. Ingyenes díszes szöveg generátor.",
-  "id": "/loona-text-tools/hu/fancy-text-generator/",
+  "id": "/hu/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm câu trực tuyến miễn phí",
   "short_name": "Bộ đếm câu trực tuyến miễn phí",
   "description": "Đếm câu, đoạn văn, từ và ký tự trong bất kỳ văn bản nào ngay lập tức, với độ dài câu trung bình. Bộ đếm câu miễn phí, không đăng ký, hoạt động trong trình duyệt của bạn.",
-  "id": "/loona-text-tools/vi/sentence-counter/",
+  "id": "/vi/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

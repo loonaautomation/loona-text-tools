@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Sortieren Sie beliebige Buchstaben zu echten englischen Wörtern – mit dem vollständigen ENABLE-Wörterbuch mit 172.820 Wörtern: Ergebnisse nach Länge gruppiert, mit Scrabble-Punkten, Filtern für Anfang, Ende und Enthält sowie Unterstützung für Blankosteine. Kostenlos, ohne Anmeldung, und Ihre Buchstaben verlassen nie Ihren Browser.",
-  "id": "/loona-text-tools/de/word-unscrambler/",
+  "id": "/de/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

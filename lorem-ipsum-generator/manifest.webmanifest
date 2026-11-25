@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum Generator Online",
   "short_name": "Lorem Ipsum Generator Online",
   "description": "Generate lorem ipsum dummy text by the paragraph, sentence or word - ready to paste into designs and layouts. Free lorem ipsum generator, no sign-up needed.",
-  "id": "/loona-text-tools/lorem-ipsum-generator/",
+  "id": "/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

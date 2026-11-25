@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Alfabeti ya Kifonetiki ya NATO",
   "short_name": "Kibadilishaji cha Alfabeti ya Kifonetiki ya NATO",
   "description": "Badilisha maandishi yoyote kuwa alfabeti ya kifonetiki ya NATO (Alfa, Bravo, Charlie) na ufumbue tahajia ya NATO kurudi kwenye maandishi tupu. Bure, papo hapo, bila kujisajili.",
-  "id": "/loona-text-tools/sw/nato-phonetic-alphabet-converter/",
+  "id": "/sw/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków posta na LinkedIn",
   "short_name": "Licznik znaków posta na LinkedIn",
   "description": "Darmowy licznik znaków posta na LinkedIn: liczenie znaków na żywo względem limitu 3,000 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/linkedin-post-character-counter/",
+  "id": "/pl/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

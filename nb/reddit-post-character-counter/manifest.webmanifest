@@ -2,7 +2,7 @@
   "name": "Loona Tegnteller for Reddit-innlegg",
   "short_name": "Tegnteller for Reddit-innlegg",
   "description": "Gratis tegnteller for Reddit-innlegg: direkte tegntelling mot grensen på 40,000 tegn, med ord og gjenværende tegn vist mens du skriver.",
-  "id": "/loona-text-tools/nb/reddit-post-character-counter/",
+  "id": "/nb/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

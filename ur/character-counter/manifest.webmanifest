@@ -2,7 +2,7 @@
   "name": "Loona حروف گننے والا آن لائن",
   "short_name": "حروف گننے والا آن لائن",
   "description": "حروف اسپیس کے ساتھ اور بغیر گنیں اور X (Twitter)، SMS، میٹا تفصیلات اور مزید کے لیے حدیں جانچیں۔ مفت آن لائن حرف کاؤنٹر - سائن اپ کی ضرورت نہیں۔",
-  "id": "/loona-text-tools/ur/character-counter/",
+  "id": "/ur/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Uppercase 変換ツール",
   "short_name": "Uppercase 変換ツール",
   "description": "無料 Uppercase 変換ツール — テキストを貼り付ければ即座に UPPERCASE が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/uppercase-converter/",
+  "id": "/ja/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

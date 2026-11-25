@@ -2,7 +2,7 @@
   "name": "Loona Anagramgenerator og -sjekker gratis på nett",
   "short_name": "Anagramgenerator og -sjekker gratis på nett",
   "description": "Finn anagrammer av ethvert ord fra virkelige engelske ord, og sjekk om to ord eller fraser er anagrammer av hverandre. Gratis anagramløser, ingen registrering.",
-  "id": "/loona-text-tools/nb/anagram-generator/",
+  "id": "/nb/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

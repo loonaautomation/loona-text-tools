@@ -2,7 +2,7 @@
   "name": "Loona Herhaalde woorden zoeken online gratis",
   "short_name": "Herhaalde woorden zoeken online gratis",
   "description": "Vind elk woord dat meer dan één keer in je tekst voorkomt, gerangschikt op hoe vaak het zich herhaalt. Vang toevallige dubbele woorden en overgebruikte woorden. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/repeated-words-finder/",
+  "id": "/nl/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

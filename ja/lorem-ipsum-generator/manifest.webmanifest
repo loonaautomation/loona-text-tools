@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum 生成ツールオンライン",
   "short_name": "Lorem Ipsum 生成ツールオンライン",
   "description": "段落、文、単語ごとに Lorem Ipsum ダミーテキストを生成します — デザインやレイアウトに貼り付ける準備ができます。無料 Lorem Ipsum 生成ツール、登録は不要です。",
-  "id": "/loona-text-tools/ja/lorem-ipsum-generator/",
+  "id": "/ja/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

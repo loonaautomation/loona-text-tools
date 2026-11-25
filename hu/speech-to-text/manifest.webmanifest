@@ -2,7 +2,7 @@
   "name": "Loona Beszéd szöveggé online ingyen",
   "short_name": "Beszéd szöveggé online ingyen",
   "description": "Diktáljon a hangjával, és nézze, hogyan válik szöveggé - ingyenes online beszédből szöveg angolra, urdura és több nyelvre. Regisztráció nélkül; Chrome-ban és Edge-ben működik.",
-  "id": "/loona-text-tools/hu/speech-to-text/",
+  "id": "/hu/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

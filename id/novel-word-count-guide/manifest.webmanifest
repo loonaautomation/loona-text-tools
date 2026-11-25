@@ -2,7 +2,7 @@
   "name": "Loona Jumlah Kata Novel berdasarkan Genre",
   "short_name": "Jumlah Kata Novel berdasarkan Genre",
   "description": "Jumlah kata novel berdasarkan genre: dewasa 70.000–120.000, YA 50.000–90.000, kelas menengah 20.000–55.000. Penghitung langsung gratis dengan target genre.",
-  "id": "/loona-text-tools/id/novel-word-count-guide/",
+  "id": "/id/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

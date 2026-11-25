@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da urdu romanizzato a scrittura urdu online gratuito",
   "short_name": "Convertitore da urdu romanizzato a scrittura urdu online gratuito",
   "description": "Converti l'urdu romanizzato (lettere latine) in vera scrittura urdu all'istante - 'mera naam' diventa vera scrittura urdu. Convertitore gratuito da urdu romanizzato a urdu per il Pakistan.",
-  "id": "/loona-text-tools/it/roman-urdu-to-urdu/",
+  "id": "/it/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

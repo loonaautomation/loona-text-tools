@@ -2,7 +2,7 @@
   "name": "Loona Traducător cod Morse online",
   "short_name": "Traducător cod Morse online",
   "description": "Tradu textul în cod Morse și codul Morse înapoi în text și ascultă-l ca bipuri reale. Traducător online gratuit de cod Morse - fără înregistrare, funcționează în browserul tău.",
-  "id": "/loona-text-tools/ro/morse-code-translator/",
+  "id": "/ro/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

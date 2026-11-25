@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Tafuta michezo yenye alama za juu zaidi kutoka rafu yako ya herufi na uangalie kama neno lolote ni sahihi. Kamusi kamili ya ENABLE ya maneno 172,820, vigae tupu vinakubalika, 100% kwenye kifaa chako. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/scrabble-word-finder/",
+  "id": "/sw/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

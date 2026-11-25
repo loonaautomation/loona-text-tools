@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Skriv inn Wordle-gjettene dine og trykk på rutene i grå, gul eller grønn: denne gratis hjelperen viser deg alle svar som fortsatt passer, og de beste neste gjettene. Korrekt logikk for doble bokstaver, ingen registrering, og alt kjører i nettleseren din.",
-  "id": "/loona-text-tools/nb/wordle-helper/",
+  "id": "/nb/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

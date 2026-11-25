@@ -2,7 +2,7 @@
   "name": "Loona Conteo de palabras de entradas de blog",
   "short_name": "Conteo de palabras de entradas de blog",
   "description": "Verificador de conteo de palabras de entradas de blog: conteo en vivo con las bandas de longitud para noticias (300–500), entradas estándar (1,000–1,500) y guías en profundidad (2,000+).",
-  "id": "/loona-text-tools/es/blog-post-word-count/",
+  "id": "/es/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

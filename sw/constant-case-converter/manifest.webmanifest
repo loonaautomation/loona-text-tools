@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha CONSTANT_CASE",
   "short_name": "Kibadilishaji cha CONSTANT_CASE",
   "description": "Kibadilishaji cha bure cha CONSTANT_CASE — bandika maandishi na upate CONSTANT_CASE mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/constant-case-converter/",
+  "id": "/sw/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

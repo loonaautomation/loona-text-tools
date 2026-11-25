@@ -2,7 +2,7 @@
   "name": "Loona Darmowe sprawdzanie palindromów online",
   "short_name": "Darmowe sprawdzanie palindromów online",
   "description": "Sprawdź, czy dowolne słowo, liczba lub zdanie jest palindromem - czyta się tak samo od przodu i wspak. Pokazuje wyczyszczony tekst i jego odwrócenie. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/palindrome-checker/",
+  "id": "/pl/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

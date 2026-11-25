@@ -2,7 +2,7 @@
   "name": "Loona Hotuba ya Dakika 1",
   "short_name": "Hotuba ya Dakika 1",
   "description": "Je, maneno mangapi katika hotuba ya dakika 1? Maneno 110–180 (150 kwa kasi ya mazungumzo). Kihesabu cha bure cha moja kwa moja chenye ukaguzi wa muda wa kuzungumza.",
-  "id": "/loona-text-tools/sw/1-minute-speech-word-count/",
+  "id": "/sw/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Количество слов в резюме",
   "short_name": "Количество слов в резюме",
   "description": "Проверка количества слов в резюме: подсчёт в реальном времени с целью в одну страницу (400–600 слов), оценкой страниц и руководством по сокращению.",
-  "id": "/loona-text-tools/ru/resume-word-count/",
+  "id": "/ru/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

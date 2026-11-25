@@ -2,7 +2,7 @@
   "name": "Loona Convertor text în binar online",
   "short_name": "Convertor text în binar online",
   "description": "Convertește textul în cod binar (0-uri și 1-uri) și codul binar înapoi în text lizibil, cu suport Unicode complet. Convertor gratuit text în binar - excelent pentru studenții la informatică.",
-  "id": "/loona-text-tools/ro/text-to-binary/",
+  "id": "/ro/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Train-Case-omvandlare",
   "short_name": "Train-Case-omvandlare",
   "description": "Gratis Train-Case-omvandlare — klistra in text och få Train-Case omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/train-case-converter/",
+  "id": "/sv/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

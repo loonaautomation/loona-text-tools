@@ -2,7 +2,7 @@
   "name": "Loona Teksttools-bibliotheek",
   "short_name": "Teksttools-bibliotheek",
   "description": "De volledige bibliotheek van Loona Text Tools: hoofdletteromzetters, woordentellers voor essays en toespraken, checkers voor platformtekenlimieten en leesbaarheidscalculators.",
-  "id": "/loona-text-tools/nl/text-tools-library/",
+  "id": "/nl/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

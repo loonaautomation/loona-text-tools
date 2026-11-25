@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Perkataan Per Halaman",
   "short_name": "Kalkulator Perkataan Per Halaman",
   "description": "Kalkulator perkataan-per-halaman percuma: masukkan perkataan, saiz fon dan jarak baris untuk mendapatkan jumlah halaman dan perkataan per halaman.",
-  "id": "/loona-text-tools/ms/words-per-page-calculator/",
+  "id": "/ms/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

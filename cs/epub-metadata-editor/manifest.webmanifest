@@ -2,7 +2,7 @@
   "name": "Loona Editor metadat EPUB zdarma",
   "short_name": "Editor metadat EPUB zdarma",
   "description": "Upravte metadata EPUB zdarma ve svém prohlížeči: název, autora, jazyk, vydavatele a popis, se zobrazenými informacemi o obálce. Kapitoly nedotčené, bez nahrávání, bez registrace.",
-  "id": "/loona-text-tools/cs/epub-metadata-editor/",
+  "id": "/cs/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

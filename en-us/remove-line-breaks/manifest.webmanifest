@@ -2,7 +2,7 @@
   "name": "Loona Remove Line Breaks - Join Lines into Clean Paragraphs",
   "short_name": "Remove Line Breaks - Join Lines into Clean Paragraphs",
   "description": "Remove line breaks and join broken lines into clean paragraphs - perfect for text copied from PDFs. Free online line break remover, no sign-up, instant results.",
-  "id": "/loona-text-tools/en-us/remove-line-breaks/",
+  "id": "/en-us/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

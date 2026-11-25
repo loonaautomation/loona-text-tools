@@ -2,7 +2,7 @@
   "name": "Loona Morsekodsöversättare online",
   "short_name": "Morsekodsöversättare online",
   "description": "Översätt text till morsekod och morsekod tillbaka till text, och hör den som riktiga pip. Gratis morsekodsöversättare online - ingen registrering, fungerar i din webbläsare.",
-  "id": "/loona-text-tools/sv/morse-code-translator/",
+  "id": "/sv/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

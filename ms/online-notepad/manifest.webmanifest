@@ -2,7 +2,7 @@
   "name": "Loona Notepad Dalam talian Percuma",
   "short_name": "Notepad Dalam talian Percuma",
   "description": "Notepad dalam talian percuma yang menyimpan automatik di pelayar anda saat anda menaip - termasuk muat turun, cetak dan kira perkataan. Tanpa pendaftaran; catatan anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-text-tools/ms/online-notepad/",
+  "id": "/ms/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

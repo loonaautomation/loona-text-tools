@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free SMS character counter: GSM 7-bit vs Unicode detection, segment count and characters remaining — live, in your browser.",
-  "id": "/loona-text-tools/en-us/sms-character-counter/",
+  "id": "/en-us/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

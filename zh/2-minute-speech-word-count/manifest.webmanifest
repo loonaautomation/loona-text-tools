@@ -2,7 +2,7 @@
   "name": "Loona 2 分钟演讲——需要多少词?",
   "short_name": "2 分钟演讲——需要多少词?",
   "description": "2 分钟的演讲有多少词?220–360 个词(对话语速下为 300 词)。免费实时计数器,附演讲时间检查。",
-  "id": "/loona-text-tools/zh/2-minute-speech-word-count/",
+  "id": "/zh/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

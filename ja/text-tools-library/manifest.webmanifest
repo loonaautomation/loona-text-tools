@@ -2,7 +2,7 @@
   "name": "Loona テキストツールライブラリ",
   "short_name": "テキストツールライブラリ",
   "description": "完全な Loona Text Tools ライブラリ：ケース変換ツール、エッセイとスピーチの単語カウンター、プラットフォーム文字制限チェッカー、読みやすさ計算ツール。",
-  "id": "/loona-text-tools/ja/text-tools-library/",
+  "id": "/ja/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

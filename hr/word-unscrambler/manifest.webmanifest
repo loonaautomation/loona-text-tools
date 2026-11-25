@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Složite bilo koja slova u prave engleske riječi koristeći cijeli ENABLE rječnik od 172,820 riječi - rezultati grupirani prema duljini, s bodovima za Scrabble, filtrima počinje s, završava s i sadrži te podrškom za prazne pločice. Besplatno, bez registracije, a vaša slova nikada ne napuštaju vaš preglednik.",
-  "id": "/loona-text-tools/hr/word-unscrambler/",
+  "id": "/hr/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

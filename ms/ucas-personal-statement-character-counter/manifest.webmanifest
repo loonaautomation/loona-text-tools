@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Pernyataan Pribadi UCAS",
   "short_name": "Pengira Aksara Pernyataan Pribadi UCAS",
   "description": "Pengira pengira aksara pernyataan pribadi UCAS percuma: hitungan aksara langsung terhadap had 4.000 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/ucas-personal-statement-character-counter/",
+  "id": "/ms/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

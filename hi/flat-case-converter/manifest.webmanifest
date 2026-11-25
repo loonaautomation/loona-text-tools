@@ -2,7 +2,7 @@
   "name": "Loona flatcase कन्वर्टर",
   "short_name": "flatcase कन्वर्टर",
   "description": "मुफ़्त flatcase कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत flatcase पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-text-tools/hi/flat-case-converter/",
+  "id": "/hi/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

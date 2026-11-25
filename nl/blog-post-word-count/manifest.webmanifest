@@ -2,7 +2,7 @@
   "name": "Loona Woordenaantal van blogpost",
   "short_name": "Woordenaantal van blogpost",
   "description": "Checker voor het woordenaantal van een blogpost: live telling met de lengtebanden voor nieuws (300–500), standaardposts (1.000–1.500) en diepgaande gidsen (2.000+).",
-  "id": "/loona-text-tools/nl/blog-post-word-count/",
+  "id": "/nl/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

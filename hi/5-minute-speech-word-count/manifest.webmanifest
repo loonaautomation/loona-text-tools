@@ -2,7 +2,7 @@
   "name": "Loona 5-मिनट भाषण",
   "short_name": "5-मिनट भाषण",
   "description": "5-मिनट के भाषण में कितने शब्द? 550–900 शब्द (बातचीत गति पर 750)। बोलने-के-समय की जांच के साथ मुफ़्त लाइव गणक।",
-  "id": "/loona-text-tools/hi/5-minute-speech-word-count/",
+  "id": "/hi/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

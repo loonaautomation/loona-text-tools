@@ -2,7 +2,7 @@
   "name": "Loona Adăugare numere de linie online",
   "short_name": "Adăugare numere de linie online",
   "description": "Adaugă numere la fiecare linie a textului tău, cu startul, pasul, completarea și separatorul alese de tine. Instrument gratuit de numerotare a liniilor - fără înregistrare, instant și privat.",
-  "id": "/loona-text-tools/ro/add-line-numbers/",
+  "id": "/ro/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

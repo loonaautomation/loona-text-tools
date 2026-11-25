@@ -2,7 +2,7 @@
   "name": "Loona ランダムトピック生成ツールオンラインフリー",
   "short_name": "ランダムトピック生成ツールオンラインフリー",
   "description": "エッセイ、スピーチ、ディベート、段落、プレゼンテーション、物語のためのランダムトピックを生成します — 9つのカテゴリーに900件の手書きトピック、レベルでフィルタリング。無料、登録不要。",
-  "id": "/loona-text-tools/ja/random-topic-generator/",
+  "id": "/ja/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

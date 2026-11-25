@@ -2,7 +2,7 @@
   "name": "Loona タイピングテストオンラインフリー",
   "short_name": "タイピングテストオンラインフリー",
   "description": "無料 60秒タイピングテスト：簡単、中級、難しいテキストで、WPM のタイピング速度、正確さ、毎分の文字数を測定します。登録不要、ブラウザーで100%動作します。",
-  "id": "/loona-text-tools/ja/typing-test/",
+  "id": "/ja/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

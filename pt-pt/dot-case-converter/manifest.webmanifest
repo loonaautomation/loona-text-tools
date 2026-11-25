@@ -2,7 +2,7 @@
   "name": "Loona Conversor dot.case",
   "short_name": "Conversor dot.case",
   "description": "Conversor dot.case grátis — cole texto e obtenha dot.case instantaneamente. Conversão em direto no seu navegador, sem registo, sem carregamento.",
-  "id": "/loona-text-tools/pt-pt/dot-case-converter/",
+  "id": "/pt-pt/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

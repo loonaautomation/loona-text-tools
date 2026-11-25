@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač s rimskog urdua na urdu pismo na mreži besplatno",
   "short_name": "Pretvarač s rimskog urdua na urdu pismo na mreži besplatno",
   "description": "Pretvorite rimski urdu (latinična slova) u pravo urdu pismo trenutačno – 'mera naam' postaje pravo urdu pisanje. Besplatan pretvarač rimskog urdua u urdu za Pakistan.",
-  "id": "/loona-text-tools/hr/roman-urdu-to-urdu/",
+  "id": "/hr/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

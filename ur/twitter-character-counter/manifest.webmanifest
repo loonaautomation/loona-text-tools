@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X حروف گننے والا",
   "short_name": "Twitter / X حروف گننے والا",
   "description": "مفت Twitter / X حروف گننے والا کاؤنٹر: 280 حروف کی حد کے مقابل لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/twitter-character-counter/",
+  "id": "/ur/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

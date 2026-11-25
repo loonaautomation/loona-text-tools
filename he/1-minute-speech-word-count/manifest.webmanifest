@@ -2,7 +2,7 @@
   "name": "Loona נאום של 1 דקה",
   "short_name": "נאום של 1 דקה",
   "description": "כמה מילים בנאום של 1 דקה? 110–180 מילים (150 בקצב שיחה). מונה חי חינמי עם בדיקת זמן דיבור.",
-  "id": "/loona-text-tools/he/1-minute-speech-word-count/",
+  "id": "/he/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

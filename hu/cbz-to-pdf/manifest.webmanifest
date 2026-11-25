@@ -2,7 +2,7 @@
   "name": "Loona CBZ–PDF átalakító ingyen",
   "short_name": "CBZ–PDF átalakító ingyen",
   "description": "Alakítsa a CBZ és ZIP képregényarchívumokat PDF-fé ingyen a böngészőjében. Oldalak természetes sorrendben (1, 2, 10), oldalanként egy kép teljes méretben. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/cbz-to-pdf/",
+  "id": "/hu/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

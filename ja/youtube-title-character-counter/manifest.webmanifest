@@ -2,7 +2,7 @@
   "name": "Loona YouTube タイトル文字数カウンター",
   "short_name": "YouTube タイトル文字数カウンター",
   "description": "無料 YouTube タイトル文字数カウンター：100文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/youtube-title-character-counter/",
+  "id": "/ja/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

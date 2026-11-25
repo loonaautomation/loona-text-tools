@@ -2,7 +2,7 @@
   "name": "Loona Generator haseł online",
   "short_name": "Generator haseł online",
   "description": "Generuj silne, losowe hasła o wybranej przez Ciebie długości i z wybranymi symbolami, wraz z uczciwym miernikiem siły. Darmowy generator haseł - tworzone tylko na Twoim urządzeniu.",
-  "id": "/loona-text-tools/pl/password-generator/",
+  "id": "/pl/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

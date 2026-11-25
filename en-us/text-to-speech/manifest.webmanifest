@@ -2,7 +2,7 @@
   "name": "Loona Text to Speech - Listen to Your Text Aloud",
   "short_name": "Text to Speech - Listen to Your Text Aloud",
   "description": "Turn any text into natural spoken audio free online - English and Urdu voices, adjustable speed and pitch. No sign-up, nothing uploaded, works in your browser.",
-  "id": "/loona-text-tools/en-us/text-to-speech/",
+  "id": "/en-us/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

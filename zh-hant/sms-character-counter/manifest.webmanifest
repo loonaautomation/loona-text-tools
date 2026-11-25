@@ -2,7 +2,7 @@
   "name": "Loona 簡訊字元計數器",
   "short_name": "簡訊字元計數器",
   "description": "免費的簡訊字元計數器:GSM 7 位與 Unicode 檢測、分段計數和剩餘字元數——在您的瀏覽器中實時進行。",
-  "id": "/loona-text-tools/zh-hant/sms-character-counter/",
+  "id": "/zh-hant/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

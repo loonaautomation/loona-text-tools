@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka slov na stranu",
   "short_name": "Kalkulačka slov na stranu",
   "description": "Bezplatná kalkulačka slov na stranu: zadajte slová, veľkosť písma a riadkovanie a získajte počet strán a slová na stranu.",
-  "id": "/loona-text-tools/sk/words-per-page-calculator/",
+  "id": "/sk/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

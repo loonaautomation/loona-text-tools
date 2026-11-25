@@ -2,7 +2,7 @@
   "name": "Loona Regeleinden online verwijderen",
   "short_name": "Regeleinden online verwijderen",
   "description": "Verwijder regeleinden en voeg gebroken regels samen tot schone alinea's - perfect voor tekst die uit PDF's is gekopieerd. Gratis online verwijderaar van regeleinden, geen registratie, directe resultaten.",
-  "id": "/loona-text-tools/nl/remove-line-breaks/",
+  "id": "/nl/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

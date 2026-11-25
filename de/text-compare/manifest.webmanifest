@@ -2,7 +2,7 @@
   "name": "Loona Textvergleich online",
   "short_name": "Textvergleich online",
   "description": "Vergleichen Sie zwei Texte Zeile für Zeile und sehen Sie genau, welche Zeilen hinzugefügt, entfernt oder behalten wurden. Kostenloses Online-Textvergleichs-Tool – keine Registrierung, privat in Ihrem Browser.",
-  "id": "/loona-text-tools/de/text-compare/",
+  "id": "/de/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

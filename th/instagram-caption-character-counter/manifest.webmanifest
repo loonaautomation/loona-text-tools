@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรคำบรรยาย Instagram",
   "short_name": "ตัวนับตัวอักษรคำบรรยาย Instagram",
   "description": "ตัวนับตัวอักษรคำบรรยาย Instagram ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 2,200 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/instagram-caption-character-counter/",
+  "id": "/th/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

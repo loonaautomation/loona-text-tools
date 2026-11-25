@@ -2,7 +2,7 @@
   "name": "Loona Generatore di slug online",
   "short_name": "Generatore di slug online",
   "description": "Trasforma qualsiasi titolo in uno slug URL pulito e SEO-friendly: minuscolo, senza spazi, senza caratteri speciali. Generatore di slug online gratuito con anteprima URL completa - nessuna registrazione.",
-  "id": "/loona-text-tools/it/slug-generator/",
+  "id": "/it/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

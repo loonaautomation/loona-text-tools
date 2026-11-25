@@ -2,7 +2,7 @@
   "name": "Loona فرز الأسطر عبر الإنترنت",
   "short_name": "فرز الأسطر عبر الإنترنت",
   "description": "فرز أسطر النص أبجديًا (A-Z أو Z-A) أو حسب الطول أو بترتيب معكوس أو مخلوطة عشوائيًا. فارز أسطر مجاني عبر الإنترنت - بلا تسجيل، فوري وخاص.",
-  "id": "/loona-text-tools/ar/sort-lines/",
+  "id": "/ar/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

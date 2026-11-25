@@ -2,7 +2,7 @@
   "name": "Loona Szöveg hexadecimálissá alakítása online ingyen",
   "short_name": "Szöveg hexadecimálissá alakítása online ingyen",
   "description": "Alakítsa a szöveget hexadecimálissá és a hexadecimálist vissza szöveggé, helyesen kezelve az UTF-8-at ékezetes betűkhöz, urduhoz és emojikhoz. Ingyenes hexaátalakító, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/text-to-hex-converter/",
+  "id": "/hu/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Проверка длины мета-описания",
   "short_name": "Проверка длины мета-описания",
   "description": "Бесплатная проверка длины метаописания: живой подсчёт символов относительно лимита в 160 символов, со словами и оставшимися символами, показываемыми по мере ввода.",
-  "id": "/loona-text-tools/ru/meta-description-length-checker/",
+  "id": "/ru/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

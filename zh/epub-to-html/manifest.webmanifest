@@ -2,7 +2,7 @@
   "name": "Loona EPUB 转 HTML 转换器,免费",
   "short_name": "EPUB 转 HTML 转换器,免费",
   "description": "免费将 EPUB 电子书转换为单个自包含的 HTML 文件,在您的浏览器中完成。章节有序,基本排版,小图片内嵌。不上传,无需注册。",
-  "id": "/loona-text-tools/zh/epub-to-html/",
+  "id": "/zh/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

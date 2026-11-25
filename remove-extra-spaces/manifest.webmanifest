@@ -2,7 +2,7 @@
   "name": "Loona Remove Extra Spaces Online",
   "short_name": "Remove Extra Spaces Online",
   "description": "Remove extra spaces, tabs and blank lines from text in one click. Tidy text copied from PDFs, emails and web pages. Free online remover - no sign-up needed.",
-  "id": "/loona-text-tools/remove-extra-spaces/",
+  "id": "/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

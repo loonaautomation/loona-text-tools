@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Tahap Bacaan",
   "short_name": "Kalkulator Tahap Bacaan",
   "description": "Beri skor teks apa pun dengan skala Flesch Reading Ease dan Flesch-Kincaid Grade Tahap, menggunakan rumus standard. Lihat betapa mudahnya tulisan anda dibaca. Percuma.",
-  "id": "/loona-text-tools/ms/reading-level-calculator/",
+  "id": "/ms/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

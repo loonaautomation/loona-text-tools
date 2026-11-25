@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller online",
   "short_name": "Tegntæller online",
   "description": "Tæl tegn med og uden mellemrum og tjek grænser for X (Twitter), SMS, metabeskrivelser og mere. Gratis online tegntæller - ingen tilmelding nødvendig.",
-  "id": "/loona-text-tools/da/character-counter/",
+  "id": "/da/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

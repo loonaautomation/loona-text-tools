@@ -2,7 +2,7 @@
   "name": "Loona Fancy tekstgenerator på nett",
   "short_name": "Fancy tekstgenerator på nett",
   "description": "Gjør klartekst til stilige Unicode-skrifter - fet, skrift, fraktur, sirklet, små kapitéler og mer - for bioer, bildetekster og brukernavn. Gratis fancy tekstgenerator.",
-  "id": "/loona-text-tools/nb/fancy-text-generator/",
+  "id": "/nb/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Urutkan Baris Online",
   "short_name": "Urutkan Baris Online",
   "description": "Urutkan baris teks secara alfabetis (A-Z atau Z-A), berdasarkan panjang, dalam urutan terbalik atau diacak secara acak. Pengurut baris online gratis - tanpa pendaftaran, instan dan privat.",
-  "id": "/loona-text-tools/id/sort-lines/",
+  "id": "/id/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

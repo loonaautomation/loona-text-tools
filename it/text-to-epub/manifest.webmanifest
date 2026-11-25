@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da testo a EPUB gratuito",
   "short_name": "Convertitore da testo a EPUB gratuito",
   "description": "Converti testo semplice o Markdown in un ebook EPUB valido gratuitamente, nel tuo browser. Titolo e autore, capitoli dai titoli, si apre in qualsiasi lettore EPUB. Nessun caricamento, nessuna registrazione.",
-  "id": "/loona-text-tools/it/text-to-epub/",
+  "id": "/it/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

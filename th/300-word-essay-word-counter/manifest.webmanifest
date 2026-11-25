@@ -2,7 +2,7 @@
   "name": "Loona เรียงความ 300 คำ",
   "short_name": "เรียงความ 300 คำ",
   "description": "ตัวนับเรียงความ 300 คำฟรี: นับคำแบบสดถึงเป้าหมาย 300 คำ หน้าแบบเว้นบรรทัดเดี่ยวและเว้นบรรทัดคู่ ย่อหน้า เวลาอ่านและเวลาพูด",
-  "id": "/loona-text-tools/th/300-word-essay-word-counter/",
+  "id": "/th/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

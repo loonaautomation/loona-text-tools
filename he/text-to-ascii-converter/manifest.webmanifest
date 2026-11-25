@@ -2,7 +2,7 @@
   "name": "Loona ממיר טקסט ל-ASCII אונליין בחינם",
   "short_name": "ממיר טקסט ל-ASCII אונליין בחינם",
   "description": "המירו טקסט לקודי ASCII (עשרוני, הקסדצימלי, אוקטלי ובינארי לכל תו) והמירו קודי ASCII בחזרה לטקסט. חינם, מיידי, ללא הרשמה.",
-  "id": "/loona-text-tools/he/text-to-ascii-converter/",
+  "id": "/he/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

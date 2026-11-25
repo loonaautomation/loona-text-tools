@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid-niveaucalculator",
   "short_name": "Flesch–Kincaid-niveaucalculator",
   "description": "Gratis Flesch–Kincaid-niveaucalculator: plak tekst voor het schoolniveau en de leesgemakscore, met woorden per zin en lettergrepen per woord.",
-  "id": "/loona-text-tools/nl/flesch-kincaid-grade-calculator/",
+  "id": "/nl/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

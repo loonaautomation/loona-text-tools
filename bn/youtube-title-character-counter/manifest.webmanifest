@@ -2,7 +2,7 @@
   "name": "Loona YouTube শিরোনাম অক্ষর গণক",
   "short_name": "YouTube শিরোনাম অক্ষর গণক",
   "description": "বিনামূল্যে YouTube শিরোনাম অক্ষর গণক গণক: 100-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/youtube-title-character-counter/",
+  "id": "/bn/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

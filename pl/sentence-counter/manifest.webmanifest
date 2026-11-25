@@ -2,7 +2,7 @@
   "name": "Loona Darmowy licznik zdań online",
   "short_name": "Darmowy licznik zdań online",
   "description": "Licz zdania, akapity, słowa i znaki w dowolnym tekście natychmiast, wraz ze średnią długością zdania. Darmowy licznik zdań, bez rejestracji, działa w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/sentence-counter/",
+  "id": "/pl/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

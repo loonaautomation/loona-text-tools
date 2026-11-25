@@ -2,7 +2,7 @@
   "name": "Loona Libreria strumenti di testo",
   "short_name": "Libreria strumenti di testo",
   "description": "La libreria completa Loona Text Tools: convertitori di maiuscole, contatori di parole per saggi e discorsi, verificatori dei limiti di caratteri delle piattaforme e calcolatori di leggibilità.",
-  "id": "/loona-text-tools/it/text-tools-library/",
+  "id": "/it/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

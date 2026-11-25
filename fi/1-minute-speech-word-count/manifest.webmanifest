@@ -2,7 +2,7 @@
   "name": "Loona 1 minuutin puhe",
   "short_name": "1 minuutin puhe",
   "description": "Kuinka monta sanaa 1 minuutin puheessa? 110–180 sanaa (150 keskustelutahdilla). Ilmainen reaaliaikainen laskuri puheajan tarkistuksella.",
-  "id": "/loona-text-tools/fi/1-minute-speech-word-count/",
+  "id": "/fi/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Keresse meg a legmagasabb pontszámú lépéseket a betűtartójáról, és ellenőrizze, hogy bármely szó érvényes-e. Teljes 172,820 szavas ENABLE szótár, üres lapkák támogatva, 100%-ban az eszközön. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/scrabble-word-finder/",
+  "id": "/hu/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

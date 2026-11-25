@@ -2,7 +2,7 @@
   "name": "Loona Převodník obrázků na text (OCR) online zdarma",
   "short_name": "Převodník obrázků na text (OCR) online zdarma",
   "description": "Extrahujte upravitelný text z obrázků a fotografií pomocí bezplatného OCR, které běží 100% ve vašem prohlížeči. PNG, JPG, WebP a BMP - váš obrázek se nikdy nenahrává.",
-  "id": "/loona-text-tools/cs/image-to-text-converter/",
+  "id": "/cs/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

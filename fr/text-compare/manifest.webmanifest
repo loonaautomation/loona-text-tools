@@ -2,7 +2,7 @@
   "name": "Loona Comparaison de textes en ligne",
   "short_name": "Comparaison de textes en ligne",
   "description": "Comparez deux textes ligne par ligne et voyez exactement quelles lignes ont été ajoutées, supprimées ou conservées. Outil de comparaison de textes en ligne gratuit - aucune inscription, privé dans votre navigateur.",
-  "id": "/loona-text-tools/fr/text-compare/",
+  "id": "/fr/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

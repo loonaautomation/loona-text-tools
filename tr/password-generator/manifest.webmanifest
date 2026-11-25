@@ -2,7 +2,7 @@
   "name": "Loona Parola Oluşturucu Çevrimiçi",
   "short_name": "Parola Oluşturucu Çevrimiçi",
   "description": "Seçtiğiniz uzunluk ve sembollerle güçlü, rastgele parolalar oluşturun; ayrıca dürüst bir güç ölçer. Ücretsiz parola oluşturucu - yalnızca cihazınızda oluşturulur.",
-  "id": "/loona-text-tools/tr/password-generator/",
+  "id": "/tr/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

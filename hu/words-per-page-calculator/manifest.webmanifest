@@ -2,7 +2,7 @@
   "name": "Loona Szavak oldalanként számítása",
   "short_name": "Szavak oldalanként számítása",
   "description": "Ingyenes szavak oldalanként számító: adja meg a szavakat, a betűméretet és a sorközt az oldalszámhoz és az oldalankénti szavakhoz.",
-  "id": "/loona-text-tools/hu/words-per-page-calculator/",
+  "id": "/hu/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

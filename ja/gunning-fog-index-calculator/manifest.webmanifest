@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog 指数計算ツール",
   "short_name": "Gunning Fog 指数計算ツール",
   "description": "無料 Gunning Fog 指数計算ツール：テキストを貼り付けると Fog 指数、複雑な単語の数、それが示す就学年数が得られます。",
-  "id": "/loona-text-tools/ja/gunning-fog-index-calculator/",
+  "id": "/ja/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

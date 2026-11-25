@@ -2,7 +2,7 @@
   "name": "Loona EPUB 元数据编辑器,免费",
   "short_name": "EPUB 元数据编辑器,免费",
   "description": "在浏览器中免费编辑 EPUB 元数据:标题、作者、语言、出版社和描述,并显示封面信息。章节不动,不上传,无需注册。",
-  "id": "/loona-text-tools/zh/epub-metadata-editor/",
+  "id": "/zh/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

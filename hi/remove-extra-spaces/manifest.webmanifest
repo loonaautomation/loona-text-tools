@@ -2,7 +2,7 @@
   "name": "Loona अतिरिक्त स्पेस ऑनलाइन हटाएँ",
   "short_name": "अतिरिक्त स्पेस ऑनलाइन हटाएँ",
   "description": "एक क्लिक में टेक्स्ट से अतिरिक्त स्पेस, टैब और खाली लाइनें हटाएँ। PDF, ईमेल और वेब पेज से कॉपी किया टेक्स्ट साफ़ करें। मुफ़्त ऑनलाइन हटाने वाला - साइन-अप की ज़रूरत नहीं।",
-  "id": "/loona-text-tools/hi/remove-extra-spaces/",
+  "id": "/hi/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

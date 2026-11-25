@@ -2,7 +2,7 @@
   "name": "Loona محوّل Train-Case",
   "short_name": "محوّل Train-Case",
   "description": "محوّل Train-Case مجانًا — الصق النص واحصل على Train-Case فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/train-case-converter/",
+  "id": "/ar/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

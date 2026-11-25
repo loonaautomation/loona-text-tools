@@ -2,7 +2,7 @@
   "name": "Loona EPUB–szöveg átalakító ingyen",
   "short_name": "EPUB–szöveg átalakító ingyen",
   "description": "Alakítsa az EPUB e-könyveket tiszta egyszerű szöveggé (.txt) ingyen, a böngészőjében. Fejezetek olvasási sorrendben, címsorok megőrizve, a fejezetlista és a szószám elöl látható. Feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/epub-to-text/",
+  "id": "/hu/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

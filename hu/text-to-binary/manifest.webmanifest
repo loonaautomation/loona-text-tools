@@ -2,7 +2,7 @@
   "name": "Loona Szöveg binárissá alakítása online",
   "short_name": "Szöveg binárissá alakítása online",
   "description": "Alakítsa a szöveget bináris kóddá (0-k és 1-esek) és a binárist vissza olvasható szöveggé, teljes Unicode-támogatással. Ingyenes szövegből binárissá alakító - nagyszerű informatikus hallgatóknak.",
-  "id": "/loona-text-tools/hu/text-to-binary/",
+  "id": "/hu/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

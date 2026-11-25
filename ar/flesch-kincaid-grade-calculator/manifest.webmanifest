@@ -2,7 +2,7 @@
   "name": "Loona حاسبة درجة Flesch–Kincaid",
   "short_name": "حاسبة درجة Flesch–Kincaid",
   "description": "حاسبة درجة Flesch–Kincaid مجانية: الصق نصًا للحصول على مستوى الصف ودرجة سهولة القراءة، مع الكلمات في الجملة والمقاطع في الكلمة.",
-  "id": "/loona-text-tools/ar/flesch-kincaid-grade-calculator/",
+  "id": "/ar/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Převodník CBZ do PDF zdarma",
   "short_name": "Převodník CBZ do PDF zdarma",
   "description": "Převeďte komiksové archivy CBZ a ZIP do PDF zdarma ve svém prohlížeči. Stránky v přirozeném pořadí (1, 2, 10), jeden obrázek na stránku v plné velikosti. Bez nahrávání, bez registrace.",
-  "id": "/loona-text-tools/cs/cbz-to-pdf/",
+  "id": "/cs/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

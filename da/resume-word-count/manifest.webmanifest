@@ -2,7 +2,7 @@
   "name": "Loona CV-ordantal",
   "short_name": "CV-ordantal",
   "description": "Tjek af CV-ordantal: live tælling med målet for én side (400–600 ord), sideestimat og trimmevejledning.",
-  "id": "/loona-text-tools/da/resume-word-count/",
+  "id": "/da/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

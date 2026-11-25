@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn-julkaisujen merkkilaskuri",
   "short_name": "LinkedIn-julkaisujen merkkilaskuri",
   "description": "Ilmainen LinkedIn-julkaisujen merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 3,000 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/linkedin-post-character-counter/",
+  "id": "/fi/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

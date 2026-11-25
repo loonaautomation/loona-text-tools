@@ -2,7 +2,7 @@
   "name": "Loona Prevodník aLtErNaTiNg CaSe",
   "short_name": "Prevodník aLtErNaTiNg CaSe",
   "description": "Bezplatný prevodník aLtErNaTiNg CaSe — vložte text a získajte aLtErNaTiNg CaSe okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
-  "id": "/loona-text-tools/sk/alternating-case-converter/",
+  "id": "/sk/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

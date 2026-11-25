@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid trinberegner",
   "short_name": "Flesch–Kincaid trinberegner",
   "description": "Gratis Flesch–Kincaid trinberegner: indsæt tekst for klassetrinniveauet og læsenemhedsscoren, med ord pr. sætning og stavelser pr. ord.",
-  "id": "/loona-text-tools/da/flesch-kincaid-grade-calculator/",
+  "id": "/da/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

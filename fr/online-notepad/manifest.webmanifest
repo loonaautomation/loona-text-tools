@@ -2,7 +2,7 @@
   "name": "Loona Bloc-notes en ligne gratuit",
   "short_name": "Bloc-notes en ligne gratuit",
   "description": "Un bloc-notes en ligne gratuit qui s’enregistre automatiquement dans votre navigateur pendant que vous tapez - téléchargement, impression et comptage de mots inclus. Aucune inscription ; vos notes ne quittent jamais votre appareil.",
-  "id": "/loona-text-tools/fr/online-notepad/",
+  "id": "/fr/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

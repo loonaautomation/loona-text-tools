@@ -2,7 +2,7 @@
   "name": "Loona Konwerter tekstu na ASCII online za darmo",
   "short_name": "Konwerter tekstu na ASCII online za darmo",
   "description": "Zamień tekst na kody ASCII (dziesiętne, szesnastkowe, ósemkowe i binarne dla każdego znaku) i zamień kody ASCII z powrotem na tekst. Za darmo, natychmiast, bez rejestracji.",
-  "id": "/loona-text-tools/pl/text-to-ascii-converter/",
+  "id": "/pl/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

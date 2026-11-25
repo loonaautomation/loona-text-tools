@@ -2,7 +2,7 @@
   "name": "Loona آن لائن نوٹ پیڈ مفت",
   "short_name": "آن لائن نوٹ پیڈ مفت",
   "description": "ایک مفت آن لائن نوٹ پیڈ جو آپ کے لکھتے ہی براؤزر میں خودکار محفوظ کرتا ہے - ڈاؤن لوڈ، پرنٹ اور الفاظ کی گنتی شامل۔ کوئی سائن اپ نہیں؛ آپ کے نوٹس کبھی آپ کے آلے سے باہر نہیں جاتے۔",
-  "id": "/loona-text-tools/ur/online-notepad/",
+  "id": "/ur/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

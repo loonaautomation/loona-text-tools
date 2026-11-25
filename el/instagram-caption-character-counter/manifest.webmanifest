@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Λεζάντας Instagram",
   "short_name": "Μετρητής Χαρακτήρων Λεζάντας Instagram",
   "description": "Δωρεάν μετρητής χαρακτήρων λεζάντας Instagram: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 2,200 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/instagram-caption-character-counter/",
+  "id": "/el/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

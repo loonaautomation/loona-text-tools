@@ -2,7 +2,7 @@
   "name": "Loona Sentence Counter Online Free",
   "short_name": "Sentence Counter Online Free",
   "description": "Count sentences, paragraphs, words and characters in any text instantly, with average sentence length. Free sentence counter, no sign-up, works in your browser.",
-  "id": "/loona-text-tools/sentence-counter/",
+  "id": "/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

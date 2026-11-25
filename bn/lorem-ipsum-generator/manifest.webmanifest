@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum জেনারেটর অনলাইন",
   "short_name": "Lorem Ipsum জেনারেটর অনলাইন",
   "description": "অনুচ্ছেদ, বাক্য বা শব্দ অনুযায়ী lorem ipsum ডামি টেক্সট তৈরি করুন - নকশা ও বিন্যাসে পেস্টের জন্য তৈরি। বিনামূল্যের lorem ipsum জেনারেটর, কোনো সাইন-আপ লাগে না।",
-  "id": "/loona-text-tools/bn/lorem-ipsum-generator/",
+  "id": "/bn/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

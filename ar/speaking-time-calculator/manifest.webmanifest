@@ -2,7 +2,7 @@
   "name": "Loona حاسبة وقت التحدث",
   "short_name": "حاسبة وقت التحدث",
   "description": "الصق خطابك أو نصّك وشاهد كم يستغرق للإلقاء بإيقاعات بطيئة ومحادثة وسريعة - إضافة إلى كم كلمة تناسب وقتًا مستهدفًا. مجاني، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/speaking-time-calculator/",
+  "id": "/ar/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

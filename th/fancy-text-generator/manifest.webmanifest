@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างข้อความตกแต่งออนไลน์",
   "short_name": "ตัวสร้างข้อความตกแต่งออนไลน์",
   "description": "เปลี่ยนข้อความธรรมดาให้เป็นฟอนต์ Unicode ที่มีสไตล์ — ตัวหนา ตัวเขียน ฟรักทัวร์ วงกลม ตัวพิมพ์ใหญ่เล็ก และอื่น ๆ — สำหรับประวัติ คำบรรยาย และชื่อผู้ใช้ ตัวสร้างข้อความแฟนซีฟรี",
-  "id": "/loona-text-tools/th/fancy-text-generator/",
+  "id": "/th/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

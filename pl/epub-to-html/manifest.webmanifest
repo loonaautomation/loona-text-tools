@@ -2,7 +2,7 @@
   "name": "Loona Darmowy konwerter EPUB na HTML",
   "short_name": "Darmowy konwerter EPUB na HTML",
   "description": "Konwertuj e-booki EPUB na jeden samodzielny plik HTML za darmo, w swojej przeglądarce. Rozdziały w kolejności, podstawowa typografia, małe obrazy osadzone. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-text-tools/pl/epub-to-html/",
+  "id": "/pl/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

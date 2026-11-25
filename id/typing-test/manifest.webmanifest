@@ -2,7 +2,7 @@
   "name": "Loona Tes Mengetik Online Gratis",
   "short_name": "Tes Mengetik Online Gratis",
   "description": "Tes mengetik 60 detik gratis: ukur kecepatan mengetik Anda dalam WPM, akurasi dan karakter per menit dengan teks mudah, sedang dan sulit. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-text-tools/id/typing-test/",
+  "id": "/id/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Isih Baris Dalam talian",
   "short_name": "Isih Baris Dalam talian",
   "description": "Isih baris teks secara alfabetis (A-Z atau Z-A), berdasarkan panjang, dalam turutan terbalik atau dirawakkan secara rawak. Pengurut baris dalam talian percuma - tanpa pendaftaran, serta-merta dan peribadi.",
-  "id": "/loona-text-tools/ms/sort-lines/",
+  "id": "/ms/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

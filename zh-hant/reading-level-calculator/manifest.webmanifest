@@ -2,7 +2,7 @@
   "name": "Loona 閱讀水平計算器",
   "short_name": "閱讀水平計算器",
   "description": "用 Flesch 閱讀易度量表和 Flesch-Kincaid 等級水平為任何文字評分,使用標準公式。檢視您的寫作有多容易讀。免費。",
-  "id": "/loona-text-tools/zh-hant/reading-level-calculator/",
+  "id": "/zh-hant/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

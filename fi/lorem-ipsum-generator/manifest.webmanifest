@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum -generaattori verkossa",
   "short_name": "Lorem Ipsum -generaattori verkossa",
   "description": "Luo lorem ipsum -täytetekstiä kappaleen, lauseen tai sanan mukaan – valmiina liitettäväksi suunnitelmiin ja asetteluihin. Ilmainen lorem ipsum -generaattori, rekisteröitymistä ei tarvita.",
-  "id": "/loona-text-tools/fi/lorem-ipsum-generator/",
+  "id": "/fi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

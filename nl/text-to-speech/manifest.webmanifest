@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar spraak online gratis",
   "short_name": "Tekst naar spraak online gratis",
   "description": "Zet elke tekst gratis online om naar natuurlijk gesproken audio - Engelse en Urdu-stemmen, instelbare snelheid en toonhoogte. Geen registratie, niets geüpload, werkt in je browser.",
-  "id": "/loona-text-tools/nl/text-to-speech/",
+  "id": "/nl/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

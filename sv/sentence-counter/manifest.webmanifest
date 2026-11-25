@@ -2,7 +2,7 @@
   "name": "Loona Meningsräknare online gratis",
   "short_name": "Meningsräknare online gratis",
   "description": "Räkna meningar, stycken, ord och tecken i vilken text som helst omedelbart, med genomsnittlig meningslängd. Gratis meningsräknare, ingen registrering, fungerar i din webbläsare.",
-  "id": "/loona-text-tools/sv/sentence-counter/",
+  "id": "/sv/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

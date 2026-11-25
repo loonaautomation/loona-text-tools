@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor TikTok-bijschriften",
   "short_name": "Tekenteller voor TikTok-bijschriften",
   "description": "Gratis tekenteller voor TikTok-bijschriften: live tekentelling tegen de limiet van 2.200 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/tiktok-caption-character-counter/",
+  "id": "/nl/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

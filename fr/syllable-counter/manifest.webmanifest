@@ -2,7 +2,7 @@
   "name": "Loona Compteur de syllabes en ligne gratuit",
   "short_name": "Compteur de syllabes en ligne gratuit",
   "description": "Comptez les syllabes dans n’importe quel mot, phrase ou texte complet instantanément - total des syllabes, détail par mot et moyennes. Compteur de syllabes gratuit, sans inscription, fonctionne hors ligne.",
-  "id": "/loona-text-tools/fr/syllable-counter/",
+  "id": "/fr/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

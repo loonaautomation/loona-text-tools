@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE sKIFTLÄGE-omvandlare",
   "short_name": "iNVERSE sKIFTLÄGE-omvandlare",
   "description": "Gratis omvandlare till oMVÄNT sKIFTLÄGE — klistra in text och få oMVÄNT sKIFTLÄGE omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/inverse-case-converter/",
+  "id": "/sv/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 대소문자 변환기 온라인",
   "short_name": "대소문자 변환기 온라인",
   "description": "클릭 한 번으로 텍스트를 UPPERCASE, 소문자, Title Case, Sentence case, Capitalized 또는 aLtErNaTiNg case로 변환하세요. 무료 온라인 대소문자 변환기 - 회원가입이 필요 없어요.",
-  "id": "/loona-text-tools/ko/case-converter/",
+  "id": "/ko/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

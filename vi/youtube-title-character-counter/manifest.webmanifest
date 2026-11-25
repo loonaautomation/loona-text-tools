@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự tiêu đề YouTube",
   "short_name": "Bộ đếm ký tự tiêu đề YouTube",
   "description": "Bộ đếm ký tự tiêu đề YouTube miễn phí: đếm ký tự trực tiếp so với giới hạn 100 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/youtube-title-character-counter/",
+  "id": "/vi/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

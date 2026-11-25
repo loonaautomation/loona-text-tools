@@ -2,7 +2,7 @@
   "name": "Loona Sanojen esiintymistiheyden laskuri verkossa",
   "short_name": "Sanojen esiintymistiheyden laskuri verkossa",
   "description": "Laske, kuinka usein jokainen sana esiintyy tekstissäsi, ja näe järjestetty taulukko prosentteineen. Ilmainen sanojen esiintymistiheyden laskuri verkossa – ei rekisteröitymistä, välitön.",
-  "id": "/loona-text-tools/fi/word-frequency/",
+  "id": "/fi/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač CBZ u PDF besplatno",
   "short_name": "Pretvarač CBZ u PDF besplatno",
   "description": "Pretvorite CBZ i ZIP arhive stripova u PDF besplatno u svom pregledniku. Stranice prirodnim redoslijedom (1, 2, 10), jedna slika po stranici u punoj veličini. Bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/cbz-to-pdf/",
+  "id": "/hr/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Titelcasing-omzetter",
   "short_name": "Titelcasing-omzetter",
   "description": "Gratis omzetter naar Titelcasing — plak tekst en krijg direct Titelcasing. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/title-case-converter/",
+  "id": "/nl/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

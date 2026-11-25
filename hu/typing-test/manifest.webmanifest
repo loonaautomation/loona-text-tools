@@ -2,7 +2,7 @@
   "name": "Loona Gépelési teszt online ingyen",
   "short_name": "Gépelési teszt online ingyen",
   "description": "Ingyenes 60 másodperces gépelési teszt: mérje a gépelési sebességét WPM-ben, pontosságát és karaktereit percenként könnyű, közepes és nehéz szövegekkel. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-text-tools/hu/typing-test/",
+  "id": "/hu/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona パスワード生成ツールオンライン",
   "short_name": "パスワード生成ツールオンライン",
   "description": "選んだ長さと記号で、強力なランダムパスワードを生成し、正直な強度メーターも付けます。無料パスワード生成ツール — あなたの端末でのみ作成されます。",
-  "id": "/loona-text-tools/ja/password-generator/",
+  "id": "/ja/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

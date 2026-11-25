@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för Reddit-inlägg",
   "short_name": "Teckenräknare för Reddit-inlägg",
   "description": "Gratis teckenräknare för Reddit-inlägg räknare: levande teckenantal mot gränsen på 40.000 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/reddit-post-character-counter/",
+  "id": "/sv/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

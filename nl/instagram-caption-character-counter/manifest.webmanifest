@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor Instagram-bijschriften",
   "short_name": "Tekenteller voor Instagram-bijschriften",
   "description": "Gratis tekenteller voor Instagram-bijschriften: live tekentelling tegen de limiet van 2.200 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/instagram-caption-character-counter/",
+  "id": "/nl/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Satır Sonlarını Çevrimiçi Kaldırın",
   "short_name": "Satır Sonlarını Çevrimiçi Kaldırın",
   "description": "Satır sonlarını kaldırın ve bozuk satırları temiz paragraflarda birleştirin - PDF'lerden kopyalanmış metin için mükemmel. Ücretsiz çevrimiçi satır sonu kaldırıcı, kayıt yok, anında sonuçlar.",
-  "id": "/loona-text-tools/tr/remove-line-breaks/",
+  "id": "/tr/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

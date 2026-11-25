@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Palíndromos Online Grátis",
   "short_name": "Verificador de Palíndromos Online Grátis",
   "description": "Verifique se alguma palavra, número ou frase é um palíndromo - lê-se da mesma forma para a frente e para trás. Mostra o texto limpo e o seu inverso. Grátis, sem registo.",
-  "id": "/loona-text-tools/pt/palindrome-checker/",
+  "id": "/pt/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

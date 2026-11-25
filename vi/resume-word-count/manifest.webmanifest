@@ -2,7 +2,7 @@
   "name": "Loona Số từ sơ yếu lý lịch",
   "short_name": "Số từ sơ yếu lý lịch",
   "description": "Công cụ kiểm tra số từ sơ yếu lý lịch: đếm trực tiếp với mục tiêu một trang (400–600 từ), ước tính số trang và hướng dẫn cắt bớt.",
-  "id": "/loona-text-tools/vi/resume-word-count/",
+  "id": "/vi/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

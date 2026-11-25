@@ -2,7 +2,7 @@
   "name": "Loona Contor de frecvență a cuvintelor online",
   "short_name": "Contor de frecvență a cuvintelor online",
   "description": "Numără cât de des apare fiecare cuvânt în textul tău și vezi un tabel de frecvență clasat, cu procentaje. Contor online gratuit de frecvență a cuvintelor - fără înregistrare, instant.",
-  "id": "/loona-text-tools/ro/word-frequency/",
+  "id": "/ro/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

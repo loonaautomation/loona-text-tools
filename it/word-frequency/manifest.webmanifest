@@ -2,7 +2,7 @@
   "name": "Loona Contatore frequenza delle parole online",
   "short_name": "Contatore frequenza delle parole online",
   "description": "Conta quanto spesso ogni parola appare nel tuo testo e vedi una tabella di frequenza classificata con percentuali. Contatore di frequenza delle parole online gratuito - nessuna registrazione, istantaneo.",
-  "id": "/loona-text-tools/it/word-frequency/",
+  "id": "/it/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

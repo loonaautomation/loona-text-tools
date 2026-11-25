@@ -2,7 +2,7 @@
   "name": "Loona Số từ tiểu thuyết theo thể loại",
   "short_name": "Số từ tiểu thuyết theo thể loại",
   "description": "Số từ tiểu thuyết theo thể loại: người lớn 70,000–120,000, YA 50,000–90,000, trung học cơ sở 20,000–55,000. Bộ đếm trực tiếp miễn phí với mục tiêu thể loại.",
-  "id": "/loona-text-tools/vi/novel-word-count-guide/",
+  "id": "/vi/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

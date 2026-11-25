@@ -2,7 +2,7 @@
   "name": "Loona Sélecteur d'Émojis en Ligne Gratuit",
   "short_name": "Sélecteur d'Émojis en Ligne Gratuit",
   "description": "Sélecteur d'émojis gratuit : parcourez ou recherchez 1,900+ émojis et symboles, choisissez un ton de peau, cliquez pour copier un émoji ou tout un plateau. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-text-tools/fr/emoji-picker/",
+  "id": "/fr/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

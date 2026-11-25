@@ -2,7 +2,7 @@
   "name": "Loona Palindroomchecker online gratis",
   "short_name": "Palindroomchecker online gratis",
   "description": "Controleer of een woord, getal of zin een palindroom is - vooruit en achteruit hetzelfde leest. Toont de opgeschoonde tekst en zijn omkering. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/palindrome-checker/",
+  "id": "/nl/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

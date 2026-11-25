@@ -2,7 +2,7 @@
   "name": "Loona Prueba de mecanografía en línea gratis",
   "short_name": "Prueba de mecanografía en línea gratis",
   "description": "Prueba de mecanografía de 60 segundos gratis: mide tu velocidad de mecanografía en PPM, precisión y caracteres por minuto con textos fáciles, medios y difíciles. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-text-tools/es/typing-test/",
+  "id": "/es/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

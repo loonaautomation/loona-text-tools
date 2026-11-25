@@ -2,7 +2,7 @@
   "name": "Loona Biblioteca de instrumente de text",
   "short_name": "Biblioteca de instrumente de text",
   "description": "Biblioteca completă Loona Text Tools: convertoare de caz, contoare de cuvinte pentru eseuri și discursuri, verificatoare de limite de caractere ale platformelor și calculatoare de lizibilitate.",
-  "id": "/loona-text-tools/ro/text-tools-library/",
+  "id": "/ro/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

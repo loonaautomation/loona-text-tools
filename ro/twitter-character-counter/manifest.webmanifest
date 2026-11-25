@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere Twitter / X",
   "short_name": "Contor de caractere Twitter / X",
   "description": "Contor gratuit de caractere Twitter / X: numărătoare de caractere în direct față de limita de 280 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/twitter-character-counter/",
+  "id": "/ro/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

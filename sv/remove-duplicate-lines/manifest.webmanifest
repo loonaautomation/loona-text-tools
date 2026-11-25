@@ -2,7 +2,7 @@
   "name": "Loona Ta bort dubblettrader online",
   "short_name": "Ta bort dubblettrader online",
   "description": "Ta bort dubblettrader från vilken lista eller text som helst och behåll bara de unika raderna, i ursprunglig ordning. Gratis borttagare av dubblettrader - ingen registrering, omedelbara resultat.",
-  "id": "/loona-text-tools/sv/remove-duplicate-lines/",
+  "id": "/sv/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

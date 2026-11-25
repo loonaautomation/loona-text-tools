@@ -2,7 +2,7 @@
   "name": "Loona camelCase 转换器",
   "short_name": "camelCase 转换器",
   "description": "免费的 camelCase 转换器——粘贴文本,立即得到 camelCase。在您的浏览器中实时转换,无需注册,不上传。",
-  "id": "/loona-text-tools/zh/camelcase-converter/",
+  "id": "/zh/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

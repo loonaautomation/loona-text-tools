@@ -2,7 +2,7 @@
   "name": "Loona Textsammanfattare online – Sammanfatta lång text direkt | Loona Text Tools",
   "short_name": "Textsammanfattare online – Sammanfatta lång text direkt | Loona Text Tools",
   "description": "Sammanfatta valfri lång text direkt: klistra in en artikel, uppsats eller rapport och få tillbaka dess viktigaste originalmeningar. Gratis textsammanfattare online – ingen registrering, 100 % privat.",
-  "id": "/loona-text-tools/sv/text-summarizer/",
+  "id": "/sv/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

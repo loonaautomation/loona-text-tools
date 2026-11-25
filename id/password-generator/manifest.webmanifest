@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Kata Sandi Online",
   "short_name": "Pembuat Kata Sandi Online",
   "description": "Buat kata sandi acak yang kuat dengan panjang dan simbol pilihan Anda, ditambah pengukur kekuatan yang jujur. Pembuat kata sandi gratis - dibuat hanya di perangkat Anda.",
-  "id": "/loona-text-tools/id/password-generator/",
+  "id": "/id/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

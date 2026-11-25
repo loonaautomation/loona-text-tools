@@ -2,7 +2,7 @@
   "name": "Loona テキストから EPUB への変換ツール無料",
   "short_name": "テキストから EPUB への変換ツール無料",
   "description": "プレーンテキストまたは Markdown をブラウザーで無料で有効な EPUB 電子書籍に変換します。タイトルと著者、見出しからの章、任意の EPUB リーダーで開けます。アップロードなし、登録なし。",
-  "id": "/loona-text-tools/ja/text-to-epub/",
+  "id": "/ja/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

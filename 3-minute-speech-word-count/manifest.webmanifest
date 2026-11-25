@@ -2,7 +2,7 @@
   "name": "Loona 3-Minute Speech",
   "short_name": "3-Minute Speech",
   "description": "How many words in a 3-minute speech? 330–540 words (450 at conversational pace). Free live counter with speaking-time check.",
-  "id": "/loona-text-tools/3-minute-speech-word-count/",
+  "id": "/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

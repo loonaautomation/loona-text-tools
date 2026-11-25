@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Mesej Discord",
   "short_name": "Pengira Aksara Mesej Discord",
   "description": "Pengira pengira aksara mesej Discord percuma: hitungan aksara langsung terhadap had 2.000 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/discord-message-character-counter/",
+  "id": "/ms/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

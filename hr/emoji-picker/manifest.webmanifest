@@ -2,7 +2,7 @@
   "name": "Loona Odabir emojija online besplatno",
   "short_name": "Odabir emojija online besplatno",
   "description": "Besplatan odabir emojija: pregledavajte ili pretražujte više od 1,900+ emojija i simbola, odaberite ton kože, kliknite za kopiranje jednog emojija ili cijele ladice. Bez registracije, radi 100 % u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/emoji-picker/",
+  "id": "/hr/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

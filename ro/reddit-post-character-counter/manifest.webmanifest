@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere pentru postări Reddit",
   "short_name": "Contor de caractere pentru postări Reddit",
   "description": "Contor gratuit de caractere pentru postări Reddit: numărătoare de caractere în direct față de limita de 40,000 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/reddit-post-character-counter/",
+  "id": "/ro/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

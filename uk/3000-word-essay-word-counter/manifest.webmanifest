@@ -2,7 +2,7 @@
   "name": "Loona Есе на 3,000 слів",
   "short_name": "Есе на 3,000 слів",
   "description": "Безкоштовний лічильник есе на 3,000 слів: підрахунок слів наживо до цілі 3,000 слів, сторінки з одинарним і подвійним інтервалом, абзаци, час читання та виступу.",
-  "id": "/loona-text-tools/uk/3000-word-essay-word-counter/",
+  "id": "/uk/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

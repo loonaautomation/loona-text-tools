@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi CONSTANT_CASE",
   "short_name": "Pengonversi CONSTANT_CASE",
   "description": "Pengonversi CONSTANT_CASE percuma — tampal teks dan dapatkan CONSTANT_CASE serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/constant-case-converter/",
+  "id": "/ms/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

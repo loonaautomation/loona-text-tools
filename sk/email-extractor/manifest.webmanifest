@@ -2,7 +2,7 @@
   "name": "Loona Extraktor e-mailov online zadarmo",
   "short_name": "Extraktor e-mailov online zadarmo",
   "description": "Extrahujte každú e-mailovú adresu z akéhokoľvek textu, dokumentu alebo obsahu webovej stránky - bez duplicít a uvedenú po jednej na riadok. Beží 100% vo vašom prehliadači. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/email-extractor/",
+  "id": "/sk/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

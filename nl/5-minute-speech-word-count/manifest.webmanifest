@@ -2,7 +2,7 @@
   "name": "Loona Toespraak van 5 minuten",
   "short_name": "Toespraak van 5 minuten",
   "description": "Hoeveel woorden in een toespraak van 5 minuten? 550–900 woorden (750 in gesprekstempo). Gratis live teller met spreektijdcontrole.",
-  "id": "/loona-text-tools/nl/5-minute-speech-word-count/",
+  "id": "/nl/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

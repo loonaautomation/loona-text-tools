@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha snake_case",
   "short_name": "Kibadilishaji cha snake_case",
   "description": "Kibadilishaji cha bure cha snake_case — bandika maandishi na upate snake_case mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/snake-case-converter/",
+  "id": "/sw/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

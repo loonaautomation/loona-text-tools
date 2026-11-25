@@ -2,7 +2,7 @@
   "name": "Loona 線上圖片轉文字轉換器 (OCR),免費",
   "short_name": "線上圖片轉文字轉換器 (OCR),免費",
   "description": "用 100% 在您瀏覽器中執行的免費 OCR,從圖片和照片中提取可編輯的文字。PNG、JPG、WebP 和 BMP——您的圖片永遠不會被上傳。",
-  "id": "/loona-text-tools/zh-hant/image-to-text-converter/",
+  "id": "/zh-hant/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

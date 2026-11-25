@@ -2,7 +2,7 @@
   "name": "Loona Sorok rendezése online",
   "short_name": "Sorok rendezése online",
   "description": "Rendezze a szövegsorokat ábécé szerint (A-Z vagy Z-A), hossz szerint, fordított sorrendben vagy véletlenszerűen megkeverve. Ingyenes online sorrendező - regisztráció nélkül, azonnal és privát módon.",
-  "id": "/loona-text-tools/hu/sort-lines/",
+  "id": "/hu/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

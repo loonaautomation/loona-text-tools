@@ -2,7 +2,7 @@
   "name": "Loona Επιλογέας Emoji Online Δωρεάν",
   "short_name": "Επιλογέας Emoji Online Δωρεάν",
   "description": "Δωρεάν επιλογέας emoji: περιηγηθείτε ή αναζητήστε ανάμεσα σε 1,900+ emoji και σύμβολα, επιλέξτε τόνο δέρματος, κάντε κλικ για να αντιγράψετε ένα emoji ή ολόκληρο δίσκο. Χωρίς εγγραφή, λειτουργεί 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-text-tools/el/emoji-picker/",
+  "id": "/el/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

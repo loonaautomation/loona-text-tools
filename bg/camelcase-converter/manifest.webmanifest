@@ -2,7 +2,7 @@
   "name": "Loona Конвертор camelCase",
   "short_name": "Конвертор camelCase",
   "description": "Безплатен конвертор camelCase — поставете текст и получете camelCase мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
-  "id": "/loona-text-tools/bg/camelcase-converter/",
+  "id": "/bg/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

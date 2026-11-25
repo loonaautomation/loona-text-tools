@@ -2,7 +2,7 @@
   "name": "Loona Kép szöveggé alakítása (OCR) online ingyen",
   "short_name": "Kép szöveggé alakítása (OCR) online ingyen",
   "description": "Nyerjen ki szerkeszthető szöveget képekből és fényképekből ingyenes OCR-rel, amely 100%-ban a böngészőjében fut. PNG, JPG, WebP és BMP - a képe soha nem töltődik fel.",
-  "id": "/loona-text-tools/hu/image-to-text-converter/",
+  "id": "/hu/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

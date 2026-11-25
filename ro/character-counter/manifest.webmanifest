@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere online",
   "short_name": "Contor de caractere online",
   "description": "Numără caracterele cu și fără spații și verifică limitele pentru X (Twitter), SMS, meta descrieri și altele. Contor online gratuit de caractere - fără înregistrare.",
-  "id": "/loona-text-tools/ro/character-counter/",
+  "id": "/ro/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

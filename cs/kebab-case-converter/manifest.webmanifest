@@ -2,7 +2,7 @@
   "name": "Loona Převodník kebab-case",
   "short_name": "Převodník kebab-case",
   "description": "Bezplatný převodník kebab-case — vložte text a okamžitě získejte kebab-case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/kebab-case-converter/",
+  "id": "/cs/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

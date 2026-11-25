@@ -2,7 +2,7 @@
   "name": "Loona عدّاد الجمل عبر الإنترنت مجانًا",
   "short_name": "عدّاد الجمل عبر الإنترنت مجانًا",
   "description": "عُدّ الجمل والفقرات والكلمات والأحرف في أي نص فورًا، مع متوسط طول الجملة. عدّاد جمل مجاني، بلا تسجيل، يعمل في متصفحك.",
-  "id": "/loona-text-tools/ar/sentence-counter/",
+  "id": "/ar/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

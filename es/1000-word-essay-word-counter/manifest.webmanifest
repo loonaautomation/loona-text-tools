@@ -2,7 +2,7 @@
   "name": "Loona Ensayo de 1,000 palabras",
   "short_name": "Ensayo de 1,000 palabras",
   "description": "Contador de ensayos de 1,000 palabras gratis: conteo de palabras en vivo hasta el objetivo de 1,000 palabras, páginas a espacio simple y doble, párrafos, tiempo de lectura y de exposición oral.",
-  "id": "/loona-text-tools/es/1000-word-essay-word-counter/",
+  "id": "/es/1000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

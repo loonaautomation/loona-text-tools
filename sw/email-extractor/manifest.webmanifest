@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Barua Pepe Mtandaoni Bure",
   "short_name": "Kitoaji cha Barua Pepe Mtandaoni Bure",
   "description": "Toa kila anwani ya barua pepe kutoka maandishi, waraka au maudhui yoyote ya ukurasa wa wavuti - yameondolewa rudufu na kuorodheshwa moja kwa kila mstari. Huendeshwa 100% katika kivinjari chako. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/email-extractor/",
+  "id": "/sw/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

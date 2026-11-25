@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator for ord per side",
   "short_name": "Kalkulator for ord per side",
   "description": "Gratis kalkulator for ord per side: skriv inn ord, skriftstørrelse og linjeavstand for å få sidetallet og ord per side.",
-  "id": "/loona-text-tools/nb/words-per-page-calculator/",
+  "id": "/nb/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

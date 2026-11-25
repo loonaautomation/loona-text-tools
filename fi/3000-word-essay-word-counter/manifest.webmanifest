@@ -2,7 +2,7 @@
   "name": "Loona 3,000 sanan essee",
   "short_name": "3,000 sanan essee",
   "description": "Ilmainen 3,000 sanan esseelaskuri: reaaliaikainen sanalaskenta 3,000 sanan tavoitteeseen, sivut yksirivisellä ja kaksirivisellä välillä, kappaleet, luku- ja puheaika.",
-  "id": "/loona-text-tools/fi/3000-word-essay-word-counter/",
+  "id": "/fi/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

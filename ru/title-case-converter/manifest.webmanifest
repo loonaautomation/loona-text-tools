@@ -2,7 +2,7 @@
   "name": "Loona Конвертер Title Case",
   "short_name": "Конвертер Title Case",
   "description": "Бесплатный конвертер Title Case — вставьте текст и мгновенно получите Title Case. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
-  "id": "/loona-text-tools/ru/title-case-converter/",
+  "id": "/ru/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

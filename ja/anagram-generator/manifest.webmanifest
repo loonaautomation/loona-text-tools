@@ -2,7 +2,7 @@
   "name": "Loona アナグラム生成ツール＆チェッカー オンラインフリー",
   "short_name": "アナグラム生成ツール＆チェッカー オンラインフリー",
   "description": "本物の英語単語から任意の単語のアナグラムを見つけ、二つの単語やフレーズが互いのアナグラムかどうかをチェックします。無料アナグラムソルバー、登録不要。",
-  "id": "/loona-text-tools/ja/anagram-generator/",
+  "id": "/ja/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

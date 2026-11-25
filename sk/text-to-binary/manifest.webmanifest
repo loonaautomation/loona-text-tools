@@ -2,7 +2,7 @@
   "name": "Loona Prevodník textu na binárny kód online",
   "short_name": "Prevodník textu na binárny kód online",
   "description": "Preveďte text na binárny kód (0 a 1) a binárny kód späť na čitateľný text, s plnou podporou Unicode. Bezplatný prevodník textu na binárny kód - skvelý pre študentov informatiky.",
-  "id": "/loona-text-tools/sk/text-to-binary/",
+  "id": "/sk/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

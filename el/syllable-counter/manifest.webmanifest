@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Συλλαβών Online Δωρεάν",
   "short_name": "Μετρητής Συλλαβών Online Δωρεάν",
   "description": "Μετρήστε συλλαβές σε οποιαδήποτε λέξη, πρόταση ή πλήρες κείμενο αμέσως - σύνολο συλλαβών, ανάλυση ανά λέξη και μέσοι όροι. Δωρεάν μετρητής συλλαβών, χωρίς εγγραφή, λειτουργεί εκτός σύνδεσης.",
-  "id": "/loona-text-tools/el/syllable-counter/",
+  "id": "/el/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

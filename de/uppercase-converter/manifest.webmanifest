@@ -2,7 +2,7 @@
   "name": "Loona Großbuchstaben-Konverter",
   "short_name": "Großbuchstaben-Konverter",
   "description": "Kostenloser Großbuchstaben-Konverter — Text einfügen und sofort GROSSBUCHSTABEN erhalten. Live-Umwandlung in Ihrem Browser, keine Registrierung, kein Upload.",
-  "id": "/loona-text-tools/de/uppercase-converter/",
+  "id": "/de/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

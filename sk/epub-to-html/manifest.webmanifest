@@ -2,7 +2,7 @@
   "name": "Loona Prevodník EPUB do HTML zadarmo",
   "short_name": "Prevodník EPUB do HTML zadarmo",
   "description": "Preveďte elektronické knihy EPUB do jediného samostatného súboru HTML zadarmo, vo vašom prehliadači. Kapitoly v poradí, základná typografia, malé obrázky vložené. Bez nahrávania, bez registrácie.",
-  "id": "/loona-text-tools/sk/epub-to-html/",
+  "id": "/sk/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

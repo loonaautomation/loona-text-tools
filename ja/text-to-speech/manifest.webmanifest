@@ -2,7 +2,7 @@
   "name": "Loona テキスト読み上げオンラインフリー",
   "short_name": "テキスト読み上げオンラインフリー",
   "description": "任意のテキストを自然な話し音声に無料でオンラインで変えます - 英語とウルドゥー語の音声、調整可能な速度とピッチ。登録不要、何もアップロードされず、ブラウザーで動作します。",
-  "id": "/loona-text-tools/ja/text-to-speech/",
+  "id": "/ja/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

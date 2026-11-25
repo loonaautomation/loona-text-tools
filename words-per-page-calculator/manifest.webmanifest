@@ -2,7 +2,7 @@
   "name": "Loona Words Per Page Calculator",
   "short_name": "Words Per Page Calculator",
   "description": "Free words-per-page calculator: enter words, font size and line spacing to get the page count and words per page.",
-  "id": "/loona-text-tools/words-per-page-calculator/",
+  "id": "/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

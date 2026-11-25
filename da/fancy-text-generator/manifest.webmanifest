@@ -2,7 +2,7 @@
   "name": "Loona Dekorativ tekstgenerator online",
   "short_name": "Dekorativ tekstgenerator online",
   "description": "Gør almindelig tekst til stilfulde Unicode-skrifttyper - fed, skrift, fraktur, cirklet, små versaler og mere - til bioer, billedtekster og brugernavne. Gratis dekorativ tekstgenerator.",
-  "id": "/loona-text-tools/da/fancy-text-generator/",
+  "id": "/da/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

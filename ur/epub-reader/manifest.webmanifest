@@ -2,7 +2,7 @@
   "name": "Loona EPUB ریڈر آن لائن مفت",
   "short_name": "EPUB ریڈر آن لائن مفت",
   "description": "EPUB ای بکس آن لائن مفت کھولیں اور پڑھیں، سیدھا اپنے براؤزر میں۔ ابواب کی فہرست، قابلِ ترتیب فونٹ سائز اور ڈارک موڈ۔ 100% نجی - آپ کی ای بک کبھی آپ کے آلے سے باہر نہیں جاتی۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/epub-reader/",
+  "id": "/ur/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

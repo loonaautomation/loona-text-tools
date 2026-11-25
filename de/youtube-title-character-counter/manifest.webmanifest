@@ -2,7 +2,7 @@
   "name": "Loona YouTube-Titel-Zeichenzähler",
   "short_name": "YouTube-Titel-Zeichenzähler",
   "description": "Kostenloser YouTube-Titel-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 100-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/youtube-title-character-counter/",
+  "id": "/de/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

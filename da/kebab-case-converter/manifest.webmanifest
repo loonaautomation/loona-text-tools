@@ -2,7 +2,7 @@
   "name": "Loona kebab-case-konverter",
   "short_name": "kebab-case-konverter",
   "description": "Gratis kebab-case-konverter — indsæt tekst og få kebab-case øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/kebab-case-converter/",
+  "id": "/da/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

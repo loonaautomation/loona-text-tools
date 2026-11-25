@@ -2,7 +2,7 @@
   "name": "Loona Речь на 1 минуту",
   "short_name": "Речь на 1 минуту",
   "description": "Сколько слов в речи на 1 минуту? 110–180 слов (150 при разговорном темпе). Бесплатный счётчик в реальном времени с проверкой времени выступления.",
-  "id": "/loona-text-tools/ru/1-minute-speech-word-count/",
+  "id": "/ru/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

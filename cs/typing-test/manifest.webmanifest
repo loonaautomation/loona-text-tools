@@ -2,7 +2,7 @@
   "name": "Loona Test psaní online zdarma",
   "short_name": "Test psaní online zdarma",
   "description": "Bezplatný test psaní na 60 sekund: změřte svou rychlost psaní ve WPM, přesnost a znaky za minutu na snadných, středních a těžkých textech. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-text-tools/cs/typing-test/",
+  "id": "/cs/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

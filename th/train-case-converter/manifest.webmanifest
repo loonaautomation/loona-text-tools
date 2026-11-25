@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Train-Case",
   "short_name": "ตัวแปลง Train-Case",
   "description": "ตัวแปลง Train-Case ฟรี — วางข้อความแล้วได้ Train-Case ทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/train-case-converter/",
+  "id": "/th/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

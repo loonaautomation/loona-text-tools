@@ -2,7 +2,7 @@
   "name": "Loona 在线词频计数器",
   "short_name": "在线词频计数器",
   "description": "统计文本中每个单词出现的频率,查看带百分比的排名频率表。免费在线词频计数器——无需注册,即时。",
-  "id": "/loona-text-tools/zh/word-frequency/",
+  "id": "/zh/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

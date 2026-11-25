@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Karakter SMS",
   "short_name": "Penghitung Karakter SMS",
   "description": "Penghitung karakter SMS gratis: deteksi GSM 7-bit vs Unicode, jumlah segmen dan sisa karakter — langsung, di browser Anda.",
-  "id": "/loona-text-tools/id/sms-character-counter/",
+  "id": "/id/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generador de citas en línea gratis",
   "short_name": "Generador de citas en línea gratis",
   "description": "Genera citas con el formato correcto para sitios web, libros y artículos de revistas en APA 7.ª, MLA 9.ª y Chicago autor-fecha: gratis, instantáneo, en tu navegador.",
-  "id": "/loona-text-tools/es/citation-generator/",
+  "id": "/es/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

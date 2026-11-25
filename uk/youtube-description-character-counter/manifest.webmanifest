@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів опису YouTube",
   "short_name": "Лічильник символів опису YouTube",
   "description": "Безкоштовний лічильник символів опису YouTube: підрахунок символів наживо проти ліміту 5,000 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/youtube-description-character-counter/",
+  "id": "/uk/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

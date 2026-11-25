@@ -2,7 +2,7 @@
   "name": "Loona Cari dan Ganti Teks Dalam talian",
   "short_name": "Cari dan Ganti Teks Dalam talian",
   "description": "Cari perkataan atau frasa dan ganti setiap kemunculan dalam teks anda sekaligus, dengan pilihan peka huruf, perkataan utuh dan pola. Alat dalam talian percuma - tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/find-and-replace/",
+  "id": "/ms/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

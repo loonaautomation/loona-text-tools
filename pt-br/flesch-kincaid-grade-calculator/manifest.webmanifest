@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de Nível Flesch–Kincaid",
   "short_name": "Calculadora de Nível Flesch–Kincaid",
   "description": "Calculadora de nível Flesch–Kincaid grátis: cole texto para obter o nível escolar e a pontuação de facilidade de leitura, com palavras por frase e sílabas por palavra.",
-  "id": "/loona-text-tools/pt-br/flesch-kincaid-grade-calculator/",
+  "id": "/pt-br/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

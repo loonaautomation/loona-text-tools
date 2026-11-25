@@ -2,7 +2,7 @@
   "name": "Loona Esai 2.000 Kata",
   "short_name": "Esai 2.000 Kata",
   "description": "Penghitung esai 2.000 kata gratis: hitungan kata langsung menuju target 2.000 kata, halaman spasi tunggal dan ganda, paragraf, waktu membaca dan berbicara.",
-  "id": "/loona-text-tools/id/2000-word-essay-word-counter/",
+  "id": "/id/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Legg til linjenumre på nett",
   "short_name": "Legg til linjenumre på nett",
   "description": "Legg numre til hver linje i teksten din med ditt valg av start, trinn, utfylling og skilletegn. Gratis verktøy for linjenummerering - ingen registrering, øyeblikkelig og privat.",
-  "id": "/loona-text-tools/nb/add-line-numbers/",
+  "id": "/nb/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

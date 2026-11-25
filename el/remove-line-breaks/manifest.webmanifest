@@ -2,7 +2,7 @@
   "name": "Loona Αφαίρεση Αλλαγών Γραμμής Online",
   "short_name": "Αφαίρεση Αλλαγών Γραμμής Online",
   "description": "Αφαιρέστε τις αλλαγές γραμμής και ενώστε σπασμένες γραμμές σε καθαρές παραγράφους - ιδανικό για κείμενο που αντιγράφηκε από PDF. Δωρεάν online αφαίρεση αλλαγών γραμμής, χωρίς εγγραφή, άμεσα αποτελέσματα.",
-  "id": "/loona-text-tools/el/remove-line-breaks/",
+  "id": "/el/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

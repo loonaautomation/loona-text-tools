@@ -2,7 +2,7 @@
   "name": "Loona Esai 5.000 Kata",
   "short_name": "Esai 5.000 Kata",
   "description": "Penghitung esai 5.000 kata gratis: hitungan kata langsung menuju target 5.000 kata, halaman spasi tunggal dan ganda, paragraf, waktu membaca dan berbicara.",
-  "id": "/loona-text-tools/id/5000-word-essay-word-counter/",
+  "id": "/id/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

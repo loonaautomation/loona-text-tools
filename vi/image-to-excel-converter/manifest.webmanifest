@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi hình ảnh sang Excel trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi hình ảnh sang Excel trực tuyến miễn phí",
   "description": "Chuyển đổi một ảnh, bản quét hoặc ảnh chụp màn hình của một bảng thành một tệp Excel (.xlsx) thực sự bằng OCR miễn phí chạy 100% trong trình duyệt của bạn. Chỉnh sửa bảng trước khi tải xuống - không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/image-to-excel-converter/",
+  "id": "/vi/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

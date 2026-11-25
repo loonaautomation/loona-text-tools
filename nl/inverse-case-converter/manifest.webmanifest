@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE-casingomzetter",
   "short_name": "iNVERSE-casingomzetter",
   "description": "Gratis omzetter naar oMGEKEERDE cASING — plak tekst en krijg direct oMGEKEERDE cASING. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/inverse-case-converter/",
+  "id": "/nl/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

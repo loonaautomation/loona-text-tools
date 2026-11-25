@@ -2,7 +2,7 @@
   "name": "Loona path/case 轉換器",
   "short_name": "path/case 轉換器",
   "description": "免費的 path/case 轉換器——貼上文字,立即得到 path/case。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/path-case-converter/",
+  "id": "/zh-hant/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

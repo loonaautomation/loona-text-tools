@@ -2,7 +2,7 @@
   "name": "Loona kebab-case-átalakító",
   "short_name": "kebab-case-átalakító",
   "description": "Ingyenes kebab-case-átalakító — illesszen be szöveget, és azonnal kebab-case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/kebab-case-converter/",
+  "id": "/hu/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

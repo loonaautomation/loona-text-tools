@@ -2,7 +2,7 @@
   "name": "Loona SMS-tegntæller",
   "short_name": "SMS-tegntæller",
   "description": "Gratis SMS-tegntæller: GSM 7-bit vs Unicode-registrering, segmentantal og resterende tegn — live, i din browser.",
-  "id": "/loona-text-tools/da/sms-character-counter/",
+  "id": "/da/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Szöveg beszéddé online ingyen",
   "short_name": "Szöveg beszéddé online ingyen",
   "description": "Alakítson bármely szöveget természetes hangzó hanggá ingyen online - angol és urdu hangok, állítható sebesség és hangmagasság. Regisztráció nélkül, feltöltés nélkül, a böngészőjében működik.",
-  "id": "/loona-text-tools/hu/text-to-speech/",
+  "id": "/hu/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

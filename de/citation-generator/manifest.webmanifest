@@ -2,7 +2,7 @@
   "name": "Loona Zitat-Generator online kostenlos",
   "short_name": "Zitat-Generator online kostenlos",
   "description": "Korrekt formatierte Zitate für Websites, Bücher und Zeitschriftenartikel in APA 7., MLA 9 und Chicago Autor-Datum erzeugen – kostenlos, sofort, in Ihrem Browser.",
-  "id": "/loona-text-tools/de/citation-generator/",
+  "id": "/de/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

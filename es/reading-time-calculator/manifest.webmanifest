@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de tiempo de lectura",
   "short_name": "Calculadora de tiempo de lectura",
   "description": "Pega cualquier texto y mira cuánto tarda en leerse a velocidades lenta, media y rápida, más cuántas palabras necesitas para un tiempo de lectura objetivo. Gratis, sin registro.",
-  "id": "/loona-text-tools/es/reading-time-calculator/",
+  "id": "/es/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

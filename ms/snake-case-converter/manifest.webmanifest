@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi snake_case",
   "short_name": "Pengonversi snake_case",
   "description": "Pengonversi snake_case percuma — tampal teks dan dapatkan snake_case serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/snake-case-converter/",
+  "id": "/ms/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

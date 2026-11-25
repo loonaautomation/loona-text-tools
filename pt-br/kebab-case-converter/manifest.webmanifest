@@ -2,7 +2,7 @@
   "name": "Loona Conversor kebab-case",
   "short_name": "Conversor kebab-case",
   "description": "Conversor kebab-case grátis — cole texto e obtenha kebab-case instantaneamente. Conversão ao vivo no seu navegador, sem registro, sem carregamento.",
-  "id": "/loona-text-tools/pt-br/kebab-case-converter/",
+  "id": "/pt-br/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

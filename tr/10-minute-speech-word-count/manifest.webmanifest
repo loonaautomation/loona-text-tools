@@ -2,7 +2,7 @@
   "name": "Loona 10 Dakikalık Konuşma",
   "short_name": "10 Dakikalık Konuşma",
   "description": "10 dakikalık bir konuşmada kaç kelime var? 1.100–1.800 kelime (konuşma temposunda 1.500). Konuşma süresi kontrolüyle ücretsiz canlı sayaç.",
-  "id": "/loona-text-tools/tr/10-minute-speech-word-count/",
+  "id": "/tr/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

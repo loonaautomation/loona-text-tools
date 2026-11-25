@@ -2,7 +2,7 @@
   "name": "Loona Convertor text în ASCII online gratuit",
   "short_name": "Convertor text în ASCII online gratuit",
   "description": "Convertește textul în coduri ASCII (zecimal, hexazecimal, octal și binar pentru fiecare caracter) și convertește codurile ASCII înapoi în text. Gratuit, instant, fără înregistrare.",
-  "id": "/loona-text-tools/ro/text-to-ascii-converter/",
+  "id": "/ro/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

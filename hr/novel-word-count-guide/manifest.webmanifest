@@ -2,7 +2,7 @@
   "name": "Loona Broj riječi romana po žanru",
   "short_name": "Broj riječi romana po žanru",
   "description": "Broj riječi romana po žanru: odrasli 70,000–120,000, YA 50,000–90,000, srednji razredi 20,000–55,000. Besplatan brojač uživo s ciljevima po žanru.",
-  "id": "/loona-text-tools/hr/novel-word-count-guide/",
+  "id": "/hr/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

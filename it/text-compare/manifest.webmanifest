@@ -2,7 +2,7 @@
   "name": "Loona Confronta testi online",
   "short_name": "Confronta testi online",
   "description": "Confronta due testi riga per riga e vedi esattamente quali righe sono state aggiunte, rimosse o mantenute. Strumento gratuito di confronto testi online - nessuna registrazione, privato nel tuo browser.",
-  "id": "/loona-text-tools/it/text-compare/",
+  "id": "/it/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

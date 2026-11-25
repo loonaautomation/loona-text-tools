@@ -2,7 +2,7 @@
   "name": "Loona Title Tag Length Checker",
   "short_name": "Title Tag Length Checker",
   "description": "Free Title Tag Length Checker counter: live character count against the 60-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/title-tag-length-checker/",
+  "id": "/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

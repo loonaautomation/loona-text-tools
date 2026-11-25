@@ -2,7 +2,7 @@
   "name": "Loona NATO-Buchstabieralphabet-Konverter",
   "short_name": "NATO-Buchstabieralphabet-Konverter",
   "description": "Wandeln Sie beliebigen Text in das NATO-Buchstabieralphabet um (Alfa, Bravo, Charlie) und dekodieren Sie NATO-Buchstabierung zurück in Klartext. Kostenlos, sofort, keine Registrierung.",
-  "id": "/loona-text-tools/de/nato-phonetic-alphabet-converter/",
+  "id": "/de/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

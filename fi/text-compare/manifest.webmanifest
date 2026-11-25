@@ -2,7 +2,7 @@
   "name": "Loona Tekstivertailu verkossa",
   "short_name": "Tekstivertailu verkossa",
   "description": "Vertaa kahta tekstiä rivi riviltä ja näe tarkalleen, mitkä rivit lisättiin, poistettiin tai säilytettiin. Ilmainen verkkotekstien erotyökalu – ei rekisteröitymistä, yksityinen selaimessasi.",
-  "id": "/loona-text-tools/fi/text-compare/",
+  "id": "/fi/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

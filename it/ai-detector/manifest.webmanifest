@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Incolla qualsiasi testo e scopri i segnali di scrittura misurati dai rilevatori di IA: ritmo delle frasi, diversità del vocabolario, frasi ripetute e prevedibilità. Rilevatore di IA gratuito: senza registrazione, senza verdetti, e il tuo testo non lascia mai il tuo browser.",
-  "id": "/loona-text-tools/it/ai-detector/",
+  "id": "/it/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

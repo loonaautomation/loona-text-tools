@@ -2,7 +2,7 @@
   "name": "Loona Roman Urdu'dan Urdu Alfabesine Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Roman Urdu'dan Urdu Alfabesine Dönüştürücü Çevrimiçi Ücretsiz",
   "description": "Roman Urdu'yu (Latin harfleri) anında gerçek Urdu alfabesine dönüştürün - 'mera naam' gerçek Urdu yazısına dönüşür. Pakistan için ücretsiz Roman Urdu'dan Urduca'ya dönüştürücü.",
-  "id": "/loona-text-tools/tr/roman-urdu-to-urdu/",
+  "id": "/tr/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

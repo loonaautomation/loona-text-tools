@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Unscramble any letters into real English words using the full 172,820-word ENABLE dictionary - results grouped by length with Scrabble scores, starts-with, ends-with and contains filters, and blank-tile support. Free, no sign-up, and your letters never leave your browser.",
-  "id": "/loona-text-tools/en-gb/word-unscrambler/",
+  "id": "/en-gb/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

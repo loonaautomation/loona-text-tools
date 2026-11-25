@@ -2,7 +2,7 @@
   "name": "Loona Text în voce online gratuit",
   "short_name": "Text în voce online gratuit",
   "description": "Transformă orice text în sunet rostit natural, gratuit online - voci englezești și urdu, viteză și ton reglabile. Fără înregistrare, nimic încărcat, funcționează în browserul tău.",
-  "id": "/loona-text-tools/ro/text-to-speech/",
+  "id": "/ro/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

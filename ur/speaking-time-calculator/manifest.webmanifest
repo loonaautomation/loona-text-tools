@@ -2,7 +2,7 @@
   "name": "Loona بولنے کے وقت کا کیلکولیٹر",
   "short_name": "بولنے کے وقت کا کیلکولیٹر",
   "description": "اپنی تقریر یا اسکرپٹ پیسٹ کریں اور دیکھیں سست، گفتگو والی اور تیز رفتاروں پر اسے پیش کرنے میں کتنا وقت لگتا ہے - ساتھ میں یہ بھی کہ ہدف وقت میں کتنے الفاظ سما جاتے ہیں۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/speaking-time-calculator/",
+  "id": "/ur/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

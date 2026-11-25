@@ -2,7 +2,7 @@
   "name": "Loona Máy tính cấp Flesch–Kincaid",
   "short_name": "Máy tính cấp Flesch–Kincaid",
   "description": "Máy tính cấp Flesch–Kincaid miễn phí: dán văn bản để nhận cấp độ và điểm dễ đọc, với số từ mỗi câu và số âm tiết mỗi từ.",
-  "id": "/loona-text-tools/vi/flesch-kincaid-grade-calculator/",
+  "id": "/vi/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

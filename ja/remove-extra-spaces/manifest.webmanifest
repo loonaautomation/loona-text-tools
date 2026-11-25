@@ -2,7 +2,7 @@
   "name": "Loona 余分なスペースを削除オンライン",
   "short_name": "余分なスペースを削除オンライン",
   "description": "ワンクリックでテキストから余分なスペース、タブ、空行を削除します。PDF、メール、Web ページからコピーされた乱れたテキストを整えます。無料オンライン削除ツール - 登録は不要です。",
-  "id": "/loona-text-tools/ja/remove-extra-spaces/",
+  "id": "/ja/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

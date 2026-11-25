@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов подписей TikTok",
   "short_name": "Счётчик символов подписей TikTok",
   "description": "Бесплатный счётчик символов для подписей TikTok: подсчёт символов в реальном времени с учётом лимита в 2,200 символов, со словами и оставшимися символами по мере ввода.",
-  "id": "/loona-text-tools/ru/tiktok-caption-character-counter/",
+  "id": "/ru/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

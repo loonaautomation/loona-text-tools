@@ -2,7 +2,7 @@
   "name": "Loona Prevodník textu na hex online zadarmo",
   "short_name": "Prevodník textu na hex online zadarmo",
   "description": "Preveďte text na hexadecimálny a hex späť na text, so správnym spracovaním UTF-8 pre písmená s diakritikou, urdčinu a emoji. Bezplatný hexadecimálny prevodník, bez registrácie.",
-  "id": "/loona-text-tools/sk/text-to-hex-converter/",
+  "id": "/sk/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

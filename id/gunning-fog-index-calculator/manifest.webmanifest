@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Indeks Gunning Fog",
   "short_name": "Kalkulator Indeks Gunning Fog",
   "description": "Kalkulator indeks Gunning Fog gratis: tempel teks untuk indeks Fog, jumlah kata kompleks dan tahun sekolah yang tersirat.",
-  "id": "/loona-text-tools/id/gunning-fog-index-calculator/",
+  "id": "/id/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

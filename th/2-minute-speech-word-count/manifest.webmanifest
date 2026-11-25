@@ -2,7 +2,7 @@
   "name": "Loona สุนทรพจน์ 2 นาที",
   "short_name": "สุนทรพจน์ 2 นาที",
   "description": "สุนทรพจน์ 2 นาทีมีกี่คำ? 220–360 คำ (300 คำที่จังหวะสนทนา) ตัวนับแบบสดฟรีพร้อมการตรวจสอบเวลาพูด",
-  "id": "/loona-text-tools/th/2-minute-speech-word-count/",
+  "id": "/th/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

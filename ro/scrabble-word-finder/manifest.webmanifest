@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Găsește mutările cu cel mai mare punctaj din suportul tău de litere și verifică dacă orice cuvânt este valid. Dicționar ENABLE complet de 172,820 de cuvinte, piese goale acceptate, 100% pe dispozitiv. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/scrabble-word-finder/",
+  "id": "/ro/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

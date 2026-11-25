@@ -2,7 +2,7 @@
   "name": "Loona Конвертер Train-Case",
   "short_name": "Конвертер Train-Case",
   "description": "Безкоштовний конвертер Train-Case — вставте текст і отримайте Train-Case миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/train-case-converter/",
+  "id": "/uk/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

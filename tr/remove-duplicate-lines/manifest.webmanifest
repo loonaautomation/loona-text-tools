@@ -2,7 +2,7 @@
   "name": "Loona Yinelenen Satırları Çevrimiçi Kaldırın",
   "short_name": "Yinelenen Satırları Çevrimiçi Kaldırın",
   "description": "Herhangi bir listeden veya metinden yinelenen satırları kaldırın ve yalnızca benzersiz satırları özgün sırada tutun. Ücretsiz yinelenen satır kaldırıcı - kayıt yok, anında sonuçlar.",
-  "id": "/loona-text-tools/tr/remove-duplicate-lines/",
+  "id": "/tr/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

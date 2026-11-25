@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Kapsyen TikTok",
   "short_name": "Pengira Aksara Kapsyen TikTok",
   "description": "Pengira pengira aksara kapsyen TikTok percuma: hitungan aksara langsung terhadap had 2.200 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/tiktok-caption-character-counter/",
+  "id": "/ms/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

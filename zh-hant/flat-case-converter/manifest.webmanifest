@@ -2,7 +2,7 @@
   "name": "Loona flatcase 轉換器",
   "short_name": "flatcase 轉換器",
   "description": "免費的 flatcase 轉換器——貼上文字,立即得到 flatcase。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/flat-case-converter/",
+  "id": "/zh-hant/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

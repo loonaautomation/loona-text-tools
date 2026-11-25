@@ -2,7 +2,7 @@
   "name": "Loona Text online umkehren",
   "short_name": "Text online umkehren",
   "description": "Text auf vier Arten umkehren: ganzer Text rückwärts, jedes Wort rückwärts, Wortreihenfolge umgedreht oder Zeilenreihenfolge umgedreht. Kostenloser Online-Textumkehrer – keine Registrierung nötig.",
-  "id": "/loona-text-tools/de/reverse-text/",
+  "id": "/de/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

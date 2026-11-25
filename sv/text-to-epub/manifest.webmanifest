@@ -2,7 +2,7 @@
   "name": "Loona Text till EPUB-omvandlare gratis",
   "short_name": "Text till EPUB-omvandlare gratis",
   "description": "Omvandla vanlig text eller Markdown till en giltig EPUB-e-bok gratis, i din webbläsare. Titel och författare, kapitel från rubriker, öppnas i valfri EPUB-läsare. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-text-tools/sv/text-to-epub/",
+  "id": "/sv/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

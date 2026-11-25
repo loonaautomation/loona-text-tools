@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE کنورٹر",
   "short_name": "CONSTANT_CASE کنورٹر",
   "description": "مفت CONSTANT_CASE کنورٹر — متن پیسٹ کریں اور فوراً CONSTANT_CASE پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/constant-case-converter/",
+  "id": "/ur/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

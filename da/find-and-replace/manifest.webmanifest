@@ -2,7 +2,7 @@
   "name": "Loona Find og erstat tekst online",
   "short_name": "Find og erstat tekst online",
   "description": "Find et ord eller en sætning og erstat hver forekomst i din tekst på én gang, med indstillinger for store/små bogstaver, hele ord og mønstre. Gratis online værktøj - ingen tilmelding.",
-  "id": "/loona-text-tools/da/find-and-replace/",
+  "id": "/da/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

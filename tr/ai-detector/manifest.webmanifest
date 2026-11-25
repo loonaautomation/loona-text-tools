@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Herhangi bir metni yapıştırın ve AI dedektörlerinin ölçtüğü yazı sinyallerini görün - cümle ritmi, kelime çeşitliliği, tekrarlanan ifadeler ve öngörülebilirlik. Ücretsiz AI dedektörü: kayıt yok, hüküm yok ve metniniz tarayıcınızdan asla ayrılmaz.",
-  "id": "/loona-text-tools/tr/ai-detector/",
+  "id": "/tr/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

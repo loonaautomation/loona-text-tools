@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar ASCII-omzetter online gratis",
   "short_name": "Tekst naar ASCII-omzetter online gratis",
   "description": "Zet tekst om naar ASCII-codes (decimaal, hex, octaal en binair voor elk teken) en zet ASCII-codes terug om naar tekst. Gratis, direct, geen registratie.",
-  "id": "/loona-text-tools/nl/text-to-ascii-converter/",
+  "id": "/nl/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

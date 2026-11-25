@@ -2,7 +2,7 @@
   "name": "Loona Generator anagrama i provjera na mreži besplatno",
   "short_name": "Generator anagrama i provjera na mreži besplatno",
   "description": "Pronađite anagrame bilo koje riječi iz pravih engleskih riječi i provjerite jesu li dvije riječi ili izrazi anagrami jedan drugoga. Besplatan rješavač anagrama, bez registracije.",
-  "id": "/loona-text-tools/hr/anagram-generator/",
+  "id": "/hr/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

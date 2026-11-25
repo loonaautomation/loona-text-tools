@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE cASE-átalakító",
   "short_name": "iNVERSE cASE-átalakító",
   "description": "Ingyenes iNVERSE cASE-átalakító — illesszen be szöveget, és azonnal iNVERSE cASE-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/inverse-case-converter/",
+  "id": "/hu/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

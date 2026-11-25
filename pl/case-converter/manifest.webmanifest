@@ -2,7 +2,7 @@
   "name": "Loona Konwerter wielkości liter online",
   "short_name": "Konwerter wielkości liter online",
   "description": "Zamień tekst na WIELKIE LITERY, małe litery, zapis tytułowy, zapis jak w zdaniu, zapis z wielką literą lub zapis aLtErNaTiNg jednym kliknięciem. Darmowy konwerter wielkości liter online - rejestracja niepotrzebna.",
-  "id": "/loona-text-tools/pl/case-converter/",
+  "id": "/pl/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

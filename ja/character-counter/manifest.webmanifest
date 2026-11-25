@@ -2,7 +2,7 @@
   "name": "Loona 文字数カウンターオンライン",
   "short_name": "文字数カウンターオンライン",
   "description": "スペースあり・なしで文字数を数え、X（Twitter）、SMS、メタディスクリプションなどの制限を確認します。無料オンライン文字数カウンター — 登録は不要です。",
-  "id": "/loona-text-tools/ja/character-counter/",
+  "id": "/ja/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

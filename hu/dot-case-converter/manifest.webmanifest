@@ -2,7 +2,7 @@
   "name": "Loona dot.case-átalakító",
   "short_name": "dot.case-átalakító",
   "description": "Ingyenes dot.case-átalakító — illesszen be szöveget, és azonnal dot.case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/dot-case-converter/",
+  "id": "/hu/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

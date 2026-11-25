@@ -2,7 +2,7 @@
   "name": "Loona E-mail-kinyerő online ingyen",
   "short_name": "E-mail-kinyerő online ingyen",
   "description": "Nyerjen ki minden e-mail-címet bármely szövegből, dokumentumból vagy weboldal tartalmából - deduplikálva és soronként egy címmel felsorolva. 100%-ban a böngészőjében fut. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/email-extractor/",
+  "id": "/hu/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

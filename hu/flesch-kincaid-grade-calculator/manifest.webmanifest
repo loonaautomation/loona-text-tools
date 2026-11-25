@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid osztályszámító",
   "short_name": "Flesch–Kincaid osztályszámító",
   "description": "Ingyenes Flesch–Kincaid osztályszámító: illesszen be szöveget az osztályszintért és az olvasáskönnyedségi pontszámért, szavakkal mondatonként és szótagokkal szavanként.",
-  "id": "/loona-text-tools/hu/flesch-kincaid-grade-calculator/",
+  "id": "/hu/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

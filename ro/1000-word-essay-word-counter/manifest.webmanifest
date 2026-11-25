@@ -2,7 +2,7 @@
   "name": "Loona Eseu de 1,000 de cuvinte",
   "short_name": "Eseu de 1,000 de cuvinte",
   "description": "Contor gratuit pentru eseu de 1,000 de cuvinte: numărătoare de cuvinte în direct până la ținta de 1,000 de cuvinte, pagini la un rând și la rând dublu, paragrafe, timp de citire și de vorbire.",
-  "id": "/loona-text-tools/ro/1000-word-essay-word-counter/",
+  "id": "/ro/1000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

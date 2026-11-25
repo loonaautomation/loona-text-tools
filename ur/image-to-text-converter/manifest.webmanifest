@@ -2,7 +2,7 @@
   "name": "Loona تصویر سے متن کنورٹر (OCR) آن لائن مفت",
   "short_name": "تصویر سے متن کنورٹر (OCR) آن لائن مفت",
   "description": "تصاویر اور فوٹوز سے قابلِ ترمیم متن مفت OCR کے ساتھ نکالیں جو 100% آپ کے براؤزر میں چلتا ہے۔ PNG, JPG, WebP اور BMP - آپ کی تصویر کبھی اپ لوڈ نہیں ہوتی۔",
-  "id": "/loona-text-tools/ur/image-to-text-converter/",
+  "id": "/ur/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

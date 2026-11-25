@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Dán bất kỳ văn bản nào và xem các tín hiệu văn bản mà công cụ phát hiện AI đo lường - nhịp câu, sự đa dạng từ vựng, cụm từ lặp lại và tính dễ đoán. Công cụ phát hiện AI miễn phí: không cần đăng ký, không phán quyết, và văn bản của bạn không bao giờ rời khỏi trình duyệt.",
-  "id": "/loona-text-tools/vi/ai-detector/",
+  "id": "/vi/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

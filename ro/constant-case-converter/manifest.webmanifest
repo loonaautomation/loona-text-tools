@@ -2,7 +2,7 @@
   "name": "Loona Convertor CONSTANT_CASE",
   "short_name": "Convertor CONSTANT_CASE",
   "description": "Convertor CONSTANT_CASE gratuit — lipește text și obține CONSTANT_CASE instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/constant-case-converter/",
+  "id": "/ro/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

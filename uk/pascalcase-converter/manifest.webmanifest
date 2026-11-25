@@ -2,7 +2,7 @@
   "name": "Loona Конвертер PascalCase",
   "short_name": "Конвертер PascalCase",
   "description": "Безкоштовний конвертер PascalCase — вставте текст і отримайте PascalCase миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/pascalcase-converter/",
+  "id": "/uk/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

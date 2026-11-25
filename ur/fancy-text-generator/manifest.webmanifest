@@ -2,7 +2,7 @@
   "name": "Loona فینسی ٹیکسٹ جنریٹر آن لائن",
   "short_name": "فینسی ٹیکسٹ جنریٹر آن لائن",
   "description": "سادہ متن کو اسٹائلش Unicode فونٹس میں بدلیں - بولڈ، رسم الخطی، فریکچر، دائرے والے، چھوٹے بڑے حروف اور مزید - بائیوز، کیپشنز اور صارف ناموں کے لیے۔ مفت فینسی ٹیکسٹ جنریٹر۔",
-  "id": "/loona-text-tools/ur/fancy-text-generator/",
+  "id": "/ur/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

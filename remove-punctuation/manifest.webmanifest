@@ -2,7 +2,7 @@
   "name": "Loona Remove Punctuation Online Free",
   "short_name": "Remove Punctuation Online Free",
   "description": "Remove punctuation from any text in one click - periods, commas, quotes and more - with options to keep apostrophes and hyphens. Free, no sign-up.",
-  "id": "/loona-text-tools/remove-punctuation/",
+  "id": "/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

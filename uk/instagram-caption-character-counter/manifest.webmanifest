@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів підписів Instagram",
   "short_name": "Лічильник символів підписів Instagram",
   "description": "Безкоштовний лічильник символів підписів Instagram: підрахунок символів наживо проти ліміту 2,200 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/instagram-caption-character-counter/",
+  "id": "/uk/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

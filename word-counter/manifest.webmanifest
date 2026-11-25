@@ -2,7 +2,7 @@
   "name": "Loona Word Counter Online Free",
   "short_name": "Word Counter Online Free",
   "description": "Count words, characters, sentences and paragraphs in any text instantly, with reading time and speaking time. Free word counter, no sign-up, works offline.",
-  "id": "/loona-text-tools/word-counter/",
+  "id": "/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

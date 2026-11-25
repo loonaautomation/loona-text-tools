@@ -2,7 +2,7 @@
   "name": "Loona Email Extractor - Pull Every Email Address Out of Any Text",
   "short_name": "Email Extractor - Pull Every Email Address Out of Any Text",
   "description": "Extract every email address from any text, document or web page content - deduplicated and listed one per line. Runs 100% in your browser. Free, no sign-up.",
-  "id": "/loona-text-tools/en-us/email-extractor/",
+  "id": "/en-us/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

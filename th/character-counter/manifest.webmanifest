@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรออนไลน์",
   "short_name": "ตัวนับตัวอักษรออนไลน์",
   "description": "นับตัวอักษรมีและไม่มีช่องว่าง และตรวจขีดจำกัดสำหรับ X (Twitter), SMS คำอธิบายเมทา และอื่น ๆ ตัวนับตัวอักษรออนไลน์ฟรี — ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/character-counter/",
+  "id": "/th/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

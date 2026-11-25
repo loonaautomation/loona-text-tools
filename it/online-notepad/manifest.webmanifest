@@ -2,7 +2,7 @@
   "name": "Loona Blocco note online gratuito",
   "short_name": "Blocco note online gratuito",
   "description": "Un blocco note online gratuito che salva automaticamente nel tuo browser mentre digiti - download, stampa e conteggio parole inclusi. Nessuna registrazione; le tue note non lasciano mai il tuo dispositivo.",
-  "id": "/loona-text-tools/it/online-notepad/",
+  "id": "/it/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

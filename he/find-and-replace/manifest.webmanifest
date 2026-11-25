@@ -2,7 +2,7 @@
   "name": "Loona חיפוש והחלפת טקסט אונליין",
   "short_name": "חיפוש והחלפת טקסט אונליין",
   "description": "מצאו מילה או ביטוי והחליפו כל מופע בטקסט שלכם בבת אחת, עם אפשרויות רגישות לאותיות, מילה שלמה ותבנית. כלי מקוון חינמי - ללא הרשמה.",
-  "id": "/loona-text-tools/he/find-and-replace/",
+  "id": "/he/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

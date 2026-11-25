@@ -2,7 +2,7 @@
   "name": "Loona vÄxLaNdE sKiFtLäGe-omvandlare",
   "short_name": "vÄxLaNdE sKiFtLäGe-omvandlare",
   "description": "Gratis omvandlare till vÄxLaNdE sKiFtLäGe — klistra in text och få vÄxLaNdE sKiFtLäGe omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/alternating-case-converter/",
+  "id": "/sv/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

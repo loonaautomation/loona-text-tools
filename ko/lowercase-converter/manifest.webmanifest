@@ -2,7 +2,7 @@
   "name": "Loona 소문자 변환기",
   "short_name": "소문자 변환기",
   "description": "무료 소문자 변환기 — 텍스트를 붙여 넣으면 즉시 소문자를 얻어요. 브라우저에서 실시간 변환, 회원가입 없음, 업로드 없음이에요.",
-  "id": "/loona-text-tools/ko/lowercase-converter/",
+  "id": "/ko/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

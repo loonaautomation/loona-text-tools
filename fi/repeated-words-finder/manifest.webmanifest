@@ -2,7 +2,7 @@
   "name": "Loona Toistuvien sanojen etsijä verkossa ilmaiseksi",
   "short_name": "Toistuvien sanojen etsijä verkossa ilmaiseksi",
   "description": "Etsi jokainen sana, joka esiintyy tekstissäsi useammin kuin kerran, järjestettynä sen mukaan, kuinka usein se toistuu. Nappaa satunnaiset kaksoissanat ja liikakäytetyt sanat. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/repeated-words-finder/",
+  "id": "/fi/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

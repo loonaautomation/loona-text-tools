@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/morse-code-translator/",
+  "id": "/en-gb/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Title Case-omformer",
   "short_name": "Title Case-omformer",
   "description": "Gratis Title Case-omformer — lim inn tekst og få Title Case øyeblikkelig. Direkte konvertering i nettleseren din, ingen registrering, ingen opplasting.",
-  "id": "/loona-text-tools/nb/title-case-converter/",
+  "id": "/nb/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

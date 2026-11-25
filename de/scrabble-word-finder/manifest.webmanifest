@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Finden Sie die punktstärksten Züge aus Ihrer Buchstabenablage und prüfen Sie, ob ein Wort gültig ist. Vollständiges ENABLE-Wörterbuch mit 172.820 Wörtern, Blankosteine unterstützt, 100 % auf Ihrem Gerät. Kostenlos, ohne Anmeldung.",
-  "id": "/loona-text-tools/de/scrabble-word-finder/",
+  "id": "/de/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

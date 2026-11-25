@@ -2,7 +2,7 @@
   "name": "Loona Avsnittsteller gratis på nett",
   "short_name": "Avsnittsteller gratis på nett",
   "description": "Tell avsnitt i enhver tekst øyeblikkelig, med setninger og ord per avsnitt og det lengste og korteste avsnittet. Gratis avsnittsteller, ingen registrering.",
-  "id": "/loona-text-tools/nb/paragraph-counter/",
+  "id": "/nb/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Slug Generator - Titles into Clean URLs",
   "short_name": "Slug Generator - Titles into Clean URLs",
   "description": "Turn any title into a clean, SEO-friendly URL slug: lowercase, no spaces, no special characters. Free online slug generator with full URL preview - no sign-up.",
-  "id": "/loona-text-tools/en-us/slug-generator/",
+  "id": "/en-us/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Silabi Mtandaoni Bure",
   "short_name": "Kihesabu cha Silabi Mtandaoni Bure",
   "description": "Hesabu silabi katika neno, sentensi au maandishi kamili yoyote mara moja - jumla ya silabi, mgawanyo kwa neno na wastani. Kihesabu cha bure cha silabi, bila kujisajili, hufanya kazi bila mtandao.",
-  "id": "/loona-text-tools/sw/syllable-counter/",
+  "id": "/sw/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

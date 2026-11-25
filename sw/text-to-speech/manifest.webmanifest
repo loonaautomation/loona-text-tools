@@ -2,7 +2,7 @@
   "name": "Loona Maandishi kwenda Hotuba Mtandaoni Bure",
   "short_name": "Maandishi kwenda Hotuba Mtandaoni Bure",
   "description": "Geuza maandishi yoyote kuwa sauti ya asili inayozungumzwa bure mtandaoni - sauti za Kiingereza na Kiurdu, kasi na sauti ya juu vinavyoweza kurekebishwa. Hakuna kujisajili, hakuna kilichopakiwa, hufanya kazi katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/text-to-speech/",
+  "id": "/sw/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

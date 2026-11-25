@@ -2,7 +2,7 @@
   "name": "Loona Voce în text online gratuit",
   "short_name": "Voce în text online gratuit",
   "description": "Dictează cu vocea și privește cum devine text - voce în text online gratuit pentru engleză, urdu și alte limbi. Fără înregistrare; funcționează în Chrome și Edge.",
-  "id": "/loona-text-tools/ro/speech-to-text/",
+  "id": "/ro/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

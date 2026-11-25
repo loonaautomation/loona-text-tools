@@ -2,7 +2,7 @@
   "name": "Loona Przemówienie na 2 minuty",
   "short_name": "Przemówienie na 2 minuty",
   "description": "Ile słów ma przemówienie na 2 minuty? 220–360 słów (300 przy tempie konwersacyjnym). Darmowy licznik na żywo ze sprawdzaniem czasu mówienia.",
-  "id": "/loona-text-tools/pl/2-minute-speech-word-count/",
+  "id": "/pl/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

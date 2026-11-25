@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog সূচক ক্যালকুলেটর",
   "short_name": "Gunning Fog সূচক ক্যালকুলেটর",
   "description": "বিনামূল্যে Gunning Fog সূচক ক্যালকুলেটর: Fog সূচক, জটিল-শব্দ সংখ্যা আর তা যে শিক্ষার বছর বোঝায় তার জন্য টেক্সট পেস্ট করুন।",
-  "id": "/loona-text-tools/bn/gunning-fog-index-calculator/",
+  "id": "/bn/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

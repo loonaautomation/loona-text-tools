@@ -2,7 +2,7 @@
   "name": "Loona محوّل CBZ إلى PDF مجانًا",
   "short_name": "محوّل CBZ إلى PDF مجانًا",
   "description": "حوّل أرشيفات القصص المصوّرة CBZ وZIP إلى PDF مجانًا في متصفحك. الصفحات بالترتيب الطبيعي (1, 2, 10)، صورة واحدة لكل صفحة بالحجم الكامل. بلا رفع، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/cbz-to-pdf/",
+  "id": "/ar/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lettore EPUB online gratuito",
   "short_name": "Lettore EPUB online gratuito",
   "description": "Apri e leggi ebook EPUB online gratuitamente, direttamente nel tuo browser. Elenco dei capitoli, dimensione carattere regolabile e modalità scura. 100% privato - il tuo ebook non lascia mai il tuo dispositivo. Nessuna registrazione.",
-  "id": "/loona-text-tools/it/epub-reader/",
+  "id": "/it/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

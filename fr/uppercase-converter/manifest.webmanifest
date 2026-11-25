@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur de majuscules",
   "short_name": "Convertisseur de majuscules",
   "description": "Convertisseur MAJUSCULES gratuit — collez du texte et obtenez MAJUSCULES instantanément. Conversion en direct dans votre navigateur, sans inscription, sans téléchargement.",
-  "id": "/loona-text-tools/fr/uppercase-converter/",
+  "id": "/fr/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

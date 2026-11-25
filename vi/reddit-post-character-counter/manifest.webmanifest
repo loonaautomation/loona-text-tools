@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự bài đăng Reddit",
   "short_name": "Bộ đếm ký tự bài đăng Reddit",
   "description": "Bộ đếm ký tự bài đăng Reddit miễn phí: đếm ký tự trực tiếp so với giới hạn 40,000 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/reddit-post-character-counter/",
+  "id": "/vi/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

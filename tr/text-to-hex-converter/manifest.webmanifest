@@ -2,7 +2,7 @@
   "name": "Loona Metinden Hex'e Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Metinden Hex'e Dönüştürücü Çevrimiçi Ücretsiz",
   "description": "Metni onaltılığa ve hex'i metne dönüştürün; aksanlı harfler, Urduca ve emoji için UTF-8'yi doğru şekilde işler. Ücretsiz hex dönüştürücü, kayıt yok.",
-  "id": "/loona-text-tools/tr/text-to-hex-converter/",
+  "id": "/tr/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

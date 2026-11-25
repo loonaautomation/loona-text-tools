@@ -2,7 +2,7 @@
   "name": "Loona snake_case pretvarač",
   "short_name": "snake_case pretvarač",
   "description": "Besplatan snake_case pretvarač — zalijepite tekst i trenutačno dobijte snake_case. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/snake-case-converter/",
+  "id": "/hr/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

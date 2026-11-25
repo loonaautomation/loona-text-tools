@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi PascalCase",
   "short_name": "Pengonversi PascalCase",
   "description": "Pengonversi PascalCase percuma — tampal teks dan dapatkan PascalCase serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/pascalcase-converter/",
+  "id": "/ms/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

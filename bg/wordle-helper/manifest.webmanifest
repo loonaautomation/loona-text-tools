@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Въведи своите опити в Wordle и докосни полетата в сиво, жълто или зелено: този безплатен помощник ти показва всеки отговор, който още пасва, и най-добрите следващи опити. Правилна логика за двойни букви, без регистрация, и всичко работи в браузъра ти.",
-  "id": "/loona-text-tools/bg/wordle-helper/",
+  "id": "/bg/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

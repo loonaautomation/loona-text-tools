@@ -2,7 +2,7 @@
   "name": "Loona Rimuovi spazi extra online",
   "short_name": "Rimuovi spazi extra online",
   "description": "Rimuovi spazi extra, tabulazioni e righe vuote dal testo in un clic. Ordina il testo copiato da PDF, email e pagine web. Rimuovi-spazi online gratuito - nessuna registrazione necessaria.",
-  "id": "/loona-text-tools/it/remove-extra-spaces/",
+  "id": "/it/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

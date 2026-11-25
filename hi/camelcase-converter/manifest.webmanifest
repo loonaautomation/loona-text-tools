@@ -2,7 +2,7 @@
   "name": "Loona camelCase कन्वर्टर",
   "short_name": "camelCase कन्वर्टर",
   "description": "मुफ़्त camelCase कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत camelCase पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-text-tools/hi/camelcase-converter/",
+  "id": "/hi/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Alama za Uakifishaji Mtandaoni Bure",
   "short_name": "Ondoa Alama za Uakifishaji Mtandaoni Bure",
   "description": "Ondoa alama za uakifishaji kutoka maandishi yoyote kwa kubofya mara moja - nukta, koma, nukuu na zaidi - ukiwa na chaguo za kuhifadhi apostrofi na vistari. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/remove-punctuation/",
+  "id": "/sw/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

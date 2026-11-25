@@ -2,7 +2,7 @@
   "name": "Loona غیر مرئی حروف چیکر",
   "short_name": "غیر مرئی حروف چیکر",
   "description": "اپنے متن میں چھپے غیر مرئی حروف ظاہر کریں - زیرو-وڈتھ اسپیس، BOM، نان-بریکنگ اسپیس اور سمت کے نشانات - اور انہیں ایک کلک میں ہٹائیں۔ مفت۔",
-  "id": "/loona-text-tools/ur/invisible-character-checker/",
+  "id": "/ur/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

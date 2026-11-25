@@ -2,7 +2,7 @@
   "name": "Loona SMS-karakterszámláló",
   "short_name": "SMS-karakterszámláló",
   "description": "Ingyenes SMS-karakterszámláló: GSM 7 bites és Unicode felismerés, szegmensszám és hátralévő karakterek — élőben, a böngészőjében.",
-  "id": "/loona-text-tools/hu/sms-character-counter/",
+  "id": "/hu/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

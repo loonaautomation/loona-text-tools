@@ -2,7 +2,7 @@
   "name": "Loona Mors Kodu Çevirici Çevrimiçi",
   "short_name": "Mors Kodu Çevirici Çevrimiçi",
   "description": "Metni Mors koduna ve Mors kodunu metne çevirin ve onu gerçek bipler olarak duyun. Ücretsiz çevrimiçi Mors kodu çevirici - kayıt yok, tarayıcınızda çalışır.",
-  "id": "/loona-text-tools/tr/morse-code-translator/",
+  "id": "/tr/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

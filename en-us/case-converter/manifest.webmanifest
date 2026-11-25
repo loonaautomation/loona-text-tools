@@ -2,7 +2,7 @@
   "name": "Loona Case Converter - UPPERCASE, Title Case & More",
   "short_name": "Case Converter - UPPERCASE, Title Case & More",
   "description": "Convert text to UPPERCASE, lowercase, Title Case, Sentence case, Capitalized or aLtErNaTiNg case in one click. Free online case converter - no sign-up needed.",
-  "id": "/loona-text-tools/en-us/case-converter/",
+  "id": "/en-us/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

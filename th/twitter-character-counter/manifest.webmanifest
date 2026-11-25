@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษร Twitter / X",
   "short_name": "ตัวนับตัวอักษร Twitter / X",
   "description": "ตัวนับตัวอักษร Twitter / X ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 280 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/twitter-character-counter/",
+  "id": "/th/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

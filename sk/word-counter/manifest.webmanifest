@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo slov online zadarmo",
   "short_name": "Počítadlo slov online zadarmo",
   "description": "Počítajte slová, znaky, vety a odseky v akomkoľvek texte okamžite, s časom čítania a časom hovorenia. Bezplatné počítadlo slov, bez registrácie, funguje offline.",
-  "id": "/loona-text-tools/sk/word-counter/",
+  "id": "/sk/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

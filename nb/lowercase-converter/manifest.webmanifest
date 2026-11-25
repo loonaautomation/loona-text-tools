@@ -2,7 +2,7 @@
   "name": "Loona Omformer til små bokstaver",
   "short_name": "Omformer til små bokstaver",
   "description": "Gratis omformer til små bokstaver — lim inn tekst og få små bokstaver øyeblikkelig. Direkte konvertering i nettleseren din, ingen registrering, ingen opplasting.",
-  "id": "/loona-text-tools/nb/lowercase-converter/",
+  "id": "/nb/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

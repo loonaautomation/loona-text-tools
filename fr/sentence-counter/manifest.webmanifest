@@ -2,7 +2,7 @@
   "name": "Loona Compteur de phrases en ligne gratuit",
   "short_name": "Compteur de phrases en ligne gratuit",
   "description": "Comptez les phrases, les paragraphes, les mots et les caractères dans n’importe quel texte instantanément, avec la longueur moyenne des phrases. Compteur de phrases gratuit, sans inscription, fonctionne dans votre navigateur.",
-  "id": "/loona-text-tools/fr/sentence-counter/",
+  "id": "/fr/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

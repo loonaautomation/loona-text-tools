@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor Reddit-posts",
   "short_name": "Tekenteller voor Reddit-posts",
   "description": "Gratis tekenteller voor Reddit-posts: live tekentelling tegen de limiet van 40.000 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/reddit-post-character-counter/",
+  "id": "/nl/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

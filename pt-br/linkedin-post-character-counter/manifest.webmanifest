@@ -2,7 +2,7 @@
   "name": "Loona Contador de Caracteres de Publicações do LinkedIn",
   "short_name": "Contador de Caracteres de Publicações do LinkedIn",
   "description": "Contador de Caracteres de Publicações do LinkedIn grátis contador: contagem de caracteres ao vivo face ao limite de 3,000 caracteres, com palavras e caracteres restantes mostrados enquanto escreve.",
-  "id": "/loona-text-tools/pt-br/linkedin-post-character-counter/",
+  "id": "/pt-br/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

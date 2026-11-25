@@ -2,7 +2,7 @@
   "name": "Loona Längdkontroll för metabeskrivning",
   "short_name": "Längdkontroll för metabeskrivning",
   "description": "Gratis längdkontroll för metabeskrivning räknare: levande teckenantal mot gränsen på 160 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/meta-description-length-checker/",
+  "id": "/sv/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

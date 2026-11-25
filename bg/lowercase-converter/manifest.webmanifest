@@ -2,7 +2,7 @@
   "name": "Loona Конвертор към малки букви",
   "short_name": "Конвертор към малки букви",
   "description": "Безплатен конвертор към малки букви — поставете текст и получете малки букви мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
-  "id": "/loona-text-tools/bg/lowercase-converter/",
+  "id": "/bg/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

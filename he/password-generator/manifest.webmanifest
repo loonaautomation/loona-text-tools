@@ -2,7 +2,7 @@
   "name": "Loona מחולל סיסמאות אונליין",
   "short_name": "מחולל סיסמאות אונליין",
   "description": "צרו סיסמאות חזקות ואקראיות עם האורך והסמלים שתבחרו, ועוד מד חוזק כן. מחולל סיסמאות חינמי - נוצר במכשיר שלכם בלבד.",
-  "id": "/loona-text-tools/he/password-generator/",
+  "id": "/he/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

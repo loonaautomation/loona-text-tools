@@ -2,7 +2,7 @@
   "name": "Loona Máy tính từ mỗi trang",
   "short_name": "Máy tính từ mỗi trang",
   "description": "Máy tính từ-mỗi-trang miễn phí: nhập số từ, cỡ chữ và giãn dòng để nhận số trang và số từ mỗi trang.",
-  "id": "/loona-text-tools/vi/words-per-page-calculator/",
+  "id": "/vi/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

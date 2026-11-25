@@ -2,7 +2,7 @@
   "name": "Loona Projev na 3 minuty",
   "short_name": "Projev na 3 minuty",
   "description": "Kolik slov má projev na 3 minuty? 330–540 slov (450 při konverzačním tempu). Bezplatné živé počítadlo s kontrolou doby mluvení.",
-  "id": "/loona-text-tools/cs/3-minute-speech-word-count/",
+  "id": "/cs/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

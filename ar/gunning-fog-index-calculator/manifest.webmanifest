@@ -2,7 +2,7 @@
   "name": "Loona حاسبة مؤشر Gunning Fog",
   "short_name": "حاسبة مؤشر Gunning Fog",
   "description": "حاسبة مؤشر Gunning Fog مجانية: الصق نصًا للحصول على مؤشر Fog وعدد الكلمات المعقّدة وسنوات الدراسة التي يوحي بها.",
-  "id": "/loona-text-tools/ar/gunning-fog-index-calculator/",
+  "id": "/ar/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

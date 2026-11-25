@@ -2,7 +2,7 @@
   "name": "Loona Речь на 3 минуты",
   "short_name": "Речь на 3 минуты",
   "description": "Сколько слов в речи на 3 минуты? 330–540 слов (450 при разговорном темпе). Бесплатный счётчик в реальном времени с проверкой времени выступления.",
-  "id": "/loona-text-tools/ru/3-minute-speech-word-count/",
+  "id": "/ru/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

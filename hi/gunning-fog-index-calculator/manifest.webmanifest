@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog सूचकांक कैलकुलेटर",
   "short_name": "Gunning Fog सूचकांक कैलकुलेटर",
   "description": "मुफ़्त Gunning Fog सूचकांक कैलकुलेटर: Fog सूचकांक, जटिल-शब्द गणना और उसके संकेतित स्कूली वर्षों के लिए टेक्स्ट पेस्ट करें।",
-  "id": "/loona-text-tools/hi/gunning-fog-index-calculator/",
+  "id": "/hi/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

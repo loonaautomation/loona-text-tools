@@ -2,7 +2,7 @@
   "name": "Loona Text zu Sprache online kostenlos",
   "short_name": "Text zu Sprache online kostenlos",
   "description": "Beliebigen Text kostenlos online in natürlich gesprochenes Audio verwandeln – englische und Urdu-Stimmen, einstellbare Geschwindigkeit und Tonhöhe. Keine Registrierung, nichts hochgeladen, funktioniert in Ihrem Browser.",
-  "id": "/loona-text-tools/de/text-to-speech/",
+  "id": "/de/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

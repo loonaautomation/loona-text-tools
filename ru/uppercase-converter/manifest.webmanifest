@@ -2,7 +2,7 @@
   "name": "Loona Конвертер в прописные",
   "short_name": "Конвертер в прописные",
   "description": "Бесплатный конвертер в верхний регистр — вставьте текст и мгновенно получите ВЕРХНИЙ РЕГИСТР. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
-  "id": "/loona-text-tools/ru/uppercase-converter/",
+  "id": "/ru/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

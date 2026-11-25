@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PascalCase",
   "short_name": "Μετατροπέας PascalCase",
   "description": "Δωρεάν μετατροπέας PascalCase — επικολλήστε κείμενο και πάρετε PascalCase αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/pascalcase-converter/",
+  "id": "/el/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

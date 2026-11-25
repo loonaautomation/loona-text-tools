@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Lipește orice text și vezi semnalele de scriere pe care le măsoară detectoarele IA: ritmul propozițiilor, diversitatea vocabularului, expresiile repetate și predictibilitatea. Detector IA gratuit: fără înregistrare, fără verdicte, iar textul tău nu părăsește niciodată browserul.",
-  "id": "/loona-text-tools/ro/ai-detector/",
+  "id": "/ro/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

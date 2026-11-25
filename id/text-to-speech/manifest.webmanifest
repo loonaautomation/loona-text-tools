@@ -2,7 +2,7 @@
   "name": "Loona Teks ke Ucapan Online Gratis",
   "short_name": "Teks ke Ucapan Online Gratis",
   "description": "Ubah teks apa pun menjadi audio lisan alami gratis online - suara Inggris dan Urdu, kecepatan dan nada yang dapat disesuaikan. Tanpa pendaftaran, tidak ada yang diunggah, bekerja di browser Anda.",
-  "id": "/loona-text-tools/id/text-to-speech/",
+  "id": "/id/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

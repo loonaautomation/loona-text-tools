@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Wordle tahminlerinizi girin ve kutucuklara gri, sarı veya yeşil olarak dokunun: bu ücretsiz yardımcı, hâlâ uyan her cevabı ve en iyi sonraki tahminleri gösterir. Çift harfler için doğru mantık, kayıt yok ve her şey tarayıcınızda çalışır.",
-  "id": "/loona-text-tools/tr/wordle-helper/",
+  "id": "/tr/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας dot.case",
   "short_name": "Μετατροπέας dot.case",
   "description": "Δωρεάν μετατροπέας dot.case — επικολλήστε κείμενο και πάρετε dot.case αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/dot-case-converter/",
+  "id": "/el/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

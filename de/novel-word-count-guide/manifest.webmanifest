@@ -2,7 +2,7 @@
   "name": "Loona Roman-Wortzahl nach Genre",
   "short_name": "Roman-Wortzahl nach Genre",
   "description": "Roman-Wortzahl nach Genre: Erwachsene 70.000–120.000, YA 50.000–90.000, Mittelstufe 20.000–55.000. Kostenloser Live-Zähler mit Genre-Zielen.",
-  "id": "/loona-text-tools/de/novel-word-count-guide/",
+  "id": "/de/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

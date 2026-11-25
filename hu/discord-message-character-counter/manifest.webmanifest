@@ -2,7 +2,7 @@
   "name": "Loona Discord-üzenet karakterszámláló",
   "short_name": "Discord-üzenet karakterszámláló",
   "description": "Ingyenes Discord-üzenet karakterszámláló számláló: élő karakterszám a 2,000 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/discord-message-character-counter/",
+  "id": "/hu/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

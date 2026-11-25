@@ -2,7 +2,7 @@
   "name": "Loona Contagem de Palavras de Romances por Género",
   "short_name": "Contagem de Palavras de Romances por Género",
   "description": "Contagem de palavras de romances por género: adultos 70,000–120,000, jovens adultos 50,000–90,000, jovens leitores 20,000–55,000. Contador em direto grátis com objetivos por género.",
-  "id": "/loona-text-tools/pt-pt/novel-word-count-guide/",
+  "id": "/pt-pt/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

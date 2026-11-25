@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "แก้ตัวอักษรใด ๆ ให้เป็นคำภาษาอังกฤษจริงด้วยพจนานุกรม ENABLE ฉบับเต็ม 172,820 คำ - ผลลัพธ์จัดกลุ่มตามความยาว พร้อมคะแนน Scrabble ตัวกรองขึ้นต้นด้วย ลงท้ายด้วย และมีตัวอักษร และรองรับตัวอักษรว่าง ฟรี ไม่ต้องสมัคร และตัวอักษรของคุณไม่เคยออกจากเบราว์เซอร์",
-  "id": "/loona-text-tools/th/word-unscrambler/",
+  "id": "/th/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

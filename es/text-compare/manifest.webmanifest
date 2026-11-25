@@ -2,7 +2,7 @@
   "name": "Loona Comparar textos en línea",
   "short_name": "Comparar textos en línea",
   "description": "Compara dos textos línea por línea y mira exactamente qué líneas se añadieron, se eliminaron o se conservaron. Herramienta gratuita de comparación de textos en línea: sin registro, privada en tu navegador.",
-  "id": "/loona-text-tools/es/text-compare/",
+  "id": "/es/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

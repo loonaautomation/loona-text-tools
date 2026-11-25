@@ -2,7 +2,7 @@
   "name": "Loona خطاب من 1 دقيقة",
   "short_name": "خطاب من 1 دقيقة",
   "description": "كم كلمة في خطاب من 1 دقيقة؟ 110–180 كلمة (150 بإيقاع المحادثة). عدّاد مباشر مجاني مع فحص وقت التحدث.",
-  "id": "/loona-text-tools/ar/1-minute-speech-word-count/",
+  "id": "/ar/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

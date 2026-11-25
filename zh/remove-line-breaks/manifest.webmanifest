@@ -2,7 +2,7 @@
   "name": "Loona 在线删除换行符",
   "short_name": "在线删除换行符",
   "description": "删除换行符,把破碎的行连接成干净的段落——非常适合从 PDF 复制的文本。免费在线换行删除器,无需注册,即时结果。",
-  "id": "/loona-text-tools/zh/remove-line-breaks/",
+  "id": "/zh/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

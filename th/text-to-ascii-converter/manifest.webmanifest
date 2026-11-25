@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงข้อความเป็น ASCII ออนไลน์ฟรี",
   "short_name": "ตัวแปลงข้อความเป็น ASCII ออนไลน์ฟรี",
   "description": "แปลงข้อความเป็นรหัส ASCII (ทศนิยม เลขฐานสิบหก เลขฐานแปด และไบนารีสำหรับทุกตัวอักษร) และแปลงรหัส ASCII กลับเป็นข้อความ ฟรี ทันที ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/text-to-ascii-converter/",
+  "id": "/th/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

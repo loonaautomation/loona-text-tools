@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri post Reddit",
   "short_name": "Contatore di caratteri post Reddit",
   "description": "Contatore gratuito Contatore di caratteri post Reddit: conteggio caratteri in tempo reale rispetto al limite di 40.000 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/reddit-post-character-counter/",
+  "id": "/it/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

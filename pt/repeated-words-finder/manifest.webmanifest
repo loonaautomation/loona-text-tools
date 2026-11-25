@@ -2,7 +2,7 @@
   "name": "Loona Localizador de Palavras Repetidas Online Grátis",
   "short_name": "Localizador de Palavras Repetidas Online Grátis",
   "description": "Encontre cada palavra que aparece mais de uma vez no seu texto, ordenada por quantas vezes se repete. Apanhe palavras duplas acidentais e palavras usadas em excesso. Grátis, sem registo.",
-  "id": "/loona-text-tools/pt/repeated-words-finder/",
+  "id": "/pt/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

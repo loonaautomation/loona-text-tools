@@ -2,7 +2,7 @@
   "name": "Loona فاحص طول الوصف التعريفي",
   "short_name": "فاحص طول الوصف التعريفي",
   "description": "عدّاد فاحص طول الوصف التعريفي مجانًا: عدّ أحرف مباشر ضد حد الـ160 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/meta-description-length-checker/",
+  "id": "/ar/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

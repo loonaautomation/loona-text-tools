@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "مکمل 172,820 الفاظ کی ENABLE لغت استعمال کر کے کسی بھی حروف کو اصل انگریزی الفاظ میں بدلیں - نتائج لمبائی کے لحاظ سے گروپ شدہ، Scrabble اسکورز کے ساتھ، «سے شروع»، «پر ختم» اور «شامل ہے» فلٹرز، اور خالی ٹائل کی سہولت۔ مفت، کوئی سائن اپ نہیں، اور آپ کے حروف کبھی آپ کے براؤزر سے باہر نہیں جاتے۔",
-  "id": "/loona-text-tools/ur/word-unscrambler/",
+  "id": "/ur/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

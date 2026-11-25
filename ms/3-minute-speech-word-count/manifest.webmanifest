@@ -2,7 +2,7 @@
   "name": "Loona Ucapan 3 Minit",
   "short_name": "Ucapan 3 Minit",
   "description": "Berapa banyak perkataan dalam ucapan 3 minit? 330–540 perkataan (450 pada kelajuan percakapan). Pengira langsung percuma dengan penyemakan masa bertutur.",
-  "id": "/loona-text-tools/ms/3-minute-speech-word-count/",
+  "id": "/ms/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

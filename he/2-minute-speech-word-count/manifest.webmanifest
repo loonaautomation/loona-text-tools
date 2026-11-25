@@ -2,7 +2,7 @@
   "name": "Loona נאום של 2 דקות",
   "short_name": "נאום של 2 דקות",
   "description": "כמה מילים בנאום של 2 דקות? 220–360 מילים (300 בקצב שיחה). מונה חי חינמי עם בדיקת זמן דיבור.",
-  "id": "/loona-text-tools/he/2-minute-speech-word-count/",
+  "id": "/he/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

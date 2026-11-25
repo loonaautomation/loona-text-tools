@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Los kruiswoordpatronen zoals c?oss?ord op tegen 172.820 Engelse woorden. Typ de letters die je kent, gebruik ? voor ontbrekende vakjes en filter op letters die erin moeten zitten. Gratis, geen registratie, 100% op je apparaat.",
-  "id": "/loona-text-tools/nl/crossword-solver/",
+  "id": "/nl/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

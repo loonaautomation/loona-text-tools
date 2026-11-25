@@ -2,7 +2,7 @@
   "name": "Loona Test de tastare online gratuit",
   "short_name": "Test de tastare online gratuit",
   "description": "Test gratuit de tastare de 60 de secunde: măsoară-ți viteza de tastare în WPM, acuratețea și caracterele pe minut, cu texte ușoare, medii și grele. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-text-tools/ro/typing-test/",
+  "id": "/ro/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

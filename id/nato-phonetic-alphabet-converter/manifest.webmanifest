@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Alfabet Fonetik NATO",
   "short_name": "Pengonversi Alfabet Fonetik NATO",
   "description": "Konversi teks apa pun menjadi alfabet fonetik NATO (Alfa, Bravo, Charlie) dan dekode ejaan NATO kembali ke teks biasa. Gratis, instan, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/nato-phonetic-alphabet-converter/",
+  "id": "/id/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

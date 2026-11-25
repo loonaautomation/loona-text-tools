@@ -1,7 +1,7 @@
 [
  {
   "n": "Počítadlo slov",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/word-counter/",
+  "u": "https://text.loonaautomation.com/cs/word-counter/",
   "s": "Loona Text Tools",
   "d": "Slova, znaky, věty, odstavce a doba čtení - počítané živě při psaní.",
   "k": "word counter word counter slova znaky vety odstavce a doba cteni pocitane zive pri psani",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Počítadlo znaků",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/character-counter/",
+  "u": "https://text.loonaautomation.com/cs/character-counter/",
   "s": "Loona Text Tools",
   "d": "Znaky s mezerami i bez nich, plus živé limity pro X, SMS a meta text.",
   "k": "character counter character counter znaky s mezerami i bez nich plus zive limity pro x sms a meta text",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Počítadlo vět",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/sentence-counter/",
+  "u": "https://text.loonaautomation.com/cs/sentence-counter/",
   "s": "Loona Text Tools",
   "d": "Věty, odstavce, slova a znaky v jakémkoli textu - počítané živě při psaní.",
   "k": "sentence counter sentence counter vety odstavce slova a znaky v jakemkoli textu pocitane zive pri psani",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Kalkulačka doby čtení",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/reading-time-calculator/",
+  "u": "https://text.loonaautomation.com/cs/reading-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Jak dlouho trvá přečtení jakéhokoli textu, při pomalé, průměrné a rychlé rychlosti čtení.",
   "k": "reading time calculator reading time calculator jak dlouho trva precteni jakehokoli textu pri pomale prumerne a rychle rychlosti cteni",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Kalkulačka doby mluvení",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/speaking-time-calculator/",
+  "u": "https://text.loonaautomation.com/cs/speaking-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Jak dlouho trvá přednes projevu nebo scénáře - plus slova potřebná pro cílový čas.",
   "k": "speaking time calculator speaking time calculator jak dlouho trva prednes projevu nebo scenare plus slova potrebna pro cilovy cas",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Test psaní",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/typing-test/",
+  "u": "https://text.loonaautomation.com/cs/typing-test/",
   "s": "Loona Text Tools",
   "d": "Test psaní na 60 sekund - vaše rychlost ve WPM, přesnost a CPM, živě při psaní.",
   "k": "typing test typing test test psani na 60 sekund vase rychlost ve wpm presnost a cpm zive pri psani",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Převodník velikosti písmen",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/case-converter/",
+  "u": "https://text.loonaautomation.com/cs/case-converter/",
   "s": "Loona Text Tools",
   "d": "VELKÁ PÍSMENA, malá písmena, Title Case, Sentence case a další - každé na jedno kliknutí.",
   "k": "case converter case converter velka pismena mala pismena title case sentence case a dalsi kazde na jedno kliknuti",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Odstranit duplicitní řádky",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/remove-duplicate-lines/",
+  "u": "https://text.loonaautomation.com/cs/remove-duplicate-lines/",
   "s": "Loona Text Tools",
   "d": "Smažte opakované řádky a ponechte každý jedinečný řádek jednou, v daném pořadí.",
   "k": "remove duplicate lines remove duplicate lines smazte opakovane radky a ponechte kazdy jedinecny radek jednou v danem poradi",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Seřadit řádky",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/sort-lines/",
+  "u": "https://text.loonaautomation.com/cs/sort-lines/",
   "s": "Loona Text Tools",
   "d": "Řaďte řádky A-Z, Z-A, podle délky, obráceně, nebo spravedlivě náhodně zamíchané.",
   "k": "sort lines sort lines radte radky a z z a podle delky obracene nebo spravedlive nahodne zamichane",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Obrátit text",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/reverse-text/",
+  "u": "https://text.loonaautomation.com/cs/reverse-text/",
   "s": "Loona Text Tools",
   "d": "Obraťte text pozpátku - celý text, každé slovo, pořadí slov nebo pořadí řádků.",
   "k": "reverse text reverse text obratte text pozpatku cely text kazde slovo poradi slov nebo poradi radku",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Odstranit přebytečné mezery",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/remove-extra-spaces/",
+  "u": "https://text.loonaautomation.com/cs/remove-extra-spaces/",
   "s": "Loona Text Tools",
   "d": "Vymáčkněte dvojité mezery, tabulátory a roztřepené okraje z nepřehledného kopírovaného textu.",
   "k": "remove extra spaces remove extra spaces vymacknete dvojite mezery tabulatory a roztrepene okraje z neprehledneho kopirovaneho textu",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Najít a nahradit",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/find-and-replace/",
+  "u": "https://text.loonaautomation.com/cs/find-and-replace/",
   "s": "Loona Text Tools",
   "d": "Vyměňte každý výskyt slova nebo fráze za jiný, na jeden průchod.",
   "k": "find and replace find and replace vymente kazdy vyskyt slova nebo fraze za jiny na jeden pruchod",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Text na řeč",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-to-speech/",
+  "u": "https://text.loonaautomation.com/cs/text-to-speech/",
   "s": "Loona Text Tools",
   "d": "Poslechněte si jakýkoli text čtený nahlas - anglické, urdské a další hlasy, vaše rychlost.",
   "k": "text to speech text to speech poslechnete si jakykoli text cteny nahlas anglicke urdske a dalsi hlasy vase rychlost",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Řeč na text",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/speech-to-text/",
+  "u": "https://text.loonaautomation.com/cs/speech-to-text/",
   "s": "Loona Text Tools",
   "d": "Mluvte a sledujte, jak se vaše slova mění na text - angličtina, urdština a další.",
   "k": "speech to text speech to text mluvte a sledujte jak se vase slova meni na text anglictina urdstina a dalsi",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Generátor hesel",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/password-generator/",
+  "u": "https://text.loonaautomation.com/cs/password-generator/",
   "s": "Loona Text Tools",
   "d": "Silná náhodná hesla s délkou a symboly podle vašeho výběru.",
   "k": "password generator password generator silna nahodna hesla s delkou a symboly podle vaseho vyberu",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Porovnání textů",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-compare/",
+  "u": "https://text.loonaautomation.com/cs/text-compare/",
   "s": "Loona Text Tools",
   "d": "Srovnejte dva texty vedle sebe a podívejte se přesně, které řádky se změnily.",
   "k": "text compare text compare srovnejte dva texty vedle sebe a podivejte se presne ktere radky se zmenily",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Četnost slov",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/word-frequency/",
+  "u": "https://text.loonaautomation.com/cs/word-frequency/",
   "s": "Loona Text Tools",
   "d": "Seřazená tabulka vašich nejpoužívanějších slov s počty a procenty.",
   "k": "word frequency word frequency serazena tabulka vasich nejpouzivanejsich slov s pocty a procenty",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Odstranit zalomení řádků",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/remove-line-breaks/",
+  "u": "https://text.loonaautomation.com/cs/remove-line-breaks/",
   "s": "Loona Text Tools",
   "d": "Spojte řádky rozlámané ve stylu PDF zpět do čistých, plynulých odstavců.",
   "k": "remove line breaks remove line breaks spojte radky rozlamane ve stylu pdf zpet do cistych plynulych odstavcu",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Přidat čísla řádků",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/add-line-numbers/",
+  "u": "https://text.loonaautomation.com/cs/add-line-numbers/",
   "s": "Loona Text Tools",
   "d": "Očíslujte každý řádek - vyberte začátek, krok, doplňování a oddělovač.",
   "k": "add line numbers add line numbers ocislujte kazdy radek vyberte zacatek krok doplnovani a oddelovac",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Generátor Lorem Ipsum",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/lorem-ipsum-generator/",
+  "u": "https://text.loonaautomation.com/cs/lorem-ipsum-generator/",
   "s": "Loona Text Tools",
   "d": "Klasický výplňový text po odstavci, větě nebo slově pro vaše návrhy.",
   "k": "lorem ipsum generator lorem ipsum generator klasicky vyplnovy text po odstavci vete nebo slove pro vase navrhy",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Generátor slugu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/slug-generator/",
+  "u": "https://text.loonaautomation.com/cs/slug-generator/",
   "s": "Loona Text Tools",
   "d": "Proměňte jakýkoli název v čistý slug URL přívětivý pro vyhledávání, živě.",
   "k": "slug generator slug generator promente jakykoli nazev v cisty slug url privetivy pro vyhledavani zive",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Překladač Morseovy abecedy",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/morse-code-translator/",
+  "u": "https://text.loonaautomation.com/cs/morse-code-translator/",
   "s": "Loona Text Tools",
   "d": "Text do Morseova kódu a zpět - se skutečným přehráváním pípání.",
   "k": "morse code translator morse code translator text do morseova kodu a zpet se skutecnym prehravanim pipani",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Text do binární soustavy",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-to-binary/",
+  "u": "https://text.loonaautomation.com/cs/text-to-binary/",
   "s": "Loona Text Tools",
   "d": "Podívejte se na text jako na 0 a 1, které počítače ukládají - a binární kód dekódujte zpět.",
   "k": "text to binary text to binary podivejte se na text jako na 0 a 1 ktere pocitace ukladaji a binarni kod dekodujte zpet",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Roman Urdu do urdštiny",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/roman-urdu-to-urdu/",
+  "u": "https://text.loonaautomation.com/cs/roman-urdu-to-urdu/",
   "s": "Loona Text Tools",
   "d": "Proměňte 'mera naam Ahmed hai' na správné urdské písmo, okamžitě.",
   "k": "roman urdu to urdu roman urdu to urdu promente mera naam ahmed hai na spravne urdske pismo okamzite",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Online poznámkový blok",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/online-notepad/",
+  "u": "https://text.loonaautomation.com/cs/online-notepad/",
   "s": "Loona Text Tools",
   "d": "Poznámkový blok, který se automaticky ukládá ve vašem prohlížeči - včetně stahování a tisku.",
   "k": "online notepad online notepad poznamkovy blok ktery se automaticky uklada ve vasem prohlizeci vcetne stahovani a tisku",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Generátor ozdobného textu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/fancy-text-generator/",
+  "u": "https://text.loonaautomation.com/cs/fancy-text-generator/",
   "s": "Loona Text Tools",
   "d": "Tučný, psací, zakroužkovaný a převrácený text pro bia a popisky.",
   "k": "fancy text generator fancy text generator tucny psaci zakrouzkovany a prevraceny text pro bia a popisky",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Počítadlo slabik",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/syllable-counter/",
+  "u": "https://text.loonaautomation.com/cs/syllable-counter/",
   "s": "Loona Text Tools",
   "d": "Počítejte slabiky v každém slově i celkem - ideální pro básně, haiku a texty písní.",
   "k": "syllable counter syllable counter pocitejte slabiky v kazdem slove i celkem idealni pro basne haiku a texty pisni",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Počítadlo odstavců",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/paragraph-counter/",
+  "u": "https://text.loonaautomation.com/cs/paragraph-counter/",
   "s": "Loona Text Tools",
   "d": "Počítejte odstavce, se slovy a větami na odstavec a označeným nejdelším.",
   "k": "paragraph counter paragraph counter pocitejte odstavce se slovy a vetami na odstavec a oznacenym nejdelsim",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Kalkulačka úrovně čtení",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/reading-level-calculator/",
+  "u": "https://text.loonaautomation.com/cs/reading-level-calculator/",
   "s": "Loona Text Tools",
   "d": "Skóre Flesch Reading Ease a úrovně třídy, s verdiktem prostou angličtinou.",
   "k": "reading level calculator reading level calculator skore flesch reading ease a urovne tridy s verdiktem prostou anglictinou",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Kontrola palindromů",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/palindrome-checker/",
+  "u": "https://text.loonaautomation.com/cs/palindrome-checker/",
   "s": "Loona Text Tools",
   "d": "Čte se stejně pozpátku? Zkontrolujte slova, čísla a celé věty.",
   "k": "palindrome checker palindrome checker cte se stejne pozpatku zkontrolujte slova cisla a cele vety",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Generátor anagramů",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/anagram-generator/",
+  "u": "https://text.loonaautomation.com/cs/anagram-generator/",
   "s": "Loona Text Tools",
   "d": "Najděte skutečná slova skrytá ve vašich písmenech a okamžitě testujte dvojice anagramů.",
   "k": "anagram generator anagram generator najdete skutecna slova skryta ve vasich pismenech a okamzite testujte dvojice anagramu",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Fonetická abeceda NATO",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/nato-phonetic-alphabet-converter/",
+  "u": "https://text.loonaautomation.com/cs/nato-phonetic-alphabet-converter/",
   "s": "Loona Text Tools",
   "d": "Hláskujte cokoli po způsobu pilotů - Alfa, Bravo, Charlie - a dekódujte to zpět.",
   "k": "nato phonetic alphabet nato phonetic alphabet hlaskujte cokoli po zpusobu pilotu alfa bravo charlie a dekodujte to zpet",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Převodník textu do ASCII",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-to-ascii-converter/",
+  "u": "https://text.loonaautomation.com/cs/text-to-ascii-converter/",
   "s": "Loona Text Tools",
   "d": "Desítkové, hexadecimální, osmičkové a binární kódy za každým znakem, a zpět.",
   "k": "text to ascii converter text to ascii converter desitkove hexadecimalni osmickove a binarni kody za kazdym znakem a zpet",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Převodník textu do hexadecimální soustavy",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-to-hex-converter/",
+  "u": "https://text.loonaautomation.com/cs/text-to-hex-converter/",
   "s": "Loona Text Tools",
   "d": "Text na hexadecimální bajty a zpět, se správným UTF-8 pro každý jazyk.",
   "k": "text to hex converter text to hex converter text na hexadecimalni bajty a zpet se spravnym utf 8 pro kazdy jazyk",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Vyhledávač opakovaných slov",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/repeated-words-finder/",
+  "u": "https://text.loonaautomation.com/cs/repeated-words-finder/",
   "s": "Loona Text Tools",
   "d": "Každé slovo, které jste použili vícekrát, seřazené - plus náhodná zdvojená slova.",
   "k": "repeated words finder repeated words finder kazde slovo ktere jste pouzili vicekrat serazene plus nahodna zdvojena slova",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Kontrola neviditelných znaků",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/invisible-character-checker/",
+  "u": "https://text.loonaautomation.com/cs/invisible-character-checker/",
   "s": "Loona Text Tools",
   "d": "Odhalte znaky s nulovou šířkou a skryté znaky v kopírovaném textu a odstraňte je.",
   "k": "invisible character checker invisible character checker odhalte znaky s nulovou sirkou a skryte znaky v kopirovanem textu a odstrante je",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Odstranit interpunkci",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/remove-punctuation/",
+  "u": "https://text.loonaautomation.com/cs/remove-punctuation/",
   "s": "Loona Text Tools",
   "d": "Odstraňte interpunkci z textu na jedno kliknutí, se slovy čistými.",
   "k": "remove punctuation remove punctuation odstrante interpunkci z textu na jedno kliknuti se slovy cistymi",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Extraktor e-mailů",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/email-extractor/",
+  "u": "https://text.loonaautomation.com/cs/email-extractor/",
   "s": "Loona Text Tools",
   "d": "Vytáhněte každou e-mailovou adresu z jakéhokoli textu - bez duplikátů, jednu na řádek.",
   "k": "email extractor email extractor vytahnete kazdou e mailovou adresu z jakehokoli textu bez duplikatu jednu na radek",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Obrázek na text (OCR)",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/image-to-text-converter/",
+  "u": "https://text.loonaautomation.com/cs/image-to-text-converter/",
   "s": "Loona Text Tools",
   "d": "Extrahujte upravitelný text z fotografií, skenů a snímků obrazovky - bezplatné OCR ve vašem prohlížeči.",
   "k": "image to text (ocr) image to text (ocr) extrahujte upravitelny text z fotografii skenu a snimku obrazovky bezplatne ocr ve vasem prohlizeci",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Převodník obrázků do Excelu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/image-to-excel-converter/",
+  "u": "https://text.loonaautomation.com/cs/image-to-excel-converter/",
   "s": "Loona Text Tools",
   "d": "Proměňte fotografii nebo snímek obrazovky tabulky ve skutečný soubor Excel - zkontrolujte a upravte buňky, poté stáhněte.",
   "k": "image to excel converter image to excel converter promente fotografii nebo snimek obrazovky tabulky ve skutecny soubor excel zkontrolujte a upravte bunky pote stahnete",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Generátor citací",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/citation-generator/",
+  "u": "https://text.loonaautomation.com/cs/citation-generator/",
   "s": "Loona Text Tools",
   "d": "Citace APA 7., MLA 9. a Chicago pro webové stránky, knihy a časopisecké články.",
   "k": "citation generator citation generator citace apa 7 mla 9 a chicago pro webove stranky knihy a casopisecke clanky",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Čtečka EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/epub-reader/",
+  "u": "https://text.loonaautomation.com/cs/epub-reader/",
   "s": "Loona Text Tools",
   "d": "Otevírejte a čtěte elektronické knihy EPUB přímo ve svém prohlížeči - seznam kapitol, nastavitelná velikost písma a tmavý režim.",
   "k": "epub reader epub reader otevirejte a ctete elektronicke knihy epub primo ve svem prohlizeci seznam kapitol nastavitelna velikost pisma a tmavy rezim",
@@ -379,7 +379,7 @@
  },
  {
   "n": "EPUB do textu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/epub-to-text/",
+  "u": "https://text.loonaautomation.com/cs/epub-to-text/",
   "s": "Loona Text Tools",
   "d": "Proměňte elektronickou knihu EPUB v čistý soubor prostého textu - kapitoly v pořadí čtení, nadpisy zachovány.",
   "k": "epub to text epub to text promente elektronickou knihu epub v cisty soubor prosteho textu kapitoly v poradi cteni nadpisy zachovany",
@@ -388,7 +388,7 @@
  },
  {
   "n": "EPUB do HTML",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/epub-to-html/",
+  "u": "https://text.loonaautomation.com/cs/epub-to-html/",
   "s": "Loona Text Tools",
   "d": "Proměňte elektronickou knihu EPUB v jeden soběstačný soubor HTML s vloženými obrázky.",
   "k": "epub to html epub to html promente elektronickou knihu epub v jeden sobestacny soubor html s vlozenymi obrazky",
@@ -397,7 +397,7 @@
  },
  {
   "n": "CBZ do PDF",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/cbz-to-pdf/",
+  "u": "https://text.loonaautomation.com/cs/cbz-to-pdf/",
   "s": "Loona Text Tools",
   "d": "Proměňte komiksový archiv v PDF - stránky v přirozeném pořadí, jeden obrázek na stránku.",
   "k": "cbz to pdf cbz to pdf promente komiksovy archiv v pdf stranky v prirozenem poradi jeden obrazek na stranku",
@@ -406,7 +406,7 @@
  },
  {
   "n": "DOCX do EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/docx-to-epub/",
+  "u": "https://text.loonaautomation.com/cs/docx-to-epub/",
   "s": "Loona Text Tools",
   "d": "Proměňte dokument Word v elektronickou knihu EPUB - nadpisy se stanou kapitolami.",
   "k": "docx to epub docx to epub promente dokument word v elektronickou knihu epub nadpisy se stanou kapitolami",
@@ -415,7 +415,7 @@
  },
  {
   "n": "Editor metadat EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/epub-metadata-editor/",
+  "u": "https://text.loonaautomation.com/cs/epub-metadata-editor/",
   "s": "Loona Text Tools",
   "d": "Upravte název, autora, vydavatele a popis elektronické knihy - kapitoly nedotčené.",
   "k": "epub metadata editor epub metadata editor upravte nazev autora vydavatele a popis elektronicke knihy kapitoly nedotcene",
@@ -424,7 +424,7 @@
  },
  {
   "n": "Text / Markdown do EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/text-to-epub/",
+  "u": "https://text.loonaautomation.com/cs/text-to-epub/",
   "s": "Loona Text Tools",
   "d": "Proměňte prostý text nebo Markdown v řádnou elektronickou knihu EPUB, která se otevře v libovolné čtečce.",
   "k": "text / markdown to epub text / markdown to epub promente prosty text nebo markdown v radnou elektronickou knihu epub ktera se otevre v libovolne ctecce",
@@ -433,19 +433,19 @@
  },
  {
   "n": "Generátor náhodných témat",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/random-topic-generator/",
+  "u": "https://text.loonaautomation.com/cs/random-topic-generator/",
   "s": "Loona Text Tools",
   "d": "900 ručně psaných témat esejí, projevů, debat, příběhů a témat pro děti v 9 kategoriích, filtrovaných podle školní úrovně, bez opakování.",
   "k": "random topic generator random topic generator 900 rucne psanych temat eseji projevu debat pribehu a temat pro deti v 9 kategoriich filtrovanych podle skolni urovne bez opakovani",
   "p": 148,
   "c": "Tool"
  }
-,{"n":"Výběr emoji","u":"https://loonaautomation.github.io/loona-text-tools/cs/emoji-picker/","s":"Loona Text Tools","d":"Procházejte nebo vyhledávejte mezi 1,900+ emoji a symboly – kliknutím zkopírujete, s odstíny pleti a zásobníkem pro kopírování.","k":"emoji picker emoji picker prochazejte nebo vyhledavejte mezi 1,900+ emoji a symboly – kliknutim zkopirujete, s odstiny pleti a zasobnikem pro kopirovani.","p":149,"c":"Tool"},
-{"n":"Shrnutí textu","u":"https://loonaautomation.github.io/loona-text-tools/cs/text-summarizer/","s":"Loona Text Tools","d":"Vložte dlouhý článek, esej nebo zprávu a získejte zpět jeho nejdůležitější původní věty. Extraktivní shrnutí ve vašem prohlížeči — nikdy se nenahrává, nikdy se nepřepisuje.","k":"shrnutí textu shrnout text sumarizátor textu generátor shrnutí zkrátit text shrnutí článku shrnutí eseje online shrnovač","p":150,"c":"Tool"},
-{"n":"Loona AI Detector","u":"https://loonaautomation.github.io/loona-text-tools/cs/ai-detector/","s":"Loona Text Tools","d":"Podívejte se na signály psaní, které detektory AI měří – rytmus vět, rozmanitost slovní zásoby, opakující se fráze a předvídatelnost. Poctivé signály, ne verdikt – a váš text nikdy neopustí váš prohlížeč.","k":"detektor ai ai detektor zkontrolovat ai text detektor ai obsahu kontrola ai textu detekce ai psaní loona ai detector","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/cs/wordle-helper/", "s": "Loona Text Tools", "d": "Zadejte své pokusy ve Wordle a klepněte na políčka šedě, žlutě nebo zeleně: uvidíte každou odpověď, která ještě vyhovuje, a nejlepší další pokusy, se správnou logikou pro zdvojená písmena.", "k": "wordle helper pomocník wordle čeština řešitel wordle odpovědi políčka šedá žlutá zelená zdvojená písmena nejlepší další pokusy slovní hra", "p": 152, "c": "Tool"},
+,{"n":"Výběr emoji","u":"https://text.loonaautomation.com/cs/emoji-picker/","s":"Loona Text Tools","d":"Procházejte nebo vyhledávejte mezi 1,900+ emoji a symboly – kliknutím zkopírujete, s odstíny pleti a zásobníkem pro kopírování.","k":"emoji picker emoji picker prochazejte nebo vyhledavejte mezi 1,900+ emoji a symboly – kliknutim zkopirujete, s odstiny pleti a zasobnikem pro kopirovani.","p":149,"c":"Tool"},
+{"n":"Shrnutí textu","u":"https://text.loonaautomation.com/cs/text-summarizer/","s":"Loona Text Tools","d":"Vložte dlouhý článek, esej nebo zprávu a získejte zpět jeho nejdůležitější původní věty. Extraktivní shrnutí ve vašem prohlížeči — nikdy se nenahrává, nikdy se nepřepisuje.","k":"shrnutí textu shrnout text sumarizátor textu generátor shrnutí zkrátit text shrnutí článku shrnutí eseje online shrnovač","p":150,"c":"Tool"},
+{"n":"Loona AI Detector","u":"https://text.loonaautomation.com/cs/ai-detector/","s":"Loona Text Tools","d":"Podívejte se na signály psaní, které detektory AI měří – rytmus vět, rozmanitost slovní zásoby, opakující se fráze a předvídatelnost. Poctivé signály, ne verdikt – a váš text nikdy neopustí váš prohlížeč.","k":"detektor ai ai detektor zkontrolovat ai text detektor ai obsahu kontrola ai textu detekce ai psaní loona ai detector","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://text.loonaautomation.com/cs/wordle-helper/", "s": "Loona Text Tools", "d": "Zadejte své pokusy ve Wordle a klepněte na políčka šedě, žlutě nebo zeleně: uvidíte každou odpověď, která ještě vyhovuje, a nejlepší další pokusy, se správnou logikou pro zdvojená písmena.", "k": "wordle helper pomocník wordle čeština řešitel wordle odpovědi políčka šedá žlutá zelená zdvojená písmena nejlepší další pokusy slovní hra", "p": 152, "c": "Tool"},
  {
   "n": "Loona Word Unscrambler",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/word-unscrambler/",
+  "u": "https://text.loonaautomation.com/cs/word-unscrambler/",
   "s": "Loona Text Tools",
   "d": "Sestavte z pomíchaných písmen skutečná slova z úplného slovníku se 172,820 slovy — seskupená podle délky, se skóre Scrabble a podporou prázdných kamenů.",
   "k": "rozluštění slov přesmyčka skládání slov z písmen pomoc scrabble word unscrambler loona word unscrambler",
@@ -454,7 +454,7 @@
  },
  {
   "n": "Loona Scrabble Word Finder",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/scrabble-word-finder/",
+  "u": "https://text.loonaautomation.com/cs/scrabble-word-finder/",
   "s": "Loona Text Tools",
   "d": "Najděte tahy s nejvyšším skóre z písmen ve vašem zásobníku, s prázdnými kameny a vzory desky — plus kontrolu slov, která vyřeší každý spor.",
   "k": "scrabble hledání slov nejlepší tahy písmena kontrola slov skóre scrabble word finder loona scrabble word finder",
@@ -463,7 +463,7 @@
  },
  {
   "n": "Loona Crossword Solver",
-  "u": "https://loonaautomation.github.io/loona-text-tools/cs/crossword-solver/",
+  "u": "https://text.loonaautomation.com/cs/crossword-solver/",
   "s": "Loona Text Tools",
   "d": "Zadejte písmena, která znáte, ? pro políčka, která neznáte — prohledejte 172,820 slov podle vzoru a dokončete mřížku.",
   "k": "luštění křížovek pomoc křížovka hledání podle vzoru chybějící písmena crossword solver loona crossword solver",

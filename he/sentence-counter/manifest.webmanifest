@@ -2,7 +2,7 @@
   "name": "Loona מונה משפטים אונליין בחינם",
   "short_name": "מונה משפטים אונליין בחינם",
   "description": "ספרו משפטים, פסקאות, מילים ותווים בכל טקסט מיד, עם אורך משפט ממוצע. מונה משפטים חינמי, ללא הרשמה, עובד בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/sentence-counter/",
+  "id": "/he/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

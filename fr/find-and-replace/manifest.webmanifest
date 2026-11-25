@@ -2,7 +2,7 @@
   "name": "Loona Rechercher et remplacer du texte en ligne",
   "short_name": "Rechercher et remplacer du texte en ligne",
   "description": "Recherchez un mot ou une expression et remplacez chaque occurrence dans votre texte en une fois, avec des options sensibles à la casse, mot entier et motif. Outil en ligne gratuit - aucune inscription.",
-  "id": "/loona-text-tools/fr/find-and-replace/",
+  "id": "/fr/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

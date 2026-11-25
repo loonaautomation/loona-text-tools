@@ -2,7 +2,7 @@
   "name": "Loona Kuva Excel-muotoon -muunnin verkossa ilmaiseksi",
   "short_name": "Kuva Excel-muotoon -muunnin verkossa ilmaiseksi",
   "description": "Muunna valokuva, skannaus tai kuvakaappaus taulukosta aidoksi Excel (.xlsx) -tiedostoksi ilmaisella OCR:llä, joka toimii 100 % selaimessasi. Muokkaa taulukkoa ennen latausta – ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/image-to-excel-converter/",
+  "id": "/fi/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

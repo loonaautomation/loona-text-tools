@@ -2,7 +2,7 @@
   "name": "Loona דיבור לטקסט אונליין בחינם",
   "short_name": "דיבור לטקסט אונליין בחינם",
   "description": "הכתיבו בקולכם וצפו בו הופך לטקסט - דיבור לטקסט מקוון חינמי לאנגלית, אורדו ועוד שפות. ללא הרשמה; עובד ב-Chrome וב-Edge.",
-  "id": "/loona-text-tools/he/speech-to-text/",
+  "id": "/he/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

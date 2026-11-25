@@ -2,7 +2,7 @@
   "name": "Loona Remover Quebras de Linha Online",
   "short_name": "Remover Quebras de Linha Online",
   "description": "Remova quebras de linha e junte linhas quebradas em parágrafos limpos - perfeito para texto copiado de PDF. Removedor de quebras de linha online gratuito, sem registro, resultados instantâneos.",
-  "id": "/loona-text-tools/pt-br/remove-line-breaks/",
+  "id": "/pt-br/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

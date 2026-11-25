@@ -2,7 +2,7 @@
   "name": "Loona Fjern tegnsetting gratis på nett",
   "short_name": "Fjern tegnsetting gratis på nett",
   "description": "Fjern tegnsetting fra enhver tekst med ett klikk - punktum, komma, anførselstegn og mer - med alternativer for å beholde apostrofer og bindestreker. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/remove-punctuation/",
+  "id": "/nb/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

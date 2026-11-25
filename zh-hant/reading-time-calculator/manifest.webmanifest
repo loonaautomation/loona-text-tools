@@ -2,7 +2,7 @@
   "name": "Loona 閱讀時間計算器",
   "short_name": "閱讀時間計算器",
   "description": "貼上任何文字,檢視在慢速、平均和快速速度下讀完需要多長時間——外加目標閱讀時間所需的詞數。免費,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/reading-time-calculator/",
+  "id": "/zh-hant/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dekorativ textgenerator online",
   "short_name": "Dekorativ textgenerator online",
   "description": "Förvandla vanlig text till stiliga Unicode-teckensnitt - fet, skript, fraktur, inringad, små versaler och mer - för biografier, bildtexter och användarnamn. Gratis dekorativ textgenerator.",
-  "id": "/loona-text-tools/sv/fancy-text-generator/",
+  "id": "/sv/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เรียงความ 800 คำ",
   "short_name": "เรียงความ 800 คำ",
   "description": "ตัวนับเรียงความ 800 คำฟรี: นับคำแบบสดถึงเป้าหมาย 800 คำ หน้าแบบเว้นบรรทัดเดี่ยวและเว้นบรรทัดคู่ ย่อหน้า เวลาอ่านและเวลาพูด",
-  "id": "/loona-text-tools/th/800-word-essay-word-counter/",
+  "id": "/th/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

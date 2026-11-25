@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับประโยคออนไลน์ฟรี",
   "short_name": "ตัวนับประโยคออนไลน์ฟรี",
   "description": "นับประโยค ย่อหน้า คำ และตัวอักษรในข้อความใด ๆ ทันที พร้อมความยาวประโยคเฉลี่ย ตัวนับประโยคฟรี ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-text-tools/th/sentence-counter/",
+  "id": "/th/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

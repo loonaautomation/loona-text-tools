@@ -2,7 +2,7 @@
   "name": "Loona Worthäufigkeitszähler online",
   "short_name": "Worthäufigkeitszähler online",
   "description": "Zählen Sie, wie oft jedes Wort in Ihrem Text erscheint, und sehen Sie eine Rangtabelle mit Prozenten. Kostenloser Online-Worthäufigkeitszähler – keine Registrierung, sofort.",
-  "id": "/loona-text-tools/de/word-frequency/",
+  "id": "/de/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

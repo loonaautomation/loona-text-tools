@@ -2,7 +2,7 @@
   "name": "Loona ตัวตรวจสอบความยาวคำอธิบายเมทา",
   "short_name": "ตัวตรวจสอบความยาวคำอธิบายเมทา",
   "description": "ตัวตรวจสอบความยาวคำอธิบายเมทาฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 160 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/meta-description-length-checker/",
+  "id": "/th/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

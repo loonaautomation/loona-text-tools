@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo văn bản kiểu cách trực tuyến",
   "short_name": "Trình tạo văn bản kiểu cách trực tuyến",
   "description": "Biến văn bản thuần thành các phông chữ Unicode phong cách - in đậm, thư pháp, fraktur, khoanh tròn, chữ hoa nhỏ và hơn nữa - cho tiểu sử, chú thích và tên người dùng. Trình tạo văn bản kiểu cách miễn phí.",
-  "id": "/loona-text-tools/vi/fancy-text-generator/",
+  "id": "/vi/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

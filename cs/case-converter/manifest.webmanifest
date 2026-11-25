@@ -2,7 +2,7 @@
   "name": "Loona Převodník velikosti písmen online",
   "short_name": "Převodník velikosti písmen online",
   "description": "Převeďte text na VELKÁ PÍSMENA, malá písmena, Title Case, Sentence case, Capitalized nebo sTřÍdAvOu velikost jedním kliknutím. Bezplatný online převodník velikosti písmen - registrace není potřeba.",
-  "id": "/loona-text-tools/cs/case-converter/",
+  "id": "/cs/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

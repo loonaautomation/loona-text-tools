@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Online",
   "short_name": "Pengonversi Huruf Online",
   "description": "Konversi teks ke HURUF BESAR, huruf kecil, Huruf Judul, Huruf kalimat, Huruf Kapital atau huruf aLtErNaTiNg dalam satu klik. Pengonversi huruf online gratis - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/case-converter/",
+  "id": "/id/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

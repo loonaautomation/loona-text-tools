@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Palindrom Online Gratis",
   "short_name": "Pemeriksa Palindrom Online Gratis",
   "description": "Periksa apakah kata, angka atau kalimat apa pun adalah palindrom - dibaca sama dari depan dan belakang. Menampilkan teks yang dibersihkan dan kebalikannya. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/palindrome-checker/",
+  "id": "/id/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Szótagszámláló online ingyen",
   "short_name": "Szótagszámláló online ingyen",
   "description": "Számoljon szótagokat bármely szóban, mondatban vagy teljes szövegben azonnal - összes szótag, szavankénti bontás és átlagok. Ingyenes szótagszámláló, regisztráció nélkül, offline is működik.",
-  "id": "/loona-text-tools/hu/syllable-counter/",
+  "id": "/hu/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona snake_case 変換ツール",
   "short_name": "snake_case 変換ツール",
   "description": "無料 snake_case 変換ツール — テキストを貼り付ければ即座に snake_case が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/snake-case-converter/",
+  "id": "/ja/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

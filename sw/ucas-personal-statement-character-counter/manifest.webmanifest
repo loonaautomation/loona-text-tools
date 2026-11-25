@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Taarifa ya Kibinafsi ya UCAS",
   "short_name": "Kihesabu cha Vibambo vya Taarifa ya Kibinafsi ya UCAS",
   "description": "Kihesabu cha bure cha Vibambo vya Taarifa ya Kibinafsi ya UCAS: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 4,000, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/ucas-personal-statement-character-counter/",
+  "id": "/sw/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מחלץ כתובות דוא\"ל מקוון חינמי",
   "short_name": "מחלץ כתובות דוא\"ל מקוון חינמי",
   "description": "חלצו כל כתובת דוא",
-  "id": "/loona-text-tools/he/email-extractor/",
+  "id": "/he/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ordteller gratis på nett",
   "short_name": "Ordteller gratis på nett",
   "description": "Tell ord, tegn, setninger og avsnitt i enhver tekst øyeblikkelig, med lesetid og taletid. Gratis ordteller, ingen registrering, virker uten nett.",
-  "id": "/loona-text-tools/nb/word-counter/",
+  "id": "/nb/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

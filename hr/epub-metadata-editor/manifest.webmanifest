@@ -2,7 +2,7 @@
   "name": "Loona Uređivač EPUB metapodataka besplatno",
   "short_name": "Uređivač EPUB metapodataka besplatno",
   "description": "Uredite EPUB metapodatke besplatno u pregledniku: naslov, autora, jezik, izdavača i opis, uz prikazane podatke o naslovnici. Poglavlja netaknuta, bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/epub-metadata-editor/",
+  "id": "/hr/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

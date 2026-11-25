@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự bài đăng LinkedIn",
   "short_name": "Bộ đếm ký tự bài đăng LinkedIn",
   "description": "Bộ đếm ký tự bài đăng LinkedIn miễn phí: đếm ký tự trực tiếp so với giới hạn 3,000 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/linkedin-post-character-counter/",
+  "id": "/vi/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

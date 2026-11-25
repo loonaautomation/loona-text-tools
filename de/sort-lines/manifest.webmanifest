@@ -2,7 +2,7 @@
   "name": "Loona Zeilen online sortieren",
   "short_name": "Zeilen online sortieren",
   "description": "Textzeilen alphabetisch (A-Z oder Z-A), nach Länge, in umgekehrter Reihenfolge oder zufällig gemischt sortieren. Kostenloser Online-Zeilensortierer – keine Registrierung, sofort und privat.",
-  "id": "/loona-text-tools/de/sort-lines/",
+  "id": "/de/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

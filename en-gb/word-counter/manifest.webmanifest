@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/word-counter/",
+  "id": "/en-gb/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

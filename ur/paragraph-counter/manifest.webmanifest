@@ -2,7 +2,7 @@
   "name": "Loona پیراگراف گننے والا آن لائن مفت",
   "short_name": "پیراگراف گننے والا آن لائن مفت",
   "description": "کسی بھی متن میں پیراگراف فوراً گنیں، فی پیراگراف جملوں اور الفاظ کے ساتھ اور سب سے لمبے اور سب سے مختصر پیراگراف کے ساتھ۔ مفت پیراگراف کاؤنٹر، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/paragraph-counter/",
+  "id": "/ur/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona متن آن لائن تلاش کریں اور بدلیں",
   "short_name": "متن آن لائن تلاش کریں اور بدلیں",
   "description": "کوئی لفظ یا فقرہ تلاش کریں اور اپنے متن میں اس کی ہر موجودگی ایک ساتھ بدلیں، کیس حساس، مکمل لفظ اور پیٹرن آپشنز کے ساتھ۔ مفت آن لائن ٹول - کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/find-and-replace/",
+  "id": "/ur/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

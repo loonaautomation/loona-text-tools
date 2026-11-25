@@ -2,7 +2,7 @@
   "name": "Loona Discord پیغام حروف گننے والا",
   "short_name": "Discord پیغام حروف گننے والا",
   "description": "مفت Discord پیغام حروف گننے والا کاؤنٹر: 2,000 حروف کی حد کے مقابل لائیو حروف گنتی، آپ کے لکھتے ہی الفاظ اور باقی حروف دکھائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/discord-message-character-counter/",
+  "id": "/ur/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

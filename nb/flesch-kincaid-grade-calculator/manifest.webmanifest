@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid-karakterkalkulator",
   "short_name": "Flesch–Kincaid-karakterkalkulator",
   "description": "Gratis Flesch–Kincaid-karakterkalkulator: lim inn tekst for klassetrinn og lesbarhetsskår, med ord per setning og stavelser per ord.",
-  "id": "/loona-text-tools/nb/flesch-kincaid-grade-calculator/",
+  "id": "/nb/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

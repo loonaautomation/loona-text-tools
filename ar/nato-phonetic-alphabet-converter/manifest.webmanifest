@@ -2,7 +2,7 @@
   "name": "Loona محوّل الأبجدية الصوتية للناتو",
   "short_name": "محوّل الأبجدية الصوتية للناتو",
   "description": "حوّل أي نص إلى الأبجدية الصوتية للناتو (Alfa, Bravo, Charlie) وفُكّ تهجئة الناتو إلى نص عادي. مجاني، فوري، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/nato-phonetic-alphabet-converter/",
+  "id": "/ar/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov online",
   "short_name": "Počítadlo znakov online",
   "description": "Počítajte znaky s medzerami aj bez medzier a kontrolujte limity pre X (Twitter), SMS, meta popisy a ďalšie. Bezplatné online počítadlo znakov - bez potreby registrácie.",
-  "id": "/loona-text-tools/sk/character-counter/",
+  "id": "/sk/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

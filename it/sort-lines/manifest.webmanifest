@@ -2,7 +2,7 @@
   "name": "Loona Ordina righe online",
   "short_name": "Ordina righe online",
   "description": "Ordina le righe di testo alfabeticamente (A-Z o Z-A), per lunghezza, in ordine inverso o mescolate casualmente. Ordinatore di righe online gratuito - nessuna registrazione, istantaneo e privato.",
-  "id": "/loona-text-tools/it/sort-lines/",
+  "id": "/it/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona বলার সময় ক্যালকুলেটর",
   "short_name": "বলার সময় ক্যালকুলেটর",
   "description": "আপনার বক্তৃতা বা স্ক্রিপ্ট পেস্ট করুন আর দেখুন ধীর, কথোপকথনমূলক ও দ্রুত গতিতে উপস্থাপনে কত সময় লাগে - সঙ্গে লক্ষ্য সময়ে কত শব্দ খাপ খায়। বিনামূল্যে, কোনো সাইন-আপ নেই।",
-  "id": "/loona-text-tools/bn/speaking-time-calculator/",
+  "id": "/bn/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

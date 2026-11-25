@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างการอ้างอิงออนไลน์ฟรี",
   "short_name": "ตัวสร้างการอ้างอิงออนไลน์ฟรี",
   "description": "สร้างการอ้างอิงที่จัดรูปแบบอย่างถูกต้องสำหรับเว็บไซต์ หนังสือ และบทความวารสารในรูปแบบ APA ฉบับที่ 7, MLA ฉบับที่ 9 และ Chicago แบบผู้แต่ง-ปี — ฟรี ทันที ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-text-tools/th/citation-generator/",
+  "id": "/th/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

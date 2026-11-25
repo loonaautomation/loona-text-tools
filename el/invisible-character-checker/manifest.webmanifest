@@ -2,7 +2,7 @@
   "name": "Loona Έλεγχος Αόρατων Χαρακτήρων",
   "short_name": "Έλεγχος Αόρατων Χαρακτήρων",
   "description": "Αποκαλύψτε αόρατους χαρακτήρες που κρύβονται στο κείμενό σας - κενά μηδενικού πλάτους, BOM, μη διασπώμενα κενά και σημάδια κατεύθυνσης - και αφαιρέστε τους με ένα κλικ. Δωρεάν.",
-  "id": "/loona-text-tools/el/invisible-character-checker/",
+  "id": "/el/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

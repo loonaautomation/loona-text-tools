@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator for taletid",
   "short_name": "Kalkulator for taletid",
   "description": "Lim inn talen eller manuset ditt og se hvor lang tid den tar å fremføre i langsomt, samtale- og raskt tempo - pluss hvor mange ord som passer til en ønsket tid. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/speaking-time-calculator/",
+  "id": "/nb/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

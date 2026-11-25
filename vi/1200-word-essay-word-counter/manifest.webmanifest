@@ -2,7 +2,7 @@
   "name": "Loona Bài luận 1,200 từ",
   "short_name": "Bài luận 1,200 từ",
   "description": "Bộ đếm bài luận 1,200 từ miễn phí: đếm số từ trực tiếp tới mục tiêu 1,200 từ, số trang giãn dòng đơn và đôi, đoạn văn, thời gian đọc và nói.",
-  "id": "/loona-text-tools/vi/1200-word-essay-word-counter/",
+  "id": "/vi/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

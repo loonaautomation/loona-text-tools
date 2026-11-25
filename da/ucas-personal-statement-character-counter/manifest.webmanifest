@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller til personlig UCAS-erklæring",
   "short_name": "Tegntæller til personlig UCAS-erklæring",
   "description": "Gratis Tegntæller til personlig UCAS-erklæring-tæller: live tegntælling mod grænsen på 4,000 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/ucas-personal-statement-character-counter/",
+  "id": "/da/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo viet online zadarmo",
   "short_name": "Počítadlo viet online zadarmo",
   "description": "Počítajte vety, odseky, slová a znaky v akomkoľvek texte okamžite, s priemernou dĺžkou vety. Bezplatné počítadlo viet, bez registrácie, funguje vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/sentence-counter/",
+  "id": "/sk/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

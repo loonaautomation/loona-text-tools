@@ -2,7 +2,7 @@
   "name": "Loona EPUB-lezer online gratis",
   "short_name": "EPUB-lezer online gratis",
   "description": "Open en lees EPUB-e-books gratis online, direct in je browser. Hoofdstukkenlijst, instelbare lettergrootte en donkere modus. 100% privé - je e-book verlaat je apparaat nooit. Geen registratie.",
-  "id": "/loona-text-tools/nl/epub-reader/",
+  "id": "/nl/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hesabu ya Maneno ya Riwaya kwa Aina",
   "short_name": "Hesabu ya Maneno ya Riwaya kwa Aina",
   "description": "Hesabu ya maneno ya riwaya kwa aina: watu wazima 70,000–120,000, YA 50,000–90,000, daraja la kati 20,000–55,000. Kihesabu cha bure cha moja kwa moja chenye malengo ya aina.",
-  "id": "/loona-text-tools/sw/novel-word-count-guide/",
+  "id": "/sw/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

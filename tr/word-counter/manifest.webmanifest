@@ -2,7 +2,7 @@
   "name": "Loona Kelime Sayacı Çevrimiçi Ücretsiz",
   "short_name": "Kelime Sayacı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir metindeki kelimeleri, karakterleri, cümleleri ve paragrafları anında sayın; okuma süresi ve konuşma süresiyle. Ücretsiz kelime sayacı, kayıt yok, çevrimdışı çalışır.",
-  "id": "/loona-text-tools/tr/word-counter/",
+  "id": "/tr/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

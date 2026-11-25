@@ -2,7 +2,7 @@
   "name": "Loona Tal på 2 minuter",
   "short_name": "Tal på 2 minuter",
   "description": "Hur många ord i ett tal på 2 minuter? 220–360 ord (300 i samtalstakt). Gratis liveräknare med taltidskontroll.",
-  "id": "/loona-text-tools/sv/2-minute-speech-word-count/",
+  "id": "/sv/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

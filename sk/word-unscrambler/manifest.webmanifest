@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Poskladajte z ľubovoľných písmen skutočné anglické slová pomocou úplného slovníka ENABLE so 172,820 slovami: výsledky zoskupené podľa dĺžky, so skóre Scrabble, filtrami „začína na“, „končí na“ a „obsahuje“ a podporou prázdnych kameňov. Zadarmo, bez registrácie, a vaše písmená nikdy neopustia prehliadač.",
-  "id": "/loona-text-tools/sk/word-unscrambler/",
+  "id": "/sk/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

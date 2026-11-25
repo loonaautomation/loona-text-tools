@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง Slug ออนไลน์",
   "short_name": "ตัวสร้าง Slug ออนไลน์",
   "description": "เปลี่ยนชื่อเรื่องใด ๆ ให้เป็น slug URL ที่สะอาดและเป็นมิตรกับ SEO: ตัวพิมพ์เล็ก ไม่มีช่องว่าง ไม่มีตัวอักษรพิเศษ ตัวสร้าง slug ออนไลน์ฟรีพร้อมตัวอย่าง URL เต็ม — ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/slug-generator/",
+  "id": "/th/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

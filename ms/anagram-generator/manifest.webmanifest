@@ -2,7 +2,7 @@
   "name": "Loona Penjana Anagram & Penyemak Dalam talian Percuma",
   "short_name": "Penjana Anagram & Penyemak Dalam talian Percuma",
   "description": "Cari anagram perkataan apa pun dari perkataan bahasa Inggeris asli, dan semak apakah dua perkataan atau frasa adalah anagram satu sama lain. Pemecah anagram percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/anagram-generator/",
+  "id": "/ms/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

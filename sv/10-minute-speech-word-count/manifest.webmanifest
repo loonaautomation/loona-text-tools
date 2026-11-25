@@ -2,7 +2,7 @@
   "name": "Loona Tal på 10 minuter",
   "short_name": "Tal på 10 minuter",
   "description": "Hur många ord i ett tal på 10 minuter? 1.100–1.800 ord (1.500 i samtalstakt). Gratis liveräknare med taltidskontroll.",
-  "id": "/loona-text-tools/sv/10-minute-speech-word-count/",
+  "id": "/sv/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

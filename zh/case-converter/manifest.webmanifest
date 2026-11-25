@@ -2,7 +2,7 @@
   "name": "Loona 在线大小写转换器",
   "short_name": "在线大小写转换器",
   "description": "一键将文本转换为 UPPERCASE、小写、标题大小写、句子大小写、首字母大写或 aLtErNaTiNg 大小写。免费在线大小写转换器——无需注册。",
-  "id": "/loona-text-tools/zh/case-converter/",
+  "id": "/zh/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

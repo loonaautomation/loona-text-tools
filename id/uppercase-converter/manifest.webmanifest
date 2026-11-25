@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Besar",
   "short_name": "Pengonversi Huruf Besar",
   "description": "Pengonversi huruf besar gratis — tempel teks dan dapatkan HURUF BESAR secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/uppercase-converter/",
+  "id": "/id/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

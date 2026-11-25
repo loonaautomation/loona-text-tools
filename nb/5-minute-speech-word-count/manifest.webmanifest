@@ -2,7 +2,7 @@
   "name": "Loona Tale på 5 minutter",
   "short_name": "Tale på 5 minutter",
   "description": "Hvor mange ord i en tale på 5 minutter? 550–900 ord (750 i samtaletempo). Gratis direkte teller med sjekk av taletid.",
-  "id": "/loona-text-tools/nb/5-minute-speech-word-count/",
+  "id": "/nb/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

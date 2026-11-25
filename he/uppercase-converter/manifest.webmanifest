@@ -2,7 +2,7 @@
   "name": "Loona ממיר אותיות גדולות",
   "short_name": "ממיר אותיות גדולות",
   "description": "ממיר אותיות גדולות בחינם — הדביקו טקסט וקבלו UPPERCASE מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/uppercase-converter/",
+  "id": "/he/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

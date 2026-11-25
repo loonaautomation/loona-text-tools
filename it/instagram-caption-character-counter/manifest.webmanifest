@@ -2,7 +2,7 @@
   "name": "Loona Contatore di caratteri didascalie Instagram",
   "short_name": "Contatore di caratteri didascalie Instagram",
   "description": "Contatore gratuito Contatore di caratteri didascalie Instagram: conteggio caratteri in tempo reale rispetto al limite di 2.200 caratteri, con parole e caratteri rimanenti mostrati mentre digiti.",
-  "id": "/loona-text-tools/it/instagram-caption-character-counter/",
+  "id": "/it/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

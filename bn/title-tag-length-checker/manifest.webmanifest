@@ -2,7 +2,7 @@
   "name": "Loona টাইটেল ট্যাগ দৈর্ঘ্য পরীক্ষক",
   "short_name": "টাইটেল ট্যাগ দৈর্ঘ্য পরীক্ষক",
   "description": "বিনামূল্যে টাইটেল ট্যাগ দৈর্ঘ্য পরীক্ষক গণক: 60-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/title-tag-length-checker/",
+  "id": "/bn/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

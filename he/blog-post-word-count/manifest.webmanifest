@@ -2,7 +2,7 @@
   "name": "Loona ספירת מילים לפוסט בבלוג",
   "short_name": "ספירת מילים לפוסט בבלוג",
   "description": "בודק ספירת מילים לפוסט בבלוג: ספירה חיה עם רצועות האורך לחדשות (300–500), פוסטים סטנדרטיים (1,000–1,500) ומדריכים מעמיקים (2,000+).",
-  "id": "/loona-text-tools/he/blog-post-word-count/",
+  "id": "/he/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

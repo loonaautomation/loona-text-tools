@@ -2,7 +2,7 @@
   "name": "Loona Blogbeitrag-Wortzahl",
   "short_name": "Blogbeitrag-Wortzahl",
   "description": "Blogbeitrag-Wortzahl-Prüfer: Live-Zählung mit den Längenbändern für Nachrichten (300–500), Standardbeiträge (1.000–1.500) und ausführliche Ratgeber (2.000+).",
-  "id": "/loona-text-tools/de/blog-post-word-count/",
+  "id": "/de/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

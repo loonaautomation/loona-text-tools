@@ -2,7 +2,7 @@
   "name": "Loona Discours de 1 minute",
   "short_name": "Discours de 1 minute",
   "description": "Combien de mots dans un discours de 1 minute ? 110–180 mots (150 au rythme de conversation). Compteur gratuit en direct avec vérification du temps de parole.",
-  "id": "/loona-text-tools/fr/1-minute-speech-word-count/",
+  "id": "/fr/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Kata Online Gratis",
   "short_name": "Penghitung Kata Online Gratis",
   "description": "Hitung kata, karakter, kalimat dan paragraf dalam teks apa pun secara instan, dengan waktu membaca dan waktu berbicara. Penghitung kata gratis, tanpa pendaftaran, bekerja offline.",
-  "id": "/loona-text-tools/id/word-counter/",
+  "id": "/id/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 문장 수 세기 온라인 무료",
   "short_name": "문장 수 세기 온라인 무료",
   "description": "모든 텍스트의 문장, 단락, 단어, 문자를 즉시 세세요. 평균 문장 길이와 함께예요. 무료 문장 카운터, 회원가입 없음, 브라우저에서 작동해요.",
-  "id": "/loona-text-tools/ko/sentence-counter/",
+  "id": "/ko/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

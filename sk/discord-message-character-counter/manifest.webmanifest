@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov správ Discord",
   "short_name": "Počítadlo znakov správ Discord",
   "description": "Bezplatné počítadlo znakov správ Discord: počítanie znakov naživo oproti limitu 2,000 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/discord-message-character-counter/",
+  "id": "/sk/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Toespraak van 1 minuut",
   "short_name": "Toespraak van 1 minuut",
   "description": "Hoeveel woorden in een toespraak van 1 minuut? 110–180 woorden (150 in gesprekstempo). Gratis live teller met spreektijdcontrole.",
-  "id": "/loona-text-tools/nl/1-minute-speech-word-count/",
+  "id": "/nl/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

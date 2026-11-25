@@ -2,7 +2,7 @@
   "name": "Loona Remove Duplicate Lines - Keep Only Unique Lines",
   "short_name": "Remove Duplicate Lines - Keep Only Unique Lines",
   "description": "Remove duplicate lines from any list or text and keep only the unique lines, in original order. Free duplicate line remover - no sign-up, instant results.",
-  "id": "/loona-text-tools/en-us/remove-duplicate-lines/",
+  "id": "/en-us/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

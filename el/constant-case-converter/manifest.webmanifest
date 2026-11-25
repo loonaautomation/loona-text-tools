@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας CONSTANT_CASE",
   "short_name": "Μετατροπέας CONSTANT_CASE",
   "description": "Δωρεάν μετατροπέας CONSTANT_CASE — επικολλήστε κείμενο και πάρετε CONSTANT_CASE αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/constant-case-converter/",
+  "id": "/el/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

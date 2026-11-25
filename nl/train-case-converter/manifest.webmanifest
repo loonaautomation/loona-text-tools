@@ -2,7 +2,7 @@
   "name": "Loona Train-Case-omzetter",
   "short_name": "Train-Case-omzetter",
   "description": "Gratis Train-Case-omzetter — plak tekst en krijg direct Train-Case. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/train-case-converter/",
+  "id": "/nl/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

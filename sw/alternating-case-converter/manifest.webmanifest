@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha aLtErNaTiNg CaSe",
   "short_name": "Kibadilishaji cha aLtErNaTiNg CaSe",
   "description": "Kibadilishaji cha bure cha aLtErNaTiNg CaSe — bandika maandishi na upate aLtErNaTiNg CaSe mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/alternating-case-converter/",
+  "id": "/sw/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

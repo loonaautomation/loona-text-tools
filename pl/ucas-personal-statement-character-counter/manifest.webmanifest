@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków oświadczenia osobistego UCAS",
   "short_name": "Licznik znaków oświadczenia osobistego UCAS",
   "description": "Darmowy licznik znaków oświadczenia osobistego UCAS: liczenie znaków na żywo względem limitu 4,000 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/ucas-personal-statement-character-counter/",
+  "id": "/pl/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

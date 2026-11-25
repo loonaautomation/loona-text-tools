@@ -2,7 +2,7 @@
   "name": "Loona Notepad Online Gratis",
   "short_name": "Notepad Online Gratis",
   "description": "Notepad online gratis yang menyimpan otomatis di browser Anda saat Anda mengetik - termasuk unduh, cetak dan hitung kata. Tanpa pendaftaran; catatan Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-text-tools/id/online-notepad/",
+  "id": "/id/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

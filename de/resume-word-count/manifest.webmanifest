@@ -2,7 +2,7 @@
   "name": "Loona Lebenslauf-Wortzahl",
   "short_name": "Lebenslauf-Wortzahl",
   "description": "Lebenslauf-Wortzahl-Prüfer: Live-Zählung mit dem Ein-Seiten-Ziel (400–600 Wörter), Seitenschätzung und Kürzungsanleitung.",
-  "id": "/loona-text-tools/de/resume-word-count/",
+  "id": "/de/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

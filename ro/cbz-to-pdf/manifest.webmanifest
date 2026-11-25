@@ -2,7 +2,7 @@
   "name": "Loona Convertor CBZ în PDF gratuit",
   "short_name": "Convertor CBZ în PDF gratuit",
   "description": "Convertește gratuit arhivele de benzi desenate CBZ și ZIP în PDF, în browserul tău. Pagini în ordine naturală (1, 2, 10), câte o imagine pe pagină, la dimensiune completă. Fără încărcare, fără înregistrare.",
-  "id": "/loona-text-tools/ro/cbz-to-pdf/",
+  "id": "/ro/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

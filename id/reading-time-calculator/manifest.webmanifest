@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Waktu Membaca",
   "short_name": "Kalkulator Waktu Membaca",
   "description": "Tempel teks apa pun dan lihat berapa lama waktu yang dibutuhkan untuk membaca pada kecepatan lambat, rata-rata dan cepat - ditambah berapa banyak kata yang Anda butuhkan untuk waktu membaca target. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/reading-time-calculator/",
+  "id": "/id/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

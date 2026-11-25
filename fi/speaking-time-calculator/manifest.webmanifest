@@ -2,7 +2,7 @@
   "name": "Loona Puheaikalaskuri",
   "short_name": "Puheaikalaskuri",
   "description": "Liitä puheesi tai käsikirjoituksesi ja näe, kuinka kauan sen esittäminen kestää hitaalla, keskustelu- ja nopealla tahdilla – sekä kuinka monta sanaa mahtuu tavoiteaikaan. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/speaking-time-calculator/",
+  "id": "/fi/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

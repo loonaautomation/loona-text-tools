@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da EPUB a testo gratuito",
   "short_name": "Convertitore da EPUB a testo gratuito",
   "description": "Converti ebook EPUB in testo semplice pulito (.txt) gratuitamente, nel tuo browser. Capitoli in ordine di lettura, titoli conservati, elenco dei capitoli e conteggio parole mostrati per primi. Nessun caricamento, nessuna registrazione.",
-  "id": "/loona-text-tools/it/epub-to-text/",
+  "id": "/it/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

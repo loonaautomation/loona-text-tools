@@ -2,7 +2,7 @@
   "name": "Loona 음성을 텍스트로 온라인 무료",
   "short_name": "음성을 텍스트로 온라인 무료",
   "description": "음성으로 받아쓰고 텍스트가 되는 것을 보세요 - 영어, 우르두어 등 언어를 위한 무료 온라인 음성-텍스트예요. 회원가입 없음; Chrome과 Edge에서 작동해요.",
-  "id": "/loona-text-tools/ko/speech-to-text/",
+  "id": "/ko/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

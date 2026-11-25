@@ -2,7 +2,7 @@
   "name": "Loona Конвертер iNVERSE cASE",
   "short_name": "Конвертер iNVERSE cASE",
   "description": "Бесплатный конвертер iNVERSE cASE — вставьте текст и мгновенно получите iNVERSE cASE. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
-  "id": "/loona-text-tools/ru/inverse-case-converter/",
+  "id": "/ru/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

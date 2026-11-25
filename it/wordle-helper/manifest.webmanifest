@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Inserisci i tuoi tentativi di Wordle e tocca le caselle in grigio, giallo o verde: questo aiutante gratuito ti mostra ogni risposta che può ancora andare bene e i migliori tentativi successivi. Logica corretta per le lettere doppie, senza registrazione, e tutto funziona nel tuo browser.",
-  "id": "/loona-text-tools/it/wordle-helper/",
+  "id": "/it/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

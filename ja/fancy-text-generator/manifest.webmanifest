@@ -2,7 +2,7 @@
   "name": "Loona おしゃれ文字生成ツールオンライン",
   "short_name": "おしゃれ文字生成ツールオンライン",
   "description": "プレーンテキストをスタイリッシュな Unicode フォントに変えます - 太字、筆記体、フラクトゥール、丸囲み、小型大文字など - プロフィール、キャプション、ユーザー名のために。無料おしゃれ文字生成ツール。",
-  "id": "/loona-text-tools/ja/fancy-text-generator/",
+  "id": "/ja/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

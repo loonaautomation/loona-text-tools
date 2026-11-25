@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงรูปภาพเป็นข้อความ (OCR) ออนไลน์ฟรี",
   "short_name": "ตัวแปลงรูปภาพเป็นข้อความ (OCR) ออนไลน์ฟรี",
   "description": "แยกข้อความที่แก้ไขได้จากรูปภาพและภาพถ่ายด้วย OCR ฟรีที่ทำงาน 100% ในเบราว์เซอร์ของคุณ PNG, JPG, WebP และ BMP — รูปภาพของคุณไม่ถูกอัปโหลดเลย",
-  "id": "/loona-text-tools/th/image-to-text-converter/",
+  "id": "/th/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jaribio la Kuandika Mtandaoni Bure",
   "short_name": "Jaribio la Kuandika Mtandaoni Bure",
   "description": "Jaribio la bure la kuandika la sekunde 60: pima kasi yako ya kuandika kwa WPM, usahihi na vibambo kwa dakika ukiwa na maandishi rahisi, ya kati na magumu. Hakuna kujisajili, huendeshwa 100% katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/typing-test/",
+  "id": "/sw/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

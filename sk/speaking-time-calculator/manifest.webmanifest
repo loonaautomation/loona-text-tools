@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka času hovorenia",
   "short_name": "Kalkulačka času hovorenia",
   "description": "Vložte svoj prejav alebo scenár a pozrite si, ako dlho trvá jeho prednesenie pri pomalom, konverzačnom a rýchlom tempe - plus koľko slov sa zmestí do cieľového času. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/speaking-time-calculator/",
+  "id": "/sk/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Okuma Süresi Hesaplayıcı",
   "short_name": "Okuma Süresi Hesaplayıcı",
   "description": "Herhangi bir metni yapıştırın ve yavaş, ortalama ve hızlı hızlarda okumanın ne kadar sürdüğünü görün - ayrıca hedef bir okuma süresi için kaç kelime gerektiğini. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/reading-time-calculator/",
+  "id": "/tr/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

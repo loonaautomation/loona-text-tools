@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "วางข้อความใดก็ได้และดูสัญญาณการเขียนที่เครื่องมือตรวจจับ AI วัด - จังหวะประโยค ความหลากหลายของคำศัพท์ วลีที่ซ้ำ และความคาดเดาได้ เครื่องมือตรวจจับ AI ฟรี: ไม่ต้องสมัคร ไม่มีคำตัดสิน และข้อความของคุณไม่เคยออกจากเบราว์เซอร์",
-  "id": "/loona-text-tools/th/ai-detector/",
+  "id": "/th/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

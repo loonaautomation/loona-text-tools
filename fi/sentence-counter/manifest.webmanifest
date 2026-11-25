@@ -2,7 +2,7 @@
   "name": "Loona Lauselaskuri verkossa ilmaiseksi",
   "short_name": "Lauselaskuri verkossa ilmaiseksi",
   "description": "Laske lauseet, kappaleet, sanat ja merkit missä tahansa tekstissä välittömästi, lauseen keskipituudella. Ilmainen lauselaskuri, ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-text-tools/fi/sentence-counter/",
+  "id": "/fi/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

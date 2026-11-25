@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор уровня чтения",
   "short_name": "Калькулятор уровня чтения",
   "description": "Оценивайте любой текст по шкале Flesch Reading Ease и уровню класса Flesch-Kincaid, используя стандартные формулы. Увидьте, насколько легко читается ваше письмо. Бесплатно.",
-  "id": "/loona-text-tools/ru/reading-level-calculator/",
+  "id": "/ru/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

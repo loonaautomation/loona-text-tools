@@ -2,7 +2,7 @@
   "name": "Loona Lästidsberäknare",
   "short_name": "Lästidsberäknare",
   "description": "Klistra in vilken text som helst och se hur lång tid det tar att läsa den i långsam, genomsnittlig och snabb hastighet - plus hur många ord du behöver för en mållästid. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/sv/reading-time-calculator/",
+  "id": "/sv/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

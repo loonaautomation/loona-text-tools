@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Lorem Ipsum Mtandaoni",
   "short_name": "Kizalishaji cha Lorem Ipsum Mtandaoni",
   "description": "Zalisha maandishi ya mfano ya lorem ipsum kwa aya, sentensi au neno - tayari kubandikwa katika miundo na mipangilio. Kizalishaji cha bure cha lorem ipsum, hakuna kujisajili kunakohitajika.",
-  "id": "/loona-text-tools/sw/lorem-ipsum-generator/",
+  "id": "/sw/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

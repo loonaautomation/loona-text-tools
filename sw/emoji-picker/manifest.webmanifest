@@ -2,7 +2,7 @@
   "name": "Loona Kiteua Emoji Mtandaoni Bure",
   "short_name": "Kiteua Emoji Mtandaoni Bure",
   "description": "Kiteua emoji cha bure: vinjari au tafuta emoji na alama 1,900+, chagua rangi ya ngozi, bofya ili kunakili emoji moja au trei nzima. Hakuna kujisajili, huendeshwa 100% katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/emoji-picker/",
+  "id": "/sw/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

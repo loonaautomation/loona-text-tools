@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi EPUB ke HTML Percuma",
   "short_name": "Pengonversi EPUB ke HTML Percuma",
   "description": "Penukaran ebook EPUB ke satu fail HTML mandiri secara percuma, di pelayar anda. Bab berurutan, tipografi dasar, imej kecil disematkan. Tanpa muat naik, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/epub-to-html/",
+  "id": "/ms/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

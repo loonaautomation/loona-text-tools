@@ -2,7 +2,7 @@
   "name": "Loona CBZ'den PDF'ye Dönüştürücü Ücretsiz",
   "short_name": "CBZ'den PDF'ye Dönüştürücü Ücretsiz",
   "description": "CBZ ve ZIP çizgi roman arşivlerini tarayıcınızda ücretsiz olarak PDF'ye dönüştürün. Sayfalar doğal sırada (1, 2, 10), sayfa başına tam boy bir görsel. Yükleme yok, kayıt yok.",
-  "id": "/loona-text-tools/tr/cbz-to-pdf/",
+  "id": "/tr/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

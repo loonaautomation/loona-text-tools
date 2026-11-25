@@ -2,7 +2,7 @@
   "name": "Loona Siteringsgenerator gratis på nett",
   "short_name": "Siteringsgenerator gratis på nett",
   "description": "Generer korrekt formaterte siteringer for nettsteder, bøker og tidsskriftartikler i APA 7., MLA 9. og Chicago forfatter-dato - gratis, øyeblikkelig, i nettleseren din.",
-  "id": "/loona-text-tools/nb/citation-generator/",
+  "id": "/nb/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

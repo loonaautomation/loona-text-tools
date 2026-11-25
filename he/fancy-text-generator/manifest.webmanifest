@@ -2,7 +2,7 @@
   "name": "Loona מחולל טקסט מעוצב אונליין",
   "short_name": "מחולל טקסט מעוצב אונליין",
   "description": "הפכו טקסט פשוט לגופני יוניקוד מסוגננים - מודגש, כתב יד, fraktur, מוקף בעיגול, אותיות קטנות מוגדלות ועוד - לביוגרפיות, כיתובים ושמות משתמש. מחולל טקסט מעוצב בחינם.",
-  "id": "/loona-text-tools/he/fancy-text-generator/",
+  "id": "/he/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

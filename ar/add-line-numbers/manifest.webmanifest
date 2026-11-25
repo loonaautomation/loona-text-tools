@@ -2,7 +2,7 @@
   "name": "Loona إضافة أرقام الأسطر عبر الإنترنت",
   "short_name": "إضافة أرقام الأسطر عبر الإنترنت",
   "description": "أضف أرقامًا إلى كل سطر من نصك مع اختيارك للبداية والخطوة والحشو والفاصل. أداة ترقيم أسطر مجانية - بلا تسجيل، فورية وخاصة.",
-  "id": "/loona-text-tools/ar/add-line-numbers/",
+  "id": "/ar/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

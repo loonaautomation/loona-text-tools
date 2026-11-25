@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur de minuscules",
   "short_name": "Convertisseur de minuscules",
   "description": "Convertisseur minuscules gratuit — collez du texte et obtenez minuscules instantanément. Conversion en direct dans votre navigateur, sans inscription, sans téléchargement.",
-  "id": "/loona-text-tools/fr/lowercase-converter/",
+  "id": "/fr/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

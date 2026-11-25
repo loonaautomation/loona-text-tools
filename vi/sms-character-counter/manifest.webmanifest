@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự SMS",
   "short_name": "Bộ đếm ký tự SMS",
   "description": "Bộ đếm ký tự SMS miễn phí: phát hiện GSM 7-bit so với Unicode, số đoạn và số ký tự còn lại — trực tiếp, trong trình duyệt của bạn.",
-  "id": "/loona-text-tools/vi/sms-character-counter/",
+  "id": "/vi/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

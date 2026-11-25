@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف SMS",
   "short_name": "عدّاد أحرف SMS",
   "description": "عدّاد أحرف SMS مجاني: اكتشاف GSM 7-bit مقابل Unicode، وعدد المقاطع والأحرف المتبقية — مباشرة، في متصفحك.",
-  "id": "/loona-text-tools/ar/sms-character-counter/",
+  "id": "/ar/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

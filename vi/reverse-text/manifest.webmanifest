@@ -2,7 +2,7 @@
   "name": "Loona Đảo ngược văn bản trực tuyến",
   "short_name": "Đảo ngược văn bản trực tuyến",
   "description": "Đảo ngược văn bản bốn cách: toàn bộ văn bản ngược lại, mỗi từ ngược lại, thứ tự từ lật, hoặc thứ tự dòng lật. Công cụ đảo ngược văn bản trực tuyến miễn phí - không cần đăng ký.",
-  "id": "/loona-text-tools/vi/reverse-text/",
+  "id": "/vi/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

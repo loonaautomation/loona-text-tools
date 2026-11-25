@@ -2,7 +2,7 @@
   "name": "Loona 멋진 텍스트 생성기 온라인",
   "short_name": "멋진 텍스트 생성기 온라인",
   "description": "일반 텍스트를 스타일리시한 Unicode 글꼴로 바꾸세요 - 굵은, 스크립트, 프락투르, 원형, 작은 대문자 등 - 소개, 캡션, 사용자 이름을 위해예요. 무료 멋진 텍스트 생성기예요.",
-  "id": "/loona-text-tools/ko/fancy-text-generator/",
+  "id": "/ko/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

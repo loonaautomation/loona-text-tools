@@ -2,7 +2,7 @@
   "name": "Loona Pengira Ayat Dalam talian Percuma",
   "short_name": "Pengira Ayat Dalam talian Percuma",
   "description": "Kira ayat, perenggan, perkataan dan aksara dalam teks apa pun serta-merta, dengan panjang ayat purata. Pengira ayat percuma, tanpa pendaftaran, bekerja di pelayar anda.",
-  "id": "/loona-text-tools/ms/sentence-counter/",
+  "id": "/ms/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

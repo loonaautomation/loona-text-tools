@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Urai kumpulan huruf apa pun menjadi kata bahasa Inggris asli menggunakan kamus ENABLE lengkap berisi 172.820 kata - hasil dikelompokkan menurut panjang dengan skor Scrabble, filter diawali, diakhiri dan mengandung, serta dukungan ubin kosong. Gratis, tanpa pendaftaran, dan huruf Anda tidak pernah meninggalkan browser Anda.",
-  "id": "/loona-text-tools/id/word-unscrambler/",
+  "id": "/id/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

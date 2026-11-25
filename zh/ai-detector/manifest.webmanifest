@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "粘贴任何文本,查看 AI 检测器测量的写作信号——句子节奏、词汇多样性、重复短语和可预测性。免费 AI 检测器:无需注册,不下结论,您的文本从不离开浏览器。",
-  "id": "/loona-text-tools/zh/ai-detector/",
+  "id": "/zh/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

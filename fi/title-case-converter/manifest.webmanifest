@@ -2,7 +2,7 @@
   "name": "Loona Title Case -muunnin",
   "short_name": "Title Case -muunnin",
   "description": "Ilmainen Title Case -muunnin — liitä teksti ja saa Title Case välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/title-case-converter/",
+  "id": "/fi/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

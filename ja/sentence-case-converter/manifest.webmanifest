@@ -2,7 +2,7 @@
   "name": "Loona Sentence Case 変換ツール",
   "short_name": "Sentence Case 変換ツール",
   "description": "無料 Sentence Case 変換ツール — テキストを貼り付ければ即座に Sentence case が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/sentence-case-converter/",
+  "id": "/ja/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

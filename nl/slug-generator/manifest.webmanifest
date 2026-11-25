@@ -2,7 +2,7 @@
   "name": "Loona Slug-generator online",
   "short_name": "Slug-generator online",
   "description": "Maak van elke titel een schone, SEO-vriendelijke URL-slug: kleine letters, geen spaties, geen speciale tekens. Gratis online slug-generator met volledige URL-preview - geen registratie.",
-  "id": "/loona-text-tools/nl/slug-generator/",
+  "id": "/nl/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

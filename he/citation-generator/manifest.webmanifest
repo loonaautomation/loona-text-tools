@@ -2,7 +2,7 @@
   "name": "Loona מחולל ציטוטים אונליין בחינם",
   "short_name": "מחולל ציטוטים אונליין בחינם",
   "description": "צרו ציטוטים מעוצבים כראוי לאתרים, ספרים ומאמרי כתבי עת ב-APA 7, MLA 9 ו-Chicago מחבר-תאריך - חינם, מיידי, בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/citation-generator/",
+  "id": "/he/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Govor u tekst na mreži besplatno",
   "short_name": "Govor u tekst na mreži besplatno",
   "description": "Diktirajte svojim glasom i gledajte kako postaje tekst – besplatno mrežno pretvaranje govora u tekst za engleski, urdu i više jezika. Bez registracije; radi u Chromeu i Edgeu.",
-  "id": "/loona-text-tools/hr/speech-to-text/",
+  "id": "/hr/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

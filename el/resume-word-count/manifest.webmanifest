@@ -2,7 +2,7 @@
   "name": "Loona Πλήθος Λέξεων Βιογραφικού",
   "short_name": "Πλήθος Λέξεων Βιογραφικού",
   "description": "Έλεγχος πλήθους λέξεων βιογραφικού: ζωντανή καταμέτρηση με τον στόχο της μίας σελίδας (400–600 λέξεις), εκτίμηση σελίδων και καθοδήγηση για περικοπή.",
-  "id": "/loona-text-tools/el/resume-word-count/",
+  "id": "/el/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

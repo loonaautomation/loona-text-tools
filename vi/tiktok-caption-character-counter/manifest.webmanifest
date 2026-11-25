@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự chú thích TikTok",
   "short_name": "Bộ đếm ký tự chú thích TikTok",
   "description": "Bộ đếm ký tự chú thích TikTok miễn phí: đếm ký tự trực tiếp so với giới hạn 2,200 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/tiktok-caption-character-counter/",
+  "id": "/vi/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

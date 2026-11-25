@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo Mtandaoni",
   "short_name": "Kihesabu cha Vibambo Mtandaoni",
   "description": "Hesabu vibambo vyenye nafasi na visivyo na nafasi na ukague vikomo vya X (Twitter), SMS, maelezo ya meta na zaidi. Kihesabu cha bure cha vibambo mtandaoni - hakuna kujisajili kunakohitajika.",
-  "id": "/loona-text-tools/sw/character-counter/",
+  "id": "/sw/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

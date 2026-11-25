@@ -2,7 +2,7 @@
   "name": "Loona Конвертер изображений в текст (OCR) онлайн бесплатно",
   "short_name": "Конвертер изображений в текст (OCR) онлайн бесплатно",
   "description": "Извлекайте редактируемый текст из изображений и фотографий с бесплатным OCR, который работает на 100% в вашем браузере. PNG, JPG, WebP и BMP - ваше изображение никогда не загружается.",
-  "id": "/loona-text-tools/ru/image-to-text-converter/",
+  "id": "/ru/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

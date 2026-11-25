@@ -2,7 +2,7 @@
   "name": "Loona EPUB naar HTML-omzetter gratis",
   "short_name": "EPUB naar HTML-omzetter gratis",
   "description": "Zet EPUB-e-books gratis om naar één zelfstandig HTML-bestand, in je browser. Hoofdstukken in volgorde, basistypografie, kleine afbeeldingen ingesloten. Geen upload, geen registratie.",
-  "id": "/loona-text-tools/nl/epub-to-html/",
+  "id": "/nl/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

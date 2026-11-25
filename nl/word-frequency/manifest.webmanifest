@@ -2,7 +2,7 @@
   "name": "Loona Woordfrequentieteller online",
   "short_name": "Woordfrequentieteller online",
   "description": "Tel hoe vaak elk woord in je tekst voorkomt en zie een gerangschikte frequentietabel met percentages. Gratis online woordfrequentieteller - geen registratie, direct.",
-  "id": "/loona-text-tools/nl/word-frequency/",
+  "id": "/nl/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

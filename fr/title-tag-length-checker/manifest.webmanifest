@@ -2,7 +2,7 @@
   "name": "Loona Vérificateur de longueur de balises de titre",
   "short_name": "Vérificateur de longueur de balises de titre",
   "description": "Vérificateur gratuit de longueur de balises de titre : comptage de caractères en direct par rapport à la limite de 60 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
-  "id": "/loona-text-tools/fr/title-tag-length-checker/",
+  "id": "/fr/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

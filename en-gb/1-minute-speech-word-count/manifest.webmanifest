@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/1-minute-speech-word-count/",
+  "id": "/en-gb/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

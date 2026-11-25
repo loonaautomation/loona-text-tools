@@ -2,7 +2,7 @@
   "name": "Loona Generator sluga na mreži",
   "short_name": "Generator sluga na mreži",
   "description": "Pretvorite bilo koji naslov u čist URL slug prilagođen SEO-u: mala slova, bez razmaka, bez posebnih znakova. Besplatan mrežni generator sluga s punim pregledom URL-a - bez registracije.",
-  "id": "/loona-text-tools/hr/slug-generator/",
+  "id": "/hr/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

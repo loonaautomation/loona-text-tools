@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Anagram & Pemeriksa Online Gratis",
   "short_name": "Pembuat Anagram & Pemeriksa Online Gratis",
   "description": "Temukan anagram kata apa pun dari kata bahasa Inggris asli, dan periksa apakah dua kata atau frasa adalah anagram satu sama lain. Pemecah anagram gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/anagram-generator/",
+  "id": "/id/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

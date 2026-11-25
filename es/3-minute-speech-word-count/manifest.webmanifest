@@ -2,7 +2,7 @@
   "name": "Loona Discurso de 3 minutos",
   "short_name": "Discurso de 3 minutos",
   "description": "¿Cuántas palabras tiene un discurso de 3 minutos? 330–540 palabras (450 a ritmo conversacional). Contador en vivo gratuito con comprobación del tiempo de exposición.",
-  "id": "/loona-text-tools/es/3-minute-speech-word-count/",
+  "id": "/es/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

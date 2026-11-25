@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรคำแถลงส่วนตัว UCAS",
   "short_name": "ตัวนับตัวอักษรคำแถลงส่วนตัว UCAS",
   "description": "ตัวนับตัวอักษรคำแถลงส่วนตัว UCAS ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 4,000 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/ucas-personal-statement-character-counter/",
+  "id": "/th/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

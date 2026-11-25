@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับคำออนไลน์ฟรี",
   "short_name": "ตัวนับคำออนไลน์ฟรี",
   "description": "นับคำ ตัวอักษร ประโยค และย่อหน้าในข้อความใด ๆ ทันที พร้อมเวลาอ่านและเวลาพูด ตัวนับคำฟรี ไม่ต้องสมัครสมาชิก ทำงานแบบออฟไลน์",
-  "id": "/loona-text-tools/th/word-counter/",
+  "id": "/th/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

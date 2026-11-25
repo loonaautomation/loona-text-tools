@@ -2,7 +2,7 @@
   "name": "Loona 이모지 선택기 온라인 무료",
   "short_name": "이모지 선택기 온라인 무료",
   "description": "무료 이모지 선택기: 1,900+개의 이모지와 기호를 둘러보거나 검색하고, 피부톤을 선택한 뒤, 클릭 한 번으로 이모지 하나 또는 트레이 전체를 복사하세요. 회원가입 없이 100% 브라우저에서 실행됩니다.",
-  "id": "/loona-text-tools/ko/emoji-picker/",
+  "id": "/ko/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

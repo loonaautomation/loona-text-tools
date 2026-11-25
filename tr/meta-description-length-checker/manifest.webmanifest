@@ -2,7 +2,7 @@
   "name": "Loona Meta Açıklaması Uzunluk Denetleyicisi",
   "short_name": "Meta Açıklaması Uzunluk Denetleyicisi",
   "description": "Ücretsiz Meta Açıklaması Uzunluk Denetleyicisi sayacı: 160 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/meta-description-length-checker/",
+  "id": "/tr/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

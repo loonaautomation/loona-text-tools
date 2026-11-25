@@ -2,7 +2,7 @@
   "name": "Loona স্লাগ জেনারেটর অনলাইন",
   "short_name": "স্লাগ জেনারেটর অনলাইন",
   "description": "যেকোনো শিরোনামকে পরিষ্কার, SEO-বান্ধব URL স্লাগে বদলান: ছোট হাতের, কোনো ফাঁক নেই, কোনো বিশেষ অক্ষর নেই। পূর্ণ URL পূর্বরূপসহ বিনামূল্যের অনলাইন স্লাগ জেনারেটর - কোনো সাইন-আপ নেই।",
-  "id": "/loona-text-tools/bn/slug-generator/",
+  "id": "/bn/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

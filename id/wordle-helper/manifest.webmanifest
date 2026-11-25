@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Masukkan tebakan Wordle Anda dan ketuk ubin menjadi abu-abu, kuning, atau hijau: pembantu gratis ini menunjukkan setiap jawaban yang masih cocok dan tebakan berikutnya terbaik. Logika yang benar untuk huruf ganda, tanpa pendaftaran, dan semuanya berjalan di browser Anda.",
-  "id": "/loona-text-tools/id/wordle-helper/",
+  "id": "/id/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

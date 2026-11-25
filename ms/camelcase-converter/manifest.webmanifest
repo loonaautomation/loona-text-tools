@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi camelCase",
   "short_name": "Pengonversi camelCase",
   "description": "Pengonversi camelCase percuma — tampal teks dan dapatkan camelCase serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/camelcase-converter/",
+  "id": "/ms/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

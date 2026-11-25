@@ -2,7 +2,7 @@
   "name": "Loona flatcase pretvarač",
   "short_name": "flatcase pretvarač",
   "description": "Besplatan flatcase pretvarač — zalijepite tekst i trenutačno dobijte flatcase. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/flat-case-converter/",
+  "id": "/hr/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

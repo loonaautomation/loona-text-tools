@@ -2,7 +2,7 @@
   "name": "Loona Găsitor de cuvinte repetate online gratuit",
   "short_name": "Găsitor de cuvinte repetate online gratuit",
   "description": "Găsește fiecare cuvânt care apare de mai multe ori în textul tău, clasat după cât de des se repetă. Prinde cuvintele duble accidentale și cuvintele folosite excesiv. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/repeated-words-finder/",
+  "id": "/ro/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

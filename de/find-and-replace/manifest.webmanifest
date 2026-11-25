@@ -2,7 +2,7 @@
   "name": "Loona Text online suchen und ersetzen",
   "short_name": "Text online suchen und ersetzen",
   "description": "Ein Wort oder eine Phrase finden und jedes Vorkommen in Ihrem Text auf einmal ersetzen, mit Optionen für Groß-/Kleinschreibung, ganze Wörter und Muster. Kostenloses Online-Tool – keine Registrierung.",
-  "id": "/loona-text-tools/de/find-and-replace/",
+  "id": "/de/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

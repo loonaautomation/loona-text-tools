@@ -2,7 +2,7 @@
   "name": "Loona Résumeur de texte en ligne : résumez un long texte instantanément | Loona Text Tools",
   "short_name": "Résumeur de texte en ligne : résumez un long texte instantanément | Loona Text Tools",
   "description": "Résumez instantanément n'importe quel texte long : collez un article, un essai ou un rapport et récupérez ses phrases originales les plus importantes. Résumeur de texte en ligne gratuit, sans inscription, 100 % privé.",
-  "id": "/loona-text-tools/fr/text-summarizer/",
+  "id": "/fr/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

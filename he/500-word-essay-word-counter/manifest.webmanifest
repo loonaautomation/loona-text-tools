@@ -2,7 +2,7 @@
   "name": "Loona חיבור של 500 מילים",
   "short_name": "חיבור של 500 מילים",
   "description": "מונה חיבורים של 500 מילים בחינם: ספירת מילים חיה ליעד של 500 מילים, עמודים ברווח יחיד וכפול, פסקאות, זמן קריאה וזמן דיבור.",
-  "id": "/loona-text-tools/he/500-word-essay-word-counter/",
+  "id": "/he/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi CBZ ke PDF Percuma",
   "short_name": "Pengonversi CBZ ke PDF Percuma",
   "description": "Penukaran arsip komik CBZ dan ZIP ke PDF percuma di pelayar anda. Halaman dalam turutan alami (1, 2, 10), satu imej per halaman pada saiz penuh. Tanpa muat naik, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/cbz-to-pdf/",
+  "id": "/ms/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Notatblokk på nett gratis",
   "short_name": "Notatblokk på nett gratis",
   "description": "Et gratis notatblokk på nett som lagrer automatisk i nettleseren mens du skriver - nedlasting, utskrift og ordtelling inkludert. Ingen registrering; notatene dine forlater aldri enheten din.",
-  "id": "/loona-text-tools/nb/online-notepad/",
+  "id": "/nb/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

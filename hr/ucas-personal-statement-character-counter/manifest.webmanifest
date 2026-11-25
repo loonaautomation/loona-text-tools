@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za UCAS osobnu izjavu",
   "short_name": "Brojač znakova za UCAS osobnu izjavu",
   "description": "Besplatan brojač znakova za UCAS osobnu izjavu: broj znakova uživo u odnosu na ograničenje od 4,000 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/ucas-personal-statement-character-counter/",
+  "id": "/hr/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

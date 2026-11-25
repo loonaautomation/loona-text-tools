@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free Title Tag Length Checker counter: live character count against the 60-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/en-us/title-tag-length-checker/",
+  "id": "/en-us/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

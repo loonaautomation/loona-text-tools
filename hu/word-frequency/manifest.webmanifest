@@ -2,7 +2,7 @@
   "name": "Loona Szógyakoriság-számláló online",
   "short_name": "Szógyakoriság-számláló online",
   "description": "Számolja meg, milyen gyakran fordul elő minden szó a szövegében, és tekintsen meg egy rangsorolt gyakorisági táblázatot százalékokkal. Ingyenes online szógyakoriság-számláló - regisztráció nélkül, azonnal.",
-  "id": "/loona-text-tools/hu/word-frequency/",
+  "id": "/hu/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

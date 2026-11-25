@@ -2,7 +2,7 @@
   "name": "Loona جملے گننے والا آن لائن مفت",
   "short_name": "جملے گننے والا آن لائن مفت",
   "description": "کسی بھی متن میں جملے، پیراگراف، الفاظ اور حروف فوراً گنیں، اوسط جملہ لمبائی کے ساتھ۔ مفت جملہ کاؤنٹر، کوئی سائن اپ نہیں، آپ کے براؤزر میں کام کرتا ہے۔",
-  "id": "/loona-text-tools/ur/sentence-counter/",
+  "id": "/ur/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

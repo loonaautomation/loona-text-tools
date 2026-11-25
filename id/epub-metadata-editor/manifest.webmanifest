@@ -2,7 +2,7 @@
   "name": "Loona Editor Metadata EPUB Gratis",
   "short_name": "Editor Metadata EPUB Gratis",
   "description": "Edit metadata EPUB gratis di browser Anda: judul, penulis, bahasa, penerbit dan deskripsi, dengan informasi sampul ditampilkan. Bab tidak tersentuh, tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/epub-metadata-editor/",
+  "id": "/id/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

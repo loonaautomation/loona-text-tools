@@ -2,7 +2,7 @@
   "name": "Loona UCAS Kişisel Beyan Karakter Sayacı",
   "short_name": "UCAS Kişisel Beyan Karakter Sayacı",
   "description": "Ücretsiz UCAS Kişisel Beyan Karakter Sayacı sayacı: 4.000 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/ucas-personal-statement-character-counter/",
+  "id": "/tr/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

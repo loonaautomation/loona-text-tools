@@ -2,7 +2,7 @@
   "name": "Loona Εξαγωγέας Email Online Δωρεάν",
   "short_name": "Εξαγωγέας Email Online Δωρεάν",
   "description": "Εξαγάγετε κάθε διεύθυνση email από οποιοδήποτε κείμενο, έγγραφο ή περιεχόμενο ιστοσελίδας - χωρίς διπλότυπα και παρατεθειμένες μία ανά γραμμή. Εκτελείται 100% στο πρόγραμμα περιήγησής σας. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/email-extractor/",
+  "id": "/el/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

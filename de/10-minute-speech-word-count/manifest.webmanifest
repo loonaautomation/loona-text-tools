@@ -2,7 +2,7 @@
   "name": "Loona 10-Minuten-Rede",
   "short_name": "10-Minuten-Rede",
   "description": "Wie viele Wörter hat eine 10-Minuten-Rede? 1.100–1.800 Wörter (1.500 bei Gesprächstempo). Kostenloser Live-Zähler mit Sprechzeit-Prüfung.",
-  "id": "/loona-text-tools/de/10-minute-speech-word-count/",
+  "id": "/de/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

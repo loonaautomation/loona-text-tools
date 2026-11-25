@@ -2,7 +2,7 @@
   "name": "Loona camelCase-átalakító",
   "short_name": "camelCase-átalakító",
   "description": "Ingyenes camelCase-átalakító — illesszen be szöveget, és azonnal camelCase-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/camelcase-converter/",
+  "id": "/hu/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

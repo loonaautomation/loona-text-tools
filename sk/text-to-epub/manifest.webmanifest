@@ -2,7 +2,7 @@
   "name": "Loona Prevodník textu do EPUB zadarmo",
   "short_name": "Prevodník textu do EPUB zadarmo",
   "description": "Preveďte obyčajný text alebo Markdown na platnú elektronickú knihu EPUB zadarmo, vo vašom prehliadači. Názov a autor, kapitoly z nadpisov, otvára sa v ľubovoľnej čítačke EPUB. Bez nahrávania, bez registrácie.",
-  "id": "/loona-text-tools/sk/text-to-epub/",
+  "id": "/sk/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

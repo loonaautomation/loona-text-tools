@@ -2,7 +2,7 @@
   "name": "Loona Reddit पोस्ट अक्षर गणक",
   "short_name": "Reddit पोस्ट अक्षर गणक",
   "description": "मुफ़्त Reddit पोस्ट अक्षर गणक गणक: 40,000-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/reddit-post-character-counter/",
+  "id": "/hi/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

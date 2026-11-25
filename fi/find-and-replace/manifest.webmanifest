@@ -2,7 +2,7 @@
   "name": "Loona Etsi ja korvaa tekstiä verkossa",
   "short_name": "Etsi ja korvaa tekstiä verkossa",
   "description": "Etsi sana tai lause ja korvaa jokainen esiintymä tekstissäsi kerralla kirjainkoko-, kokosana- ja malliasetuksilla. Ilmainen verkkotyökalu – ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/find-and-replace/",
+  "id": "/fi/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

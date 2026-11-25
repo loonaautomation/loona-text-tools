@@ -2,7 +2,7 @@
   "name": "Loona Text Summarizer Online",
   "short_name": "Text Summarizer Online",
   "description": "Summarize any long text instantly: paste an article, essay or report and get its most important original sentences back. Free online text summarizer - no sign-up, 100% private.",
-  "id": "/loona-text-tools/en-us/text-summarizer/",
+  "id": "/en-us/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

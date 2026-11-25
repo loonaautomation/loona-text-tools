@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi DOCX sang EPUB miễn phí",
   "short_name": "Công cụ chuyển đổi DOCX sang EPUB miễn phí",
   "description": "Chuyển đổi tài liệu Word DOCX sang sách điện tử EPUB miễn phí trong trình duyệt của bạn. Tiêu đề trở thành chương; chữ đậm, nghiêng, danh sách và hình ảnh được chuyển đổi. Không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/docx-to-epub/",
+  "id": "/vi/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE-omzetter",
   "short_name": "CONSTANT_CASE-omzetter",
   "description": "Gratis CONSTANT_CASE-omzetter — plak tekst en krijg direct CONSTANT_CASE. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/constant-case-converter/",
+  "id": "/nl/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

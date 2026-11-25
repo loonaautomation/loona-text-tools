@@ -2,7 +2,7 @@
   "name": "Loona Fancy Text Generator Online",
   "short_name": "Fancy Text Generator Online",
   "description": "Turn plain text into stylish Unicode fonts - bold, script, fraktur, circled, small caps and more - for bios, captions and usernames. Free fancy text generator.",
-  "id": "/loona-text-tools/fancy-text-generator/",
+  "id": "/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

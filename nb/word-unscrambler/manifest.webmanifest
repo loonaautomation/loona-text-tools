@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Stokk vilkårlige bokstaver om til ekte engelske ord med hele ENABLE-ordboken på 172 820 ord – resultater gruppert etter lengde, med Scrabble-poeng, filtre for starter med, slutter med og inneholder, samt støtte for blanke brikker. Gratis, ingen registrering, og bokstavene dine forlater aldri nettleseren din.",
-  "id": "/loona-text-tools/nb/word-unscrambler/",
+  "id": "/nb/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

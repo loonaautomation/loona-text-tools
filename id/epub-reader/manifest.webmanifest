@@ -2,7 +2,7 @@
   "name": "Loona Pembaca EPUB Online Gratis",
   "short_name": "Pembaca EPUB Online Gratis",
   "description": "Buka dan baca ebook EPUB online gratis, langsung di browser Anda. Daftar bab, ukuran font yang dapat disesuaikan dan mode gelap. 100% privat - ebook Anda tidak pernah meninggalkan perangkat Anda. Tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/epub-reader/",
+  "id": "/id/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

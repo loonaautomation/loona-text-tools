@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรโพสต์ Reddit",
   "short_name": "ตัวนับตัวอักษรโพสต์ Reddit",
   "description": "ตัวนับตัวอักษรโพสต์ Reddit ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 40,000 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/reddit-post-character-counter/",
+  "id": "/th/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

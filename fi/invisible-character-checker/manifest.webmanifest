@@ -2,7 +2,7 @@
   "name": "Loona Näkymättömien merkkien tarkistin",
   "short_name": "Näkymättömien merkkien tarkistin",
   "description": "Paljasta tekstiisi piiloutuneet näkymättömät merkit – nollalevyiset välilyönnit, BOM, sitovat välilyönnit ja suuntamerkit – ja poista ne yhdellä napsautuksella. Ilmainen.",
-  "id": "/loona-text-tools/fi/invisible-character-checker/",
+  "id": "/fi/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

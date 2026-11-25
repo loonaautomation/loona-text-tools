@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Maneno Mtandaoni Bure",
   "short_name": "Kihesabu cha Maneno Mtandaoni Bure",
   "description": "Hesabu maneno, vibambo, sentensi na aya katika maandishi yoyote mara moja, pamoja na muda wa kusoma na muda wa kuzungumza. Kihesabu cha bure cha maneno, bila kujisajili, hufanya kazi bila mtandao.",
-  "id": "/loona-text-tools/sw/word-counter/",
+  "id": "/sw/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

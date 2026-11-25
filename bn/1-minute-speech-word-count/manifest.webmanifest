@@ -2,7 +2,7 @@
   "name": "Loona 1-মিনিটের বক্তৃতা",
   "short_name": "1-মিনিটের বক্তৃতা",
   "description": "1-মিনিটের বক্তৃতায় কত শব্দ? 110–180 শব্দ (কথোপকথনের গতিতে 150)। বলার-সময় যাচাইসহ বিনামূল্যের সরাসরি গণক।",
-  "id": "/loona-text-tools/bn/1-minute-speech-word-count/",
+  "id": "/bn/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מונה פסקאות אונליין בחינם",
   "short_name": "מונה פסקאות אונליין בחינם",
   "description": "ספרו פסקאות בכל טקסט מיד, עם משפטים ומילים לפסקה והפסקה הארוכה והקצרה ביותר. מונה פסקאות חינמי, ללא הרשמה.",
-  "id": "/loona-text-tools/he/paragraph-counter/",
+  "id": "/he/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

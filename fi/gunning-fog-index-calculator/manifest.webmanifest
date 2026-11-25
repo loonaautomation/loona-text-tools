@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog -indeksilaskuri",
   "short_name": "Gunning Fog -indeksilaskuri",
   "description": "Ilmainen Gunning Fog -indeksilaskuri: liitä teksti Fog-indeksiä, monimutkaisten sanojen määrää ja sen edellyttämiä koulutusvuosia varten.",
-  "id": "/loona-text-tools/fi/gunning-fog-index-calculator/",
+  "id": "/fi/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

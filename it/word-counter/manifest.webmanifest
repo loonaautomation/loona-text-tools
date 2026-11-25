@@ -2,7 +2,7 @@
   "name": "Loona Contatore di parole online gratuito",
   "short_name": "Contatore di parole online gratuito",
   "description": "Conta parole, caratteri, frasi e paragrafi in qualsiasi testo all'istante, con tempo di lettura e tempo di parola. Contatore di parole gratuito, nessuna registrazione, funziona offline.",
-  "id": "/loona-text-tools/it/word-counter/",
+  "id": "/it/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

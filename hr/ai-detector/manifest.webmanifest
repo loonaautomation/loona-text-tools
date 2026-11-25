@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Zalijepite bilo koji tekst i pogledajte signale pisanja koje mjere AI detektori — ritam rečenica, raznolikost rječnika, ponavljane fraze i predvidljivost. Besplatan AI detektor: bez registracije, bez presuda, a vaš tekst nikada ne napušta vaš preglednik.",
-  "id": "/loona-text-tools/hr/ai-detector/",
+  "id": "/hr/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

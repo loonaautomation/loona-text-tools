@@ -2,7 +2,7 @@
   "name": "Loona aLtErNaTiNg CaSe-átalakító",
   "short_name": "aLtErNaTiNg CaSe-átalakító",
   "description": "Ingyenes aLtErNaTiNg CaSe-átalakító — illesszen be szöveget, és azonnal aLtErNaTiNg CaSe-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/alternating-case-converter/",
+  "id": "/hu/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

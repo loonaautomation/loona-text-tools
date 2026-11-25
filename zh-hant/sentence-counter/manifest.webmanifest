@@ -2,7 +2,7 @@
   "name": "Loona 線上句子計數器,免費",
   "short_name": "線上句子計數器,免費",
   "description": "即時統計任何文字的句子、段落、單詞和字元,帶有平均句長。免費句子計數器,無需註冊,在您的瀏覽器中工作。",
-  "id": "/loona-text-tools/zh-hant/sentence-counter/",
+  "id": "/zh-hant/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

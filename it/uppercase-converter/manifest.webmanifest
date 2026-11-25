@@ -2,7 +2,7 @@
   "name": "Loona Convertitore MAIUSCOLO",
   "short_name": "Convertitore MAIUSCOLO",
   "description": "Convertitore MAIUSCOLO gratuito — incolla il testo e ottieni MAIUSCOLO all'istante. Conversione in tempo reale nel tuo browser, nessuna registrazione, nessun caricamento.",
-  "id": "/loona-text-tools/it/uppercase-converter/",
+  "id": "/it/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

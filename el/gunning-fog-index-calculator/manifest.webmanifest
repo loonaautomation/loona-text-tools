@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Δείκτη Gunning Fog",
   "short_name": "Υπολογιστής Δείκτη Gunning Fog",
   "description": "Δωρεάν υπολογιστής δείκτη Gunning Fog: επικολλήστε κείμενο για τον δείκτη Fog, το πλήθος σύνθετων λέξεων και τα χρόνια σχολικής εκπαίδευσης που υπονοεί.",
-  "id": "/loona-text-tools/el/gunning-fog-index-calculator/",
+  "id": "/el/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

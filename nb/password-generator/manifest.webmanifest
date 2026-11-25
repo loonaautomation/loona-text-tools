@@ -2,7 +2,7 @@
   "name": "Loona Passordgenerator på nett",
   "short_name": "Passordgenerator på nett",
   "description": "Generer sterke, tilfeldige passord med lengden og symbolene du velger, pluss en ærlig styrkemåler. Gratis passordgenerator - opprettet bare på enheten din.",
-  "id": "/loona-text-tools/nb/password-generator/",
+  "id": "/nb/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Meta-Beschreibung-Längenprüfer",
   "short_name": "Meta-Beschreibung-Längenprüfer",
   "description": "Kostenloser Meta-Beschreibung-Längenprüfer Zähler: Live-Zeichenzählung gegen das 160-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/meta-description-length-checker/",
+  "id": "/de/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

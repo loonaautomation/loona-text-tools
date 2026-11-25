@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free Meta Description Length Checker counter: live character count against the 160-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/en-us/meta-description-length-checker/",
+  "id": "/en-us/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Calculator al indicelui Gunning Fog",
   "short_name": "Calculator al indicelui Gunning Fog",
   "description": "Calculator gratuit al indicelui Gunning Fog: lipește text pentru indicele Fog, numărul de cuvinte complexe și anii de școlarizare pe care îi implică.",
-  "id": "/loona-text-tools/ro/gunning-fog-index-calculator/",
+  "id": "/ro/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

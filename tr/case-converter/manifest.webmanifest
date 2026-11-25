@@ -2,7 +2,7 @@
   "name": "Loona Harf Düzeni Dönüştürücü Çevrimiçi",
   "short_name": "Harf Düzeni Dönüştürücü Çevrimiçi",
   "description": "Metni tek tıklamayla BÜYÜK HARFE, küçük harfe, Başlık Düzenine, Cümle düzenine, Baş Harfi Büyüklüğüne veya aLtErNaTiNg düzene dönüştürün. Ücretsiz çevrimiçi harf düzeni dönüştürücü - kayıt gerekmez.",
-  "id": "/loona-text-tools/tr/case-converter/",
+  "id": "/tr/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

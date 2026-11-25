@@ -2,7 +2,7 @@
   "name": "Loona EPUB naar tekst-omzetter gratis",
   "short_name": "EPUB naar tekst-omzetter gratis",
   "description": "Zet EPUB-e-books gratis om naar schone platte tekst (.txt), in je browser. Hoofdstukken in leesvolgorde, koppen behouden, hoofdstukkenlijst en woordenaantal eerst getoond. Geen upload, geen registratie.",
-  "id": "/loona-text-tools/nl/epub-to-text/",
+  "id": "/nl/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

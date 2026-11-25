@@ -2,7 +2,7 @@
   "name": "Loona مقارنة النصوص عبر الإنترنت",
   "short_name": "مقارنة النصوص عبر الإنترنت",
   "description": "قارن نصين سطرًا بسطر وشاهد بالضبط أي أسطر أُضيفت أو أُزيلت أو بقيت. أداة فرق نصوص مجانية عبر الإنترنت - بلا تسجيل، خاصة في متصفحك.",
-  "id": "/loona-text-tools/ar/text-compare/",
+  "id": "/ar/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

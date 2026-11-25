@@ -2,7 +2,7 @@
   "name": "Loona سطر وقفے آن لائن ہٹائیں",
   "short_name": "سطر وقفے آن لائن ہٹائیں",
   "description": "سطر وقفے ہٹائیں اور ٹوٹی سطروں کو صاف پیراگرافوں میں جوڑیں - PDFs سے کاپی شدہ متن کے لیے بہترین۔ مفت آن لائن سطر وقفہ ہٹانے والا، کوئی سائن اپ نہیں، فوری نتائج۔",
-  "id": "/loona-text-tools/ur/remove-line-breaks/",
+  "id": "/ur/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

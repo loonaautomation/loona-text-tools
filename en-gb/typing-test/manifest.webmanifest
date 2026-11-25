@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/typing-test/",
+  "id": "/en-gb/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

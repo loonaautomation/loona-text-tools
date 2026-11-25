@@ -2,7 +2,7 @@
   "name": "Loona Uppsats på 800 ord",
   "short_name": "Uppsats på 800 ord",
   "description": "Gratis räknare för uppsats på 800 ord: levande ordantal mot målet på 800 ord, sidor med enkelt och dubbelt radavstånd, stycken, läs- och taltid.",
-  "id": "/loona-text-tools/sv/800-word-essay-word-counter/",
+  "id": "/sv/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

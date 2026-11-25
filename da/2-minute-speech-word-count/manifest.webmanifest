@@ -2,7 +2,7 @@
   "name": "Loona 2-minutters tale",
   "short_name": "2-minutters tale",
   "description": "Hvor mange ord i en tale på 2 minutter? 220–360 ord (300 i samtaletempo). Gratis live tæller med taletidstjek.",
-  "id": "/loona-text-tools/da/2-minute-speech-word-count/",
+  "id": "/da/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

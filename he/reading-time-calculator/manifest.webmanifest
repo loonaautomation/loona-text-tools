@@ -2,7 +2,7 @@
   "name": "Loona מחשבון זמן קריאה",
   "short_name": "מחשבון זמן קריאה",
   "description": "הדביקו כל טקסט וראו כמה זמן לוקח לקרוא אותו במהירויות איטית, ממוצעת ומהירה - ועוד כמה מילים אתם צריכים לזמן קריאה יעד. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/reading-time-calculator/",
+  "id": "/he/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

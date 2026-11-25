@@ -2,7 +2,7 @@
   "name": "Loona Hotuba ya Dakika 10",
   "short_name": "Hotuba ya Dakika 10",
   "description": "Je, maneno mangapi katika hotuba ya dakika 10? Maneno 1,100–1,800 (1,500 kwa kasi ya mazungumzo). Kihesabu cha bure cha moja kwa moja chenye ukaguzi wa muda wa kuzungumza.",
-  "id": "/loona-text-tools/sw/10-minute-speech-word-count/",
+  "id": "/sw/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Teksti puheeksi verkossa ilmaiseksi",
   "short_name": "Teksti puheeksi verkossa ilmaiseksi",
   "description": "Muuta mikä tahansa teksti luonnolliseksi puhutuksi ääneksi ilmaiseksi verkossa – englannin ja urdun äänet, säädettävä nopeus ja sävelkorkeus. Ei rekisteröitymistä, mitään ei ladata palvelimelle, toimii selaimessasi.",
-  "id": "/loona-text-tools/fi/text-to-speech/",
+  "id": "/fi/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

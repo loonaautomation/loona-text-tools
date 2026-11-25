@@ -2,7 +2,7 @@
   "name": "Loona Tekstverktøybibliotek",
   "short_name": "Tekstverktøybibliotek",
   "description": "Hele Loona Text Tools-biblioteket: bokstavomformere, ordtellere for essays og taler, tegngrensesjekkere for plattformer og lesbarhetskalkulatorer.",
-  "id": "/loona-text-tools/nb/text-tools-library/",
+  "id": "/nb/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

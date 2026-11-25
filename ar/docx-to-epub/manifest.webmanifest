@@ -2,7 +2,7 @@
   "name": "Loona محوّل DOCX إلى EPUB مجانًا",
   "short_name": "محوّل DOCX إلى EPUB مجانًا",
   "description": "حوّل مستندات Word بصيغة DOCX إلى كتب EPUB إلكترونية مجانًا في متصفحك. العناوين تصبح فصولًا؛ والعريض والمائل والقوائم والصور تتحول. بلا رفع، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/docx-to-epub/",
+  "id": "/ar/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

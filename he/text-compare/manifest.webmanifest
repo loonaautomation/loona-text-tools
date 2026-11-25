@@ -2,7 +2,7 @@
   "name": "Loona השוואת טקסט אונליין",
   "short_name": "השוואת טקסט אונליין",
   "description": "השוו שני טקסטים שורה אחר שורה וראו בדיוק אילו שורות נוספו, הוסרו או נשמרו. כלי חינמי אונליין להשוואת טקסט - ללא הרשמה, פרטי בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/text-compare/",
+  "id": "/he/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

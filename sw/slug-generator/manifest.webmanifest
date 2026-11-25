@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Slug Mtandaoni",
   "short_name": "Kizalishaji cha Slug Mtandaoni",
   "description": "Geuza mada yoyote kuwa slug safi ya URL inayofaa SEO: herufi ndogo, hakuna nafasi, hakuna vibambo maalum. Kizalishaji cha bure cha slug mtandaoni chenye hakiki kamili ya URL - bila kujisajili.",
-  "id": "/loona-text-tools/sw/slug-generator/",
+  "id": "/sw/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

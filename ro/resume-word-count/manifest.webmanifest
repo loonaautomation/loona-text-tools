@@ -2,7 +2,7 @@
   "name": "Loona Număr de cuvinte pentru CV",
   "short_name": "Număr de cuvinte pentru CV",
   "description": "Verificator al numărului de cuvinte pentru CV: numărătoare în direct cu ținta de o pagină (400–600 de cuvinte), estimarea paginilor și îndrumări de scurtare.",
-  "id": "/loona-text-tools/ro/resume-word-count/",
+  "id": "/ro/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

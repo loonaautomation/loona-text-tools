@@ -2,7 +2,7 @@
   "name": "Loona Nagybetű-átalakító",
   "short_name": "Nagybetű-átalakító",
   "description": "Ingyenes NAGYBETŰ-átalakító — illesszen be szöveget, és azonnal NAGYBETŰT kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/uppercase-converter/",
+  "id": "/hu/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

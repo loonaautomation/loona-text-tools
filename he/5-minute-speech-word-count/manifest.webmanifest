@@ -2,7 +2,7 @@
   "name": "Loona נאום של 5 דקות",
   "short_name": "נאום של 5 דקות",
   "description": "כמה מילים בנאום של 5 דקות? 550–900 מילים (750 בקצב שיחה). מונה חי חינמי עם בדיקת זמן דיבור.",
-  "id": "/loona-text-tools/he/5-minute-speech-word-count/",
+  "id": "/he/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

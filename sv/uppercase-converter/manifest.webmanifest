@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare till versaler",
   "short_name": "Omvandlare till versaler",
   "description": "Gratis omvandlare till VERSALER — klistra in text och få VERSALER omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/uppercase-converter/",
+  "id": "/sv/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

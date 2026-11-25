@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Στυλιζαρισμένου Κειμένου Online",
   "short_name": "Γεννήτρια Στυλιζαρισμένου Κειμένου Online",
   "description": "Μετατρέψτε απλό κείμενο σε κομψές γραμματοσειρές Unicode - έντονα, script, fraktur, κυκλωμένα, μικρά κεφαλαία και άλλα - για βιογραφικά, λεζάντες και ονόματα χρήστη. Δωρεάν γεννήτρια φανταχτερού κειμένου.",
-  "id": "/loona-text-tools/el/fancy-text-generator/",
+  "id": "/el/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona عدّاد تكرار الكلمات عبر الإنترنت",
   "short_name": "عدّاد تكرار الكلمات عبر الإنترنت",
   "description": "عُدّ كم مرة تظهر كل كلمة في نصك وشاهد جدول تكرار مرتّبًا مع النسب المئوية. عدّاد تكرار كلمات مجاني عبر الإنترنت - بلا تسجيل، فوري.",
-  "id": "/loona-text-tools/ar/word-frequency/",
+  "id": "/ar/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator online",
   "short_name": "Lorem Ipsum-generator online",
   "description": "Generér lorem ipsum-pladsholdertekst pr. afsnit, sætning eller ord - klar til at indsætte i designs og layouts. Gratis lorem ipsum-generator, ingen tilmelding nødvendig.",
-  "id": "/loona-text-tools/da/lorem-ipsum-generator/",
+  "id": "/da/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

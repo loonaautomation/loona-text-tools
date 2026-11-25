@@ -2,7 +2,7 @@
   "name": "Loona Selector de emoji-uri online gratuit",
   "short_name": "Selector de emoji-uri online gratuit",
   "description": "Selector de emoji-uri gratuit: răsfoiește sau caută 1,900+ emoji-uri și simboluri, alege un ton de piele, apasă pentru a copia un singur emoji sau o tavă întreagă. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-text-tools/ro/emoji-picker/",
+  "id": "/ro/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

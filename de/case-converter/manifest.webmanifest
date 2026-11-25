@@ -2,7 +2,7 @@
   "name": "Loona Groß-/Kleinschreibung-Konverter online",
   "short_name": "Groß-/Kleinschreibung-Konverter online",
   "description": "Text in GROSSBUCHSTABEN, Kleinbuchstaben, Title Case, Satzschreibung, Capitalized oder aLtErNaTiNg CaSe mit einem Klick umwandeln. Kostenloser Online-Schreibstil-Konverter – keine Registrierung nötig.",
-  "id": "/loona-text-tools/de/case-converter/",
+  "id": "/de/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "פתרו תבניות תשבץ כמו c?oss?ord מול 172,820 מילים אנגליות. הקלידו את האותיות שאתם יודעים, השתמשו ב-? למשבצות חסרות, סננו לפי אותיות שחייבות להופיע. חינם, בלי הרשמה, 100% במכשיר.",
-  "id": "/loona-text-tools/he/crossword-solver/",
+  "id": "/he/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

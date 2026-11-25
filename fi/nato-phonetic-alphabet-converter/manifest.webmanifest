@@ -2,7 +2,7 @@
   "name": "Loona NATO-aakkosten muunnin",
   "short_name": "NATO-aakkosten muunnin",
   "description": "Muunna mikä tahansa teksti NATO:n foneettisiksi aakkosiksi (Alfa, Bravo, Charlie) ja pura NATO-kirjoitus takaisin pelkäksi tekstiksi. Ilmainen, välitön, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/nato-phonetic-alphabet-converter/",
+  "id": "/fi/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

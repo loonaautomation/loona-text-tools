@@ -2,7 +2,7 @@
   "name": "Loona EPUB リーダーオンラインフリー",
   "short_name": "EPUB リーダーオンラインフリー",
   "description": "EPUB 電子書籍をオンラインで無料で開いて読んでください、ブラウザーの中でそのままです。章リスト、調整可能なフォントサイズ、ダークモード。100%プライベート - あなたの電子書籍が端末から離れることは決してありません。登録なし。",
-  "id": "/loona-text-tools/ja/epub-reader/",
+  "id": "/ja/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

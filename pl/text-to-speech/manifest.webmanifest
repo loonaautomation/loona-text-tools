@@ -2,7 +2,7 @@
   "name": "Loona Tekst na mowę online za darmo",
   "short_name": "Tekst na mowę online za darmo",
   "description": "Zamień dowolny tekst na naturalnie brzmiący dźwięk mowy za darmo online - głosy angielskie i urdu, regulowana prędkość i wysokość głosu. Bez rejestracji, nic nie jest przesyłane, działa w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/text-to-speech/",
+  "id": "/pl/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

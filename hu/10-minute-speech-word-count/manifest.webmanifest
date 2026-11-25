@@ -2,7 +2,7 @@
   "name": "Loona 10 perces beszéd",
   "short_name": "10 perces beszéd",
   "description": "Hány szó van egy 10 perces beszédben? 1,100–1,800 szó (1,500 társalgási tempóban). Ingyenes élő számláló beszédidő-ellenőrzéssel.",
-  "id": "/loona-text-tools/hu/10-minute-speech-word-count/",
+  "id": "/hu/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

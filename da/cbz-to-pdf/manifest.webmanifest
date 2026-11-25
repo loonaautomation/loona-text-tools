@@ -2,7 +2,7 @@
   "name": "Loona CBZ til PDF-konverter gratis",
   "short_name": "CBZ til PDF-konverter gratis",
   "description": "Konvertér CBZ- og ZIP-tegneseriearkiver til PDF gratis i din browser. Sider i naturlig rækkefølge (1, 2, 10), ét billede pr. side i fuld størrelse. Ingen upload, ingen tilmelding.",
-  "id": "/loona-text-tools/da/cbz-to-pdf/",
+  "id": "/da/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

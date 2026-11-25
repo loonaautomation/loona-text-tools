@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Nhập các lần đoán Wordle của bạn và chạm vào các ô thành xám, vàng hoặc xanh lá: trợ thủ miễn phí này cho bạn thấy mọi đáp án còn phù hợp và các lần đoán tiếp theo tốt nhất. Logic đúng cho chữ cái trùng lặp, không cần đăng ký, và mọi thứ chạy trong trình duyệt của bạn.",
-  "id": "/loona-text-tools/vi/wordle-helper/",
+  "id": "/vi/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

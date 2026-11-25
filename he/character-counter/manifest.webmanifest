@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים אונליין",
   "short_name": "מונה תווים אונליין",
   "description": "ספרו תווים עם ובלי רווחים ובדקו מגבלות ל-X (Twitter), SMS, תיאורי מטא ועוד. מונה תווים מקוון חינמי - ללא צורך בהרשמה.",
-  "id": "/loona-text-tools/he/character-counter/",
+  "id": "/he/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum جنریٹر آن لائن",
   "short_name": "Lorem Ipsum جنریٹر آن لائن",
   "description": "lorem ipsum فرضی متن پیراگراف، جملے یا لفظ کے حساب سے بنائیں - ڈیزائنز اور ترتیبوں میں پیسٹ کرنے کے لیے تیار۔ مفت lorem ipsum جنریٹر، سائن اپ کی ضرورت نہیں۔",
-  "id": "/loona-text-tools/ur/lorem-ipsum-generator/",
+  "id": "/ur/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

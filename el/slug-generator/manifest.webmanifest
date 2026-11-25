@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Slug Online",
   "short_name": "Γεννήτρια Slug Online",
   "description": "Μετατρέψτε οποιονδήποτε τίτλο σε καθαρό, φιλικό προς SEO slug URL: πεζά, χωρίς κενά, χωρίς ειδικούς χαρακτήρες. Δωρεάν online γεννήτρια slug με πλήρη προεπισκόπηση URL - χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/slug-generator/",
+  "id": "/el/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

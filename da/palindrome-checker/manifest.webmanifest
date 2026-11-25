@@ -2,7 +2,7 @@
   "name": "Loona Palindromkontrol online gratis",
   "short_name": "Palindromkontrol online gratis",
   "description": "Tjek, om ethvert ord, tal eller sætning er et palindrom - læses ens forfra og bagfra. Viser den rensede tekst og dens omvendte. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/palindrome-checker/",
+  "id": "/da/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ブログ記事単語数",
   "short_name": "ブログ記事単語数",
   "description": "ブログ記事単語数チェッカー：ニュース（300–500）、標準記事（1,000–1,500）、深いガイド（2,000+）の長さ帯でライブカウント。",
-  "id": "/loona-text-tools/ja/blog-post-word-count/",
+  "id": "/ja/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

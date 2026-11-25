@@ -2,7 +2,7 @@
   "name": "Loona คลังเครื่องมือข้อความ",
   "short_name": "คลังเครื่องมือข้อความ",
   "description": "คลัง Loona Text Tools ฉบับเต็ม: ตัวแปลงตัวพิมพ์ ตัวนับคำเรียงความและสุนทรพจน์ ตัวตรวจสอบขีดจำกัดตัวอักษรแพลตฟอร์ม และตัวคำนวณความอ่านง่าย",
-  "id": "/loona-text-tools/th/text-tools-library/",
+  "id": "/th/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

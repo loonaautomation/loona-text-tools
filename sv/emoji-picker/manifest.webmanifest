@@ -2,7 +2,7 @@
   "name": "Loona Emojiväljare online gratis",
   "short_name": "Emojiväljare online gratis",
   "description": "Gratis emojiväljare: bläddra bland eller sök bland 1,900+ emojier och symboler, välj en hudton, klicka för att kopiera en emoji eller en hel bricka. Ingen registrering, körs till 100 % i din webbläsare.",
-  "id": "/loona-text-tools/sv/emoji-picker/",
+  "id": "/sv/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

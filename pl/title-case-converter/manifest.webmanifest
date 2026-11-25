@@ -2,7 +2,7 @@
   "name": "Loona Konwerter zapisu tytułowego",
   "short_name": "Konwerter zapisu tytułowego",
   "description": "Darmowy konwerter zapisu tytułowego — wklej tekst i otrzymaj zapis tytułowy natychmiast. Konwersja na żywo w Twojej przeglądarce, bez rejestracji, bez przesyłania.",
-  "id": "/loona-text-tools/pl/title-case-converter/",
+  "id": "/pl/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

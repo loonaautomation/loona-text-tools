@@ -2,7 +2,7 @@
   "name": "Loona ממיר snake_case",
   "short_name": "ממיר snake_case",
   "description": "ממיר snake_case בחינם — הדביקו טקסט וקבלו snake_case מיד. המרה חיה בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-text-tools/he/snake-case-converter/",
+  "id": "/he/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

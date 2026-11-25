@@ -2,7 +2,7 @@
   "name": "Loona 블로그 게시물 단어 수",
   "short_name": "블로그 게시물 단어 수",
   "description": "블로그 게시물 단어 수 검사기: 뉴스(300–500), 표준 게시물(1,000–1,500), 깊이 있는 가이드(2,000+)의 길이 밴드와 함께 실시간 개수예요.",
-  "id": "/loona-text-tools/ko/blog-post-word-count/",
+  "id": "/ko/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

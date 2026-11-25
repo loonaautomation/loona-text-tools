@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Email Online Gratis",
   "short_name": "Pengekstrak Email Online Gratis",
   "description": "Ekstrak setiap alamat email dari teks, dokumen atau konten halaman web apa pun - deduplikasi dan dicantumkan satu per baris. Berjalan 100% di browser Anda. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/email-extractor/",
+  "id": "/id/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

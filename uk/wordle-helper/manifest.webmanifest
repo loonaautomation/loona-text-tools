@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Введіть свої спроби у Wordle та натискайте на плитки в сірий, жовтий або зелений колір: цей безкоштовний помічник покаже вам кожну відповідь, яка ще підходить, і найкращі наступні спроби. Правильна логіка для подвійних літер, без реєстрації, і все працює у вашому браузері.",
-  "id": "/loona-text-tools/uk/wordle-helper/",
+  "id": "/uk/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

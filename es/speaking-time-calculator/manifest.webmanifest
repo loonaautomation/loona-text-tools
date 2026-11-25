@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de tiempo de exposición oral",
   "short_name": "Calculadora de tiempo de exposición oral",
   "description": "Pega tu discurso o guion y mira cuánto tarda en exponerse a ritmos lento, conversacional y rápido, más cuántas palabras caben en un tiempo objetivo. Gratis, sin registro.",
-  "id": "/loona-text-tools/es/speaking-time-calculator/",
+  "id": "/es/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

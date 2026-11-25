@@ -2,7 +2,7 @@
   "name": "Loona فاحص طول وسم العنوان",
   "short_name": "فاحص طول وسم العنوان",
   "description": "عدّاد فاحص طول وسم العنوان مجانًا: عدّ أحرف مباشر ضد حد الـ60 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/title-tag-length-checker/",
+  "id": "/ar/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

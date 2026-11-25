@@ -1,7 +1,7 @@
 [
  {
   "n": "Pengira Perkataan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/word-counter/",
+  "u": "https://text.loonaautomation.com/ms/word-counter/",
   "s": "Loona Text Tools",
   "d": "Perkataan, aksara, ayat, perenggan dan masa membaca - dikira langsung saat anda menaip.",
   "k": "word counter word counter perkataan aksara ayat perenggan dan masa membaca dikira langsung saat anda menaip",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Pengira Aksara",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/character-counter/",
+  "u": "https://text.loonaautomation.com/ms/character-counter/",
   "s": "Loona Text Tools",
   "d": "Aksara dengan dan tanpa jarak, ditambah had langsung untuk X, SMS dan teks meta.",
   "k": "character counter character counter aksara dengan dan tanpa jarak ditambah had langsung untuk x sms dan teks meta",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Pengira Ayat",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/sentence-counter/",
+  "u": "https://text.loonaautomation.com/ms/sentence-counter/",
   "s": "Loona Text Tools",
   "d": "Ayat, perenggan, perkataan dan aksara dalam teks apa pun - dikira langsung saat anda menaip.",
   "k": "sentence counter sentence counter ayat perenggan perkataan dan aksara dalam teks apa pun dikira langsung saat anda menaip",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Kalkulator Masa Membaca",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/reading-time-calculator/",
+  "u": "https://text.loonaautomation.com/ms/reading-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Berapa lama teks apa pun dibaca, pada kelajuan membaca lambat, purata dan cepat.",
   "k": "reading time calculator reading time calculator berapa lama teks apa pun dibaca pada kelajuan membaca lambat purata dan cepat",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Kalkulator Masa Bertutur",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/speaking-time-calculator/",
+  "u": "https://text.loonaautomation.com/ms/speaking-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Berapa lama ucapan atau naskah disampaikan - ditambah perkataan yang diperlukan untuk masa target.",
   "k": "speaking time calculator speaking time calculator berapa lama ucapan atau naskah disampaikan ditambah perkataan yang diperlukan untuk masa target",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Ujian Menaip",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/typing-test/",
+  "u": "https://text.loonaautomation.com/ms/typing-test/",
   "s": "Loona Text Tools",
   "d": "Ujian menaip 60 saat - kelajuan anda dalam WPM, ketepatan dan CPM, langsung saat anda menaip.",
   "k": "typing test typing test ujian menaip 60 saat kelajuan anda dalam wpm ketepatan dan cpm langsung saat anda menaip",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Pengonversi Huruf",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/case-converter/",
+  "u": "https://text.loonaautomation.com/ms/case-converter/",
   "s": "Loona Text Tools",
   "d": "HURUF BESAR, huruf kecil, Huruf Tajuk, Huruf ayat dan lain - satu klik masing-masing.",
   "k": "case converter case converter huruf besar huruf kecil huruf tajuk huruf ayat dan lain satu klik masing masing",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Padam Baris Duplikat",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/remove-duplicate-lines/",
+  "u": "https://text.loonaautomation.com/ms/remove-duplicate-lines/",
   "s": "Loona Text Tools",
   "d": "Padam baris berulang dan simpan setiap baris unik sekali, secara berurutan.",
   "k": "remove duplicate lines remove duplicate lines padam baris berulang dan simpan setiap baris unik sekali secara berurutan",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Isih Baris",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/sort-lines/",
+  "u": "https://text.loonaautomation.com/ms/sort-lines/",
   "s": "Loona Text Tools",
   "d": "Isih baris A-Z, Z-A, berdasarkan panjang, dibalik, atau dirawakkan secara adil secara rawak.",
   "k": "sort lines sort lines isih baris a z z a berdasarkan panjang dibalik atau dirawakkan secara adil secara rawak",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Balik Teks",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/reverse-text/",
+  "u": "https://text.loonaautomation.com/ms/reverse-text/",
   "s": "Loona Text Tools",
   "d": "Balik teks ke belakang - seluruh teks, setiap perkataan, turutan perkataan atau turutan baris.",
   "k": "reverse text reverse text balik teks ke belakang seluruh teks setiap perkataan turutan perkataan atau turutan baris",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Padam Jarak Berlebih",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/remove-extra-spaces/",
+  "u": "https://text.loonaautomation.com/ms/remove-extra-spaces/",
   "s": "Loona Text Tools",
   "d": "Peras jarak ganda, tab dan tepi tidak rata dari teks salinan yang berantakan.",
   "k": "remove extra spaces remove extra spaces peras jarak ganda tab dan tepi tidak rata dari teks salinan yang berantakan",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Cari dan Ganti",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/find-and-replace/",
+  "u": "https://text.loonaautomation.com/ms/find-and-replace/",
   "s": "Loona Text Tools",
   "d": "Tukar setiap kemunculan perkataan atau frasa dengan yang lain, dalam sekali jalan.",
   "k": "find and replace find and replace tukar setiap kemunculan perkataan atau frasa dengan yang lain dalam sekali jalan",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Teks ke Ucapan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-to-speech/",
+  "u": "https://text.loonaautomation.com/ms/text-to-speech/",
   "s": "Loona Text Tools",
   "d": "Dengarkan teks apa pun dibacakan - suara Inggeris, Urdu dan lain, kelajuan anda.",
   "k": "text to speech text to speech dengarkan teks apa pun dibacakan suara inggeris urdu dan lain kelajuan anda",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Ucapan ke Teks",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/speech-to-text/",
+  "u": "https://text.loonaautomation.com/ms/speech-to-text/",
   "s": "Loona Text Tools",
   "d": "Bicaralah dan saksikan kata-kata Anda menjadi teks - Inggeris, Urdu dan lain.",
   "k": "speech to text speech to text bicaralah dan saksikan kata kata anda menjadi teks inggeris urdu dan lain",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Penjana Kata Laluan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/password-generator/",
+  "u": "https://text.loonaautomation.com/ms/password-generator/",
   "s": "Loona Text Tools",
   "d": "Kata laluan rawak kuat dengan panjang dan simbol pilihan anda.",
   "k": "password generator password generator kata laluan rawak kuat dengan panjang dan simbol pilihan anda",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Bandingkan Teks",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-compare/",
+  "u": "https://text.loonaautomation.com/ms/text-compare/",
   "s": "Loona Text Tools",
   "d": "Sejajarkan dua teks dan lihat dengan tepat baris mana yang berubah.",
   "k": "text compare text compare sejajarkan dua teks dan lihat dengan tepat baris mana yang berubah",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Frekuensi Perkataan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/word-frequency/",
+  "u": "https://text.loonaautomation.com/ms/word-frequency/",
   "s": "Loona Text Tools",
   "d": "Jadual peringkat kata-kata yang paling sering anda gunakan, dengan jumlah dan peratusan.",
   "k": "word frequency word frequency jadual peringkat kata kata yang paling sering anda gunakan dengan jumlah dan peratusan",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Padam Pemisah Baris",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/remove-line-breaks/",
+  "u": "https://text.loonaautomation.com/ms/remove-line-breaks/",
   "s": "Loona Text Tools",
   "d": "Gabungkan baris rusak gaya PDF kembali menjadi perenggan bersih yang mengalir.",
   "k": "remove line breaks remove line breaks gabungkan baris rusak gaya pdf kembali menjadi perenggan bersih yang mengalir",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Tambah Nombor Baris",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/add-line-numbers/",
+  "u": "https://text.loonaautomation.com/ms/add-line-numbers/",
   "s": "Loona Text Tools",
   "d": "Beri nombor setiap baris - pilih awal, langkah, padding dan pemisah.",
   "k": "add line numbers add line numbers beri nombor setiap baris pilih awal langkah padding dan pemisah",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Penjana Lorem Ipsum",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/lorem-ipsum-generator/",
+  "u": "https://text.loonaautomation.com/ms/lorem-ipsum-generator/",
   "s": "Loona Text Tools",
   "d": "Teks contoh klasik per perenggan, ayat atau perkataan untuk reka bentuk anda.",
   "k": "lorem ipsum generator lorem ipsum generator teks contoh klasik per perenggan ayat atau perkataan untuk reka bentuk anda",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Penjana Slug",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/slug-generator/",
+  "u": "https://text.loonaautomation.com/ms/slug-generator/",
   "s": "Loona Text Tools",
   "d": "Ubah tajuk apa pun menjadi slug URL yang bersih dan ramah pencarian, secara langsung.",
   "k": "slug generator slug generator ubah tajuk apa pun menjadi slug url yang bersih dan ramah pencarian secara langsung",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Penerjemah Kod Morse",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/morse-code-translator/",
+  "u": "https://text.loonaautomation.com/ms/morse-code-translator/",
   "s": "Loona Text Tools",
   "d": "Teks ke kod Morse dan kembali - dengan pemutaran bunyi bip asli.",
   "k": "morse code translator morse code translator teks ke kod morse dan kembali dengan pemutaran bunyi bip asli",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Teks ke Biner",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-to-binary/",
+  "u": "https://text.loonaautomation.com/ms/text-to-binary/",
   "s": "Loona Text Tools",
   "d": "Lihat teks sebagai 0 dan 1 yang disimpan komputer - dan dekode biner kembali.",
   "k": "text to binary text to binary lihat teks sebagai 0 dan 1 yang disimpan komputer dan dekode biner kembali",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Roman Urdu ke Urdu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/roman-urdu-to-urdu/",
+  "u": "https://text.loonaautomation.com/ms/roman-urdu-to-urdu/",
   "s": "Loona Text Tools",
   "d": "Ubah 'mera naam Ahmed hai' menjadi aksara Urdu yang benar, serta-merta.",
   "k": "roman urdu to urdu roman urdu to urdu ubah mera naam ahmed hai menjadi aksara urdu yang benar serta merta",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Notepad Dalam talian",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/online-notepad/",
+  "u": "https://text.loonaautomation.com/ms/online-notepad/",
   "s": "Loona Text Tools",
   "d": "Notepad yang menyimpan automatik di pelayar anda - termasuk muat turun dan cetak.",
   "k": "online notepad online notepad notepad yang menyimpan automatik di pelayar anda termasuk muat turun dan cetak",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Penjana Teks Bergaya",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/fancy-text-generator/",
+  "u": "https://text.loonaautomation.com/ms/fancy-text-generator/",
   "s": "Loona Text Tools",
   "d": "Teks tebal, skrip, melingkar dan terbalik untuk bio dan keterangan.",
   "k": "fancy text generator fancy text generator teks tebal skrip melingkar dan terbalik untuk bio dan keterangan",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Pengira Suku Perkataan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/syllable-counter/",
+  "u": "https://text.loonaautomation.com/ms/syllable-counter/",
   "s": "Loona Text Tools",
   "d": "Kira suku perkataan dalam setiap perkataan dan total - sempurna untuk puisi, haiku dan lirik.",
   "k": "syllable counter syllable counter kira suku perkataan dalam setiap perkataan dan total sempurna untuk puisi haiku dan lirik",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Pengira Perenggan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/paragraph-counter/",
+  "u": "https://text.loonaautomation.com/ms/paragraph-counter/",
   "s": "Loona Text Tools",
   "d": "Kira perenggan, dengan perkataan dan ayat per perenggan dan yang terpanjang ditandai.",
   "k": "paragraph counter paragraph counter kira perenggan dengan perkataan dan ayat per perenggan dan yang terpanjang ditandai",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Kalkulator Tahap Bacaan",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/reading-level-calculator/",
+  "u": "https://text.loonaautomation.com/ms/reading-level-calculator/",
   "s": "Loona Text Tools",
   "d": "Skor Flesch Reading Ease dan tahap kelas, dengan penilaian bahasa Inggeris sederhana.",
   "k": "reading level calculator reading level calculator skor flesch reading ease dan tahap kelas dengan penilaian bahasa inggeris sederhana",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Penyemak Palindrom",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/palindrome-checker/",
+  "u": "https://text.loonaautomation.com/ms/palindrome-checker/",
   "s": "Loona Text Tools",
   "d": "Apakah dibaca sama dari belakang? Semak perkataan, angka dan ayat utuh.",
   "k": "palindrome checker palindrome checker apakah dibaca sama dari belakang semak perkataan angka dan ayat utuh",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Penjana Anagram",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/anagram-generator/",
+  "u": "https://text.loonaautomation.com/ms/anagram-generator/",
   "s": "Loona Text Tools",
   "d": "Cari perkataan asli yang tersembunyi dalam huruf anda, dan uji pasangan anagram serta-merta.",
   "k": "anagram generator anagram generator cari perkataan asli yang tersembunyi dalam huruf anda dan uji pasangan anagram serta merta",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Abjad Fonetik NATO",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/nato-phonetic-alphabet-converter/",
+  "u": "https://text.loonaautomation.com/ms/nato-phonetic-alphabet-converter/",
   "s": "Loona Text Tools",
   "d": "Eja apa pun dengan cara pilot - Alfa, Bravo, Charlie - dan dekode kembali.",
   "k": "nato phonetic alphabet nato phonetic alphabet eja apa pun dengan cara pilot alfa bravo charlie dan dekode kembali",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Pengonversi Teks ke ASCII",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-to-ascii-converter/",
+  "u": "https://text.loonaautomation.com/ms/text-to-ascii-converter/",
   "s": "Loona Text Tools",
   "d": "Kod desimal, heks, oktal dan biner di balik setiap aksara, dan kembali.",
   "k": "text to ascii converter text to ascii converter kod desimal heks oktal dan biner di balik setiap aksara dan kembali",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Pengonversi Teks ke Heksadesimal",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-to-hex-converter/",
+  "u": "https://text.loonaautomation.com/ms/text-to-hex-converter/",
   "s": "Loona Text Tools",
   "d": "Teks ke byte heksadesimal dan kembali, dengan UTF-8 yang benar untuk setiap bahasa.",
   "k": "text to hex converter text to hex converter teks ke byte heksadesimal dan kembali dengan utf 8 yang benar untuk setiap bahasa",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Pencari Perkataan Berulang",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/repeated-words-finder/",
+  "u": "https://text.loonaautomation.com/ms/repeated-words-finder/",
   "s": "Loona Text Tools",
   "d": "Setiap perkataan yang anda gunakan lebih dari sekali, diperingkat - ditambah perkataan ganda yang tidak disengaja.",
   "k": "repeated words finder repeated words finder setiap perkataan yang anda gunakan lebih dari sekali diperingkat ditambah perkataan ganda yang tidak disengaja",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Penyemak Aksara Tak Terlihat",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/invisible-character-checker/",
+  "u": "https://text.loonaautomation.com/ms/invisible-character-checker/",
   "s": "Loona Text Tools",
   "d": "Ungkap aksara lebar-nol dan tersembunyi dalam teks yang disalin, dan padam mereka.",
   "k": "invisible character checker invisible character checker ungkap aksara lebar nol dan tersembunyi dalam teks yang disalin dan padam mereka",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Padam Tanda Baca",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/remove-punctuation/",
+  "u": "https://text.loonaautomation.com/ms/remove-punctuation/",
   "s": "Loona Text Tools",
   "d": "Buang tanda baca dari teks dalam satu klik, menjaga kata-kata tetap bersih.",
   "k": "remove punctuation remove punctuation buang tanda baca dari teks dalam satu klik menjaga kata kata tetap bersih",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Pengekstrak Emel",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/email-extractor/",
+  "u": "https://text.loonaautomation.com/ms/email-extractor/",
   "s": "Loona Text Tools",
   "d": "Tarik setiap alamat emel dari teks apa pun - deduplikasi, satu per baris.",
   "k": "email extractor email extractor tarik setiap alamat emel dari teks apa pun deduplikasi satu per baris",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Imej ke Teks (OCR)",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/image-to-text-converter/",
+  "u": "https://text.loonaautomation.com/ms/image-to-text-converter/",
   "s": "Loona Text Tools",
   "d": "Ekstrak teks yang dapat diedit dari foto, pindaian dan tangkapan skrin - OCR percuma di pelayar anda.",
   "k": "image to text (ocr) image to text (ocr) ekstrak teks yang dapat diedit dari foto pindaian dan tangkapan skrin ocr percuma di pelayar anda",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Pengonversi Imej ke Excel",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/image-to-excel-converter/",
+  "u": "https://text.loonaautomation.com/ms/image-to-excel-converter/",
   "s": "Loona Text Tools",
   "d": "Ubah foto atau tangkapan skrin jadual menjadi fail Excel asli - semak dan edit selnya, lalu muat turun.",
   "k": "image to excel converter image to excel converter ubah foto atau tangkapan skrin jadual menjadi fail excel asli semak dan edit selnya lalu muat turun",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Penjana Sitasi",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/citation-generator/",
+  "u": "https://text.loonaautomation.com/ms/citation-generator/",
   "s": "Loona Text Tools",
   "d": "Sitasi APA 7, MLA 9 dan Chicago untuk laman web, buku dan artikel jurnal.",
   "k": "citation generator citation generator sitasi apa 7 mla 9 dan chicago untuk laman web buku dan artikel jurnal",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Pembaca EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/epub-reader/",
+  "u": "https://text.loonaautomation.com/ms/epub-reader/",
   "s": "Loona Text Tools",
   "d": "Buka dan baca ebook EPUB langsung di pelayar anda - senarai bab, saiz fon yang dapat disesuaikan dan mod gelap.",
   "k": "epub reader epub reader buka dan baca ebook epub langsung di pelayar anda senarai bab saiz fon yang dapat disesuaikan dan mod gelap",
@@ -379,7 +379,7 @@
  },
  {
   "n": "EPUB ke Teks",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/epub-to-text/",
+  "u": "https://text.loonaautomation.com/ms/epub-to-text/",
   "s": "Loona Text Tools",
   "d": "Ubah ebook EPUB menjadi fail teks biasa bersih - bab dalam turutan membaca, tajuk dipertahankan.",
   "k": "epub to text epub to text ubah ebook epub menjadi fail teks biasa bersih bab dalam turutan membaca tajuk dipertahankan",
@@ -388,7 +388,7 @@
  },
  {
   "n": "EPUB ke HTML",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/epub-to-html/",
+  "u": "https://text.loonaautomation.com/ms/epub-to-html/",
   "s": "Loona Text Tools",
   "d": "Ubah ebook EPUB menjadi satu fail HTML mandiri dengan gambarnya disematkan.",
   "k": "epub to html epub to html ubah ebook epub menjadi satu fail html mandiri dengan gambarnya disematkan",
@@ -397,7 +397,7 @@
  },
  {
   "n": "CBZ ke PDF",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/cbz-to-pdf/",
+  "u": "https://text.loonaautomation.com/ms/cbz-to-pdf/",
   "s": "Loona Text Tools",
   "d": "Ubah arsip komik menjadi PDF - halaman dalam turutan alami, satu imej per halaman.",
   "k": "cbz to pdf cbz to pdf ubah arsip komik menjadi pdf halaman dalam turutan alami satu imej per halaman",
@@ -406,7 +406,7 @@
  },
  {
   "n": "DOCX ke EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/docx-to-epub/",
+  "u": "https://text.loonaautomation.com/ms/docx-to-epub/",
   "s": "Loona Text Tools",
   "d": "Ubah dokumen Word menjadi ebook EPUB - tajuk menjadi bab.",
   "k": "docx to epub docx to epub ubah dokumen word menjadi ebook epub tajuk menjadi bab",
@@ -415,7 +415,7 @@
  },
  {
   "n": "Editor Metadata EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/epub-metadata-editor/",
+  "u": "https://text.loonaautomation.com/ms/epub-metadata-editor/",
   "s": "Loona Text Tools",
   "d": "Edit tajuk, penulis, penerbit dan deskripsi ebook - bab tidak tersentuh.",
   "k": "epub metadata editor epub metadata editor edit tajuk penulis penerbit dan deskripsi ebook bab tidak tersentuh",
@@ -424,7 +424,7 @@
  },
  {
   "n": "Teks / Markdown ke EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/text-to-epub/",
+  "u": "https://text.loonaautomation.com/ms/text-to-epub/",
   "s": "Loona Text Tools",
   "d": "Ubah teks biasa atau Markdown menjadi ebook EPUB yang benar yang terbuka di pembaca mana pun.",
   "k": "text / markdown to epub text / markdown to epub ubah teks biasa atau markdown menjadi ebook epub yang benar yang terbuka di pembaca mana pun",
@@ -433,13 +433,13 @@
  },
  {
   "n": "Penjana Topik Rawak",
-  "u": "https://loonaautomation.github.io/loona-text-tools/ms/random-topic-generator/",
+  "u": "https://text.loonaautomation.com/ms/random-topic-generator/",
   "s": "Loona Text Tools",
   "d": "900 topik esei, ucapan, debat, cerita dan kanak-kanak yang ditulis tangan dalam 9 kategori, ditapis mengikut tahap sekolah, tanpa ulangan.",
   "k": "random topic generator random topic generator 900 topik esei ucapan debat cerita dan kanak kanak yang ditulis tangan dalam 9 kategori ditapis mengikut tahap sekolah tanpa ulangan",
   "p": 148,
   "c": "Tool"
  }
-,{"n":"Pemilih Emoji","u":"https://loonaautomation.github.io/loona-text-tools/ms/emoji-picker/","s":"Loona Text Tools","d":"Layari atau cari 1,900+ emoji dan simbol - klik untuk menyalin, dengan ton kulit dan dulang salin.","k":"emoji picker emoji picker layari atau cari 1,900+ emoji dan simbol - klik untuk menyalin, dengan ton kulit dan dulang salin.","p":149,"c":"Tool"},
-{"n":"Peringkas Teks","u":"https://loonaautomation.github.io/loona-text-tools/ms/text-summarizer/","s":"Loona Text Tools","d":"Tampal artikel panjang, esei atau laporan dan dapatkan semula ayat asal yang paling penting. Ringkasan ekstraktif dalam pelayar anda - tidak pernah dimuat naik, tidak pernah ditulis semula.","k":"peringkas teks ringkaskan teks alat ringkasan ringkasan artikel meringkaskan teks peringkas dalam talian ringkasan esei buat ringkasan","p":150,"c":"Tool"},
-{"n":"Loona AI Detector","u":"https://loonaautomation.github.io/loona-text-tools/ms/ai-detector/","s":"Loona Text Tools","d":"Lihat isyarat penulisan yang diukur oleh pengesan AI - irama ayat, kepelbagaian kosa kata, frasa berulang dan kebolehramalan. Isyarat yang jujur, bukan keputusan muktamad - dan teks anda tidak pernah meninggalkan pelayar anda.","k":"pengesan ai pengesan teks ai semak teks ai ai detector kesan ai tulis ai atau manusia corak penulisan ai","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/ms/wordle-helper/", "s": "Loona Text Tools", "d": "Masukkan tekaan Wordle anda dan ketik jubin kepada kelabu, kuning atau hijau: lihat setiap jawapan yang masih padan dan tekaan seterusnya yang terbaik, dengan logik yang betul untuk huruf berganda.", "k": "wordle helper pembantu wordle melayu penyelesai wordle jawapan jubin kelabu kuning hijau huruf berganda tekaan seterusnya terbaik permainan perkataan", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://loonaautomation.github.io/loona-text-tools/ms/word-unscrambler/", "s": "Loona Text Tools", "d": "Uraikan huruf bercampur menjadi perkataan sebenar daripada kamus lengkap 172,820 perkataan — dikumpulkan mengikut panjang, dengan skor Scrabble dan sokongan jubin kosong.", "k": "word unscrambler pengurai perkataan melayu huruf bercampur jadi perkataan anagram penyelesai pembantu scrabble jubin kosong perkataan daripada huruf permainan perkataan", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://loonaautomation.github.io/loona-text-tools/ms/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Cari permainan skor tertinggi daripada huruf rak anda, dengan jubin kosong dan corak papan — serta penyemak perkataan yang menyelesaikan sebarang pertikaian.", "k": "scrabble word finder pencari perkataan scrabble melayu huruf rak permainan terbaik skor penyemak perkataan perkataan sah jubin kosong corak papan permainan perkataan", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://loonaautomation.github.io/loona-text-tools/ms/crossword-solver/", "s": "Loona Text Tools", "d": "Taip huruf yang anda tahu, ? untuk petak yang anda tidak tahu — cari 172,820 perkataan mengikut corak dan selesaikan grid.", "k": "crossword solver penyelesai silang kata melayu corak perkataan huruf hilang jawapan silang kata permainan perkataan grid", "p": 155, "c": "Tool"}]
+,{"n":"Pemilih Emoji","u":"https://text.loonaautomation.com/ms/emoji-picker/","s":"Loona Text Tools","d":"Layari atau cari 1,900+ emoji dan simbol - klik untuk menyalin, dengan ton kulit dan dulang salin.","k":"emoji picker emoji picker layari atau cari 1,900+ emoji dan simbol - klik untuk menyalin, dengan ton kulit dan dulang salin.","p":149,"c":"Tool"},
+{"n":"Peringkas Teks","u":"https://text.loonaautomation.com/ms/text-summarizer/","s":"Loona Text Tools","d":"Tampal artikel panjang, esei atau laporan dan dapatkan semula ayat asal yang paling penting. Ringkasan ekstraktif dalam pelayar anda - tidak pernah dimuat naik, tidak pernah ditulis semula.","k":"peringkas teks ringkaskan teks alat ringkasan ringkasan artikel meringkaskan teks peringkas dalam talian ringkasan esei buat ringkasan","p":150,"c":"Tool"},
+{"n":"Loona AI Detector","u":"https://text.loonaautomation.com/ms/ai-detector/","s":"Loona Text Tools","d":"Lihat isyarat penulisan yang diukur oleh pengesan AI - irama ayat, kepelbagaian kosa kata, frasa berulang dan kebolehramalan. Isyarat yang jujur, bukan keputusan muktamad - dan teks anda tidak pernah meninggalkan pelayar anda.","k":"pengesan ai pengesan teks ai semak teks ai ai detector kesan ai tulis ai atau manusia corak penulisan ai","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://text.loonaautomation.com/ms/wordle-helper/", "s": "Loona Text Tools", "d": "Masukkan tekaan Wordle anda dan ketik jubin kepada kelabu, kuning atau hijau: lihat setiap jawapan yang masih padan dan tekaan seterusnya yang terbaik, dengan logik yang betul untuk huruf berganda.", "k": "wordle helper pembantu wordle melayu penyelesai wordle jawapan jubin kelabu kuning hijau huruf berganda tekaan seterusnya terbaik permainan perkataan", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://text.loonaautomation.com/ms/word-unscrambler/", "s": "Loona Text Tools", "d": "Uraikan huruf bercampur menjadi perkataan sebenar daripada kamus lengkap 172,820 perkataan — dikumpulkan mengikut panjang, dengan skor Scrabble dan sokongan jubin kosong.", "k": "word unscrambler pengurai perkataan melayu huruf bercampur jadi perkataan anagram penyelesai pembantu scrabble jubin kosong perkataan daripada huruf permainan perkataan", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://text.loonaautomation.com/ms/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Cari permainan skor tertinggi daripada huruf rak anda, dengan jubin kosong dan corak papan — serta penyemak perkataan yang menyelesaikan sebarang pertikaian.", "k": "scrabble word finder pencari perkataan scrabble melayu huruf rak permainan terbaik skor penyemak perkataan perkataan sah jubin kosong corak papan permainan perkataan", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://text.loonaautomation.com/ms/crossword-solver/", "s": "Loona Text Tools", "d": "Taip huruf yang anda tahu, ? untuk petak yang anda tidak tahu — cari 172,820 perkataan mengikut corak dan selesaikan grid.", "k": "crossword solver penyelesai silang kata melayu corak perkataan huruf hilang jawapan silang kata permainan perkataan grid", "p": 155, "c": "Tool"}]

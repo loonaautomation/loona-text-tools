@@ -2,7 +2,7 @@
   "name": "Loona Έλεγχος Παλινδρόμου Online Δωρεάν",
   "short_name": "Έλεγχος Παλινδρόμου Online Δωρεάν",
   "description": "Ελέγξτε αν οποιαδήποτε λέξη, αριθμός ή πρόταση είναι παλίνδρομο - διαβάζεται το ίδιο κανονικά και ανάποδα. Δείχνει το καθαρισμένο κείμενο και την αντιστροφή του. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/palindrome-checker/",
+  "id": "/el/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

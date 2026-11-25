@@ -2,7 +2,7 @@
   "name": "Loona Pencari Perkataan Berulang Dalam talian Percuma",
   "short_name": "Pencari Perkataan Berulang Dalam talian Percuma",
   "description": "Cari setiap perkataan yang muncul lebih dari sekali dalam teks anda, diperingkat berdasarkan seberapa sering berulang. Tangkap perkataan ganda yang tidak disengaja dan perkataan yang terlalu sering digunakan. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/repeated-words-finder/",
+  "id": "/ms/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

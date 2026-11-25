@@ -2,7 +2,7 @@
   "name": "Loona Conversor iNVERSE cASE",
   "short_name": "Conversor iNVERSE cASE",
   "description": "Conversor iNVERSE cASE grátis — cole texto e obtenha iNVERSE cASE instantaneamente. Conversão ao vivo no seu navegador, sem registro, sem carregamento.",
-  "id": "/loona-text-tools/pt-br/inverse-case-converter/",
+  "id": "/pt-br/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер aLtErNaTiNg CaSe",
   "short_name": "Конвертер aLtErNaTiNg CaSe",
   "description": "Безкоштовний конвертер ЧеРгУвАнНя РеГіСтРу — вставте текст і отримайте ЧеРгУвАнНя РеГіСтРу миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/alternating-case-converter/",
+  "id": "/uk/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

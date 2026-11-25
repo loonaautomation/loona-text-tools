@@ -2,7 +2,7 @@
   "name": "Loona Slug-generátor online",
   "short_name": "Slug-generátor online",
   "description": "Alakítson bármely címet tiszta, SEO-barát URL sluggá: kisbetűs, szóközök nélkül, speciális karakterek nélkül. Ingyenes online slug-generátor teljes URL-előnézettel - regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/slug-generator/",
+  "id": "/hu/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

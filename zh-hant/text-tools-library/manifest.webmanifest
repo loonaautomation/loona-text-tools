@@ -2,7 +2,7 @@
   "name": "Loona 文字工具庫",
   "short_name": "文字工具庫",
   "description": "完整的 Loona Text Tools 庫:大小寫轉換器、作文和演講詞數計數器、平台字元限制檢查器和可讀性計算器。",
-  "id": "/loona-text-tools/zh-hant/text-tools-library/",
+  "id": "/zh-hant/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

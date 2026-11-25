@@ -2,7 +2,7 @@
   "name": "Loona テキスト比較オンライン",
   "short_name": "テキスト比較オンライン",
   "description": "二つのテキストを行ごとに比較し、どの行が追加、削除、保持されたかを正確に確認します。無料オンラインテキスト差分ツール — 登録不要、ブラウザーでプライベート。",
-  "id": "/loona-text-tools/ja/text-compare/",
+  "id": "/ja/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

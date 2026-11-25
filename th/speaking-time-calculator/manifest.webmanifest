@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณเวลาพูด",
   "short_name": "ตัวคำนวณเวลาพูด",
   "description": "วางสุนทรพจน์หรือบทของคุณแล้วดูว่าใช้เวลาพูดนานแค่ไหนที่จังหวะช้า สนทนา และเร็ว — บวกจำนวนคำที่พอดีกับเวลาที่ตั้งเป้า ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/speaking-time-calculator/",
+  "id": "/th/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

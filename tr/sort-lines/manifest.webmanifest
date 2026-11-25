@@ -2,7 +2,7 @@
   "name": "Loona Satırları Çevrimiçi Sıralayın",
   "short_name": "Satırları Çevrimiçi Sıralayın",
   "description": "Metin satırlarını alfabetik olarak (A-Z veya Z-A), uzunluğa göre, ters sırada veya rastgele karıştırılmış olarak sıralayın. Ücretsiz çevrimiçi satır sıralayıcı - kayıt yok, anında ve gizli.",
-  "id": "/loona-text-tools/tr/sort-lines/",
+  "id": "/tr/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

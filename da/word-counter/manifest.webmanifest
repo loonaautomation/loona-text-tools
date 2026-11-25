@@ -2,7 +2,7 @@
   "name": "Loona Ordtæller online gratis",
   "short_name": "Ordtæller online gratis",
   "description": "Tæl ord, tegn, sætninger og afsnit i enhver tekst øjeblikkeligt, med læsetid og taletid. Gratis ordtæller, ingen tilmelding, virker offline.",
-  "id": "/loona-text-tools/da/word-counter/",
+  "id": "/da/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

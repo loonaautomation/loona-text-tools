@@ -2,7 +2,7 @@
   "name": "Loona Anagramm-Generator & Prüfer online kostenlos",
   "short_name": "Anagramm-Generator & Prüfer online kostenlos",
   "description": "Anagramme für jedes Wort aus echten englischen Wörtern finden, und prüfen, ob zwei Wörter oder Phrasen Anagramme voneinander sind. Kostenloser Anagramm-Löser, keine Registrierung.",
-  "id": "/loona-text-tools/de/anagram-generator/",
+  "id": "/de/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dissertation de 800 mots",
   "short_name": "Dissertation de 800 mots",
   "description": "Compteur gratuit de dissertations de 800 mots : comptage de mots en direct jusqu’à l’objectif de 800 mots, pages en interligne simple et double, paragraphes, temps de lecture et de parole.",
-  "id": "/loona-text-tools/fr/800-word-essay-word-counter/",
+  "id": "/fr/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Solve crossword patterns like c?oss?ord against 172,820 English words. Type the letters you know, use ? for missing squares, filter by must-contain letters. Free, no sign-up, 100% on-device.",
-  "id": "/loona-text-tools/crossword-solver/",
+  "id": "/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

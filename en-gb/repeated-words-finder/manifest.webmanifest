@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/repeated-words-finder/",
+  "id": "/en-gb/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

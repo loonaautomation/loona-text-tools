@@ -2,7 +2,7 @@
   "name": "Loona Xóa dòng trùng lặp trực tuyến",
   "short_name": "Xóa dòng trùng lặp trực tuyến",
   "description": "Xóa các dòng trùng lặp khỏi bất kỳ danh sách hoặc văn bản nào và chỉ giữ các dòng duy nhất, theo thứ tự gốc. Công cụ xóa dòng trùng lặp miễn phí - không đăng ký, kết quả tức thì.",
-  "id": "/loona-text-tools/vi/remove-duplicate-lines/",
+  "id": "/vi/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

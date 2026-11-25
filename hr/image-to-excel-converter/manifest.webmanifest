@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač slike u Excel na mreži besplatno",
   "short_name": "Pretvarač slike u Excel na mreži besplatno",
   "description": "Pretvorite fotografiju, skeniranje ili snimku zaslona tablice u pravu Excel (.xlsx) datoteku besplatnim OCR-om koji radi 100 % u vašem pregledniku. Uredite tablicu prije preuzimanja – bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/image-to-excel-converter/",
+  "id": "/hr/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

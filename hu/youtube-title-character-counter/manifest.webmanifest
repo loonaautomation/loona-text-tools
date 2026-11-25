@@ -2,7 +2,7 @@
   "name": "Loona YouTube-cím karakterszámláló",
   "short_name": "YouTube-cím karakterszámláló",
   "description": "Ingyenes YouTube-cím karakterszámláló számláló: élő karakterszám a 100 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/youtube-title-character-counter/",
+  "id": "/hu/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

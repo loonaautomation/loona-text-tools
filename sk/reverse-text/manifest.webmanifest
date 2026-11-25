@@ -2,7 +2,7 @@
   "name": "Loona Obrátenie textu online",
   "short_name": "Obrátenie textu online",
   "description": "Obráťte text štyrmi spôsobmi: celý text odzadu, každé slovo odzadu, poradie slov prevrátené alebo poradie riadkov prevrátené. Bezplatný online obracovač textu - bez potreby registrácie.",
-  "id": "/loona-text-tools/sk/reverse-text/",
+  "id": "/sk/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

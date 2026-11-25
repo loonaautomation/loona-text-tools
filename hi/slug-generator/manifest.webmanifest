@@ -2,7 +2,7 @@
   "name": "Loona स्लग जनरेटर ऑनलाइन",
   "short_name": "स्लग जनरेटर ऑनलाइन",
   "description": "किसी भी शीर्षक को साफ़, SEO-अनुकूल URL स्लग में बदलें: छोटे अक्षर, कोई स्पेस नहीं, कोई विशेष अक्षर नहीं। पूर्ण URL पूर्वावलोकन के साथ मुफ़्त ऑनलाइन स्लग जनरेटर - कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/slug-generator/",
+  "id": "/hi/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ממיר EPUB לטקסט בחינם",
   "short_name": "ממיר EPUB לטקסט בחינם",
   "description": "המירו ספרי EPUB לטקסט רגיל נקי (.txt) בחינם, בדפדפן שלכם. פרקים בסדר קריאה, כותרות נשמרות, רשימת פרקים וספירת מילים מוצגים ראשונים. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/epub-to-text/",
+  "id": "/he/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

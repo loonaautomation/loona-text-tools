@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova na mreži",
   "short_name": "Brojač znakova na mreži",
   "description": "Brojite znakove s razmacima i bez njih i provjerite ograničenja za X (Twitter), SMS, meta opise i još mnogo toga. Besplatan mrežni brojač znakova – registracija nije potrebna.",
-  "id": "/loona-text-tools/hr/character-counter/",
+  "id": "/hr/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

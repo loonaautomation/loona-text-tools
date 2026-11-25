@@ -2,7 +2,7 @@
   "name": "Loona Govor od 1 minute",
   "short_name": "Govor od 1 minute",
   "description": "Koliko riječi ima govor od 1 minute? 110–180 riječi (150 razgovornim tempom). Besplatan brojač uživo s provjerom vremena govora.",
-  "id": "/loona-text-tools/hr/1-minute-speech-word-count/",
+  "id": "/hr/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tal till text online gratis",
   "short_name": "Tal till text online gratis",
   "description": "Diktera med rösten och se den bli text - gratis tal till text online för engelska, urdu och fler språk. Ingen registrering; fungerar i Chrome och Edge.",
-  "id": "/loona-text-tools/sv/speech-to-text/",
+  "id": "/sv/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

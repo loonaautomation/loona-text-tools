@@ -2,7 +2,7 @@
   "name": "Loona 5 分钟演讲——需要多少词?",
   "short_name": "5 分钟演讲——需要多少词?",
   "description": "5 分钟的演讲有多少词?550–900 个词(对话语速下为 750 词)。免费实时计数器,附演讲时间检查。",
-  "id": "/loona-text-tools/zh/5-minute-speech-word-count/",
+  "id": "/zh/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

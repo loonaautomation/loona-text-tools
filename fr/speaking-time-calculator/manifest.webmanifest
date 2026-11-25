@@ -2,7 +2,7 @@
   "name": "Loona Calculateur de temps de parole",
   "short_name": "Calculateur de temps de parole",
   "description": "Collez votre discours ou script et voyez combien de temps il faut pour le prononcer à des rythmes lent, conversationnel et rapide - plus combien de mots tiennent dans un temps cible. Gratuit, sans inscription.",
-  "id": "/loona-text-tools/fr/speaking-time-calculator/",
+  "id": "/fr/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

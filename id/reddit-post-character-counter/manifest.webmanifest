@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Karakter Postingan Reddit",
   "short_name": "Penghitung Karakter Postingan Reddit",
   "description": "Penghitung penghitung karakter postingan Reddit gratis: hitungan karakter langsung terhadap batas 40.000 karakter, dengan kata dan sisa karakter ditampilkan saat Anda mengetik.",
-  "id": "/loona-text-tools/id/reddit-post-character-counter/",
+  "id": "/id/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

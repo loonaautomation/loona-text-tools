@@ -2,7 +2,7 @@
   "name": "Loona UCAS-Personal-Statement-Zeichenzähler",
   "short_name": "UCAS-Personal-Statement-Zeichenzähler",
   "description": "Kostenloser UCAS-Personal-Statement-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 4.000-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/ucas-personal-statement-character-counter/",
+  "id": "/de/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Ujumbe wa Discord",
   "short_name": "Kihesabu cha Vibambo vya Ujumbe wa Discord",
   "description": "Kihesabu cha bure cha Vibambo vya Ujumbe wa Discord: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 2,000, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/discord-message-character-counter/",
+  "id": "/sw/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

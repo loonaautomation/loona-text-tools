@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Πεζών-Κεφαλαίων Online",
   "short_name": "Μετατροπέας Πεζών-Κεφαλαίων Online",
   "description": "Μετατρέψτε κείμενο σε ΚΕΦΑΛΑΙΑ, πεζά, Κεφαλαία Τίτλου, Κεφαλαία πρότασης, Κεφαλαιοποιημένο ή aLtErNaTiNg με ένα κλικ. Δωρεάν online μετατροπέας πεζών-κεφαλαίων - δεν χρειάζεται εγγραφή.",
-  "id": "/loona-text-tools/el/case-converter/",
+  "id": "/el/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

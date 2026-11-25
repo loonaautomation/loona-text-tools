@@ -2,7 +2,7 @@
   "name": "Loona Nombre de mots d’un article de blog",
   "short_name": "Nombre de mots d’un article de blog",
   "description": "Vérificateur du nombre de mots d’un article de blog : comptage en direct avec les fourchettes de longueur pour les actualités (300–500), les articles standard (1,000–1,500) et les guides approfondis (2,000+).",
-  "id": "/loona-text-tools/fr/blog-post-word-count/",
+  "id": "/fr/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

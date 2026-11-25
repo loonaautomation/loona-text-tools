@@ -2,7 +2,7 @@
   "name": "Loona NATO ध्वन्यात्मक वर्णमाला कन्वर्टर",
   "short_name": "NATO ध्वन्यात्मक वर्णमाला कन्वर्टर",
   "description": "किसी भी टेक्स्ट को NATO ध्वन्यात्मक वर्णमाला (Alfa, Bravo, Charlie) में बदलें और NATO वर्तनी को वापस सादे टेक्स्ट में डीकोड करें। मुफ़्त, तुरंत, कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/nato-phonetic-alphabet-converter/",
+  "id": "/hi/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

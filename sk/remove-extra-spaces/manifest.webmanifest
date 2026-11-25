@@ -2,7 +2,7 @@
   "name": "Loona Odstránenie nadbytočných medzier online",
   "short_name": "Odstránenie nadbytočných medzier online",
   "description": "Odstráňte nadbytočné medzery, tabulátory a prázdne riadky z textu jedným kliknutím. Upracte text skopírovaný z PDF, e-mailov a webových stránok. Bezplatný online odstraňovač - bez potreby registrácie.",
-  "id": "/loona-text-tools/sk/remove-extra-spaces/",
+  "id": "/sk/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

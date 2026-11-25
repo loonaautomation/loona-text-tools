@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur de casse en ligne",
   "short_name": "Convertisseur de casse en ligne",
   "description": "Convertissez le texte en MAJUSCULES, minuscules, Title Case, casse de phrase, Capitalisé ou casse aLtErNaTiNg en un clic. Convertisseur de casse en ligne gratuit - aucune inscription nécessaire.",
-  "id": "/loona-text-tools/fr/case-converter/",
+  "id": "/fr/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

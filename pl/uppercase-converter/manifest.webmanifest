@@ -2,7 +2,7 @@
   "name": "Loona Konwerter wielkich liter",
   "short_name": "Konwerter wielkich liter",
   "description": "Darmowy konwerter wielkich liter — wklej tekst i otrzymaj WIELKIE LITERY natychmiast. Konwersja na żywo w Twojej przeglądarce, bez rejestracji, bez przesyłania.",
-  "id": "/loona-text-tools/pl/uppercase-converter/",
+  "id": "/pl/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

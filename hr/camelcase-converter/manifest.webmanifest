@@ -2,7 +2,7 @@
   "name": "Loona camelCase pretvarač",
   "short_name": "camelCase pretvarač",
   "description": "Besplatan camelCase pretvarač — zalijepite tekst i trenutačno dobijte camelCase. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/camelcase-converter/",
+  "id": "/hr/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tekstsammenligning online",
   "short_name": "Tekstsammenligning online",
   "description": "Sammenlign to tekster linje for linje og se præcis, hvilke linjer der blev tilføjet, fjernet eller beholdt. Gratis online tekst-diff-værktøj - ingen tilmelding, privat i din browser.",
-  "id": "/loona-text-tools/da/text-compare/",
+  "id": "/da/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

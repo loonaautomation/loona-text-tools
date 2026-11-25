@@ -2,7 +2,7 @@
   "name": "Loona 500-Word Essay",
   "short_name": "500-Word Essay",
   "description": "Free 500-word essay counter: live word count to the 500-word target, pages single- and double-spaced, paragraphs, reading and speaking time.",
-  "id": "/loona-text-tools/500-word-essay-word-counter/",
+  "id": "/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

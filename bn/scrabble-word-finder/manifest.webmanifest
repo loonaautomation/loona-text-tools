@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "আপনার অক্ষর র‍্যাক থেকে সর্বোচ্চ স্কোরের খেলা খুঁজুন এবং যেকোনো শব্দ বৈধ কিনা যাচাই করুন। পূর্ণ 172,820 শব্দের ENABLE অভিধান, ফাঁকা টাইল সমর্থিত, 100% আপনার ডিভাইসে। বিনামূল্যে, সাইন-আপ ছাড়া।",
-  "id": "/loona-text-tools/bn/scrabble-word-finder/",
+  "id": "/bn/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

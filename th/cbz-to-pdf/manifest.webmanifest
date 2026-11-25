@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง CBZ เป็น PDF ฟรี",
   "short_name": "ตัวแปลง CBZ เป็น PDF ฟรี",
   "description": "แปลงไฟล์เก็บถาวรการ์ตูน CBZ และ ZIP เป็น PDF ฟรีในเบราว์เซอร์ของคุณ หน้าตามลำดับธรรมชาติ (1, 2, 10) หนึ่งรูปต่อหนึ่งหน้าที่ขนาดเต็ม ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/cbz-to-pdf/",
+  "id": "/th/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

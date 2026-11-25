@@ -2,7 +2,7 @@
   "name": "Loona Blog Gönderisi Kelime Sayısı",
   "short_name": "Blog Gönderisi Kelime Sayısı",
   "description": "Blog gönderisi kelime sayısı denetleyicisi: haberler (300–500), standart gönderiler (1.000–1.500) ve derinlemesine rehberler (2.000+) için uzunluk bantlarıyla canlı sayım.",
-  "id": "/loona-text-tools/tr/blog-post-word-count/",
+  "id": "/tr/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

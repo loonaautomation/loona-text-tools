@@ -2,7 +2,7 @@
   "name": "Loona 在线密码生成器",
   "short_name": "在线密码生成器",
   "description": "生成强大的随机密码,可选择长度和符号,外加诚实的强度计。免费密码生成器——仅在您的设备上创建。",
-  "id": "/loona-text-tools/zh/password-generator/",
+  "id": "/zh/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

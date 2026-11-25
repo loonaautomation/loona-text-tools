@@ -2,7 +2,7 @@
   "name": "Loona Szószámláló online ingyen",
   "short_name": "Szószámláló online ingyen",
   "description": "Számoljon szavakat, karaktereket, mondatokat és bekezdéseket bármely szövegben azonnal, olvasási és beszédidővel. Ingyenes szószámláló, regisztráció nélkül, offline is működik.",
-  "id": "/loona-text-tools/hu/word-counter/",
+  "id": "/hu/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

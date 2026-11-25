@@ -2,7 +2,7 @@
   "name": "Loona Online kladblok gratis",
   "short_name": "Online kladblok gratis",
   "description": "Een gratis online kladblok dat automatisch opslaat in je browser terwijl je typt - downloaden, printen en woorden tellen inbegrepen. Geen registratie; je notities verlaten je apparaat nooit.",
-  "id": "/loona-text-tools/nl/online-notepad/",
+  "id": "/nl/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

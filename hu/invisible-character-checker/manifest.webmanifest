@@ -2,7 +2,7 @@
   "name": "Loona Láthatatlan karakterek ellenőrzése",
   "short_name": "Láthatatlan karakterek ellenőrzése",
   "description": "Fedje fel a szövegében rejtőző láthatatlan karaktereket - nulla szélességű szóközöket, BOM-ot, nem törő szóközöket és irányjelzőket - és távolítsa el őket egyetlen kattintással. Ingyenesen.",
-  "id": "/loona-text-tools/hu/invisible-character-checker/",
+  "id": "/hu/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Compteur de caractères SMS",
   "short_name": "Compteur de caractères SMS",
   "description": "Compteur de caractères SMS gratuit : détection GSM 7 bits vs Unicode, nombre de segments et caractères restants — en direct, dans votre navigateur.",
-  "id": "/loona-text-tools/fr/sms-character-counter/",
+  "id": "/fr/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

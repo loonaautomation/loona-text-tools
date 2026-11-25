@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Herufi Ndogo",
   "short_name": "Kibadilishaji cha Herufi Ndogo",
   "description": "Kibadilishaji cha bure cha herufi ndogo — bandika maandishi na upate herufi ndogo mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/lowercase-converter/",
+  "id": "/sw/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

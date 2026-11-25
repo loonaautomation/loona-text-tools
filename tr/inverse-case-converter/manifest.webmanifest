@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE dÜZENİ Dönüştürücü",
   "short_name": "iNVERSE dÜZENİ Dönüştürücü",
   "description": "Ücretsiz iNVERSE cASE dönüştürücü — metni yapıştırın ve anında iNVERSE cASE elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/inverse-case-converter/",
+  "id": "/tr/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

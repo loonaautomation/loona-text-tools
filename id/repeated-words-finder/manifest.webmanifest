@@ -2,7 +2,7 @@
   "name": "Loona Pencari Kata Berulang Online Gratis",
   "short_name": "Pencari Kata Berulang Online Gratis",
   "description": "Temukan setiap kata yang muncul lebih dari sekali dalam teks Anda, diperingkat berdasarkan seberapa sering berulang. Tangkap kata ganda yang tidak disengaja dan kata yang terlalu sering digunakan. Gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/repeated-words-finder/",
+  "id": "/id/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona path/case کنورٹر",
   "short_name": "path/case کنورٹر",
   "description": "مفت path/case کنورٹر — متن پیسٹ کریں اور فوراً path/case پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/path-case-converter/",
+  "id": "/ur/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

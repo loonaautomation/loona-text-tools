@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm từ trực tuyến miễn phí",
   "short_name": "Bộ đếm từ trực tuyến miễn phí",
   "description": "Đếm từ, ký tự, câu và đoạn văn trong bất kỳ văn bản nào ngay lập tức, với thời gian đọc và thời gian nói. Bộ đếm từ miễn phí, không đăng ký, hoạt động ngoại tuyến.",
-  "id": "/loona-text-tools/vi/word-counter/",
+  "id": "/vi/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

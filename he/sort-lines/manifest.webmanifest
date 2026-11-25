@@ -2,7 +2,7 @@
   "name": "Loona מיון שורות אונליין",
   "short_name": "מיון שורות אונליין",
   "description": "מיינו שורות טקסט אלפביתית (A-Z או Z-A), לפי אורך, בסדר הפוך או מעורבב באקראי. ממיין שורות מקוון חינמי - ללא הרשמה, מיידי ופרטי.",
-  "id": "/loona-text-tools/he/sort-lines/",
+  "id": "/he/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

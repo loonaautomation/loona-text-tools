@@ -2,7 +2,7 @@
   "name": "Loona 音節カウンターオンラインフリー",
   "short_name": "音節カウンターオンラインフリー",
   "description": "任意の単語、文、テキスト全体の音節を即座に数えます — 音節の合計、単語ごとの内訳、平均。無料音節カウンター、登録不要、オフラインで動作します。",
-  "id": "/loona-text-tools/ja/syllable-counter/",
+  "id": "/ja/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

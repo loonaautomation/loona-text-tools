@@ -2,7 +2,7 @@
   "name": "Loona 단락 수 세기 온라인 무료",
   "short_name": "단락 수 세기 온라인 무료",
   "description": "모든 텍스트의 단락을 즉시 세세요. 단락당 문장과 단어, 가장 긴 단락과 가장 짧은 단락과 함께예요. 무료 단락 카운터, 회원가입 없음이에요.",
-  "id": "/loona-text-tools/ko/paragraph-counter/",
+  "id": "/ko/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona הסרת שורות כפולות אונליין",
   "short_name": "הסרת שורות כפולות אונליין",
   "description": "הסירו שורות כפולות מכל רשימה או טקסט ושמרו רק את השורות הייחודיות, בסדר המקורי. מסיר שורות כפולות חינמי - ללא הרשמה, תוצאות מיידיות.",
-  "id": "/loona-text-tools/he/remove-duplicate-lines/",
+  "id": "/he/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

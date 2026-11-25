@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "अपने अक्षर रैक से सबसे अधिक स्कोर वाली चालें खोजें और जाँचें कि कोई शब्द मान्य है या नहीं। पूरा 172,820 शब्दों वाला ENABLE शब्दकोश, खाली टाइल समर्थित, 100% आपके डिवाइस पर। मुफ़्त, बिना साइन-अप।",
-  "id": "/loona-text-tools/hi/scrabble-word-finder/",
+  "id": "/hi/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

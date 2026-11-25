@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας σε Πεζά",
   "short_name": "Μετατροπέας σε Πεζά",
   "description": "Δωρεάν μετατροπέας σε πεζά — επικολλήστε κείμενο και πάρετε πεζά αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/lowercase-converter/",
+  "id": "/el/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

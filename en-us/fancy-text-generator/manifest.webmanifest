@@ -2,7 +2,7 @@
   "name": "Loona Fancy Text Generator - Stylish Fonts for Social Media",
   "short_name": "Fancy Text Generator - Stylish Fonts for Social Media",
   "description": "Turn plain text into stylish Unicode fonts - bold, script, fraktur, circled, small caps and more - for bios, captions and usernames. Free fancy text generator.",
-  "id": "/loona-text-tools/en-us/fancy-text-generator/",
+  "id": "/en-us/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

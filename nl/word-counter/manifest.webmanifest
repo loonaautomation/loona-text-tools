@@ -2,7 +2,7 @@
   "name": "Loona Woordenteller online gratis",
   "short_name": "Woordenteller online gratis",
   "description": "Tel woorden, tekens, zinnen en alinea's in elke tekst direct, met leestijd en spreektijd. Gratis woordenteller, geen registratie, werkt offline.",
-  "id": "/loona-text-tools/nl/word-counter/",
+  "id": "/nl/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

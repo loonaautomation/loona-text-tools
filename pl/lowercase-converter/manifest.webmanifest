@@ -2,7 +2,7 @@
   "name": "Loona Konwerter małych liter",
   "short_name": "Konwerter małych liter",
   "description": "Darmowy konwerter małych liter — wklej tekst i otrzymaj małe litery natychmiast. Konwersja na żywo w Twojej przeglądarce, bez rejestracji, bez przesyłania.",
-  "id": "/loona-text-tools/pl/lowercase-converter/",
+  "id": "/pl/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

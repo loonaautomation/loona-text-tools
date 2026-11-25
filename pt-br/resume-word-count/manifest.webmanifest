@@ -2,7 +2,7 @@
   "name": "Loona Contagem de Palavras de Currículos",
   "short_name": "Contagem de Palavras de Currículos",
   "description": "Verificador de contagem de palavras de currículos: contagem ao vivo com o objetivo de uma página (400–600 palavras), estimativa de páginas e orientação para cortes.",
-  "id": "/loona-text-tools/pt-br/resume-word-count/",
+  "id": "/pt-br/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

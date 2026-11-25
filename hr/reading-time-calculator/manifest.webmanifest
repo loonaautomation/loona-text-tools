@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator vremena čitanja",
   "short_name": "Kalkulator vremena čitanja",
   "description": "Zalijepite bilo koji tekst i pogledajte koliko traje čitanje sporom, prosječnom i brzom brzinom - plus koliko riječi trebate za ciljano vrijeme čitanja. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/reading-time-calculator/",
+  "id": "/hr/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

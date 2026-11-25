@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับพยางค์ออนไลน์ฟรี",
   "short_name": "ตัวนับพยางค์ออนไลน์ฟรี",
   "description": "นับพยางค์ในคำ ประโยค หรือข้อความเต็มใด ๆ ทันที — พยางค์ทั้งหมด รายละเอียดต่อคำ และค่าเฉลี่ย ตัวนับพยางค์ฟรี ไม่ต้องสมัครสมาชิก ทำงานแบบออฟไลน์",
-  "id": "/loona-text-tools/th/syllable-counter/",
+  "id": "/th/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

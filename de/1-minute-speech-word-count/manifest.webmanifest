@@ -2,7 +2,7 @@
   "name": "Loona 1-Minuten-Rede",
   "short_name": "1-Minuten-Rede",
   "description": "Wie viele Wörter hat eine 1-Minuten-Rede? 110–180 Wörter (150 bei Gesprächstempo). Kostenloser Live-Zähler mit Sprechzeit-Prüfung.",
-  "id": "/loona-text-tools/de/1-minute-speech-word-count/",
+  "id": "/de/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

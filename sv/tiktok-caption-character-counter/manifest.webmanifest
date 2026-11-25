@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för TikTok-bildtexter",
   "short_name": "Teckenräknare för TikTok-bildtexter",
   "description": "Gratis teckenräknare för TikTok-bildtexter räknare: levande teckenantal mot gränsen på 2.200 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/tiktok-caption-character-counter/",
+  "id": "/sv/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

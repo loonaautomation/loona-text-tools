@@ -2,7 +2,7 @@
   "name": "Loona snake_case کنورٹر",
   "short_name": "snake_case کنورٹر",
   "description": "مفت snake_case کنورٹر — متن پیسٹ کریں اور فوراً snake_case پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/snake-case-converter/",
+  "id": "/ur/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Slug-generaattori verkossa",
   "short_name": "Slug-generaattori verkossa",
   "description": "Muuta mikä tahansa nimeke siistiksi, SEO-ystävälliseksi URL-slugiksi: pienet kirjaimet, ei välilyöntejä, ei erikoismerkkejä. Ilmainen slug-generaattori verkossa täydellä URL-esikatselulla – ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/slug-generator/",
+  "id": "/fi/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

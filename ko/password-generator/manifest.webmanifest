@@ -2,7 +2,7 @@
   "name": "Loona 비밀번호 생성기 온라인",
   "short_name": "비밀번호 생성기 온라인",
   "description": "선택한 길이와 기호로 강력하고 무작위한 비밀번호를 생성하세요. 정직한 강도 측정기와 함께예요. 무료 비밀번호 생성기 - 기기에서만 만들어져요.",
-  "id": "/loona-text-tools/ko/password-generator/",
+  "id": "/ko/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

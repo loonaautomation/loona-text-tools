@@ -2,7 +2,7 @@
   "name": "Loona SMS 文字数カウンター",
   "short_name": "SMS 文字数カウンター",
   "description": "無料 SMS 文字数カウンター：GSM 7ビット対 Unicode の検出、セグメント数、残り文字数 — ブラウザーでライブ表示。",
-  "id": "/loona-text-tools/ja/sms-character-counter/",
+  "id": "/ja/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

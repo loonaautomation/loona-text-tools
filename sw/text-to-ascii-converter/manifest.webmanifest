@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Maandishi kwenda ASCII Mtandaoni Bure",
   "short_name": "Kibadilishaji cha Maandishi kwenda ASCII Mtandaoni Bure",
   "description": "Badilisha maandishi kuwa misimbo ya ASCII (desimali, heksi, oktali na bainari kwa kila kibambo) na ubadilishe misimbo ya ASCII kurudi kwenye maandishi. Bure, papo hapo, bila kujisajili.",
-  "id": "/loona-text-tools/sw/text-to-ascii-converter/",
+  "id": "/sw/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

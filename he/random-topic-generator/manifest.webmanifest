@@ -2,7 +2,7 @@
   "name": "Loona מחולל נושאים אקראי אונליין בחינם",
   "short_name": "מחולל נושאים אקראי אונליין בחינם",
   "description": "צרו נושאים אקראיים לחיבורים, נאומים, ויכוחים, פסקאות, מצגות וסיפורים - 900 נושאים שנכתבו ביד ב-9 קטגוריות, מסוננים לפי רמה. חינם, ללא הרשמה.",
-  "id": "/loona-text-tools/he/random-topic-generator/",
+  "id": "/he/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

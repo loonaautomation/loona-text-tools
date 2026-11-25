@@ -2,7 +2,7 @@
   "name": "Loona Pemilih Emoji Dalam Talian Percuma",
   "short_name": "Pemilih Emoji Dalam Talian Percuma",
   "description": "Pemilih emoji percuma: layari atau cari 1,900+ emoji dan simbol, pilih ton kulit, klik untuk menyalin satu emoji atau satu dulang penuh. Tanpa pendaftaran, berjalan 100% dalam pelayar anda.",
-  "id": "/loona-text-tools/ms/emoji-picker/",
+  "id": "/ms/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

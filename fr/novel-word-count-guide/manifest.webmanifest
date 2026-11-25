@@ -2,7 +2,7 @@
   "name": "Loona Nombre de mots d’un roman par genre",
   "short_name": "Nombre de mots d’un roman par genre",
   "description": "Nombre de mots d’un roman par genre : adulte 70,000–120,000, YA 50,000–90,000, collège 20,000–55,000. Compteur gratuit en direct avec des objectifs par genre.",
-  "id": "/loona-text-tools/fr/novel-word-count-guide/",
+  "id": "/fr/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

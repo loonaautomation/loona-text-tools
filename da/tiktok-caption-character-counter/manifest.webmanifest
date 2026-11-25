@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller til TikTok-billedtekster",
   "short_name": "Tegntæller til TikTok-billedtekster",
   "description": "Gratis Tegntæller til TikTok-billedtekster-tæller: live tegntælling mod grænsen på 2,200 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/tiktok-caption-character-counter/",
+  "id": "/da/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

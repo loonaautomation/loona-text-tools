@@ -2,7 +2,7 @@
   "name": "Loona Generator ozdobnego tekstu online",
   "short_name": "Generator ozdobnego tekstu online",
   "description": "Zamień zwykły tekst na stylowe czcionki Unicode - pogrubione, pisane, frakturę, w kółkach, kapitaliki i więcej - do bio, podpisów i nazw użytkowników. Darmowy generator ozdobnego tekstu.",
-  "id": "/loona-text-tools/pl/fancy-text-generator/",
+  "id": "/pl/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

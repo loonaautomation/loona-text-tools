@@ -2,7 +2,7 @@
   "name": "Loona Převodník iNVERZNÍ vELIKOSTI",
   "short_name": "Převodník iNVERZNÍ vELIKOSTI",
   "description": "Bezplatný převodník iNVERZNÍ vELIKOSTI — vložte text a okamžitě získejte iNVERZNÍ vELIKOST. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/inverse-case-converter/",
+  "id": "/cs/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov názvu YouTube",
   "short_name": "Počítadlo znakov názvu YouTube",
   "description": "Bezplatné počítadlo znakov názvu YouTube: počítanie znakov naživo oproti limitu 100 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/youtube-title-character-counter/",
+  "id": "/sk/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

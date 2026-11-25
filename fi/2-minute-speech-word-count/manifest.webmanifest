@@ -2,7 +2,7 @@
   "name": "Loona 2 minuutin puhe",
   "short_name": "2 minuutin puhe",
   "description": "Kuinka monta sanaa 2 minuutin puheessa? 220–360 sanaa (300 keskustelutahdilla). Ilmainen reaaliaikainen laskuri puheajan tarkistuksella.",
-  "id": "/loona-text-tools/fi/2-minute-speech-word-count/",
+  "id": "/fi/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

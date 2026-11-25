@@ -2,7 +2,7 @@
   "name": "Loona Pengira Perkataan Dalam talian Percuma",
   "short_name": "Pengira Perkataan Dalam talian Percuma",
   "description": "Kira perkataan, aksara, ayat dan perenggan dalam teks apa pun serta-merta, dengan masa membaca dan masa bertutur. Pengira perkataan percuma, tanpa pendaftaran, bekerja luar talian.",
-  "id": "/loona-text-tools/ms/word-counter/",
+  "id": "/ms/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

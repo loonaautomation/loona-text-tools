@@ -2,7 +2,7 @@
   "name": "Loona Lisää rivinumerot verkossa",
   "short_name": "Lisää rivinumerot verkossa",
   "description": "Lisää numerot tekstisi jokaiselle riville valitsemallasi aloituksella, askeleella, täytteellä ja erottimella. Ilmainen rivinumerointityökalu – ei rekisteröitymistä, välitön ja yksityinen.",
-  "id": "/loona-text-tools/fi/add-line-numbers/",
+  "id": "/fi/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

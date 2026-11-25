@@ -2,7 +2,7 @@
   "name": "Loona Лічильник довжини метаопису",
   "short_name": "Лічильник довжини метаопису",
   "description": "Безкоштовний лічильник довжини метаопису: підрахунок символів наживо проти ліміту 160 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/meta-description-length-checker/",
+  "id": "/uk/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

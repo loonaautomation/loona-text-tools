@@ -2,7 +2,7 @@
   "name": "Loona Конвертер EPUB в HTML бесплатно",
   "short_name": "Конвертер EPUB в HTML бесплатно",
   "description": "Преобразуйте электронные книги EPUB в один автономный HTML-файл бесплатно, в своём браузере. Главы по порядку, базовая типографика, маленькие изображения встроены. Без загрузки, без регистрации.",
-  "id": "/loona-text-tools/ru/epub-to-html/",
+  "id": "/ru/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

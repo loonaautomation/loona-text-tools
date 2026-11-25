@@ -2,7 +2,7 @@
   "name": "Loona aLtErNaTiNg-CaSe-Konverter",
   "short_name": "aLtErNaTiNg-CaSe-Konverter",
   "description": "Kostenloser aLtErNaTiNg-CaSe-Konverter — Text einfügen und sofort aLtErNaTiNg CaSe erhalten. Live-Umwandlung in Ihrem Browser, keine Registrierung, kein Upload.",
-  "id": "/loona-text-tools/de/alternating-case-converter/",
+  "id": "/de/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

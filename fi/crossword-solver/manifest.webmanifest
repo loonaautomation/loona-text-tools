@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Loona Crossword Solver",
   "description": "Ratkaise ristisanakuvioita kuten c?oss?ord 172 820 englannin sanaa vasten. Kirjoita tuntemasi kirjaimet, käytä ?-merkkiä puuttuviin ruutuihin ja suodata pakollisilla kirjaimilla. Ilmainen, ei rekisteröitymistä, 100 % laitteellasi.",
-  "id": "/loona-text-tools/fi/crossword-solver/",
+  "id": "/fi/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertor path/case",
   "short_name": "Convertor path/case",
   "description": "Convertor path/case gratuit — lipește text și obține path/case instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/path-case-converter/",
+  "id": "/ro/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

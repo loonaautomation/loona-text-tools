@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi aLtErNaTiNg CaSe",
   "short_name": "Công cụ chuyển đổi aLtErNaTiNg CaSe",
   "description": "Công cụ chuyển đổi aLtErNaTiNg CaSe miễn phí — dán văn bản và nhận aLtErNaTiNg CaSe ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/alternating-case-converter/",
+  "id": "/vi/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

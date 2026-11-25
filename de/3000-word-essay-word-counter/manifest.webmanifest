@@ -2,7 +2,7 @@
   "name": "Loona Aufsatz mit 3.000 Wörtern",
   "short_name": "Aufsatz mit 3.000 Wörtern",
   "description": "Kostenloser Zähler für Aufsätze mit 3.000 Wörtern: Live-Wortzählung zum 3.000-Wörter-Ziel, Seiten mit einfachem und doppeltem Zeilenabstand, Absätze, Lese- und Sprechzeit.",
-  "id": "/loona-text-tools/de/3000-word-essay-word-counter/",
+  "id": "/de/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

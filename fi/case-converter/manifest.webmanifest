@@ -2,7 +2,7 @@
   "name": "Loona Kirjainkoon muunnin verkossa",
   "short_name": "Kirjainkoon muunnin verkossa",
   "description": "Muunna teksti muotoon UPPERCASE, lowercase, Title Case, Sentence case, Capitalized tai aLtErNaTiNg case yhdellä napsautuksella. Ilmainen kirjainkoon muunnin verkossa – rekisteröitymistä ei tarvita.",
-  "id": "/loona-text-tools/fi/case-converter/",
+  "id": "/fi/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

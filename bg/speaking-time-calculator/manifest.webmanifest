@@ -2,7 +2,7 @@
   "name": "Loona Калкулатор за време за говорене",
   "short_name": "Калкулатор за време за говорене",
   "description": "Поставете речта или сценария си и вижте колко време отнема изнасянето му при бавно, разговорно и бързо темпо - плюс колко думи се побират в целево време. Безплатно, без регистрация.",
-  "id": "/loona-text-tools/bg/speaking-time-calculator/",
+  "id": "/bg/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prevodník obrázkov do Excelu online zadarmo",
   "short_name": "Prevodník obrázkov do Excelu online zadarmo",
   "description": "Preveďte fotografiu, sken alebo snímku obrazovky tabuľky na skutočný súbor Excel (.xlsx) s bezplatným OCR, ktoré beží 100% vo vašom prehliadači. Pred stiahnutím tabuľku upravte - bez nahrávania, bez registrácie.",
-  "id": "/loona-text-tools/sk/image-to-excel-converter/",
+  "id": "/sk/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

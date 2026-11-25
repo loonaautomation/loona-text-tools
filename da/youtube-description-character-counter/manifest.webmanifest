@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller til YouTube-beskrivelser",
   "short_name": "Tegntæller til YouTube-beskrivelser",
   "description": "Gratis Tegntæller til YouTube-beskrivelser-tæller: live tegntælling mod grænsen på 5,000 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/youtube-description-character-counter/",
+  "id": "/da/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

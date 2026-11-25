@@ -2,7 +2,7 @@
   "name": "Loona Text till binär-omvandlare online",
   "short_name": "Text till binär-omvandlare online",
   "description": "Omvandla text till binär kod (0:or och 1:or) och binär tillbaka till läsbar text, med fullt Unicode-stöd. Gratis omvandlare från text till binär - utmärkt för datavetenskapsstudenter.",
-  "id": "/loona-text-tools/sv/text-to-binary/",
+  "id": "/sv/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

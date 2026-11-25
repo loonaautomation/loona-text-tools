@@ -2,7 +2,7 @@
   "name": "Loona Pengira Perenggan Dalam talian Percuma",
   "short_name": "Pengira Perenggan Dalam talian Percuma",
   "description": "Kira perenggan dalam teks apa pun serta-merta, dengan ayat dan perkataan per perenggan serta perenggan terpanjang dan terpendek. Pengira perenggan percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/paragraph-counter/",
+  "id": "/ms/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

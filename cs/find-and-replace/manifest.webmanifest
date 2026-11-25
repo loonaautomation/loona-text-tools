@@ -2,7 +2,7 @@
   "name": "Loona Najít a nahradit text online",
   "short_name": "Najít a nahradit text online",
   "description": "Najděte slovo nebo frázi a nahraďte každý výskyt ve svém textu najednou, s možnostmi rozlišení velikosti písmen, celých slov a vzorů. Bezplatný online nástroj - bez registrace.",
-  "id": "/loona-text-tools/cs/find-and-replace/",
+  "id": "/cs/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

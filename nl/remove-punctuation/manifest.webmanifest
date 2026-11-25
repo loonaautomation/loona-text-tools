@@ -2,7 +2,7 @@
   "name": "Loona Leestekens online gratis verwijderen",
   "short_name": "Leestekens online gratis verwijderen",
   "description": "Verwijder leestekens met één klik uit elke tekst - punten, komma's, aanhalingstekens en meer - met opties om apostroffen en streepjes te behouden. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/remove-punctuation/",
+  "id": "/nl/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO Fonetik Alfabesi Dönüştürücü",
   "short_name": "NATO Fonetik Alfabesi Dönüştürücü",
   "description": "Herhangi bir metni NATO fonetik alfabesine (Alfa, Bravo, Charlie) dönüştürün ve NATO kodlamasını düz metne geri çözün. Ücretsiz, anında, kayıt yok.",
-  "id": "/loona-text-tools/tr/nato-phonetic-alphabet-converter/",
+  "id": "/tr/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

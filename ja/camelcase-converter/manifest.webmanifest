@@ -2,7 +2,7 @@
   "name": "Loona camelCase 変換ツール",
   "short_name": "camelCase 変換ツール",
   "description": "無料 camelCase 変換ツール — テキストを貼り付ければ即座に camelCase が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/camelcase-converter/",
+  "id": "/ja/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

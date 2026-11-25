@@ -2,7 +2,7 @@
   "name": "Loona 発表時間計算ツール",
   "short_name": "発表時間計算ツール",
   "description": "スピーチや原稿を貼り付けて、遅い、会話、速いのペースで発表するのにどれくらいかかるかを確認してください - さらに目標時間に収まる単語数も。無料、登録不要。",
-  "id": "/loona-text-tools/ja/speaking-time-calculator/",
+  "id": "/ja/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

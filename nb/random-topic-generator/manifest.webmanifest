@@ -2,7 +2,7 @@
   "name": "Loona Generator for tilfeldige temaer gratis på nett",
   "short_name": "Generator for tilfeldige temaer gratis på nett",
   "description": "Generer tilfeldige temaer for essays, taler, debatter, avsnitt, presentasjoner og historier - 900 håndskrevne temaer i 9 kategorier, filtrert etter nivå. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/random-topic-generator/",
+  "id": "/nb/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

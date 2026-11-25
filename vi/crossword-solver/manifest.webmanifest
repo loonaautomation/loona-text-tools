@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Giải các mẫu ô chữ như c?oss?ord với 172.820 từ tiếng Anh. Gõ các chữ cái bạn biết, dùng ? cho các ô còn thiếu, lọc theo các chữ cái bắt buộc phải có. Miễn phí, không cần đăng ký, 100% trên thiết bị.",
-  "id": "/loona-text-tools/vi/crossword-solver/",
+  "id": "/vi/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

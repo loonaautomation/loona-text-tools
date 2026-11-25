@@ -2,7 +2,7 @@
   "name": "Loona حوالہ جنریٹر آن لائن مفت",
   "short_name": "حوالہ جنریٹر آن لائن مفت",
   "description": "APA 7th، MLA 9 اور Chicago مصنف-تاریخ میں ویب سائٹس، کتب اور جریدوں کے مضامین کے لیے درست فارمیٹ شدہ حوالے بنائیں - مفت، فوری، آپ کے براؤزر میں۔",
-  "id": "/loona-text-tools/ur/citation-generator/",
+  "id": "/ur/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

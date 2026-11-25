@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας DOCX σε EPUB Δωρεάν",
   "short_name": "Μετατροπέας DOCX σε EPUB Δωρεάν",
   "description": "Μετατρέψτε έγγραφα Word DOCX σε ebook EPUB δωρεάν στο πρόγραμμα περιήγησής σας. Οι επικεφαλίδες γίνονται κεφάλαια· έντονα, πλάγια, λίστες και εικόνες μετατρέπονται. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/docx-to-epub/",
+  "id": "/el/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

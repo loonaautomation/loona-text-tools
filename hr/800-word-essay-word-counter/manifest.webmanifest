@@ -2,7 +2,7 @@
   "name": "Loona Esej od 800 riječi",
   "short_name": "Esej od 800 riječi",
   "description": "Besplatan brojač eseja od 800 riječi: broj riječi uživo do cilja od 800 riječi, stranice s jednostrukim i dvostrukim proredom, odlomci, vrijeme čitanja i govora.",
-  "id": "/loona-text-tools/hr/800-word-essay-word-counter/",
+  "id": "/hr/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

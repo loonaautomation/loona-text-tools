@@ -2,7 +2,7 @@
   "name": "Loona Emojivalitsin verkossa ilmaiseksi",
   "short_name": "Emojivalitsin verkossa ilmaiseksi",
   "description": "Ilmainen emojivalitsin: selaa tai hae 1,900+ emojia ja symbolia, valitse ihonsävy, kopioi napsauttamalla yksi emoji tai koko lokero. Ei rekisteröitymistä, toimii 100-prosenttisesti selaimessasi.",
-  "id": "/loona-text-tools/fi/emoji-picker/",
+  "id": "/fi/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

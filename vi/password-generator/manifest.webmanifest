@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo mật khẩu trực tuyến",
   "short_name": "Trình tạo mật khẩu trực tuyến",
   "description": "Tạo mật khẩu mạnh, ngẫu nhiên với độ dài và ký hiệu bạn chọn, cộng thêm một thước đo độ mạnh trung thực. Trình tạo mật khẩu miễn phí - chỉ tạo trên thiết bị của bạn.",
-  "id": "/loona-text-tools/vi/password-generator/",
+  "id": "/vi/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

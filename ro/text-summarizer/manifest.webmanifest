@@ -2,7 +2,7 @@
   "name": "Loona Rezumator de text online — rezuma instant texte lungi | Loona Text Tools",
   "short_name": "Rezumator de text online — rezuma instant texte lungi | Loona Text Tools",
   "description": "Rezuma instant orice text lung: lipește un articol, un eseu sau un raport și primești înapoi cele mai importante propoziții originale ale sale. Rezumator de text online gratuit — fără înregistrare, 100% privat.",
-  "id": "/loona-text-tools/ro/text-summarizer/",
+  "id": "/ro/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

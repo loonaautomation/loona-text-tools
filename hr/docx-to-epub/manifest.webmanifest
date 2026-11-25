@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač DOCX u EPUB besplatno",
   "short_name": "Pretvarač DOCX u EPUB besplatno",
   "description": "Pretvorite DOCX Word dokumente u EPUB e-knjige besplatno u svom pregledniku. Naslovi postaju poglavlja; podebljano, kurziv, popisi i slike pretvaraju se. Bez prijenosa, bez registracije.",
-  "id": "/loona-text-tools/hr/docx-to-epub/",
+  "id": "/hr/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

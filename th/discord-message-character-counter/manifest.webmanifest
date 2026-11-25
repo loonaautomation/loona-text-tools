@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรข้อความ Discord",
   "short_name": "ตัวนับตัวอักษรข้อความ Discord",
   "description": "ตัวนับตัวอักษรข้อความ Discord ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 2,000 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/discord-message-character-counter/",
+  "id": "/th/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

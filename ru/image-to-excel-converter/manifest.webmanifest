@@ -2,7 +2,7 @@
   "name": "Loona Конвертер изображений в Excel онлайн бесплатно",
   "short_name": "Конвертер изображений в Excel онлайн бесплатно",
   "description": "Преобразуйте фото, скан или скриншот таблицы в настоящий файл Excel (.xlsx) с бесплатным OCR, который работает на 100% в вашем браузере. Отредактируйте таблицу перед скачиванием - без загрузки, без регистрации.",
-  "id": "/loona-text-tools/ru/image-to-excel-converter/",
+  "id": "/ru/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

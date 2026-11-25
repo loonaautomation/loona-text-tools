@@ -2,7 +2,7 @@
   "name": "Loona Finder wiederholter Wörter online kostenlos",
   "short_name": "Finder wiederholter Wörter online kostenlos",
   "description": "Jedes Wort finden, das mehr als einmal in Ihrem Text erscheint, gerankt danach, wie oft es sich wiederholt. Versehentliche Doppelwörter und überverwendete Wörter fangen. Kostenlos, keine Registrierung.",
-  "id": "/loona-text-tools/de/repeated-words-finder/",
+  "id": "/de/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

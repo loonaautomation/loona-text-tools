@@ -2,7 +2,7 @@
   "name": "Loona Çevrimiçi Satır Numarası Ekleme",
   "short_name": "Çevrimiçi Satır Numarası Ekleme",
   "description": "Başlangıç, adım, dolgu ve ayırıcı seçiminizle metninizin her satırına numara ekleyin. Ücretsiz satır numaralandırma aracı - kayıt yok, anında ve gizli.",
-  "id": "/loona-text-tools/tr/add-line-numbers/",
+  "id": "/tr/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

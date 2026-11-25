@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum 생성기 온라인",
   "short_name": "Lorem Ipsum 생성기 온라인",
   "description": "단락, 문장, 단어별로 lorem ipsum 더미 텍스트를 생성하세요 - 디자인과 레이아웃에 붙여 넣을 준비가 됐어요. 무료 lorem ipsum 생성기, 회원가입이 필요 없어요.",
-  "id": "/loona-text-tools/ko/lorem-ipsum-generator/",
+  "id": "/ko/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

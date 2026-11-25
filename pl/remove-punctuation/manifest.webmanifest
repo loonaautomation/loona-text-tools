@@ -2,7 +2,7 @@
   "name": "Loona Darmowe usuwanie interpunkcji online",
   "short_name": "Darmowe usuwanie interpunkcji online",
   "description": "Usuwaj interpunkcję z dowolnego tekstu jednym kliknięciem - kropki, przecinki, cudzysłowy i więcej - z opcjami zachowania apostrofów i myślników. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/remove-punctuation/",
+  "id": "/pl/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

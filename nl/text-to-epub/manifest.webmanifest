@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar EPUB-omzetter gratis",
   "short_name": "Tekst naar EPUB-omzetter gratis",
   "description": "Zet platte tekst of Markdown gratis om naar een geldig EPUB-e-book, in je browser. Titel en auteur, hoofdstukken uit koppen, opent in elke EPUB-lezer. Geen upload, geen registratie.",
-  "id": "/loona-text-tools/nl/text-to-epub/",
+  "id": "/nl/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

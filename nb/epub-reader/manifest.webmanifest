@@ -2,7 +2,7 @@
   "name": "Loona EPUB-leser gratis på nett",
   "short_name": "EPUB-leser gratis på nett",
   "description": "Åpne og les EPUB-e-bøker gratis på nett, rett i nettleseren din. Kapitelliste, justerbar skriftstørrelse og mørk modus. 100% privat - e-boken din forlater aldri enheten din. Ingen registrering.",
-  "id": "/loona-text-tools/nb/epub-reader/",
+  "id": "/nb/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

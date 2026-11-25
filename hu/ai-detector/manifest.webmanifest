@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Illessz be bármilyen szöveget, és nézd meg az írásjeleket, amelyeket az AI-detektorok mérnek – mondatritmus, szókincs-gazdagság, ismétlődő kifejezések és kiszámíthatóság. Ingyenes AI-detektor: regisztráció nélkül, ítéletek nélkül, és a szöveged soha nem hagyja el a böngésződet.",
-  "id": "/loona-text-tools/hu/ai-detector/",
+  "id": "/hu/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

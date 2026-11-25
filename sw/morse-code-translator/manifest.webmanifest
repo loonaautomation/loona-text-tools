@@ -2,7 +2,7 @@
   "name": "Loona Kitafsiri cha Msimbo wa Mose Mtandaoni",
   "short_name": "Kitafsiri cha Msimbo wa Mose Mtandaoni",
   "description": "Tafsiri maandishi kwenda msimbo wa Mose na msimbo wa Mose kurudi kwenye maandishi, na uisikie kama milio halisi. Kitafsiri cha bure cha msimbo wa Mose mtandaoni - bila kujisajili, hufanya kazi katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/morse-code-translator/",
+  "id": "/sw/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

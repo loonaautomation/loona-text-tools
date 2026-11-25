@@ -2,7 +2,7 @@
   "name": "Loona Конвертер тексту в Hex онлайн безкоштовно",
   "short_name": "Конвертер тексту в Hex онлайн безкоштовно",
   "description": "Перетворюйте текст у шістнадцятковий і hex назад у текст, правильно обробляючи UTF-8 для літер із діакритикою, урду та емодзі. Безкоштовний конвертер hex, без реєстрації.",
-  "id": "/loona-text-tools/uk/text-to-hex-converter/",
+  "id": "/uk/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

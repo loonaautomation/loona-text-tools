@@ -2,7 +2,7 @@
   "name": "Loona 10-Minute Speech",
   "short_name": "10-Minute Speech",
   "description": "How many words in a 10-minute speech? 1,100–1,800 words (1,500 at conversational pace). Free live counter with speaking-time check.",
-  "id": "/loona-text-tools/10-minute-speech-word-count/",
+  "id": "/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

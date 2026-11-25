@@ -2,7 +2,7 @@
   "name": "Loona Önéletrajz szószáma",
   "short_name": "Önéletrajz szószáma",
   "description": "Önéletrajz szószám-ellenőrző: élő számlálás az egyoldalas céllal (400–600 szó), oldalbecsléssel és levágási útmutatóval.",
-  "id": "/loona-text-tools/hu/resume-word-count/",
+  "id": "/hu/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل النص إلى النظام الثنائي عبر الإنترنت",
   "short_name": "محوّل النص إلى النظام الثنائي عبر الإنترنت",
   "description": "تحويل النص إلى رمز ثنائي (0 و1) والثنائي إلى نص مقروء، مع دعم Unicode الكامل. محوّل نص إلى ثنائي مجاني - رائع لطلاب علوم الحاسوب.",
-  "id": "/loona-text-tools/ar/text-to-binary/",
+  "id": "/ar/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

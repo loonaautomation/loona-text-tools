@@ -2,7 +2,7 @@
   "name": "Loona Convertitore di maiuscole/minuscole online",
   "short_name": "Convertitore di maiuscole/minuscole online",
   "description": "Converti il testo in MAIUSCOLO, minuscolo, Title Case, Maiuscolo di frase, Maiuscolo o aLtErNaTiNg in un clic. Convertitore di maiuscole online gratuito - nessuna registrazione necessaria.",
-  "id": "/loona-text-tools/it/case-converter/",
+  "id": "/it/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

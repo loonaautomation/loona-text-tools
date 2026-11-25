@@ -2,7 +2,7 @@
   "name": "Loona Compteur de caractères de messages Discord",
   "short_name": "Compteur de caractères de messages Discord",
   "description": "Compteur de caractères de messages Discord gratuit : comptage de caractères en direct par rapport à la limite de 2,000 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
-  "id": "/loona-text-tools/fr/discord-message-character-counter/",
+  "id": "/fr/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

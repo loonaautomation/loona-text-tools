@@ -2,7 +2,7 @@
   "name": "Loona Konwerter tekstu na zapis szesnastkowy online za darmo",
   "short_name": "Konwerter tekstu na zapis szesnastkowy online za darmo",
   "description": "Zamień tekst na zapis szesnastkowy, a zapis szesnastkowy z powrotem na tekst, poprawnie obsługując UTF-8 dla liter z akcentami, urdu i emoji. Darmowy konwerter szesnastkowy, bez rejestracji.",
-  "id": "/loona-text-tools/pl/text-to-hex-converter/",
+  "id": "/pl/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

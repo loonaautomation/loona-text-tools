@@ -2,7 +2,7 @@
   "name": "Loona Калкулатор за думи на страница",
   "short_name": "Калкулатор за думи на страница",
   "description": "Безплатен калкулатор за думи на страница: въведете думи, размер на шрифта и разстояние между редовете, за да получите броя на страниците и думите на страница.",
-  "id": "/loona-text-tools/bg/words-per-page-calculator/",
+  "id": "/bg/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

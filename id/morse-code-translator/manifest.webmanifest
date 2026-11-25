@@ -2,7 +2,7 @@
   "name": "Loona Penerjemah Kode Morse Online",
   "short_name": "Penerjemah Kode Morse Online",
   "description": "Terjemahkan teks ke kode Morse dan kode Morse kembali ke teks, dan dengarkan sebagai bunyi bip asli. Penerjemah kode Morse online gratis - tanpa pendaftaran, bekerja di browser Anda.",
-  "id": "/loona-text-tools/id/morse-code-translator/",
+  "id": "/id/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

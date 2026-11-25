@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov popiskov Instagram",
   "short_name": "Počítadlo znakov popiskov Instagram",
   "description": "Bezplatné počítadlo znakov popiskov Instagram: počítanie znakov naživo oproti limitu 2,200 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/instagram-caption-character-counter/",
+  "id": "/sk/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

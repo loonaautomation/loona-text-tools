@@ -2,7 +2,7 @@
   "name": "Loona Läsnivåberäknare",
   "short_name": "Läsnivåberäknare",
   "description": "Poängsätt vilken text som helst med Flesch Reading Ease-skalan och Flesch-Kincaid årskursnivå, med standardformlerna. Se hur lätt ditt skrivande är att läsa. Gratis.",
-  "id": "/loona-text-tools/sv/reading-level-calculator/",
+  "id": "/sv/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

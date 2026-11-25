@@ -2,7 +2,7 @@
   "name": "Loona Maktaba ya Zana za Maandishi",
   "short_name": "Maktaba ya Zana za Maandishi",
   "description": "Maktaba kamili ya Loona Text Tools: vibadilishaji vya hali ya herufi, vihesabu vya maneno vya insha na hotuba, vikaguzi vya vikomo vya vibambo vya mifumo na vikokotoo vya usomekaji.",
-  "id": "/loona-text-tools/sw/text-tools-library/",
+  "id": "/sw/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač u mala slova",
   "short_name": "Pretvarač u mala slova",
   "description": "Besplatan pretvarač u mala slova — zalijepite tekst i trenutačno dobijte mala slova. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/lowercase-converter/",
+  "id": "/hr/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Broj riječi objave na blogu",
   "short_name": "Broj riječi objave na blogu",
   "description": "Provjera broja riječi objave na blogu: brojanje uživo s duljinskim pojasevima za vijesti (300–500), standardne objave (1,000–1,500) i opširne vodiče (2,000+).",
-  "id": "/loona-text-tools/hr/blog-post-word-count/",
+  "id": "/hr/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

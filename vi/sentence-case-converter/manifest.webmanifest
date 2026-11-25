@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi kiểu câu",
   "short_name": "Công cụ chuyển đổi kiểu câu",
   "description": "Công cụ chuyển đổi kiểu câu miễn phí — dán văn bản và nhận Kiểu câu ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/sentence-case-converter/",
+  "id": "/vi/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator online",
   "short_name": "Lorem Ipsum-generator online",
   "description": "Genereer lorem ipsum-dummy-tekst per alinea, zin of woord - klaar om in ontwerpen en lay-outs te plakken. Gratis lorem ipsum-generator, geen registratie nodig.",
-  "id": "/loona-text-tools/nl/lorem-ipsum-generator/",
+  "id": "/nl/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

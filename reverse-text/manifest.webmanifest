@@ -2,7 +2,7 @@
   "name": "Loona Reverse Text Online",
   "short_name": "Reverse Text Online",
   "description": "Reverse text four ways: whole text backwards, each word backwards, word order flipped, or line order flipped. Free online text reverser - no sign-up needed.",
-  "id": "/loona-text-tools/reverse-text/",
+  "id": "/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

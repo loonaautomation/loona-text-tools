@@ -2,7 +2,7 @@
   "name": "Loona Generátor náhodných tém online zadarmo",
   "short_name": "Generátor náhodných tém online zadarmo",
   "description": "Generujte náhodné témy pre eseje, prejavy, debaty, odseky, prezentácie a príbehy - 900 ručne napísaných tém v 9 kategóriách, filtrovaných podľa úrovne. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/random-topic-generator/",
+  "id": "/sk/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

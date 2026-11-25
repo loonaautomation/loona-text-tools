@@ -2,7 +2,7 @@
   "name": "Loona تقریر سے متن آن لائن مفت",
   "short_name": "تقریر سے متن آن لائن مفت",
   "description": "اپنی آواز سے بول کر لکھوائیں اور اسے متن بنتا دیکھیں - انگریزی، اردو اور مزید زبانوں کے لیے مفت آن لائن تقریر سے متن۔ کوئی سائن اپ نہیں؛ Chrome اور Edge میں کام کرتا ہے۔",
-  "id": "/loona-text-tools/ur/speech-to-text/",
+  "id": "/ur/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

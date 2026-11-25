@@ -2,7 +2,7 @@
   "name": "Loona Conversor para Maiúsculas",
   "short_name": "Conversor para Maiúsculas",
   "description": "Conversor para maiúsculas grátis — cole texto e obtenha UPPERCASE instantaneamente. Conversão em direto no seu navegador, sem registo, sem carregamento.",
-  "id": "/loona-text-tools/pt-pt/uppercase-converter/",
+  "id": "/pt-pt/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

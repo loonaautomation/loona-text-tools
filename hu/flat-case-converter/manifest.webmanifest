@@ -2,7 +2,7 @@
   "name": "Loona flatcase-átalakító",
   "short_name": "flatcase-átalakító",
   "description": "Ingyenes flatcase-átalakító — illesszen be szöveget, és azonnal flatcase-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/flat-case-converter/",
+  "id": "/hu/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

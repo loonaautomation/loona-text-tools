@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов для постов LinkedIn",
   "short_name": "Счётчик символов для постов LinkedIn",
   "description": "Бесплатный счётчик символов постов LinkedIn: живой подсчёт символов относительно лимита в 3,000 символов, со словами и оставшимися символами, показываемыми по мере ввода.",
-  "id": "/loona-text-tools/ru/linkedin-post-character-counter/",
+  "id": "/ru/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

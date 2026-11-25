@@ -2,7 +2,7 @@
   "name": "Loona Prevodník DOCX do EPUB zadarmo",
   "short_name": "Prevodník DOCX do EPUB zadarmo",
   "description": "Preveďte dokumenty DOCX Word do elektronických kníh EPUB zadarmo vo vašom prehliadači. Nadpisy sa zmenia na kapitoly; tučné písmo, kurzíva, zoznamy a obrázky sa prevedú. Bez nahrávania, bez registrácie.",
-  "id": "/loona-text-tools/sk/docx-to-epub/",
+  "id": "/sk/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

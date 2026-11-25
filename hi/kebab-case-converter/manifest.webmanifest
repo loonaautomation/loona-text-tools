@@ -2,7 +2,7 @@
   "name": "Loona kebab-case कन्वर्टर",
   "short_name": "kebab-case कन्वर्टर",
   "description": "मुफ़्त kebab-case कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत kebab-case पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-text-tools/hi/kebab-case-converter/",
+  "id": "/hi/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

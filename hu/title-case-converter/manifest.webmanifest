@@ -2,7 +2,7 @@
   "name": "Loona Címkezdő-átalakító",
   "short_name": "Címkezdő-átalakító",
   "description": "Ingyenes Címkezdő-átalakító — illesszen be szöveget, és azonnal Title Case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/title-case-converter/",
+  "id": "/hu/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

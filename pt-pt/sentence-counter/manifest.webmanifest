@@ -2,7 +2,7 @@
   "name": "Loona Contador de Frases Online Grátis",
   "short_name": "Contador de Frases Online Grátis",
   "description": "Conte frases, parágrafos, palavras e caracteres em qualquer texto instantaneamente, com o comprimento médio das frases. Contador de frases gratuito, sem registo, funciona no seu navegador.",
-  "id": "/loona-text-tools/pt-pt/sentence-counter/",
+  "id": "/pt-pt/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

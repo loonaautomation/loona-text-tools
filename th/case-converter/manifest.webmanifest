@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงตัวพิมพ์ออนไลน์",
   "short_name": "ตัวแปลงตัวพิมพ์ออนไลน์",
   "description": "แปลงข้อความเป็นตัวพิมพ์ใหญ่ทั้งหมด ตัวพิมพ์เล็ก Title Case ตัวพิมพ์แบบประโยค ตัวพิมพ์ใหญ่ต้นคำ หรือตัวพิมพ์สลับ aLtErNaTiNg ในคลิกเดียว ตัวแปลงตัวพิมพ์ออนไลน์ฟรี — ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/case-converter/",
+  "id": "/th/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

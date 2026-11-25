@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free flatcase converter — paste text and get flatcase instantly. Live conversion in your browser, no sign-up, no upload.",
-  "id": "/loona-text-tools/en-us/flat-case-converter/",
+  "id": "/en-us/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

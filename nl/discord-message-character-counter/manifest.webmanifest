@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor Discord-berichten",
   "short_name": "Tekenteller voor Discord-berichten",
   "description": "Gratis tekenteller voor Discord-berichten: live tekentelling tegen de limiet van 2.000 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/discord-message-character-counter/",
+  "id": "/nl/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Stavelsestæller online gratis",
   "short_name": "Stavelsestæller online gratis",
   "description": "Tæl stavelser i ethvert ord, enhver sætning eller fuld tekst øjeblikkeligt - samlede stavelser, opdeling pr. ord og gennemsnit. Gratis stavelsestæller, ingen tilmelding, virker offline.",
-  "id": "/loona-text-tools/da/syllable-counter/",
+  "id": "/da/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

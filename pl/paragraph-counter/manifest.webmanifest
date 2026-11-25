@@ -2,7 +2,7 @@
   "name": "Loona Darmowy licznik akapitów online",
   "short_name": "Darmowy licznik akapitów online",
   "description": "Licz akapity w dowolnym tekście natychmiast, wraz ze zdaniami i słowami w każdym akapicie oraz najdłuższym i najkrótszym akapitem. Darmowy licznik akapitów, bez rejestracji.",
-  "id": "/loona-text-tools/pl/paragraph-counter/",
+  "id": "/pl/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

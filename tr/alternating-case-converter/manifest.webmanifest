@@ -2,7 +2,7 @@
   "name": "Loona aLtErNaTiNg DüZeNi Dönüştürücü",
   "short_name": "aLtErNaTiNg DüZeNi Dönüştürücü",
   "description": "Ücretsiz aLtErNaTiNg CaSe dönüştürücü — metni yapıştırın ve anında aLtErNaTiNg CaSe elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/alternating-case-converter/",
+  "id": "/tr/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

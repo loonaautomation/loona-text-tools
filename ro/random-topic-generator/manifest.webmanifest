@@ -2,7 +2,7 @@
   "name": "Loona Generator aleatoriu de subiecte online gratuit",
   "short_name": "Generator aleatoriu de subiecte online gratuit",
   "description": "Generează subiecte aleatorii pentru eseuri, discursuri, dezbateri, paragrafe, prezentări și povești - 900 de subiecte scrise de mână, în 9 categorii, filtrate după nivel. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/random-topic-generator/",
+  "id": "/ro/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας CBZ σε PDF Δωρεάν",
   "short_name": "Μετατροπέας CBZ σε PDF Δωρεάν",
   "description": "Μετατρέψτε αρχεία κόμικ CBZ και ZIP σε PDF δωρεάν στο πρόγραμμα περιήγησής σας. Σελίδες σε φυσική σειρά (1, 2, 10), μία εικόνα ανά σελίδα σε πλήρες μέγεθος. Χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/cbz-to-pdf/",
+  "id": "/el/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

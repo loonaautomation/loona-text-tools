@@ -2,7 +2,7 @@
   "name": "Loona Twitter- / X-Zeichenzähler",
   "short_name": "Twitter- / X-Zeichenzähler",
   "description": "Kostenloser Twitter- / X-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 280-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/twitter-character-counter/",
+  "id": "/de/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 線上單詞計數器,免費",
   "short_name": "線上單詞計數器,免費",
   "description": "即時統計任何文字的單詞、字元、句子和段落,帶有閱讀時間和演講時間。免費單詞計數器,無需註冊,可離線工作。",
-  "id": "/loona-text-tools/zh-hant/word-counter/",
+  "id": "/zh-hant/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

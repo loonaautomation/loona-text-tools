@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "172,820단어의 ENABLE 사전 전체를 사용해 어떤 글자든 실제 영어 단어로 재배열하세요 - 결과는 길이별로 그룹화되고 Scrabble 점수, 시작 글자, 끝 글자, 포함 글자 필터와 빈 타일 지원이 함께 제공됩니다. 무료, 가입 불필요, 그리고 당신의 글자는 브라우저를 절대 떠나지 않습니다.",
-  "id": "/loona-text-tools/ko/word-unscrambler/",
+  "id": "/ko/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

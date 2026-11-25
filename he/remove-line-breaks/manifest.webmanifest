@@ -2,7 +2,7 @@
   "name": "Loona הסרת מעברי שורה אונליין",
   "short_name": "הסרת מעברי שורה אונליין",
   "description": "הסירו מעברי שורה וחברו שורות שבורות לפסקאות נקיות - מושלם לטקסט שהועתק מ-PDF. מסיר מעברי שורה מקוון חינמי, ללא הרשמה, תוצאות מיידיות.",
-  "id": "/loona-text-tools/he/remove-line-breaks/",
+  "id": "/he/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

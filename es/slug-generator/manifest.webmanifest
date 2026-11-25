@@ -2,7 +2,7 @@
   "name": "Loona Generador de slugs en línea",
   "short_name": "Generador de slugs en línea",
   "description": "Convierte cualquier título en un slug de URL limpio y apto para SEO: minúsculas, sin espacios, sin caracteres especiales. Generador de slugs en línea gratuito con vista previa de URL completa: sin registro.",
-  "id": "/loona-text-tools/es/slug-generator/",
+  "id": "/es/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

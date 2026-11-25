@@ -2,7 +2,7 @@
   "name": "Loona מונה תדירות מילים מקוון",
   "short_name": "מונה תדירות מילים מקוון",
   "description": "ספרו כמה פעמים כל מילה מופיעה בטקסט שלכם וראו טבלת תדירות מדורגת עם אחוזים. מונה תדירות מילים מקוון חינמי - ללא הרשמה, מיידי.",
-  "id": "/loona-text-tools/he/word-frequency/",
+  "id": "/he/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

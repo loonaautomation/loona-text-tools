@@ -2,7 +2,7 @@
   "name": "Loona Teksti heksaksi -muunnin verkossa ilmaiseksi",
   "short_name": "Teksti heksaksi -muunnin verkossa ilmaiseksi",
   "description": "Muunna teksti heksadesimaaliksi ja heksa takaisin tekstiksi, käsitellen UTF-8:n oikein aksentoiduille kirjaimille, urdulle ja emojeille. Ilmainen heksamuunnin, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/text-to-hex-converter/",
+  "id": "/fi/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona سلگ جنریٹر آن لائن",
   "short_name": "سلگ جنریٹر آن لائن",
   "description": "کسی بھی عنوان کو صاف، SEO دوست URL سلگ میں بدلیں: چھوٹے حروف، کوئی اسپیس نہیں، کوئی خاص حروف نہیں۔ مکمل URL پیش منظر کے ساتھ مفت آن لائن سلگ جنریٹر - کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/slug-generator/",
+  "id": "/ur/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

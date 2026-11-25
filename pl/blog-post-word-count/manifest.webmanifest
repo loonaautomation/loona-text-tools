@@ -2,7 +2,7 @@
   "name": "Loona Liczba słów posta na blogu",
   "short_name": "Liczba słów posta na blogu",
   "description": "Licznik słów posta na blogu: liczenie na żywo wraz z przedziałami długości dla aktualności (300–500), standardowych postów (1,000–1,500) i pogłębionych przewodników (2,000+).",
-  "id": "/loona-text-tools/pl/blog-post-word-count/",
+  "id": "/pl/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

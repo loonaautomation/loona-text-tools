@@ -2,7 +2,7 @@
   "name": "Loona Kelime Sıklığı Sayacı Çevrimiçi",
   "short_name": "Kelime Sıklığı Sayacı Çevrimiçi",
   "description": "Her kelimenin metninizde kaç kez geçtiğini sayın ve yüzdelerle sıralı bir sıklık tablosu görün. Ücretsiz çevrimiçi kelime sıklığı sayacı - kayıt yok, anında.",
-  "id": "/loona-text-tools/tr/word-frequency/",
+  "id": "/tr/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sammenlign tekster på nett",
   "short_name": "Sammenlign tekster på nett",
   "description": "Sammenlign to tekster linje for linje og se nøyaktig hvilke linjer som ble lagt til, fjernet eller beholdt. Gratis verktøy for tekstdiff på nett - ingen registrering, privat i nettleseren din.",
-  "id": "/loona-text-tools/nb/text-compare/",
+  "id": "/nb/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

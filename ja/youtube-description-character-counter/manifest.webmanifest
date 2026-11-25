@@ -2,7 +2,7 @@
   "name": "Loona YouTube 説明文字数カウンター",
   "short_name": "YouTube 説明文字数カウンター",
   "description": "無料 YouTube 説明文字数カウンター：5,000文字の制限に対するライブ文字数カウント。入力すると単語と残り文字数が表示されます。",
-  "id": "/loona-text-tools/ja/youtube-description-character-counter/",
+  "id": "/ja/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

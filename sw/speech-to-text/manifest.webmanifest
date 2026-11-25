@@ -2,7 +2,7 @@
   "name": "Loona Hotuba kwenda Maandishi Mtandaoni Bure",
   "short_name": "Hotuba kwenda Maandishi Mtandaoni Bure",
   "description": "Andika kwa sauti yako na uione ikiwa maandishi - hotuba ya bure ya mtandaoni kwenda maandishi kwa Kiingereza, Kiurdu na lugha zaidi. Hakuna kujisajili; hufanya kazi katika Chrome na Edge.",
-  "id": "/loona-text-tools/sw/speech-to-text/",
+  "id": "/sw/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

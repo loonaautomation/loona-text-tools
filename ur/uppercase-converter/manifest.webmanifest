@@ -2,7 +2,7 @@
   "name": "Loona Uppercase کنورٹر",
   "short_name": "Uppercase کنورٹر",
   "description": "مفت Uppercase کنورٹر — متن پیسٹ کریں اور فوراً UPPERCASE پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/uppercase-converter/",
+  "id": "/ur/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

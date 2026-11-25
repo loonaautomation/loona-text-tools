@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Mada ya YouTube",
   "short_name": "Kihesabu cha Vibambo vya Mada ya YouTube",
   "description": "Kihesabu cha bure cha Vibambo vya Mada ya YouTube: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 100, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/youtube-title-character-counter/",
+  "id": "/sw/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PascalCase 変換ツール",
   "short_name": "PascalCase 変換ツール",
   "description": "無料 PascalCase 変換ツール — テキストを貼り付ければ即座に PascalCase が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/pascalcase-converter/",
+  "id": "/ja/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

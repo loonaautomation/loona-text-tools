@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor LinkedIn-posts",
   "short_name": "Tekenteller voor LinkedIn-posts",
   "description": "Gratis tekenteller voor LinkedIn-posts: live tekentelling tegen de limiet van 3.000 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/linkedin-post-character-counter/",
+  "id": "/nl/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

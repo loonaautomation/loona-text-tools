@@ -2,7 +2,7 @@
   "name": "Loona Snu tekst på nett",
   "short_name": "Snu tekst på nett",
   "description": "Snu tekst på fire måter: hele teksten baklengs, hvert ord baklengs, ordrekkefølge snudd, eller linjerekkefølge snudd. Gratis tekstsnu på nett - ingen registrering nødvendig.",
-  "id": "/loona-text-tools/nb/reverse-text/",
+  "id": "/nb/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

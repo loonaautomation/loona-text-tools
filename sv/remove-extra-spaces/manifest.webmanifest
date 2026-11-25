@@ -2,7 +2,7 @@
   "name": "Loona Ta bort extra mellanslag online",
   "short_name": "Ta bort extra mellanslag online",
   "description": "Ta bort extra mellanslag, tabbar och tomma rader från text med ett klick. Städa text kopierad från PDF:er, e-post och webbsidor. Gratis borttagare online - ingen registrering behövs.",
-  "id": "/loona-text-tools/sv/remove-extra-spaces/",
+  "id": "/sv/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

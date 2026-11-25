@@ -2,7 +2,7 @@
   "name": "Loona Teksti EPUB-muotoon -muunnin ilmaiseksi",
   "short_name": "Teksti EPUB-muotoon -muunnin ilmaiseksi",
   "description": "Muunna pelkkä teksti tai Markdown kelvolliseksi EPUB-e-kirjaksi ilmaiseksi selaimessasi. Nimeke ja tekijä, luvut otsikoista, avautuu missä tahansa EPUB-lukijassa. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/text-to-epub/",
+  "id": "/fi/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

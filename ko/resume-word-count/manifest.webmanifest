@@ -2,7 +2,7 @@
   "name": "Loona 이력서 단어 수",
   "short_name": "이력서 단어 수",
   "description": "이력서 단어 수 검사기: 한 페이지 목표(400–600단어), 페이지 추정과 다듬기 안내와 함께 실시간 개수예요.",
-  "id": "/loona-text-tools/ko/resume-word-count/",
+  "id": "/ko/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

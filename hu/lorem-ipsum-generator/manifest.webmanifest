@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum generátor online",
   "short_name": "Lorem Ipsum generátor online",
   "description": "Generáljon lorem ipsum vakszöveget bekezdésenként, mondatonként vagy szavanként - készen tervekbe és elrendezésekbe illesztésre. Ingyenes lorem ipsum generátor, regisztráció nem szükséges.",
-  "id": "/loona-text-tools/hu/lorem-ipsum-generator/",
+  "id": "/hu/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

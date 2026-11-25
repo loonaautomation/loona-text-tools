@@ -2,7 +2,7 @@
   "name": "Loona Puhe tekstiksi verkossa ilmaiseksi",
   "short_name": "Puhe tekstiksi verkossa ilmaiseksi",
   "description": "Sanele äänelläsi ja katso, kuinka siitä tulee tekstiä – ilmainen puhe tekstiksi verkossa englannille, urdulle ja useammille kielille. Ei rekisteröitymistä; toimii Chromessa ja Edgessä.",
-  "id": "/loona-text-tools/fi/speech-to-text/",
+  "id": "/fi/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

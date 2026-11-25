@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid Sınıf Hesaplayıcı",
   "short_name": "Flesch–Kincaid Sınıf Hesaplayıcı",
   "description": "Ücretsiz Flesch–Kincaid sınıf hesaplayıcı: sınıf düzeyi ve okuma kolaylığı puanı için metni yapıştırın; cümle başına kelimeler ve kelime başına hecelerle.",
-  "id": "/loona-text-tools/tr/flesch-kincaid-grade-calculator/",
+  "id": "/tr/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

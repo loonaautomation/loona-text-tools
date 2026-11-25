@@ -2,7 +2,7 @@
   "name": "Loona Fjern dupliserte linjer på nett",
   "short_name": "Fjern dupliserte linjer på nett",
   "description": "Fjern dupliserte linjer fra enhver liste eller tekst og behold bare de unike linjene, i opprinnelig rekkefølge. Gratis fjerner av dupliserte linjer - ingen registrering, øyeblikkelige resultater.",
-  "id": "/loona-text-tools/nb/remove-duplicate-lines/",
+  "id": "/nb/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

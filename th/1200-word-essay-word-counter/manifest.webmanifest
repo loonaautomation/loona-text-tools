@@ -2,7 +2,7 @@
   "name": "Loona เรียงความ 1,200 คำ",
   "short_name": "เรียงความ 1,200 คำ",
   "description": "ตัวนับเรียงความ 1,200 คำฟรี: นับคำแบบสดถึงเป้าหมาย 1,200 คำ หน้าแบบเว้นบรรทัดเดี่ยวและเว้นบรรทัดคู่ ย่อหน้า เวลาอ่านและเวลาพูด",
-  "id": "/loona-text-tools/th/1200-word-essay-word-counter/",
+  "id": "/th/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

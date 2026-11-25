@@ -2,7 +2,7 @@
   "name": "Loona Instagram ক্যাপশন অক্ষর গণক",
   "short_name": "Instagram ক্যাপশন অক্ষর গণক",
   "description": "বিনামূল্যে Instagram ক্যাপশন অক্ষর গণক গণক: 2,200-অক্ষরের সীমার বিপরীতে সরাসরি অক্ষর গণনা, টাইপ করার সঙ্গে সঙ্গে শব্দ ও অবশিষ্ট অক্ষর দেখানোসহ।",
-  "id": "/loona-text-tools/bn/instagram-caption-character-counter/",
+  "id": "/bn/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

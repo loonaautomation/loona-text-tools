@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog 지수 계산기",
   "short_name": "Gunning Fog 지수 계산기",
   "description": "무료 Gunning Fog 지수 계산기: 텍스트를 붙여 넣으면 Fog 지수, 복합 단어 수, 그것이 의미하는 교육 연수를 얻어요.",
-  "id": "/loona-text-tools/ko/gunning-fog-index-calculator/",
+  "id": "/ko/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

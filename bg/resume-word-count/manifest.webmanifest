@@ -2,7 +2,7 @@
   "name": "Loona Брой думи в автобиография",
   "short_name": "Брой думи в автобиография",
   "description": "Проверка на броя думи в автобиография: броене на живо с целта за една страница (400–600 думи), оценка на страниците и указания за съкращаване.",
-  "id": "/loona-text-tools/bg/resume-word-count/",
+  "id": "/bg/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prevodník CONSTANT_CASE",
   "short_name": "Prevodník CONSTANT_CASE",
   "description": "Bezplatný prevodník CONSTANT_CASE — vložte text a získajte CONSTANT_CASE okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
-  "id": "/loona-text-tools/sk/constant-case-converter/",
+  "id": "/sk/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

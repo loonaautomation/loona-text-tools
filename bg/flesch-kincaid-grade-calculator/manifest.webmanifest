@@ -2,7 +2,7 @@
   "name": "Loona Калкулатор за ниво Flesch–Kincaid",
   "short_name": "Калкулатор за ниво Flesch–Kincaid",
   "description": "Безплатен калкулатор за ниво Flesch–Kincaid: поставете текст за нивото на клас и оценката за лекота на четене, с думи в изречение и срички на дума.",
-  "id": "/loona-text-tools/bg/flesch-kincaid-grade-calculator/",
+  "id": "/bg/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

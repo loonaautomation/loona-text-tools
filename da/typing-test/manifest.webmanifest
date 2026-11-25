@@ -2,7 +2,7 @@
   "name": "Loona Skrivehastighedstest online gratis",
   "short_name": "Skrivehastighedstest online gratis",
   "description": "Gratis tasteprøve på 60 sekunder: mål din skrivehastighed i WPM, nøjagtighed og tegn pr. minut med nemme, mellem og svære tekster. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-text-tools/da/typing-test/",
+  "id": "/da/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

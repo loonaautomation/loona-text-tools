@@ -2,7 +2,7 @@
   "name": "Loona Find gentagne ord online gratis",
   "short_name": "Find gentagne ord online gratis",
   "description": "Find hvert ord, der optræder mere end én gang i din tekst, rangeret efter hvor ofte det gentager sig. Fang utilsigtede dobbeltord og overbrugte ord. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/repeated-words-finder/",
+  "id": "/da/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

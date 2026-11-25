@@ -1,7 +1,7 @@
 [
  {
   "n": "Μετρητής Λέξεων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/word-counter/",
+  "u": "https://text.loonaautomation.com/el/word-counter/",
   "s": "Loona Text Tools",
   "d": "Λέξεις, χαρακτήρες, προτάσεις, παράγραφοι και χρόνος ανάγνωσης - μετρούνται ζωντανά καθώς πληκτρολογείτε.",
   "k": "word counter word counter λεξεις χαρακτηρες προτασεις παραγραφοι και χρονος αναγνωσης μετρουνται ζωντανα καθως πληκτρολογειτε",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Μετρητής Χαρακτήρων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/character-counter/",
+  "u": "https://text.loonaautomation.com/el/character-counter/",
   "s": "Loona Text Tools",
   "d": "Χαρακτήρες με και χωρίς κενά, συν ζωντανά όρια για X, SMS και μετα-κείμενο.",
   "k": "character counter character counter χαρακτηρες με και χωρις κενα συν ζωντανα ορια για x sms και μετα κειμενο",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Μετρητής Προτάσεων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/sentence-counter/",
+  "u": "https://text.loonaautomation.com/el/sentence-counter/",
   "s": "Loona Text Tools",
   "d": "Προτάσεις, παράγραφοι, λέξεις και χαρακτήρες σε οποιοδήποτε κείμενο - μετρούνται ζωντανά καθώς πληκτρολογείτε.",
   "k": "sentence counter sentence counter προτασεις παραγραφοι λεξεις και χαρακτηρες σε οποιοδηποτε κειμενο μετρουνται ζωντανα καθως πληκτρολογειτε",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Υπολογιστής Χρόνου Ανάγνωσης",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/reading-time-calculator/",
+  "u": "https://text.loonaautomation.com/el/reading-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Πόσο χρόνο χρειάζεται οποιοδήποτε κείμενο για ανάγνωση, σε αργές, μέσες και γρήγορες ταχύτητες ανάγνωσης.",
   "k": "reading time calculator reading time calculator ποσο χρονο χρειαζεται οποιοδηποτε κειμενο για αναγνωση σε αργες μεσες και γρηγορες ταχυτητες αναγνωσης",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Υπολογιστής Χρόνου Ομιλίας",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/speaking-time-calculator/",
+  "u": "https://text.loonaautomation.com/el/speaking-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Πόσο χρόνο χρειάζεται μια ομιλία ή ένα σενάριο για να εκφωνηθεί - συν τις λέξεις που χρειάζονται για χρόνο-στόχο.",
   "k": "speaking time calculator speaking time calculator ποσο χρονο χρειαζεται μια ομιλια η ενα σεναριο για να εκφωνηθει συν τις λεξεις που χρειαζονται για χρονο στοχο",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Τεστ Πληκτρολόγησης",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/typing-test/",
+  "u": "https://text.loonaautomation.com/el/typing-test/",
   "s": "Loona Text Tools",
   "d": "Ένα τεστ πληκτρολόγησης 60 δευτερολέπτων - η ταχύτητά σας σε WPM, ακρίβεια και CPM, ζωντανά καθώς πληκτρολογείτε.",
   "k": "typing test typing test ενα τεστ πληκτρολογησης 60 δευτερολεπτων η ταχυτητα σας σε wpm ακριβεια και cpm ζωντανα καθως πληκτρολογειτε",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Μετατροπέας Πεζών-Κεφαλαίων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/case-converter/",
+  "u": "https://text.loonaautomation.com/el/case-converter/",
   "s": "Loona Text Tools",
   "d": "ΚΕΦΑΛΑΙΑ, πεζά, Κεφαλαία Τίτλου, Κεφαλαία πρότασης και άλλα - ένα κλικ το καθένα.",
   "k": "case converter case converter κεφαλαια πεζα κεφαλαια τιτλου κεφαλαια προτασης και αλλα ενα κλικ το καθενα",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Αφαίρεση Διπλότυπων Γραμμών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/remove-duplicate-lines/",
+  "u": "https://text.loonaautomation.com/el/remove-duplicate-lines/",
   "s": "Loona Text Tools",
   "d": "Διαγράψτε επαναλαμβανόμενες γραμμές και κρατήστε κάθε μοναδική γραμμή μία φορά, με σειρά.",
   "k": "remove duplicate lines remove duplicate lines διαγραψτε επαναλαμβανομενες γραμμες και κρατηστε καθε μοναδικη γραμμη μια φορα με σειρα",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Ταξινόμηση Γραμμών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/sort-lines/",
+  "u": "https://text.loonaautomation.com/el/sort-lines/",
   "s": "Loona Text Tools",
   "d": "Διατάξτε τις γραμμές A-Z, Z-A, κατά μήκος, αντίστροφα, ή δίκαια ανακατεμένες τυχαία.",
   "k": "sort lines sort lines διαταξτε τις γραμμες a z z a κατα μηκος αντιστροφα η δικαια ανακατεμενες τυχαια",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Αντιστροφή Κειμένου",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/reverse-text/",
+  "u": "https://text.loonaautomation.com/el/reverse-text/",
   "s": "Loona Text Tools",
   "d": "Γυρίστε το κείμενο ανάποδα - όλο το κείμενο, κάθε λέξη, σειρά λέξεων ή σειρά γραμμών.",
   "k": "reverse text reverse text γυριστε το κειμενο αναποδα ολο το κειμενο καθε λεξη σειρα λεξεων η σειρα γραμμων",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Αφαίρεση Περιττών Κενών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/remove-extra-spaces/",
+  "u": "https://text.loonaautomation.com/el/remove-extra-spaces/",
   "s": "Loona Text Tools",
   "d": "Συμπιέστε διπλά κενά, στηλογνώμονες και ανομοιόμορφες άκρες από ακατάστατο αντιγραμμένο κείμενο.",
   "k": "remove extra spaces remove extra spaces συμπιεστε διπλα κενα στηλογνωμονες και ανομοιομορφες ακρες απο ακαταστατο αντιγραμμενο κειμενο",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Εύρεση και Αντικατάσταση",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/find-and-replace/",
+  "u": "https://text.loonaautomation.com/el/find-and-replace/",
   "s": "Loona Text Tools",
   "d": "Αντικαταστήστε κάθε εμφάνιση μιας λέξης ή φράσης με άλλη, σε ένα πέρασμα.",
   "k": "find and replace find and replace αντικαταστηστε καθε εμφανιση μιας λεξης η φρασης με αλλη σε ενα περασμα",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Κείμενο σε Ομιλία",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-to-speech/",
+  "u": "https://text.loonaautomation.com/el/text-to-speech/",
   "s": "Loona Text Tools",
   "d": "Ακούστε οποιοδήποτε κείμενο να διαβάζεται δυνατά - Αγγλικά, Urdu και περισσότερες φωνές, στη δική σας ταχύτητα.",
   "k": "text to speech text to speech ακουστε οποιοδηποτε κειμενο να διαβαζεται δυνατα αγγλικα urdu και περισσοτερες φωνες στη δικη σας ταχυτητα",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Ομιλία σε Κείμενο",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/speech-to-text/",
+  "u": "https://text.loonaautomation.com/el/speech-to-text/",
   "s": "Loona Text Tools",
   "d": "Μιλήστε και παρακολουθήστε τα λόγια σας να γίνονται κείμενο - Αγγλικά, Ουρντού και άλλα.",
   "k": "speech to text speech to text μιληστε και παρακολουθηστε τα λογια σας να γινονται κειμενο αγγλικα ουρντου και αλλα",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Γεννήτρια Κωδικών Πρόσβασης",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/password-generator/",
+  "u": "https://text.loonaautomation.com/el/password-generator/",
   "s": "Loona Text Tools",
   "d": "Ισχυροί τυχαίοι κωδικοί πρόσβασης με το μήκος και τα σύμβολα που επιλέγετε.",
   "k": "password generator password generator ισχυροι τυχαιοι κωδικοι προσβασης με το μηκος και τα συμβολα που επιλεγετε",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Σύγκριση Κειμένου",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-compare/",
+  "u": "https://text.loonaautomation.com/el/text-compare/",
   "s": "Loona Text Tools",
   "d": "Βάλτε δύο κείμενα δίπλα και δείτε ακριβώς ποιες γραμμές άλλαξαν.",
   "k": "text compare text compare βαλτε δυο κειμενα διπλα και δειτε ακριβως ποιες γραμμες αλλαξαν",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Συχνότητα Λέξεων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/word-frequency/",
+  "u": "https://text.loonaautomation.com/el/word-frequency/",
   "s": "Loona Text Tools",
   "d": "Ένας πίνακας κατάταξης των λέξεων που χρησιμοποιείτε περισσότερο, με πλήθη και ποσοστά.",
   "k": "word frequency word frequency ενας πινακας καταταξης των λεξεων που χρησιμοποιειτε περισσοτερο με πληθη και ποσοστα",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Αφαίρεση Αλλαγών Γραμμής",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/remove-line-breaks/",
+  "u": "https://text.loonaautomation.com/el/remove-line-breaks/",
   "s": "Loona Text Tools",
   "d": "Ενώστε σπασμένες γραμμές τύπου PDF πίσω σε καθαρές, ρέουσες παραγράφους.",
   "k": "remove line breaks remove line breaks ενωστε σπασμενες γραμμες τυπου pdf πισω σε καθαρες ρεουσες παραγραφους",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Προσθήκη Αριθμών Γραμμών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/add-line-numbers/",
+  "u": "https://text.loonaautomation.com/el/add-line-numbers/",
   "s": "Loona Text Tools",
   "d": "Αριθμήστε κάθε γραμμή - επιλέξτε έναρξη, βήμα, συμπλήρωση και διαχωριστικό.",
   "k": "add line numbers add line numbers αριθμηστε καθε γραμμη επιλεξτε εναρξη βημα συμπληρωση και διαχωριστικο",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Γεννήτρια Lorem Ipsum",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/lorem-ipsum-generator/",
+  "u": "https://text.loonaautomation.com/el/lorem-ipsum-generator/",
   "s": "Loona Text Tools",
   "d": "Κλασικό εικονικό κείμενο ανά παράγραφο, πρόταση ή λέξη για τα σχέδιά σας.",
   "k": "lorem ipsum generator lorem ipsum generator κλασικο εικονικο κειμενο ανα παραγραφο προταση η λεξη για τα σχεδια σας",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Γεννήτρια Slug",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/slug-generator/",
+  "u": "https://text.loonaautomation.com/el/slug-generator/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε οποιονδήποτε τίτλο σε καθαρό, φιλικό στην αναζήτηση slug URL, ζωντανά.",
   "k": "slug generator slug generator μετατρεψτε οποιονδηποτε τιτλο σε καθαρο φιλικο στην αναζητηση slug url ζωντανα",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Μεταφραστής Κώδικα Μορς",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/morse-code-translator/",
+  "u": "https://text.loonaautomation.com/el/morse-code-translator/",
   "s": "Loona Text Tools",
   "d": "Κείμενο σε κώδικα Morse και πάλι πίσω - με πραγματική αναπαραγωγή μπιπ.",
   "k": "morse code translator morse code translator κειμενο σε κωδικα morse και παλι πισω με πραγματικη αναπαραγωγη μπιπ",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Κείμενο σε Δυαδικό",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-to-binary/",
+  "u": "https://text.loonaautomation.com/el/text-to-binary/",
   "s": "Loona Text Tools",
   "d": "Δείτε το κείμενο ως τα 0 και 1 που αποθηκεύουν οι υπολογιστές - και αποκωδικοποιήστε το δυαδικό πίσω.",
   "k": "text to binary text to binary δειτε το κειμενο ως τα 0 και 1 που αποθηκευουν οι υπολογιστες και αποκωδικοποιηστε το δυαδικο πισω",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Roman Urdu σε Urdu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/roman-urdu-to-urdu/",
+  "u": "https://text.loonaautomation.com/el/roman-urdu-to-urdu/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε το 'mera naam Ahmed hai' σε σωστή γραφή Ουρντού, αμέσως.",
   "k": "roman urdu to urdu roman urdu to urdu μετατρεψτε το mera naam ahmed hai σε σωστη γραφη ουρντου αμεσως",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Online Σημειωματάριο",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/online-notepad/",
+  "u": "https://text.loonaautomation.com/el/online-notepad/",
   "s": "Loona Text Tools",
   "d": "Ένα σημειωματάριο που αποθηκεύει αυτόματα στο πρόγραμμα περιήγησής σας - περιλαμβάνει λήψη και εκτύπωση.",
   "k": "online notepad online notepad ενα σημειωματαριο που αποθηκευει αυτοματα στο προγραμμα περιηγησης σας περιλαμβανει ληψη και εκτυπωση",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Γεννήτρια Στυλιζαρισμένου Κειμένου",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/fancy-text-generator/",
+  "u": "https://text.loonaautomation.com/el/fancy-text-generator/",
   "s": "Loona Text Tools",
   "d": "Έντονο, καλλιγραφικό, σε κύκλο και ανάποδο κείμενο για bio και λεζάντες.",
   "k": "fancy text generator fancy text generator εντονο καλλιγραφικο σε κυκλο και αναποδο κειμενο για bio και λεζαντες",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Μετρητής Συλλαβών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/syllable-counter/",
+  "u": "https://text.loonaautomation.com/el/syllable-counter/",
   "s": "Loona Text Tools",
   "d": "Μετρήστε συλλαβές σε κάθε λέξη και συνολικά - ιδανικό για ποιήματα, χαϊκού και στίχους.",
   "k": "syllable counter syllable counter μετρηστε συλλαβες σε καθε λεξη και συνολικα ιδανικο για ποιηματα χαικου και στιχους",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Μετρητής Παραγράφων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/paragraph-counter/",
+  "u": "https://text.loonaautomation.com/el/paragraph-counter/",
   "s": "Loona Text Tools",
   "d": "Μετρήστε παραγράφους, με λέξεις και προτάσεις ανά παράγραφο και τη μεγαλύτερη σημειωμένη.",
   "k": "paragraph counter paragraph counter μετρηστε παραγραφους με λεξεις και προτασεις ανα παραγραφο και τη μεγαλυτερη σημειωμενη",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Υπολογιστής Επιπέδου Αναγνωσιμότητας",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/reading-level-calculator/",
+  "u": "https://text.loonaautomation.com/el/reading-level-calculator/",
   "s": "Loona Text Tools",
   "d": "Βαθμολογίες Ευκολίας Ανάγνωσης Flesch και επιπέδου βαθμού, με ετυμηγορία σε απλά Αγγλικά.",
   "k": "reading level calculator reading level calculator βαθμολογιες ευκολιας αναγνωσης flesch και επιπεδου βαθμου με ετυμηγορια σε απλα αγγλικα",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Έλεγχος Παλινδρόμου",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/palindrome-checker/",
+  "u": "https://text.loonaautomation.com/el/palindrome-checker/",
   "s": "Loona Text Tools",
   "d": "Διαβάζεται το ίδιο ανάποδα; Ελέγξτε λέξεις, αριθμούς και ολόκληρες προτάσεις.",
   "k": "palindrome checker palindrome checker διαβαζεται το ιδιο αναποδα ελεγξτε λεξεις αριθμους και ολοκληρες προτασεις",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Γεννήτρια Αναγραμμάτων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/anagram-generator/",
+  "u": "https://text.loonaautomation.com/el/anagram-generator/",
   "s": "Loona Text Tools",
   "d": "Βρείτε πραγματικές λέξεις κρυμμένες στα γράμματά σας και ελέγξτε ζεύγη αναγραμμάτων αμέσως.",
   "k": "anagram generator anagram generator βρειτε πραγματικες λεξεις κρυμμενες στα γραμματα σας και ελεγξτε ζευγη αναγραμματων αμεσως",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Φωνητικό Αλφάβητο NATO",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/nato-phonetic-alphabet-converter/",
+  "u": "https://text.loonaautomation.com/el/nato-phonetic-alphabet-converter/",
   "s": "Loona Text Tools",
   "d": "Συλλαβίστε οτιδήποτε με τον τρόπο των πιλότων - Alfa, Bravo, Charlie - και αποκωδικοποιήστε το πίσω.",
   "k": "nato phonetic alphabet nato phonetic alphabet συλλαβιστε οτιδηποτε με τον τροπο των πιλοτων alfa bravo charlie και αποκωδικοποιηστε το πισω",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Μετατροπέας Κειμένου σε ASCII",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-to-ascii-converter/",
+  "u": "https://text.loonaautomation.com/el/text-to-ascii-converter/",
   "s": "Loona Text Tools",
   "d": "Οι δεκαδικοί, δεκαεξαδικοί, οκταδικοί και δυαδικοί κώδικες πίσω από κάθε χαρακτήρα, και πίσω.",
   "k": "text to ascii converter text to ascii converter οι δεκαδικοι δεκαεξαδικοι οκταδικοι και δυαδικοι κωδικες πισω απο καθε χαρακτηρα και πισω",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Μετατροπέας Κειμένου σε Δεκαεξαδικό",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-to-hex-converter/",
+  "u": "https://text.loonaautomation.com/el/text-to-hex-converter/",
   "s": "Loona Text Tools",
   "d": "Κείμενο σε δεκαεξαδικά byte και πίσω, με σωστό UTF-8 για κάθε γλώσσα.",
   "k": "text to hex converter text to hex converter κειμενο σε δεκαεξαδικα byte και πισω με σωστο utf 8 για καθε γλωσσα",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Εύρεση Επαναλαμβανόμενων Λέξεων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/repeated-words-finder/",
+  "u": "https://text.loonaautomation.com/el/repeated-words-finder/",
   "s": "Loona Text Tools",
   "d": "Κάθε λέξη που χρησιμοποιήσατε περισσότερες από μία φορά, σε κατάταξη - συν τυχαίες διπλές λέξεις.",
   "k": "repeated words finder repeated words finder καθε λεξη που χρησιμοποιησατε περισσοτερες απο μια φορα σε καταταξη συν τυχαιες διπλες λεξεις",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Έλεγχος Αόρατων Χαρακτήρων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/invisible-character-checker/",
+  "u": "https://text.loonaautomation.com/el/invisible-character-checker/",
   "s": "Loona Text Tools",
   "d": "Αποκαλύψτε χαρακτήρες μηδενικού πλάτους και κρυφούς χαρακτήρες σε αντιγραμμένο κείμενο, και αφαιρέστε τους.",
   "k": "invisible character checker invisible character checker αποκαλυψτε χαρακτηρες μηδενικου πλατους και κρυφους χαρακτηρες σε αντιγραμμενο κειμενο και αφαιρεστε τους",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Αφαίρεση Σημείων Στίξης",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/remove-punctuation/",
+  "u": "https://text.loonaautomation.com/el/remove-punctuation/",
   "s": "Loona Text Tools",
   "d": "Αφαιρέστε τη στίξη από κείμενο με ένα κλικ, κρατώντας τις λέξεις καθαρές.",
   "k": "remove punctuation remove punctuation αφαιρεστε τη στιξη απο κειμενο με ενα κλικ κρατωντας τις λεξεις καθαρες",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Εξαγωγέας Email",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/email-extractor/",
+  "u": "https://text.loonaautomation.com/el/email-extractor/",
   "s": "Loona Text Tools",
   "d": "Τραβήξτε κάθε διεύθυνση email από οποιοδήποτε κείμενο - χωρίς διπλότυπα, μία ανά γραμμή.",
   "k": "email extractor email extractor τραβηξτε καθε διευθυνση email απο οποιοδηποτε κειμενο χωρις διπλοτυπα μια ανα γραμμη",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Εικόνα σε Κείμενο (OCR)",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/image-to-text-converter/",
+  "u": "https://text.loonaautomation.com/el/image-to-text-converter/",
   "s": "Loona Text Tools",
   "d": "Εξαγάγετε επεξεργάσιμο κείμενο από φωτογραφίες, σαρώσεις και στιγμιότυπα - δωρεάν OCR στο πρόγραμμα περιήγησής σας.",
   "k": "image to text (ocr) image to text (ocr) εξαγαγετε επεξεργασιμο κειμενο απο φωτογραφιες σαρωσεις και στιγμιοτυπα δωρεαν ocr στο προγραμμα περιηγησης σας",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Μετατροπέας Εικόνας σε Excel",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/image-to-excel-converter/",
+  "u": "https://text.loonaautomation.com/el/image-to-excel-converter/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε μια φωτογραφία ή στιγμιότυπο πίνακα σε πραγματικό αρχείο Excel - ελέγξτε και επεξεργαστείτε τα κελιά, στη συνέχεια κατεβάστε.",
   "k": "image to excel converter image to excel converter μετατρεψτε μια φωτογραφια η στιγμιοτυπο πινακα σε πραγματικο αρχειο excel ελεγξτε και επεξεργαστειτε τα κελια στη συνεχεια κατεβαστε",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Γεννήτρια Παραπομπών",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/citation-generator/",
+  "u": "https://text.loonaautomation.com/el/citation-generator/",
   "s": "Loona Text Tools",
   "d": "Παραπομπές APA 7ης, MLA 9ης και Chicago για ιστότοπους, βιβλία και άρθρα περιοδικών.",
   "k": "citation generator citation generator παραπομπες apa 7ης mla 9ης και chicago για ιστοτοπους βιβλια και αρθρα περιοδικων",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Αναγνώστης EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/epub-reader/",
+  "u": "https://text.loonaautomation.com/el/epub-reader/",
   "s": "Loona Text Tools",
   "d": "Ανοίξτε και διαβάστε ebook EPUB κατευθείαν στο πρόγραμμα περιήγησής σας - λίστα κεφαλαίων, ρυθμιζόμενο μέγεθος γραμματοσειράς και σκούρα λειτουργία.",
   "k": "epub reader epub reader ανοιξτε και διαβαστε ebook epub κατευθειαν στο προγραμμα περιηγησης σας λιστα κεφαλαιων ρυθμιζομενο μεγεθος γραμματοσειρας και σκουρα λειτουργια",
@@ -379,7 +379,7 @@
  },
  {
   "n": "EPUB σε Κείμενο",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/epub-to-text/",
+  "u": "https://text.loonaautomation.com/el/epub-to-text/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε ένα ebook EPUB σε καθαρό αρχείο απλού κειμένου - κεφάλαια σε σειρά ανάγνωσης, επικεφαλίδες διατηρημένες.",
   "k": "epub to text epub to text μετατρεψτε ενα ebook epub σε καθαρο αρχειο απλου κειμενου κεφαλαια σε σειρα αναγνωσης επικεφαλιδες διατηρημενες",
@@ -388,7 +388,7 @@
  },
  {
   "n": "EPUB σε HTML",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/epub-to-html/",
+  "u": "https://text.loonaautomation.com/el/epub-to-html/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε ένα ebook EPUB σε ένα αυτοτελές αρχείο HTML με τις εικόνες του ενσωματωμένες.",
   "k": "epub to html epub to html μετατρεψτε ενα ebook epub σε ενα αυτοτελες αρχειο html με τις εικονες του ενσωματωμενες",
@@ -397,7 +397,7 @@
  },
  {
   "n": "CBZ σε PDF",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/cbz-to-pdf/",
+  "u": "https://text.loonaautomation.com/el/cbz-to-pdf/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε ένα αρχείο κόμικ σε PDF - σελίδες σε φυσική σειρά, μία εικόνα ανά σελίδα.",
   "k": "cbz to pdf cbz to pdf μετατρεψτε ενα αρχειο κομικ σε pdf σελιδες σε φυσικη σειρα μια εικονα ανα σελιδα",
@@ -406,7 +406,7 @@
  },
  {
   "n": "DOCX σε EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/docx-to-epub/",
+  "u": "https://text.loonaautomation.com/el/docx-to-epub/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε ένα έγγραφο Word σε ebook EPUB - οι επικεφαλίδες γίνονται κεφάλαια.",
   "k": "docx to epub docx to epub μετατρεψτε ενα εγγραφο word σε ebook epub οι επικεφαλιδες γινονται κεφαλαια",
@@ -415,7 +415,7 @@
  },
  {
   "n": "Επεξεργαστής Μεταδεδομένων EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/epub-metadata-editor/",
+  "u": "https://text.loonaautomation.com/el/epub-metadata-editor/",
   "s": "Loona Text Tools",
   "d": "Επεξεργαστείτε τον τίτλο, τον συγγραφέα, τον εκδότη και την περιγραφή ενός ebook - τα κεφάλαια ανέπαφα.",
   "k": "epub metadata editor epub metadata editor επεξεργαστειτε τον τιτλο τον συγγραφεα τον εκδοτη και την περιγραφη ενος ebook τα κεφαλαια ανεπαφα",
@@ -424,7 +424,7 @@
  },
  {
   "n": "Κείμενο / Markdown σε EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/text-to-epub/",
+  "u": "https://text.loonaautomation.com/el/text-to-epub/",
   "s": "Loona Text Tools",
   "d": "Μετατρέψτε απλό κείμενο ή Markdown σε σωστό ebook EPUB που ανοίγει σε οποιονδήποτε αναγνώστη.",
   "k": "text / markdown to epub text / markdown to epub μετατρεψτε απλο κειμενο η markdown σε σωστο ebook epub που ανοιγει σε οποιονδηποτε αναγνωστη",
@@ -433,13 +433,13 @@
  },
  {
   "n": "Γεννήτρια Τυχαίων Θεμάτων",
-  "u": "https://loonaautomation.github.io/loona-text-tools/el/random-topic-generator/",
+  "u": "https://text.loonaautomation.com/el/random-topic-generator/",
   "s": "Loona Text Tools",
   "d": "900 χειρόγραφα θέματα για έκθεση, ομιλία, αγώνα λόγου, διήγημα και παιδιά, σε 9 κατηγορίες, με φιλτράρισμα ανά σχολική βαθμίδα και χωρίς επαναλήψεις.",
   "k": "random topic generator random topic generator 900 χειρογραφα θεματα για εκθεση ομιλια αγωνα λογου διηγημα και παιδια σε 9 κατηγοριες με φιλτραρισμα ανα σχολικη βαθμιδα και χωρις επαναληψεις",
   "p": 148,
   "c": "Tool"
  }
-,{"n":"Επιλογέας Emoji","u":"https://loonaautomation.github.io/loona-text-tools/el/emoji-picker/","s":"Loona Text Tools","d":"Περιηγηθείτε ή αναζητήστε ανάμεσα σε 1,900+ emoji και σύμβολα – κάντε κλικ για αντιγραφή, με τόνους δέρματος και δίσκο αντιγραφής.","k":"emoji picker emoji picker περιηγηθειτε η αναζητηστε αναμεσα σε 1,900+ emoji και συμβολα – καντε κλικ για αντιγραφη, με τονους δερματος και δισκο αντιγραφης.","p":149,"c":"Tool"},
-{"n":"Σύνοψη κειμένου","u":"https://loonaautomation.github.io/loona-text-tools/el/text-summarizer/","s":"Loona Text Tools","d":"Επικολλήστε ένα μακροσκελές άρθρο, έκθεση ή αναφορά και πάρτε πίσω τις πιο σημαντικές πρωτότυπες προτάσεις του. Εξαγωγική περίληψη στο πρόγραμμα περιήγησής σας — δεν ανεβαίνει ποτέ, δεν ξαναγράφεται ποτέ.","k":"σύνοψη κειμένου συνοψίστε κείμενο περιληπτικό εργαλείο γεννήτρια περίληψης συντόμευση κειμένου περίληψη άρθρου περίληψη έκθεσης online σύνοψη","p":150,"c":"Tool"},
- {"n": "Loona AI Detector", "u": "https://loonaautomation.github.io/loona-text-tools/el/ai-detector/", "s": "Loona Text Tools", "d": "Δείτε τα σήματα γραφής που μετρούν οι ανιχνευτές AI - ρυθμό προτάσεων, ποικιλία λεξιλογίου, επαναλαμβανόμενες φράσεις και προβλεψιμότητα. Ειλικρινή σήματα, όχι ετυμηγορία - και το κείμενό σας δεν φεύγει ποτέ από το πρόγραμμα περιήγησής σας.", "k": "ανιχνευτής ai έλεγχος κειμένου ai ανίχνευση περιεχομένου ai δωρεάν ανιχνευτής ai έλεγχος αν κείμενο γράφτηκε από ai ανιχνευτής τεχνητής νοημοσύνης online", "p": 151, "c": "Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/el/wordle-helper/", "s": "Loona Text Tools", "d": "Πληκτρολόγησε τις μαντεψιές σου στο Wordle και πάτα τα πλακίδια σε γκρι, κίτρινο ή πράσινο: δες κάθε απάντηση που ταιριάζει ακόμα και τις καλύτερες επόμενες μαντεψιές, με σωστή λογική για τα διπλά γράμματα.", "k": "wordle helper βοηθός wordle ελληνικά λύτης wordle απαντήσεις πλακίδια γκρι κίτρινο πράσινο διπλά γράμματα καλύτερες επόμενες μαντεψιές παιχνίδι λέξεων", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://loonaautomation.github.io/loona-text-tools/el/word-unscrambler/", "s": "Loona Text Tools", "d": "Ξεμπερδέψτε ανακατεμένα γράμματα σε πραγματικές λέξεις από ένα πλήρες λεξικό 172,820 λέξεων — ομαδοποιημένες κατά μήκος, με βαθμολογίες Scrabble και υποστήριξη κενών πλακιδίων.", "k": "ξεμπερδευτής λέξεων ξεμπερδέψτε γράμματα αναγραμματισμός γράμματα σε λέξεις αναζητητής λέξεων βοήθεια scrabble κενά πλακίδια παιχνίδι λέξεων word unscrambler loona word unscrambler", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://loonaautomation.github.io/loona-text-tools/el/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Βρείτε τις κινήσεις με την υψηλότερη βαθμολογία από τα γράμματα της βάσης σας, με κενά πλακίδια και μοτίβα ταμπλό — συν έναν έλεγχο λέξεων που λύνει κάθε διαφωνία.", "k": "αναζητητής λέξεων scrabble βοήθεια scrabble καλύτερες κινήσεις γράμματα βάση έλεγχος λέξεων έγκυρη λέξη scrabble word finder loona scrabble word finder", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://loonaautomation.github.io/loona-text-tools/el/crossword-solver/", "s": "Loona Text Tools", "d": "Πληκτρολογήστε τα γράμματα που γνωρίζετε, ? για τα τετράγωνα που δεν γνωρίζετε — αναζητήστε 172,820 λέξεις με βάση το μοτίβο και ολοκληρώστε το πλέγμα.", "k": "λύτης σταυρολέξων βοήθεια σταυρόλεξο αναζήτηση με μοτίβο γράμματα που λείπουν λέξη με μοτίβο σταυρόλεξο crossword solver loona crossword solver", "p": 155, "c": "Tool"}]
+,{"n":"Επιλογέας Emoji","u":"https://text.loonaautomation.com/el/emoji-picker/","s":"Loona Text Tools","d":"Περιηγηθείτε ή αναζητήστε ανάμεσα σε 1,900+ emoji και σύμβολα – κάντε κλικ για αντιγραφή, με τόνους δέρματος και δίσκο αντιγραφής.","k":"emoji picker emoji picker περιηγηθειτε η αναζητηστε αναμεσα σε 1,900+ emoji και συμβολα – καντε κλικ για αντιγραφη, με τονους δερματος και δισκο αντιγραφης.","p":149,"c":"Tool"},
+{"n":"Σύνοψη κειμένου","u":"https://text.loonaautomation.com/el/text-summarizer/","s":"Loona Text Tools","d":"Επικολλήστε ένα μακροσκελές άρθρο, έκθεση ή αναφορά και πάρτε πίσω τις πιο σημαντικές πρωτότυπες προτάσεις του. Εξαγωγική περίληψη στο πρόγραμμα περιήγησής σας — δεν ανεβαίνει ποτέ, δεν ξαναγράφεται ποτέ.","k":"σύνοψη κειμένου συνοψίστε κείμενο περιληπτικό εργαλείο γεννήτρια περίληψης συντόμευση κειμένου περίληψη άρθρου περίληψη έκθεσης online σύνοψη","p":150,"c":"Tool"},
+ {"n": "Loona AI Detector", "u": "https://text.loonaautomation.com/el/ai-detector/", "s": "Loona Text Tools", "d": "Δείτε τα σήματα γραφής που μετρούν οι ανιχνευτές AI - ρυθμό προτάσεων, ποικιλία λεξιλογίου, επαναλαμβανόμενες φράσεις και προβλεψιμότητα. Ειλικρινή σήματα, όχι ετυμηγορία - και το κείμενό σας δεν φεύγει ποτέ από το πρόγραμμα περιήγησής σας.", "k": "ανιχνευτής ai έλεγχος κειμένου ai ανίχνευση περιεχομένου ai δωρεάν ανιχνευτής ai έλεγχος αν κείμενο γράφτηκε από ai ανιχνευτής τεχνητής νοημοσύνης online", "p": 151, "c": "Tool"},{"n": "Loona Wordle Helper", "u": "https://text.loonaautomation.com/el/wordle-helper/", "s": "Loona Text Tools", "d": "Πληκτρολόγησε τις μαντεψιές σου στο Wordle και πάτα τα πλακίδια σε γκρι, κίτρινο ή πράσινο: δες κάθε απάντηση που ταιριάζει ακόμα και τις καλύτερες επόμενες μαντεψιές, με σωστή λογική για τα διπλά γράμματα.", "k": "wordle helper βοηθός wordle ελληνικά λύτης wordle απαντήσεις πλακίδια γκρι κίτρινο πράσινο διπλά γράμματα καλύτερες επόμενες μαντεψιές παιχνίδι λέξεων", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://text.loonaautomation.com/el/word-unscrambler/", "s": "Loona Text Tools", "d": "Ξεμπερδέψτε ανακατεμένα γράμματα σε πραγματικές λέξεις από ένα πλήρες λεξικό 172,820 λέξεων — ομαδοποιημένες κατά μήκος, με βαθμολογίες Scrabble και υποστήριξη κενών πλακιδίων.", "k": "ξεμπερδευτής λέξεων ξεμπερδέψτε γράμματα αναγραμματισμός γράμματα σε λέξεις αναζητητής λέξεων βοήθεια scrabble κενά πλακίδια παιχνίδι λέξεων word unscrambler loona word unscrambler", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://text.loonaautomation.com/el/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Βρείτε τις κινήσεις με την υψηλότερη βαθμολογία από τα γράμματα της βάσης σας, με κενά πλακίδια και μοτίβα ταμπλό — συν έναν έλεγχο λέξεων που λύνει κάθε διαφωνία.", "k": "αναζητητής λέξεων scrabble βοήθεια scrabble καλύτερες κινήσεις γράμματα βάση έλεγχος λέξεων έγκυρη λέξη scrabble word finder loona scrabble word finder", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://text.loonaautomation.com/el/crossword-solver/", "s": "Loona Text Tools", "d": "Πληκτρολογήστε τα γράμματα που γνωρίζετε, ? για τα τετράγωνα που δεν γνωρίζετε — αναζητήστε 172,820 λέξεις με βάση το μοτίβο και ολοκληρώστε το πλέγμα.", "k": "λύτης σταυρολέξων βοήθεια σταυρόλεξο αναζήτηση με μοτίβο γράμματα που λείπουν λέξη με μοτίβο σταυρόλεξο crossword solver loona crossword solver", "p": 155, "c": "Tool"}]

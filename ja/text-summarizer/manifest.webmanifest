@@ -2,7 +2,7 @@
   "name": "Loona テキスト要約ツール オンライン — 長いテキストを即座に要約 | Loona Text Tools",
   "short_name": "テキスト要約ツール オンライン — 長いテキストを即座に要約 | Loona Text Tools",
   "description": "長いテキストを即座に要約：記事、エッセイ、レポートを貼り付けると、最も重要な原文が返ってきます。無料のオンラインテキスト要約ツール — 登録不要、100%プライベート。",
-  "id": "/loona-text-tools/ja/text-summarizer/",
+  "id": "/ja/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

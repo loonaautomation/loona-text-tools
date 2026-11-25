@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "ค้นหาการเล่นที่ได้คะแนนสูงสุดจากชั้นวางตัวอักษรของคุณ และตรวจสอบว่าคำใดใช้ได้หรือไม่ พจนานุกรม ENABLE ฉบับเต็ม 172,820 คำ รองรับตัวอักษรว่าง ทำงาน 100% บนอุปกรณ์ของคุณ ฟรี ไม่ต้องสมัคร",
-  "id": "/loona-text-tools/th/scrabble-word-finder/",
+  "id": "/th/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

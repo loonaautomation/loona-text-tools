@@ -2,7 +2,7 @@
   "name": "Loona Eliminare spații suplimentare online",
   "short_name": "Eliminare spații suplimentare online",
   "description": "Elimină spațiile suplimentare, taburile și liniile goale din text cu un clic. Ordonează textul copiat din PDF-uri, e-mailuri și pagini web. Eliminator online gratuit - fără înregistrare.",
-  "id": "/loona-text-tools/ro/remove-extra-spaces/",
+  "id": "/ro/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Görünmez Karakter Denetleyici",
   "short_name": "Görünmez Karakter Denetleyici",
   "description": "Metninizde saklanan görünmez karakterleri ortaya çıkarın - sıfır genişlikli boşluklar, BOM, bölünemez boşluklar ve yön işaretleri - ve onları tek tıklamayla kaldırın. Ücretsiz.",
-  "id": "/loona-text-tools/tr/invisible-character-checker/",
+  "id": "/tr/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

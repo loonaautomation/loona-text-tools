@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Gönderisi Karakter Sayacı",
   "short_name": "LinkedIn Gönderisi Karakter Sayacı",
   "description": "Ücretsiz LinkedIn Gönderisi Karakter Sayacı sayacı: 3.000 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/linkedin-post-character-counter/",
+  "id": "/tr/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

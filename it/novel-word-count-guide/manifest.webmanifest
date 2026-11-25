@@ -2,7 +2,7 @@
   "name": "Loona Conteggio parole romanzo per genere",
   "short_name": "Conteggio parole romanzo per genere",
   "description": "Conteggio parole romanzo per genere: adulti 70.000–120.000, YA 50.000–90.000, scuola media 20.000–55.000. Contatore in tempo reale gratuito con obiettivi di genere.",
-  "id": "/loona-text-tools/it/novel-word-count-guide/",
+  "id": "/it/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

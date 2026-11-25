@@ -2,7 +2,7 @@
   "name": "Loona مقال من 300 كلمة",
   "short_name": "مقال من 300 كلمة",
   "description": "عدّاد مقال من 300 كلمة مجانًا: عدّ كلمات مباشر نحو هدف الـ300 كلمة، صفحات بمسافة مفردة ومزدوجة، فقرات، وقت قراءة ووقت تحدث.",
-  "id": "/loona-text-tools/ar/300-word-essay-word-counter/",
+  "id": "/ar/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

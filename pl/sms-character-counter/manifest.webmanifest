@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków SMS",
   "short_name": "Licznik znaków SMS",
   "description": "Darmowy licznik znaków SMS: wykrywanie GSM 7-bit kontra Unicode, liczba segmentów i pozostałe znaki — na żywo, w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/sms-character-counter/",
+  "id": "/pl/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

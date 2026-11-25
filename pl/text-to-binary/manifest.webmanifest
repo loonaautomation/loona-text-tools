@@ -2,7 +2,7 @@
   "name": "Loona Konwerter tekstu na kod binarny online",
   "short_name": "Konwerter tekstu na kod binarny online",
   "description": "Zamień tekst na kod binarny (0 i 1), a kod binarny z powrotem na czytelny tekst, z pełną obsługą Unicode. Darmowy konwerter tekstu na kod binarny - świetny dla studentów informatyki.",
-  "id": "/loona-text-tools/pl/text-to-binary/",
+  "id": "/pl/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

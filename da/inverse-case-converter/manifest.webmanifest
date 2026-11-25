@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE cASE-konverter",
   "short_name": "iNVERSE cASE-konverter",
   "description": "Gratis iNVERSE cASE-konverter — indsæt tekst og få iNVERSE cASE øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/inverse-case-converter/",
+  "id": "/da/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

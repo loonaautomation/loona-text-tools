@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Paragraf Online Gratis",
   "short_name": "Penghitung Paragraf Online Gratis",
   "description": "Hitung paragraf dalam teks apa pun secara instan, dengan kalimat dan kata per paragraf serta paragraf terpanjang dan terpendek. Penghitung paragraf gratis, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/paragraph-counter/",
+  "id": "/id/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

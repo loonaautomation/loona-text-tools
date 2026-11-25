@@ -2,7 +2,7 @@
   "name": "Loona Test de frappe en ligne gratuit",
   "short_name": "Test de frappe en ligne gratuit",
   "description": "Test de frappe gratuit de 60 secondes : mesurez votre vitesse de frappe en mots/min, votre précision et vos caractères par minute avec des textes faciles, moyens et difficiles. Aucune inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-text-tools/fr/typing-test/",
+  "id": "/fr/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

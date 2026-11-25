@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор слів на сторінку",
   "short_name": "Калькулятор слів на сторінку",
   "description": "Безкоштовний калькулятор слів на сторінку: введіть слова, розмір шрифту та міжрядковий інтервал, щоб отримати кількість сторінок і слів на сторінку.",
-  "id": "/loona-text-tools/uk/words-per-page-calculator/",
+  "id": "/uk/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

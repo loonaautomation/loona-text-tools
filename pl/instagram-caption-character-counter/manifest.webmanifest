@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków podpisu na Instagramie",
   "short_name": "Licznik znaków podpisu na Instagramie",
   "description": "Darmowy licznik znaków podpisu na Instagramie: liczenie znaków na żywo względem limitu 2,200 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/instagram-caption-character-counter/",
+  "id": "/pl/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

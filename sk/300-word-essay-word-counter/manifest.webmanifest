@@ -2,7 +2,7 @@
   "name": "Loona Esej na 300 slov",
   "short_name": "Esej na 300 slov",
   "description": "Bezplatné počítadlo eseje na 300 slov: počítanie slov naživo k cieľu 300 slov, strany s jednoduchým a dvojitým riadkovaním, odseky, čas čítania a hovorenia.",
-  "id": "/loona-text-tools/sk/300-word-essay-word-counter/",
+  "id": "/sk/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

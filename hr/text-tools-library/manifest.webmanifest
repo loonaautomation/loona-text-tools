@@ -2,7 +2,7 @@
   "name": "Loona Knjižnica tekstualnih alata",
   "short_name": "Knjižnica tekstualnih alata",
   "description": "Puna Loona knjižnica tekstualnih alata: pretvarači veličine slova, brojači riječi eseja i govora, provjerivači ograničenja znakova platformi i kalkulatori čitljivosti.",
-  "id": "/loona-text-tools/hr/text-tools-library/",
+  "id": "/hr/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

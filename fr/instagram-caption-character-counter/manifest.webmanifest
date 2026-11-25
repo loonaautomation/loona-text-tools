@@ -2,7 +2,7 @@
   "name": "Loona Compteur de caractères de légendes Instagram",
   "short_name": "Compteur de caractères de légendes Instagram",
   "description": "Compteur de caractères de légendes Instagram gratuit : comptage de caractères en direct par rapport à la limite de 2,200 caractères, avec les mots et les caractères restants affichés pendant que vous tapez.",
-  "id": "/loona-text-tools/fr/instagram-caption-character-counter/",
+  "id": "/fr/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

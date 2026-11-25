@@ -2,7 +2,7 @@
   "name": "Loona Xóa ngắt dòng trực tuyến",
   "short_name": "Xóa ngắt dòng trực tuyến",
   "description": "Xóa ngắt dòng và nối các dòng bị vỡ thành đoạn văn sạch - hoàn hảo cho văn bản sao chép từ PDF. Công cụ xóa ngắt dòng trực tuyến miễn phí, không đăng ký, kết quả tức thì.",
-  "id": "/loona-text-tools/vi/remove-line-breaks/",
+  "id": "/vi/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

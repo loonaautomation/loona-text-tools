@@ -2,7 +2,7 @@
   "name": "Loona Счётчик символов онлайн",
   "short_name": "Счётчик символов онлайн",
   "description": "Считайте символы с пробелами и без пробелов и проверяйте лимиты для X (Twitter), SMS, метаописаний и многого другого. Бесплатный онлайн-счётчик символов - регистрация не нужна.",
-  "id": "/loona-text-tools/ru/character-counter/",
+  "id": "/ru/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

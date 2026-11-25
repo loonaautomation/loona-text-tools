@@ -2,7 +2,7 @@
   "name": "Loona CBZ naar PDF-omzetter gratis",
   "short_name": "CBZ naar PDF-omzetter gratis",
   "description": "Zet CBZ- en ZIP-striparchieven gratis om naar PDF in je browser. Pagina's in natuurlijke volgorde (1, 2, 10), één afbeelding per pagina op volledige grootte. Geen upload, geen registratie.",
-  "id": "/loona-text-tools/nl/cbz-to-pdf/",
+  "id": "/nl/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

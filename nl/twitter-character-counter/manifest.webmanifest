@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor Twitter / X",
   "short_name": "Tekenteller voor Twitter / X",
   "description": "Gratis tekenteller voor Twitter / X: live tekentelling tegen de limiet van 280 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/twitter-character-counter/",
+  "id": "/nl/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

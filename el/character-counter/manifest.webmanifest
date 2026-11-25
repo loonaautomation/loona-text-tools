@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Χαρακτήρων Online",
   "short_name": "Μετρητής Χαρακτήρων Online",
   "description": "Μετρήστε χαρακτήρες με και χωρίς κενά και ελέγξτε όρια για X (Twitter), SMS, μετα-περιγραφές και άλλα. Δωρεάν online μετρητής χαρακτήρων - δεν χρειάζεται εγγραφή.",
-  "id": "/loona-text-tools/el/character-counter/",
+  "id": "/el/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

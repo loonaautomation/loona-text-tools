@@ -2,7 +2,7 @@
   "name": "Loona Contador de párrafos en línea gratis",
   "short_name": "Contador de párrafos en línea gratis",
   "description": "Cuenta párrafos en cualquier texto al instante, con frases y palabras por párrafo y el párrafo más largo y el más corto. Contador de párrafos gratuito, sin registro.",
-  "id": "/loona-text-tools/es/paragraph-counter/",
+  "id": "/es/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

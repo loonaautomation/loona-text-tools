@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków podpisu na TikToku",
   "short_name": "Licznik znaków podpisu na TikToku",
   "description": "Darmowy licznik znaków podpisu na TikToku: liczenie znaków na żywo względem limitu 2,200 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/tiktok-caption-character-counter/",
+  "id": "/pl/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Extrator de E-mails Online Grátis",
   "short_name": "Extrator de E-mails Online Grátis",
   "description": "Extraia todos os endereços de e-mail de qualquer texto, documento ou conteúdo de página web - sem duplicados e listados um por linha. Funciona 100% no seu navegador. Grátis, sem registro.",
-  "id": "/loona-text-tools/pt-br/email-extractor/",
+  "id": "/pt-br/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

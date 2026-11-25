@@ -2,7 +2,7 @@
   "name": "Loona Kontrola dĺžky meta popisu",
   "short_name": "Kontrola dĺžky meta popisu",
   "description": "Bezplatná kontrola dĺžky meta popisu: počítanie znakov naživo oproti limitu 160 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/meta-description-length-checker/",
+  "id": "/sk/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

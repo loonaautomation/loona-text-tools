@@ -2,7 +2,7 @@
   "name": "Loona 2,000単語のエッセイ",
   "short_name": "2,000単語のエッセイ",
   "description": "無料 2,000単語エッセイカウンター：2,000単語の目標までのライブ単語数カウント、シングルスペースとダブルスペースのページ、段落、読書時間と話す時間。",
-  "id": "/loona-text-tools/ja/2000-word-essay-word-counter/",
+  "id": "/ja/2000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

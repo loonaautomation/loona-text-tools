@@ -2,7 +2,7 @@
   "name": "Loona EPUB Reader - Open & Read EPUB Ebooks Online",
   "short_name": "EPUB Reader - Open & Read EPUB Ebooks Online",
   "description": "Open and read EPUB ebooks online free, right in your browser. Chapter list, adjustable font size and dark mode. 100% private - your ebook never leaves your device. No sign-up.",
-  "id": "/loona-text-tools/en-us/epub-reader/",
+  "id": "/en-us/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prevodník na malé písmená",
   "short_name": "Prevodník na malé písmená",
   "description": "Bezplatný prevodník na malé písmená — vložte text a získajte malé písmená okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
-  "id": "/loona-text-tools/sk/lowercase-converter/",
+  "id": "/sk/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

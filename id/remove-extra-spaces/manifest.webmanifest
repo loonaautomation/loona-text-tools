@@ -2,7 +2,7 @@
   "name": "Loona Hapus Spasi Berlebih Online",
   "short_name": "Hapus Spasi Berlebih Online",
   "description": "Hapus spasi berlebih, tab dan baris kosong dari teks dalam satu klik. Rapikan teks yang disalin dari PDF, email dan halaman web. Penghapus online gratis - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/remove-extra-spaces/",
+  "id": "/id/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

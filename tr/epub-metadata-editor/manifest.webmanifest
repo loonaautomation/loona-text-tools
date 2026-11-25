@@ -2,7 +2,7 @@
   "name": "Loona EPUB Üst Veri Düzenleyici Ücretsiz",
   "short_name": "EPUB Üst Veri Düzenleyici Ücretsiz",
   "description": "EPUB üst verilerini tarayıcınızda ücretsiz düzenleyin: başlık, yazar, dil, yayınevi ve açıklama, kapak bilgisi gösterilerek. Bölümler dokunulmamış, yükleme yok, kayıt yok.",
-  "id": "/loona-text-tools/tr/epub-metadata-editor/",
+  "id": "/tr/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

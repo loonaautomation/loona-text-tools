@@ -2,7 +2,7 @@
   "name": "Loona Anagramgenerator og -kontrol online gratis",
   "short_name": "Anagramgenerator og -kontrol online gratis",
   "description": "Find anagrammer af ethvert ord fra rigtige engelske ord, og tjek, om to ord eller sætninger er anagrammer af hinanden. Gratis anagramløser, ingen tilmelding.",
-  "id": "/loona-text-tools/da/anagram-generator/",
+  "id": "/da/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

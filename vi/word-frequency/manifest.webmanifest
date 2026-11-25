@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm tần suất từ trực tuyến",
   "short_name": "Bộ đếm tần suất từ trực tuyến",
   "description": "Đếm tần suất mỗi từ xuất hiện trong văn bản của bạn và xem một bảng tần suất xếp hạng với phần trăm. Bộ đếm tần suất từ trực tuyến miễn phí - không đăng ký, tức thì.",
-  "id": "/loona-text-tools/vi/word-frequency/",
+  "id": "/vi/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

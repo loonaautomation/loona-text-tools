@@ -2,7 +2,7 @@
   "name": "Loona Padam Tanda Baca Dalam talian Percuma",
   "short_name": "Padam Tanda Baca Dalam talian Percuma",
   "description": "Padam tanda baca dari teks apa pun dalam satu klik - titik, koma, tanda kutip dan lain - dengan pilihan mempertahankan apostrof dan tanda hubung. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/remove-punctuation/",
+  "id": "/ms/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

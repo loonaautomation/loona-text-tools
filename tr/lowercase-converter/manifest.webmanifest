@@ -2,7 +2,7 @@
   "name": "Loona Küçük Harf Dönüştürücü",
   "short_name": "Küçük Harf Dönüştürücü",
   "description": "Ücretsiz Küçük Harf dönüştürücü — metni yapıştırın ve anında küçük harf elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/lowercase-converter/",
+  "id": "/tr/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

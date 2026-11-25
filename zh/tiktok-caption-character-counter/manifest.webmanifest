@@ -2,7 +2,7 @@
   "name": "Loona TikTok 标题字符计数器",
   "short_name": "TikTok 标题字符计数器",
   "description": "免费的 TikTok 标题字符计数器 计数器:输入时实时统计字符数,对照 2,200 字符的限制,并显示词数和剩余字符数。",
-  "id": "/loona-text-tools/zh/tiktok-caption-character-counter/",
+  "id": "/zh/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

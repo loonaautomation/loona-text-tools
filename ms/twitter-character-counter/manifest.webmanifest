@@ -2,7 +2,7 @@
   "name": "Loona Pengira Aksara Twitter / X",
   "short_name": "Pengira Aksara Twitter / X",
   "description": "Pengira pengira aksara Twitter / X percuma: hitungan aksara langsung terhadap had 280 aksara, dengan perkataan dan sisa aksara ditampilkan saat anda menaip.",
-  "id": "/loona-text-tools/ms/twitter-character-counter/",
+  "id": "/ms/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid 학년 계산기",
   "short_name": "Flesch–Kincaid 학년 계산기",
   "description": "무료 Flesch–Kincaid 학년 계산기: 텍스트를 붙여 넣으면 학년 수준과 읽기 쉬움 점수를 얻어요. 문장당 단어와 단어당 음절과 함께예요.",
-  "id": "/loona-text-tools/ko/flesch-kincaid-grade-calculator/",
+  "id": "/ko/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

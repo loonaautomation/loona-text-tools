@@ -2,7 +2,7 @@
   "name": "Loona Contor de cuvinte online gratuit",
   "short_name": "Contor de cuvinte online gratuit",
   "description": "Numără cuvintele, caracterele, propozițiile și paragrafele din orice text instant, cu timp de citire și timp de vorbire. Contor gratuit de cuvinte, fără înregistrare, funcționează offline.",
-  "id": "/loona-text-tools/ro/word-counter/",
+  "id": "/ro/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

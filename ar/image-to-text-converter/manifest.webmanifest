@@ -2,7 +2,7 @@
   "name": "Loona محوّل الصور إلى نص (OCR) عبر الإنترنت مجانًا",
   "short_name": "محوّل الصور إلى نص (OCR) عبر الإنترنت مجانًا",
   "description": "استخرج نصًا قابلًا للتحرير من الصور والصور الفوتوغرافية بـOCR مجاني يعمل 100% في متصفحك. PNG وJPG وWebP وBMP - صورتك لا تُرفع أبدًا.",
-  "id": "/loona-text-tools/ar/image-to-text-converter/",
+  "id": "/ar/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Twitter / X Karakter Sayacı",
   "short_name": "Twitter / X Karakter Sayacı",
   "description": "Ücretsiz Twitter / X Karakter Sayacı sayacı: 280 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/twitter-character-counter/",
+  "id": "/tr/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

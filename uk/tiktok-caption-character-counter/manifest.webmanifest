@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів підписів TikTok",
   "short_name": "Лічильник символів підписів TikTok",
   "description": "Безкоштовний лічильник символів підписів TikTok: підрахунок символів наживо проти ліміту 2,200 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/tiktok-caption-character-counter/",
+  "id": "/uk/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

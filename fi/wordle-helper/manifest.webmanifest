@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Kirjoita Wordle-arvauksesi ja napauta ruudut harmaiksi, keltaisiksi tai vihreiksi: tämä ilmainen apuri näyttää jokaisen vastauksen, joka vielä sopii, ja parhaat seuraavat arvaukset. Oikea logiikka tuplakirjaimille, ei rekisteröitymistä, ja kaikki toimii selaimessasi.",
-  "id": "/loona-text-tools/fi/wordle-helper/",
+  "id": "/fi/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

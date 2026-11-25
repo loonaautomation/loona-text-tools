@@ -2,7 +2,7 @@
   "name": "Loona PascalCase-omvandlare",
   "short_name": "PascalCase-omvandlare",
   "description": "Gratis PascalCase-omvandlare — klistra in text och få PascalCase omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/pascalcase-converter/",
+  "id": "/sv/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

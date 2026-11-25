@@ -2,7 +2,7 @@
   "name": "Loona Slug-Generator online",
   "short_name": "Slug-Generator online",
   "description": "Beliebigen Titel in einen sauberen, SEO-freundlichen URL-Slug verwandeln: klein, keine Leerzeichen, keine Sonderzeichen. Kostenloser Online-Slug-Generator mit voller URL-Vorschau – keine Registrierung.",
-  "id": "/loona-text-tools/de/slug-generator/",
+  "id": "/de/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

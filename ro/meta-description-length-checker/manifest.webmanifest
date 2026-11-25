@@ -2,7 +2,7 @@
   "name": "Loona Verificator al lungimii meta descrierii",
   "short_name": "Verificator al lungimii meta descrierii",
   "description": "Verificator gratuit al lungimii meta descrierii: numărătoare de caractere în direct față de limita de 160 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/meta-description-length-checker/",
+  "id": "/ro/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Sentensi Mtandaoni Bure",
   "short_name": "Kihesabu cha Sentensi Mtandaoni Bure",
   "description": "Hesabu sentensi, aya, maneno na vibambo katika maandishi yoyote mara moja, pamoja na urefu wa wastani wa sentensi. Kihesabu cha bure cha sentensi, bila kujisajili, hufanya kazi katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/sentence-counter/",
+  "id": "/sw/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

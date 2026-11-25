@@ -2,7 +2,7 @@
   "name": "Loona Bài nói 5 phút",
   "short_name": "Bài nói 5 phút",
   "description": "Bao nhiêu từ trong một bài nói 5 phút? 550–900 từ (750 với tốc độ trò chuyện). Bộ đếm trực tiếp miễn phí với kiểm tra thời gian nói.",
-  "id": "/loona-text-tools/vi/5-minute-speech-word-count/",
+  "id": "/vi/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

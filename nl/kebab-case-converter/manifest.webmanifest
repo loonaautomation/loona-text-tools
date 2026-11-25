@@ -2,7 +2,7 @@
   "name": "Loona kebab-case-omzetter",
   "short_name": "kebab-case-omzetter",
   "description": "Gratis kebab-case-omzetter — plak tekst en krijg direct kebab-case. Live omzetting in je browser, geen registratie, geen upload.",
-  "id": "/loona-text-tools/nl/kebab-case-converter/",
+  "id": "/nl/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

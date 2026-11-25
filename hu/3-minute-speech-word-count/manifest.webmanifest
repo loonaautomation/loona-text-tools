@@ -2,7 +2,7 @@
   "name": "Loona 3 perces beszéd",
   "short_name": "3 perces beszéd",
   "description": "Hány szó van egy 3 perces beszédben? 330–540 szó (450 társalgási tempóban). Ingyenes élő számláló beszédidő-ellenőrzéssel.",
-  "id": "/loona-text-tools/hu/3-minute-speech-word-count/",
+  "id": "/hu/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

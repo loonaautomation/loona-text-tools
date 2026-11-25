@@ -2,7 +2,7 @@
   "name": "Loona מונה תווי פוסטים ב-Reddit",
   "short_name": "מונה תווי פוסטים ב-Reddit",
   "description": "מונה תווי פוסטים ב-Reddit בחינם: ספירת תווים חיה מול מגבלת 40,000 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/reddit-post-character-counter/",
+  "id": "/he/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

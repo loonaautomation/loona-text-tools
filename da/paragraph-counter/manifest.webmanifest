@@ -2,7 +2,7 @@
   "name": "Loona Afsnitstæller online gratis",
   "short_name": "Afsnitstæller online gratis",
   "description": "Tæl afsnit i enhver tekst øjeblikkeligt, med sætninger og ord pr. afsnit og det længste og korteste afsnit. Gratis afsnitstæller, ingen tilmelding.",
-  "id": "/loona-text-tools/da/paragraph-counter/",
+  "id": "/da/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

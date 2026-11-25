@@ -2,7 +2,7 @@
   "name": "Loona Bild till text-omvandlare (OCR) online gratis",
   "short_name": "Bild till text-omvandlare (OCR) online gratis",
   "description": "Extrahera redigerbar text från bilder och foton med gratis OCR som körs till 100% i din webbläsare. PNG, JPG, WebP och BMP - din bild laddas aldrig upp.",
-  "id": "/loona-text-tools/sv/image-to-text-converter/",
+  "id": "/sv/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

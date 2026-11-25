@@ -2,7 +2,7 @@
   "name": "Loona 1-मिनट भाषण",
   "short_name": "1-मिनट भाषण",
   "description": "1-मिनट के भाषण में कितने शब्द? 110–180 शब्द (बातचीत गति पर 150)। बोलने-के-समय की जांच के साथ मुफ़्त लाइव गणक।",
-  "id": "/loona-text-tools/hi/1-minute-speech-word-count/",
+  "id": "/hi/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Calcolatore del livello di lettura",
   "short_name": "Calcolatore del livello di lettura",
   "description": "Valuta qualsiasi testo con la scala Flesch Reading Ease e il livello Flesch-Kincaid, usando le formule standard. Vedi quanto è facile da leggere la tua scrittura. Gratuito.",
-  "id": "/loona-text-tools/it/reading-level-calculator/",
+  "id": "/it/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

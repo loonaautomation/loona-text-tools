@@ -2,7 +2,7 @@
   "name": "Loona Промова на 3 хвилини",
   "short_name": "Промова на 3 хвилини",
   "description": "Скільки слів у промові на 3 хвилини? 330–540 слів (450 за розмовного темпу). Безкоштовний лічильник наживо з перевіркою часу виступу.",
-  "id": "/loona-text-tools/uk/3-minute-speech-word-count/",
+  "id": "/uk/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

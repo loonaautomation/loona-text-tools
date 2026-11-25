@@ -2,7 +2,7 @@
   "name": "Loona Brojač riječi na mreži besplatno",
   "short_name": "Brojač riječi na mreži besplatno",
   "description": "Brojite riječi, znakove, rečenice i odlomke u bilo kojem tekstu trenutačno, s vremenom čitanja i vremenom govora. Besplatan brojač riječi, bez registracije, radi izvan mreže.",
-  "id": "/loona-text-tools/hr/word-counter/",
+  "id": "/hr/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

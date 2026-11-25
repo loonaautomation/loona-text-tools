@@ -2,7 +2,7 @@
   "name": "Loona Satzzeichen online kostenlos entfernen",
   "short_name": "Satzzeichen online kostenlos entfernen",
   "description": "Satzzeichen aus beliebigem Text mit einem Klick entfernen – Punkte, Kommas, Anführungszeichen und mehr – mit Optionen, Apostrophe und Bindestriche zu behalten. Kostenlos, keine Registrierung.",
-  "id": "/loona-text-tools/de/remove-punctuation/",
+  "id": "/de/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

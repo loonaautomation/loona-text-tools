@@ -2,7 +2,7 @@
   "name": "Loona Pidato 2 Menit",
   "short_name": "Pidato 2 Menit",
   "description": "Berapa banyak kata dalam pidato 2 menit? 220–360 kata (300 pada kecepatan percakapan). Penghitung langsung gratis dengan pemeriksaan waktu berbicara.",
-  "id": "/loona-text-tools/id/2-minute-speech-word-count/",
+  "id": "/id/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

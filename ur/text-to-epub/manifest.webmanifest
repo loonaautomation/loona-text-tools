@@ -2,7 +2,7 @@
   "name": "Loona متن سے EPUB کنورٹر مفت",
   "short_name": "متن سے EPUB کنورٹر مفت",
   "description": "اپنے براؤزر میں سادہ متن یا Markdown کو مفت درست EPUB ای بک میں بدلیں۔ عنوان اور مصنف، سرخیوں سے ابواب، کسی بھی EPUB ریڈر میں کھلتی ہے۔ کوئی اپ لوڈ نہیں، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/text-to-epub/",
+  "id": "/ur/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

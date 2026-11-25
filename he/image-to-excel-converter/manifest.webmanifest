@@ -2,7 +2,7 @@
   "name": "Loona ממיר תמונה ל-Excel מקוון חינמי",
   "short_name": "ממיר תמונה ל-Excel מקוון חינמי",
   "description": "המירו תמונה, סריקה או צילום מסך של טבלה לקובץ Excel (.xlsx) אמיתי עם OCR חינמי שפועל 100% בדפדפן שלכם. ערכו את הטבלה לפני ההורדה - ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/image-to-excel-converter/",
+  "id": "/he/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

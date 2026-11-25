@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Mivunjo ya Mistari Mtandaoni",
   "short_name": "Ondoa Mivunjo ya Mistari Mtandaoni",
   "description": "Ondoa mivunjo ya mistari na uunganishe mistari iliyovunjika kuwa aya safi - kamili kwa maandishi yaliyonakiliwa kutoka PDF. Kiondoaji cha bure cha mivunjo ya mistari mtandaoni, bila kujisajili, matokeo ya papo hapo.",
-  "id": "/loona-text-tools/sw/remove-line-breaks/",
+  "id": "/sw/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tekstiviestien merkkilaskuri",
   "short_name": "Tekstiviestien merkkilaskuri",
   "description": "Ilmainen tekstiviestien merkkilaskuri: GSM 7-bittinen vs Unicode -tunnistus, segmenttien määrä ja jäljellä olevat merkit — reaaliajassa, selaimessasi.",
-  "id": "/loona-text-tools/fi/sms-character-counter/",
+  "id": "/fi/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

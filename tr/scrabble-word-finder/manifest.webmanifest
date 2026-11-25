@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Harf rafınızdan en yüksek puanlı hamleleri bulun ve herhangi bir kelimenin geçerli olup olmadığını denetleyin. Eksiksiz 172.820 kelimelik ENABLE sözlüğü, boş taş desteği, %100 cihazda. Ücretsiz, kayıt yok.",
-  "id": "/loona-text-tools/tr/scrabble-word-finder/",
+  "id": "/tr/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

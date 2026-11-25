@@ -2,7 +2,7 @@
   "name": "Loona Doppelte Zeilen online entfernen",
   "short_name": "Doppelte Zeilen online entfernen",
   "description": "Doppelte Zeilen aus beliebiger Liste oder Text entfernen und nur die eindeutigen Zeilen behalten, in ursprünglicher Reihenfolge. Kostenloser Duplikat-Zeilen-Entferner – keine Registrierung, sofortige Ergebnisse.",
-  "id": "/loona-text-tools/de/remove-duplicate-lines/",
+  "id": "/de/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

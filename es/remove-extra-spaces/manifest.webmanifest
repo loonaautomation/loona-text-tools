@@ -2,7 +2,7 @@
   "name": "Loona Eliminar espacios extra en línea",
   "short_name": "Eliminar espacios extra en línea",
   "description": "Elimina espacios extra, tabulaciones y líneas en blanco de un texto con un clic. Ordena el texto copiado de PDF, correos y páginas web. Eliminador en línea gratuito: sin registro.",
-  "id": "/loona-text-tools/es/remove-extra-spaces/",
+  "id": "/es/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

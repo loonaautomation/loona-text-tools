@@ -2,7 +2,7 @@
   "name": "Loona Реч от 3 минути",
   "short_name": "Реч от 3 минути",
   "description": "Колко думи в реч от 3 минути? 330–540 думи (450 при разговорно темпо). Безплатен брояч на живо с проверка на времето за говорене.",
-  "id": "/loona-text-tools/bg/3-minute-speech-word-count/",
+  "id": "/bg/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

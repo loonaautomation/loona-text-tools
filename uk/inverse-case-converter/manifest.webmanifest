@@ -2,7 +2,7 @@
   "name": "Loona Конвертер iNVERSE cASE",
   "short_name": "Конвертер iNVERSE cASE",
   "description": "Безкоштовний конвертер ЗВОРОТНОГО рЕГІСТРУ — вставте текст і отримайте ЗВОРОТНИЙ рЕГІСТР миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/inverse-case-converter/",
+  "id": "/uk/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

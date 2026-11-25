@@ -2,7 +2,7 @@
   "name": "Loona ממיר טקסט להקסדצימלי אונליין בחינם",
   "short_name": "ממיר טקסט להקסדצימלי אונליין בחינם",
   "description": "המירו טקסט להקסדצימלי והקסדצימלי בחזרה לטקסט, עם טיפול נכון ב-UTF-8 לאותיות מודגשות, אורדו ואימוג'י. ממיר הקסדצימלי חינמי, ללא הרשמה.",
-  "id": "/loona-text-tools/he/text-to-hex-converter/",
+  "id": "/he/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

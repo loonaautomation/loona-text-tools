@@ -2,7 +2,7 @@
   "name": "Loona Olvasási idő számítása",
   "short_name": "Olvasási idő számítása",
   "description": "Illesszen be bármely szöveget, és nézze meg, mennyi idő elolvasni lassú, átlagos és gyors sebességgel - plusz hány szóra van szüksége egy cél olvasási időhöz. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/reading-time-calculator/",
+  "id": "/hu/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

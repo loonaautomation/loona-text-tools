@@ -2,7 +2,7 @@
   "name": "Loona Calculator al timpului de vorbire",
   "short_name": "Calculator al timpului de vorbire",
   "description": "Lipește discursul sau scenariul și vezi cât durează rostirea lui în ritmuri lente, conversaționale și rapide - plus câte cuvinte încap într-un timp țintă. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/speaking-time-calculator/",
+  "id": "/ro/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

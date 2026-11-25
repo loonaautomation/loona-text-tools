@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Trova le giocate con il punteggio più alto dal tuo leggio di lettere e verifica se qualsiasi parola è valida. Dizionario ENABLE completo di 172,820 parole, supporto per le tessere bianche, 100% sul tuo dispositivo. Gratuito e senza registrazione.",
-  "id": "/loona-text-tools/it/scrabble-word-finder/",
+  "id": "/it/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

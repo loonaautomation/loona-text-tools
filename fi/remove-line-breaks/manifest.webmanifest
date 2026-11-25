@@ -2,7 +2,7 @@
   "name": "Loona Poista rivinvaihdot verkossa",
   "short_name": "Poista rivinvaihdot verkossa",
   "description": "Poista rivinvaihdot ja liitä rikkinäiset rivit siisteiksi kappaleiksi – täydellinen PDF-tiedostoista kopioidulle tekstille. Ilmainen rivinvaihtojen poistaja verkossa, ei rekisteröitymistä, välittömät tulokset.",
-  "id": "/loona-text-tools/fi/remove-line-breaks/",
+  "id": "/fi/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Marejeo Mtandaoni Bure",
   "short_name": "Kizalishaji cha Marejeo Mtandaoni Bure",
   "description": "Zalisha marejeo yaliyoumbizwa kwa usahihi kwa tovuti, vitabu na makala za jarida katika APA 7, MLA 9 na Chicago mwandishi-tarehe - bure, papo hapo, katika kivinjari chako.",
-  "id": "/loona-text-tools/sw/citation-generator/",
+  "id": "/sw/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

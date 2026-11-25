@@ -2,7 +2,7 @@
   "name": "Loona فاحص الباليندروم عبر الإنترنت مجانًا",
   "short_name": "فاحص الباليندروم عبر الإنترنت مجانًا",
   "description": "تحقق مما إذا كانت أي كلمة أو رقم أو جملة باليندرومًا - تُقرأ بالطريقة نفسها للأمام والخلف. يعرض النص المنظّف وعكسه. مجاني، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/palindrome-checker/",
+  "id": "/ar/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

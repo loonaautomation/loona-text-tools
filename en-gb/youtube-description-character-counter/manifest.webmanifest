@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/youtube-description-character-counter/",
+  "id": "/en-gb/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

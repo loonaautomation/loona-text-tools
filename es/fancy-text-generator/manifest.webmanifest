@@ -2,7 +2,7 @@
   "name": "Loona Generador de texto decorativo en línea",
   "short_name": "Generador de texto decorativo en línea",
   "description": "Convierte texto simple en fuentes Unicode con estilo (negrita, manuscrita, fraktur, con círculos, versalitas y más) para biografías, pies de foto y nombres de usuario. Generador de texto decorativo gratuito.",
-  "id": "/loona-text-tools/es/fancy-text-generator/",
+  "id": "/es/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

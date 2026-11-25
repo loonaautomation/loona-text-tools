@@ -2,7 +2,7 @@
   "name": "Loona Калкулатор за време за четене",
   "short_name": "Калкулатор за време за четене",
   "description": "Поставете всеки текст и вижте колко време отнема четенето му при бавна, средна и бърза скорост - плюс колко думи ви трябват за целево време за четене. Безплатно, без регистрация.",
-  "id": "/loona-text-tools/bg/reading-time-calculator/",
+  "id": "/bg/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

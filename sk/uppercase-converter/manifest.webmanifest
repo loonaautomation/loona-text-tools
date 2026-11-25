@@ -2,7 +2,7 @@
   "name": "Loona Prevodník na veľké písmená",
   "short_name": "Prevodník na veľké písmená",
   "description": "Bezplatný prevodník na veľké písmená — vložte text a získajte UPPERCASE okamžite. Prevod naživo vo vašom prehliadači, bez registrácie, bez nahrávania.",
-  "id": "/loona-text-tools/sk/uppercase-converter/",
+  "id": "/sk/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

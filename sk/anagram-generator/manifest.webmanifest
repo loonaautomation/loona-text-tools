@@ -2,7 +2,7 @@
   "name": "Loona Generátor anagramov a kontrola online zadarmo",
   "short_name": "Generátor anagramov a kontrola online zadarmo",
   "description": "Nájdite anagramy akéhokoľvek slova zo skutočných anglických slov a skontrolujte, či sú dve slová alebo frázy navzájom anagramami. Bezplatný riešiteľ anagramov, bez registrácie.",
-  "id": "/loona-text-tools/sk/anagram-generator/",
+  "id": "/sk/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

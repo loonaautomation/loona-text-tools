@@ -2,7 +2,7 @@
   "name": "Loona Αφαίρεση Περιττών Κενών Online",
   "short_name": "Αφαίρεση Περιττών Κενών Online",
   "description": "Αφαιρέστε περιττά κενά, στηλοθέτες και κενές γραμμές από κείμενο με ένα κλικ. Τακτοποιήστε κείμενο που αντιγράφηκε από PDF, email και ιστοσελίδες. Δωρεάν online αφαίρεση - δεν χρειάζεται εγγραφή.",
-  "id": "/loona-text-tools/el/remove-extra-spaces/",
+  "id": "/el/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

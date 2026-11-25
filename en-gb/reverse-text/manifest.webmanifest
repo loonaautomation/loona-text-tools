@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/reverse-text/",
+  "id": "/en-gb/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

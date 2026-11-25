@@ -2,7 +2,7 @@
   "name": "Loona Slug Oluşturucu Çevrimiçi",
   "short_name": "Slug Oluşturucu Çevrimiçi",
   "description": "Herhangi bir başlığı temiz, SEO dostu bir URL slug'a dönüştürün: küçük harf, boşluk yok, özel karakter yok. Tam URL önizlemeli ücretsiz çevrimiçi slug oluşturucu - kayıt yok.",
-  "id": "/loona-text-tools/tr/slug-generator/",
+  "id": "/tr/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

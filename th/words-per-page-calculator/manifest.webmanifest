@@ -2,7 +2,7 @@
   "name": "Loona ตัวคำนวณคำต่อหน้า",
   "short_name": "ตัวคำนวณคำต่อหน้า",
   "description": "เครื่องคำนวณคำต่อหน้าฟรี: กรอกคำ ขนาดตัวอักษร และระยะห่างบรรทัด เพื่อรับจำนวนหน้าและคำต่อหน้า",
-  "id": "/loona-text-tools/th/words-per-page-calculator/",
+  "id": "/th/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

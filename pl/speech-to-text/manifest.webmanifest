@@ -2,7 +2,7 @@
   "name": "Loona Mowa na tekst online za darmo",
   "short_name": "Mowa na tekst online za darmo",
   "description": "Dyktuj głosem i obserwuj, jak zamienia się w tekst - darmowa mowa na tekst online dla angielskiego, urdu i innych języków. Bez rejestracji; działa w Chrome i Edge.",
-  "id": "/loona-text-tools/pl/speech-to-text/",
+  "id": "/pl/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova za Instagram opise",
   "short_name": "Brojač znakova za Instagram opise",
   "description": "Besplatan brojač znakova za Instagram opise: broj znakova uživo u odnosu na ograničenje od 2,200 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/instagram-caption-character-counter/",
+  "id": "/hr/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum जनरेटर ऑनलाइन",
   "short_name": "Lorem Ipsum जनरेटर ऑनलाइन",
   "description": "अनुच्छेद, वाक्य या शब्द के अनुसार lorem ipsum डमी टेक्स्ट जनरेट करें - डिज़ाइन और लेआउट में पेस्ट करने के लिए तैयार। मुफ़्त lorem ipsum जनरेटर, साइन-अप की ज़रूरत नहीं।",
-  "id": "/loona-text-tools/hi/lorem-ipsum-generator/",
+  "id": "/hi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

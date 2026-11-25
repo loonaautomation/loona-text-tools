@@ -2,7 +2,7 @@
   "name": "Loona Ukloni suvišne razmake na mreži",
   "short_name": "Ukloni suvišne razmake na mreži",
   "description": "Uklonite suvišne razmake, tabove i prazne retke iz teksta u jednom kliku. Uredite tekst kopiran iz PDF-ova, e-pošte i web stranica. Besplatan mrežni uklanjač - registracija nije potrebna.",
-  "id": "/loona-text-tools/hr/remove-extra-spaces/",
+  "id": "/hr/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator slugów online",
   "short_name": "Generator slugów online",
   "description": "Zamień dowolny tytuł w czysty, przyjazny SEO slug URL: małe litery, bez spacji, bez znaków specjalnych. Darmowy generator slugów online z pełnym podglądem URL - bez rejestracji.",
-  "id": "/loona-text-tools/pl/slug-generator/",
+  "id": "/pl/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

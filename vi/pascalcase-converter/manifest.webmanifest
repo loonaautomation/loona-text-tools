@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi PascalCase",
   "short_name": "Công cụ chuyển đổi PascalCase",
   "description": "Công cụ chuyển đổi PascalCase miễn phí — dán văn bản và nhận PascalCase ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/pascalcase-converter/",
+  "id": "/vi/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

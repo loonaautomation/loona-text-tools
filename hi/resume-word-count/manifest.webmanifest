@@ -2,7 +2,7 @@
   "name": "Loona रिज़्यूमे शब्द गणना",
   "short_name": "रिज़्यूमे शब्द गणना",
   "description": "रिज़्यूमे शब्द गणना जांचक: एक-पृष्ठ लक्ष्य (400–600 शब्द), पृष्ठ अनुमान और छंटनी मार्गदर्शन के साथ लाइव गणना।",
-  "id": "/loona-text-tools/hi/resume-word-count/",
+  "id": "/hi/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

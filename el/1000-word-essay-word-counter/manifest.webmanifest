@@ -2,7 +2,7 @@
   "name": "Loona Έκθεση 1,000 Λέξεων",
   "short_name": "Έκθεση 1,000 Λέξεων",
   "description": "Δωρεάν μετρητής έκθεσης 1,000 λέξεων: ζωντανό πλήθος λέξεων προς τον στόχο των 1,000 λέξεων, σελίδες με μονό και διπλό διάστιχο, παράγραφοι, χρόνος ανάγνωσης και ομιλίας.",
-  "id": "/loona-text-tools/el/1000-word-essay-word-counter/",
+  "id": "/el/1000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

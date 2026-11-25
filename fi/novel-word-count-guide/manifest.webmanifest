@@ -2,7 +2,7 @@
   "name": "Loona Romaanin sanalaskuri genren mukaan",
   "short_name": "Romaanin sanalaskuri genren mukaan",
   "description": "Romaanin sanalaskuri genren mukaan: aikuiset 70,000–120,000, YA 50,000–90,000, keskitaso 20,000–55,000. Ilmainen reaaliaikainen laskuri genretavoitteilla.",
-  "id": "/loona-text-tools/fi/novel-word-count-guide/",
+  "id": "/fi/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

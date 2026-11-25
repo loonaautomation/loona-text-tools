@@ -2,7 +2,7 @@
   "name": "Loona Eseu de 800 de cuvinte",
   "short_name": "Eseu de 800 de cuvinte",
   "description": "Contor gratuit pentru eseu de 800 de cuvinte: numărătoare de cuvinte în direct până la ținta de 800 de cuvinte, pagini la un rând și la rând dublu, paragrafe, timp de citire și de vorbire.",
-  "id": "/loona-text-tools/ro/800-word-essay-word-counter/",
+  "id": "/ro/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

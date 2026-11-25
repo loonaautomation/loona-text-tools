@@ -2,7 +2,7 @@
   "name": "Loona מונה תווי פוסטים ב-LinkedIn",
   "short_name": "מונה תווי פוסטים ב-LinkedIn",
   "description": "מונה תווי פוסטים ב-LinkedIn בחינם: ספירת תווים חיה מול מגבלת 3,000 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/linkedin-post-character-counter/",
+  "id": "/he/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

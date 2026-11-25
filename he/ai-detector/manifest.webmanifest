@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "הדביקו כל טקסט וראו את אותות הכתיבה שגלאי בינה מלאכותית מודדים - קצב משפטים, מגוון אוצר מילים, ביטויים חוזרים וצפיות. גלאי בינה מלאכותית חינמי: ללא הרשמה, ללא פסקי דין, והטקסט שלכם לעולם לא עוזב את הדפדפן שלכם.",
-  "id": "/loona-text-tools/he/ai-detector/",
+  "id": "/he/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

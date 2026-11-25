@@ -2,7 +2,7 @@
   "name": "Loona aLtErNaTiNg CaSe -muunnin",
   "short_name": "aLtErNaTiNg CaSe -muunnin",
   "description": "Ilmainen aLtErNaTiNg CaSe -muunnin — liitä teksti ja saa aLtErNaTiNg CaSe välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/alternating-case-converter/",
+  "id": "/fi/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

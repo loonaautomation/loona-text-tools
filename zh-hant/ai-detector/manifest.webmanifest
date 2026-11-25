@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "貼上任何文字,查看 AI 檢測器測量的寫作訊號——句子節奏、詞彙多樣性、重複短語和可預測性。免費 AI 檢測器:無需註冊,不下結論,您的文字從不離開瀏覽器。",
-  "id": "/loona-text-tools/zh-hant/ai-detector/",
+  "id": "/zh-hant/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

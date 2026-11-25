@@ -2,7 +2,7 @@
   "name": "Loona EPUB-metatietojen muokkain ilmaiseksi",
   "short_name": "EPUB-metatietojen muokkain ilmaiseksi",
   "description": "Muokkaa EPUB-metatietoja ilmaiseksi selaimessasi: nimeke, tekijä, kieli, kustantaja ja kuvaus, kansitiedot näytettynä. Luvut koskemattomina, ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/epub-metadata-editor/",
+  "id": "/fi/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

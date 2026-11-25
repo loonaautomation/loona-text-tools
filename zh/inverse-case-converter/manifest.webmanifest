@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE cASE 转换器",
   "short_name": "iNVERSE cASE 转换器",
   "description": "免费的 iNVERSE cASE 转换器——粘贴文本,立即得到 iNVERSE cASE。在您的浏览器中实时转换,无需注册,不上传。",
-  "id": "/loona-text-tools/zh/inverse-case-converter/",
+  "id": "/zh/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

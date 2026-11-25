@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "從您的字母架中找到得分最高的打法，並檢查任何單詞是否有效。完整的 172,820 詞 ENABLE 詞典，支援空白牌，100% 在裝置上運行。免費，無需註冊。",
-  "id": "/loona-text-tools/zh-hant/scrabble-word-finder/",
+  "id": "/zh-hant/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

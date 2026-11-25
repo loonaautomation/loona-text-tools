@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів заголовка YouTube",
   "short_name": "Лічильник символів заголовка YouTube",
   "description": "Безкоштовний лічильник символів заголовка YouTube: підрахунок символів наживо проти ліміту 100 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/youtube-title-character-counter/",
+  "id": "/uk/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Contador de Caracteres Online",
   "short_name": "Contador de Caracteres Online",
   "description": "Conte caracteres com e sem espaços e verifique limites para X (Twitter), SMS, meta descriptions e mais. Contador de caracteres online gratuito - sem registo.",
-  "id": "/loona-text-tools/pt/character-counter/",
+  "id": "/pt/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

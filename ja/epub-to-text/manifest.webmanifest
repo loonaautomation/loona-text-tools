@@ -2,7 +2,7 @@
   "name": "Loona EPUB からテキストへの変換ツール無料",
   "short_name": "EPUB からテキストへの変換ツール無料",
   "description": "EPUB 電子書籍をブラウザーで無料できれいなプレーンテキスト（.txt）に変換します。読書順の章、保持された見出し、章リストと単語数が最初に表示されます。アップロードなし、登録なし。",
-  "id": "/loona-text-tools/ja/epub-to-text/",
+  "id": "/ja/epub-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

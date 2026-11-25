@@ -2,7 +2,7 @@
   "name": "Loona Discorso di 5 minuti",
   "short_name": "Discorso di 5 minuti",
   "description": "Quante parole in un discorso di 5 minuti? 550–900 parole (750 a ritmo conversazionale). Contatore in tempo reale gratuito con controllo del tempo di parola.",
-  "id": "/loona-text-tools/it/5-minute-speech-word-count/",
+  "id": "/it/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

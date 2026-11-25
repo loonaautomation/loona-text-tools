@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo vět online zdarma",
   "short_name": "Počítadlo vět online zdarma",
   "description": "Počítejte věty, odstavce, slova a znaky v jakémkoli textu okamžitě, včetně průměrné délky věty. Bezplatné počítadlo vět, bez registrace, funguje ve vašem prohlížeči.",
-  "id": "/loona-text-tools/cs/sentence-counter/",
+  "id": "/cs/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

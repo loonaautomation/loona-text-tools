@@ -2,7 +2,7 @@
   "name": "Loona Add Line Numbers to Every Line",
   "short_name": "Add Line Numbers to Every Line",
   "description": "Add numbers to every line of your text with your choice of start, step, padding and separator. Free line numbering tool - no sign-up, instant and private.",
-  "id": "/loona-text-tools/en-us/add-line-numbers/",
+  "id": "/en-us/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

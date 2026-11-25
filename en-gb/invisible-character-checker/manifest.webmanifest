@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/invisible-character-checker/",
+  "id": "/en-gb/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

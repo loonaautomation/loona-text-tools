@@ -2,7 +2,7 @@
   "name": "Loona Esej na 5,000 slov",
   "short_name": "Esej na 5,000 slov",
   "description": "Bezplatné počítadlo eseje na 5,000 slov: počítanie slov naživo k cieľu 5,000 slov, strany s jednoduchým a dvojitým riadkovaním, odseky, čas čítania a hovorenia.",
-  "id": "/loona-text-tools/sk/5000-word-essay-word-counter/",
+  "id": "/sk/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

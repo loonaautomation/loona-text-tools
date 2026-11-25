@@ -2,7 +2,7 @@
   "name": "Loona Tegnteller for Twitter / X",
   "short_name": "Tegnteller for Twitter / X",
   "description": "Gratis tegnteller for Twitter / X: direkte tegntelling mot grensen på 280 tegn, med ord og gjenværende tegn vist mens du skriver.",
-  "id": "/loona-text-tools/nb/twitter-character-counter/",
+  "id": "/nb/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

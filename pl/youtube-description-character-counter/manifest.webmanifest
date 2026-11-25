@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków opisu na YouTube",
   "short_name": "Licznik znaków opisu na YouTube",
   "description": "Darmowy licznik znaków opisu na YouTube: liczenie znaków na żywo względem limitu 5,000 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/youtube-description-character-counter/",
+  "id": "/pl/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

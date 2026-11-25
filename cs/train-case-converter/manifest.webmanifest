@@ -2,7 +2,7 @@
   "name": "Loona Převodník Train-Case",
   "short_name": "Převodník Train-Case",
   "description": "Bezplatný převodník Train-Case — vložte text a okamžitě získejte Train-Case. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/train-case-converter/",
+  "id": "/cs/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

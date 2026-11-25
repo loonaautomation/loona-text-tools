@@ -2,7 +2,7 @@
   "name": "Loona จำนวนคำของโพสต์บล็อก",
   "short_name": "จำนวนคำของโพสต์บล็อก",
   "description": "ตัวตรวจสอบจำนวนคำของโพสต์บล็อก: นับแบบสดพร้อมช่วงความยาวสำหรับข่าว (300–500), โพสต์มาตรฐาน (1,000–1,500) และคู่มือเชิงลึก (2,000+).",
-  "id": "/loona-text-tools/th/blog-post-word-count/",
+  "id": "/th/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

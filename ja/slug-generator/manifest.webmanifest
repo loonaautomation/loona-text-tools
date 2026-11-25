@@ -2,7 +2,7 @@
   "name": "Loona スラッグ生成ツールオンライン",
   "short_name": "スラッグ生成ツールオンライン",
   "description": "任意のタイトルを、きれいな SEO フレンドリーな URL スラッグに変えます：小文字、スペースなし、特殊文字なし。完全な URL プレビュー付き無料オンラインスラッグ生成ツール - 登録不要。",
-  "id": "/loona-text-tools/ja/slug-generator/",
+  "id": "/ja/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

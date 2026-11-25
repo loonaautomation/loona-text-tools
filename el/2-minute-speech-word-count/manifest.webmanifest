@@ -2,7 +2,7 @@
   "name": "Loona Ομιλία 2 Λεπτών",
   "short_name": "Ομιλία 2 Λεπτών",
   "description": "Πόσες λέξεις σε μια ομιλία 2 λεπτών; 220–360 λέξεις (300 με συνομιλιακό ρυθμό). Δωρεάν ζωντανός μετρητής με έλεγχο χρόνου ομιλίας.",
-  "id": "/loona-text-tools/el/2-minute-speech-word-count/",
+  "id": "/el/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

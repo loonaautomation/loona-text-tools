@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Znajdź najwyżej punktowane zagrania ze swojego stojaka liter i sprawdź, czy dowolne słowo jest prawidłowe. Pełny słownik ENABLE liczący 172,820 słów, obsługa pustych płytek, 100% na urządzeniu. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/scrabble-word-finder/",
+  "id": "/pl/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

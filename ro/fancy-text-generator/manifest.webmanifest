@@ -2,7 +2,7 @@
   "name": "Loona Generator de text decorativ online",
   "short_name": "Generator de text decorativ online",
   "description": "Transformă textul simplu în fonturi Unicode elegante - aldin, de mână, fraktur, încercuit, majuscule mici și altele - pentru biografii, descrieri și nume de utilizator. Generator gratuit de text decorativ.",
-  "id": "/loona-text-tools/ro/fancy-text-generator/",
+  "id": "/ro/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

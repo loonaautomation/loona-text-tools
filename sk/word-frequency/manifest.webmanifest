@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo frekvencie slov online",
   "short_name": "Počítadlo frekvencie slov online",
   "description": "Počítajte, ako často sa každé slovo vyskytuje vo vašom texte, a pozrite si hodnotenú tabuľku frekvencie s percentami. Bezplatné online počítadlo frekvencie slov - bez registrácie, okamžite.",
-  "id": "/loona-text-tools/sk/word-frequency/",
+  "id": "/sk/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

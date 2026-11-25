@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Liitä mikä tahansa teksti ja katso kirjoitussignaalit, joita tekoälyilmaisimet mittaavat – lauserytmi, sanaston monimuotoisuus, toistuvat ilmaukset ja ennakoitavuus. Ilmainen tekoälyilmaisin: ei rekisteröitymistä, ei tuomioita, eikä tekstisi koskaan poistu selaimestasi.",
-  "id": "/loona-text-tools/fi/ai-detector/",
+  "id": "/fi/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

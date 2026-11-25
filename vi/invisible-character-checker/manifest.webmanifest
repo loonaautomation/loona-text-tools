@@ -2,7 +2,7 @@
   "name": "Loona Công cụ kiểm tra ký tự ẩn",
   "short_name": "Công cụ kiểm tra ký tự ẩn",
   "description": "Tiết lộ các ký tự ẩn trốn trong văn bản của bạn - khoảng trắng độ rộng bằng không, BOM, khoảng trắng không ngắt và dấu định hướng - và loại bỏ chúng chỉ trong một cú nhấp chuột. Miễn phí.",
-  "id": "/loona-text-tools/vi/invisible-character-checker/",
+  "id": "/vi/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

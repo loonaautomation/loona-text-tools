@@ -2,7 +2,7 @@
   "name": "Loona 10 minuutin puhe",
   "short_name": "10 minuutin puhe",
   "description": "Kuinka monta sanaa 10 minuutin puheessa? 1,100–1,800 sanaa (1,500 keskustelutahdilla). Ilmainen reaaliaikainen laskuri puheajan tarkistuksella.",
-  "id": "/loona-text-tools/fi/10-minute-speech-word-count/",
+  "id": "/fi/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

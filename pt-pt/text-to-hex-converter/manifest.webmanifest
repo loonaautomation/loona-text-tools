@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Texto para Hexadecimal Online Grátis",
   "short_name": "Conversor de Texto para Hexadecimal Online Grátis",
   "description": "Converta texto para hexadecimal e hexadecimal de volta para texto, tratando corretamente o UTF-8 para letras acentuadas, urdu e emoji. Conversor hexadecimal gratuito, sem registo.",
-  "id": "/loona-text-tools/pt-pt/text-to-hex-converter/",
+  "id": "/pt-pt/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kitafutaji cha Maneno Yanayojirudia Mtandaoni Bure",
   "short_name": "Kitafutaji cha Maneno Yanayojirudia Mtandaoni Bure",
   "description": "Tafuta kila neno linaloonekana zaidi ya mara moja katika maandishi yako, limepangwa kwa mara ngapi linajirudia. Kamata maneno mawili ya bahati mbaya na maneno yaliyotumika kupita kiasi. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/repeated-words-finder/",
+  "id": "/sw/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مطالعہ سطح کیلکولیٹر",
   "short_name": "مطالعہ سطح کیلکولیٹر",
   "description": "معیاری فارمولوں سے کسی بھی متن کو Flesch Reading Ease پیمانے اور Flesch-Kincaid گریڈ سطح سے اسکور کریں۔ دیکھیں آپ کی تحریر پڑھنا کتنا آسان ہے۔ مفت۔",
-  "id": "/loona-text-tools/ur/reading-level-calculator/",
+  "id": "/ur/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

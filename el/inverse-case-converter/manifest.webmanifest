@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας iNVERSE cASE",
   "short_name": "Μετατροπέας iNVERSE cASE",
   "description": "Δωρεάν μετατροπέας iNVERSE cASE — επικολλήστε κείμενο και πάρετε iNVERSE cASE αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/inverse-case-converter/",
+  "id": "/el/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

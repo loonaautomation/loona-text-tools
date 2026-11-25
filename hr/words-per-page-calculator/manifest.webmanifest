@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator riječi po stranici",
   "short_name": "Kalkulator riječi po stranici",
   "description": "Besplatan kalkulator riječi po stranici: unesite riječi, veličinu fonta i prored kako biste dobili broj stranica i riječi po stranici.",
-  "id": "/loona-text-tools/hr/words-per-page-calculator/",
+  "id": "/hr/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

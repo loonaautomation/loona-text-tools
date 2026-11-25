@@ -2,7 +2,7 @@
   "name": "Loona Zinscasing-omzetter",
   "short_name": "Zinscasing-omzetter",
   "description": "Gratis omzetter naar Zinscasing — plak tekst en krijg direct Zinscasing. Live omzetting in je browser, ge",
-  "id": "/loona-text-tools/nl/sentence-case-converter/",
+  "id": "/nl/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

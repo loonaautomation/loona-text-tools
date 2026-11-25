@@ -2,7 +2,7 @@
   "name": "Loona ממיר אותיות אונליין",
   "short_name": "ממיר אותיות אונליין",
   "description": "המירו טקסט ל-UPPERCASE, lowercase, Title Case, Sentence case, Capitalized או aLtErNaTiNg case בלחיצה אחת. ממיר אותיות מקוון חינמי - ללא צורך בהרשמה.",
-  "id": "/loona-text-tools/he/case-converter/",
+  "id": "/he/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

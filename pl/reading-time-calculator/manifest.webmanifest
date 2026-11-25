@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator czasu czytania",
   "short_name": "Kalkulator czasu czytania",
   "description": "Wklej dowolny tekst i zobacz, ile zajmuje jego przeczytanie przy wolnej, średniej i szybkiej prędkości - plus ile słów potrzebujesz na docelowy czas czytania. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/reading-time-calculator/",
+  "id": "/pl/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

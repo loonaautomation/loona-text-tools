@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator razine Flesch–Kincaid",
   "short_name": "Kalkulator razine Flesch–Kincaid",
   "description": "Besplatan kalkulator razine Flesch–Kincaid: zalijepite tekst za razinu razreda i rezultat lakoće čitanja, uz riječi po rečenici i slogove po riječi.",
-  "id": "/loona-text-tools/hr/flesch-kincaid-grade-calculator/",
+  "id": "/hr/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trình chọn biểu tượng cảm xúc trực tuyến miễn phí",
   "short_name": "Trình chọn biểu tượng cảm xúc trực tuyến miễn phí",
   "description": "Trình chọn biểu tượng cảm xúc miễn phí: duyệt hoặc tìm kiếm 1,900+ biểu tượng cảm xúc và ký hiệu, chọn tông màu da, nhấp để sao chép một biểu tượng cảm xúc hoặc cả khay. Không cần đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-text-tools/vi/emoji-picker/",
+  "id": "/vi/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

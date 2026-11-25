@@ -2,7 +2,7 @@
   "name": "Loona Конвертер kebab-case",
   "short_name": "Конвертер kebab-case",
   "description": "Бесплатный конвертер kebab-case — вставьте текст и мгновенно получите kebab-case. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
-  "id": "/loona-text-tools/ru/kebab-case-converter/",
+  "id": "/ru/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

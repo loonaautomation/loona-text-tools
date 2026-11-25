@@ -2,7 +2,7 @@
   "name": "Loona متن سے بائنری کنورٹر آن لائن",
   "short_name": "متن سے بائنری کنورٹر آن لائن",
   "description": "متن کو بائنری کوڈ (0s اور 1s) میں بدلیں اور بائنری کو واپس قابلِ مطالعہ متن میں، مکمل Unicode سپورٹ کے ساتھ۔ مفت متن سے بائنری کنورٹر - CS طلبہ کے لیے بہترین۔",
-  "id": "/loona-text-tools/ur/text-to-binary/",
+  "id": "/ur/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

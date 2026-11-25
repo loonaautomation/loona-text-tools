@@ -2,7 +2,7 @@
   "name": "Loona Bandingkan Teks Dalam talian",
   "short_name": "Bandingkan Teks Dalam talian",
   "description": "Bandingkan dua teks baris demi baris dan lihat dengan tepat baris mana yang ditambah, dipadam atau dipertahankan. Alat diff teks dalam talian percuma - tanpa pendaftaran, peribadi di pelayar anda.",
-  "id": "/loona-text-tools/ms/text-compare/",
+  "id": "/ms/text-compare/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

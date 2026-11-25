@@ -2,7 +2,7 @@
   "name": "Loona Kalkulačka stupně Flesch–Kincaid",
   "short_name": "Kalkulačka stupně Flesch–Kincaid",
   "description": "Bezplatná kalkulačka stupně Flesch–Kincaid: vložte text a získejte úroveň třídy a skóre snadnosti čtení, se slovy na větu a slabikami na slovo.",
-  "id": "/loona-text-tools/cs/flesch-kincaid-grade-calculator/",
+  "id": "/cs/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

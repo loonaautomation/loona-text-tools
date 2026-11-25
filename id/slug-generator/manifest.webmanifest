@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Slug Online",
   "short_name": "Pembuat Slug Online",
   "description": "Ubah judul apa pun menjadi slug URL yang bersih dan ramah SEO: huruf kecil, tanpa spasi, tanpa karakter khusus. Pembuat slug online gratis dengan pratinjau URL penuh - tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/slug-generator/",
+  "id": "/id/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

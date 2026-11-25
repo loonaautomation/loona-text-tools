@@ -2,7 +2,7 @@
   "name": "Loona EPUB रीडर ऑनलाइन मुफ़्त",
   "short_name": "EPUB रीडर ऑनलाइन मुफ़्त",
   "description": "EPUB ईबुक ऑनलाइन मुफ़्त खोलें और पढ़ें, सीधे अपने ब्राउज़र में। अध्याय सूची, समायोज्य फ़ॉन्ट आकार और डार्क मोड। 100% निजी - आपकी ईबुक कभी आपके डिवाइस से बाहर नहीं जाती। कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/epub-reader/",
+  "id": "/hi/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

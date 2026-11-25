@@ -2,7 +2,7 @@
   "name": "Loona Poista ylimääräiset välilyönnit verkossa",
   "short_name": "Poista ylimääräiset välilyönnit verkossa",
   "description": "Poista ylimääräiset välilyönnit, sarkaimet ja tyhjät rivit tekstistä yhdellä napsautuksella. Siisti PDF-tiedostoista, sähköposteista ja verkkosivuilta kopioitu teksti. Ilmainen poistaja verkossa – rekisteröitymistä ei tarvita.",
-  "id": "/loona-text-tools/fi/remove-extra-spaces/",
+  "id": "/fi/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

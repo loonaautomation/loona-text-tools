@@ -2,7 +2,7 @@
   "name": "Loona 簡歷詞數——簡歷應該多長?",
   "short_name": "簡歷詞數——簡歷應該多長?",
   "description": "簡歷詞數檢查器:實時計數,附一頁目標(400–600 詞)、頁數估算和刪減指導。",
-  "id": "/loona-text-tools/zh-hant/resume-word-count/",
+  "id": "/zh-hant/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

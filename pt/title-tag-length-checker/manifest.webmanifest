@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Comprimento de Etiquetas de Título",
   "short_name": "Verificador de Comprimento de Etiquetas de Título",
   "description": "Verificador de comprimento de etiquetas de título grátis contador: contagem de caracteres em direto face ao limite de 60 caracteres, com palavras e caracteres restantes mostrados enquanto escreve.",
-  "id": "/loona-text-tools/pt/title-tag-length-checker/",
+  "id": "/pt/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

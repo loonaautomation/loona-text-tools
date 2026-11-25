@@ -2,7 +2,7 @@
   "name": "Loona camelCase 변환기",
   "short_name": "camelCase 변환기",
   "description": "무료 camelCase 변환기 — 텍스트를 붙여 넣으면 즉시 camelCase를 얻어요. 브라우저에서 실시간 변환, 회원가입 없음, 업로드 없음이에요.",
-  "id": "/loona-text-tools/ko/camelcase-converter/",
+  "id": "/ko/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

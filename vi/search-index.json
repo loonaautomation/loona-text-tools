@@ -1,7 +1,7 @@
 [
  {
   "n": "Bộ đếm từ",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/word-counter/",
+  "u": "https://text.loonaautomation.com/vi/word-counter/",
   "s": "Loona Text Tools",
   "d": "Từ, ký tự, câu, đoạn văn và thời gian đọc - được đếm trực tiếp khi bạn gõ.",
   "k": "word counter word counter tu ky tu cau doan van va thoi gian doc duoc dem truc tiep khi ban go",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Bộ đếm ký tự",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/character-counter/",
+  "u": "https://text.loonaautomation.com/vi/character-counter/",
   "s": "Loona Text Tools",
   "d": "Ký tự có và không có khoảng trắng, cộng thêm giới hạn trực tiếp cho X, SMS và văn bản meta.",
   "k": "character counter character counter ky tu co va khong co khoang trang cong them gioi han truc tiep cho x sms va van ban meta",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Bộ đếm câu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/sentence-counter/",
+  "u": "https://text.loonaautomation.com/vi/sentence-counter/",
   "s": "Loona Text Tools",
   "d": "Câu, đoạn văn, từ và ký tự trong bất kỳ văn bản nào - được đếm trực tiếp khi bạn gõ.",
   "k": "sentence counter sentence counter cau doan van tu va ky tu trong bat ky van ban nao duoc dem truc tiep khi ban go",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Máy tính thời gian đọc",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/reading-time-calculator/",
+  "u": "https://text.loonaautomation.com/vi/reading-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Bất kỳ văn bản nào mất bao lâu để đọc, ở tốc độ đọc chậm, trung bình và nhanh.",
   "k": "reading time calculator reading time calculator bat ky van ban nao mat bao lau de doc o toc do doc cham trung binh va nhanh",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Máy tính thời gian nói",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/speaking-time-calculator/",
+  "u": "https://text.loonaautomation.com/vi/speaking-time-calculator/",
   "s": "Loona Text Tools",
   "d": "Một bài nói hoặc kịch bản mất bao lâu để trình bày - cộng thêm số từ cần cho một thời gian mục tiêu.",
   "k": "speaking time calculator speaking time calculator mot bai noi hoac kich ban mat bao lau de trinh bay cong them so tu can cho mot thoi gian muc tieu",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Bài kiểm tra tốc độ đánh máy",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/typing-test/",
+  "u": "https://text.loonaautomation.com/vi/typing-test/",
   "s": "Loona Text Tools",
   "d": "Một bài kiểm tra đánh máy 60 giây - tốc độ của bạn theo WPM, độ chính xác và CPM, trực tiếp khi bạn gõ.",
   "k": "typing test typing test mot bai kiem tra danh may 60 giay toc do cua ban theo wpm do chinh xac va cpm truc tiep khi ban go",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Công cụ chuyển đổi kiểu chữ",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/case-converter/",
+  "u": "https://text.loonaautomation.com/vi/case-converter/",
   "s": "Loona Text Tools",
   "d": "UPPERCASE, chữ thường, Kiểu tiêu đề, Kiểu câu và hơn nữa - mỗi cái một cú nhấp chuột.",
   "k": "case converter case converter uppercase chu thuong kieu tieu de kieu cau va hon nua moi cai mot cu nhap chuot",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Xóa dòng trùng lặp",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/remove-duplicate-lines/",
+  "u": "https://text.loonaautomation.com/vi/remove-duplicate-lines/",
   "s": "Loona Text Tools",
   "d": "Xóa các dòng lặp lại và giữ mỗi dòng duy nhất một lần, theo thứ tự.",
   "k": "remove duplicate lines remove duplicate lines xoa cac dong lap lai va giu moi dong duy nhat mot lan theo thu tu",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Sắp xếp dòng",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/sort-lines/",
+  "u": "https://text.loonaautomation.com/vi/sort-lines/",
   "s": "Loona Text Tools",
   "d": "Sắp xếp các dòng A-Z, Z-A, theo độ dài, đảo ngược, hoặc xáo trộn ngẫu nhiên công bằng.",
   "k": "sort lines sort lines sap xep cac dong a z z a theo do dai dao nguoc hoac xao tron ngau nhien cong bang",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Đảo ngược văn bản",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/reverse-text/",
+  "u": "https://text.loonaautomation.com/vi/reverse-text/",
   "s": "Loona Text Tools",
   "d": "Lật văn bản ngược lại - toàn bộ văn bản, mỗi từ, thứ tự từ hoặc thứ tự dòng.",
   "k": "reverse text reverse text lat van ban nguoc lai toan bo van ban moi tu thu tu tu hoac thu tu dong",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Xóa khoảng trắng thừa",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/remove-extra-spaces/",
+  "u": "https://text.loonaautomation.com/vi/remove-extra-spaces/",
   "s": "Loona Text Tools",
   "d": "Ép khoảng trắng đôi, tab và cạnh lộn xộn ra khỏi văn bản đã sao chép lộn xộn.",
   "k": "remove extra spaces remove extra spaces ep khoang trang doi tab va canh lon xon ra khoi van ban da sao chep lon xon",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Tìm và thay thế",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/find-and-replace/",
+  "u": "https://text.loonaautomation.com/vi/find-and-replace/",
   "s": "Loona Text Tools",
   "d": "Đổi mỗi lần xuất hiện của một từ hoặc cụm từ thành một từ khác, trong một lượt.",
   "k": "find and replace find and replace doi moi lan xuat hien cua mot tu hoac cum tu thanh mot tu khac trong mot luot",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Chuyển văn bản thành giọng nói",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-to-speech/",
+  "u": "https://text.loonaautomation.com/vi/text-to-speech/",
   "s": "Loona Text Tools",
   "d": "Nghe bất kỳ văn bản nào được đọc to - tiếng Anh, Urdu và nhiều giọng hơn, tốc độ của bạn.",
   "k": "text to speech text to speech nghe bat ky van ban nao duoc doc to tieng anh urdu va nhieu giong hon toc do cua ban",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Chuyển giọng nói thành văn bản",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/speech-to-text/",
+  "u": "https://text.loonaautomation.com/vi/speech-to-text/",
   "s": "Loona Text Tools",
   "d": "Nói và xem lời của bạn trở thành văn bản - tiếng Anh, Urdu và hơn nữa.",
   "k": "speech to text speech to text noi va xem loi cua ban tro thanh van ban tieng anh urdu va hon nua",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Trình tạo mật khẩu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/password-generator/",
+  "u": "https://text.loonaautomation.com/vi/password-generator/",
   "s": "Loona Text Tools",
   "d": "Mật khẩu ngẫu nhiên mạnh với độ dài và ký hiệu bạn chọn.",
   "k": "password generator password generator mat khau ngau nhien manh voi do dai va ky hieu ban chon",
@@ -136,7 +136,7 @@
  },
  {
   "n": "So sánh văn bản",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-compare/",
+  "u": "https://text.loonaautomation.com/vi/text-compare/",
   "s": "Loona Text Tools",
   "d": "Xếp hai văn bản cạnh nhau và xem chính xác dòng nào đã thay đổi.",
   "k": "text compare text compare xep hai van ban canh nhau va xem chinh xac dong nao da thay doi",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Tần suất từ",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/word-frequency/",
+  "u": "https://text.loonaautomation.com/vi/word-frequency/",
   "s": "Loona Text Tools",
   "d": "Một bảng xếp hạng các từ bạn dùng nhiều nhất, kèm số lần và phần trăm.",
   "k": "word frequency word frequency mot bang xep hang cac tu ban dung nhieu nhat kem so lan va phan tram",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Xóa ngắt dòng",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/remove-line-breaks/",
+  "u": "https://text.loonaautomation.com/vi/remove-line-breaks/",
   "s": "Loona Text Tools",
   "d": "Nối các dòng bị vỡ kiểu PDF trở lại thành các đoạn văn sạch, liền mạch.",
   "k": "remove line breaks remove line breaks noi cac dong bi vo kieu pdf tro lai thanh cac doan van sach lien mach",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Thêm số dòng",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/add-line-numbers/",
+  "u": "https://text.loonaautomation.com/vi/add-line-numbers/",
   "s": "Loona Text Tools",
   "d": "Đánh số mỗi dòng - chọn điểm bắt đầu, bước nhảy, đệm và dấu phân cách.",
   "k": "add line numbers add line numbers danh so moi dong chon diem bat dau buoc nhay dem va dau phan cach",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Trình tạo Lorem Ipsum",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/lorem-ipsum-generator/",
+  "u": "https://text.loonaautomation.com/vi/lorem-ipsum-generator/",
   "s": "Loona Text Tools",
   "d": "Văn bản giả cổ điển theo đoạn văn, câu hoặc từ cho thiết kế của bạn.",
   "k": "lorem ipsum generator lorem ipsum generator van ban gia co dien theo doan van cau hoac tu cho thiet ke cua ban",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Trình tạo Slug",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/slug-generator/",
+  "u": "https://text.loonaautomation.com/vi/slug-generator/",
   "s": "Loona Text Tools",
   "d": "Biến bất kỳ tiêu đề nào thành một slug URL sạch, thân thiện với tìm kiếm, trực tiếp.",
   "k": "slug generator slug generator bien bat ky tieu de nao thanh mot slug url sach than thien voi tim kiem truc tiep",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Trình dịch mã Morse",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/morse-code-translator/",
+  "u": "https://text.loonaautomation.com/vi/morse-code-translator/",
   "s": "Loona Text Tools",
   "d": "Văn bản sang mã Morse và trở lại - với phát lại tiếng bíp thực.",
   "k": "morse code translator morse code translator van ban sang ma morse va tro lai voi phat lai tieng bip thuc",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Văn bản sang nhị phân",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-to-binary/",
+  "u": "https://text.loonaautomation.com/vi/text-to-binary/",
   "s": "Loona Text Tools",
   "d": "Xem văn bản dưới dạng 0 và 1 mà máy tính lưu trữ - và giải mã nhị phân trở lại.",
   "k": "text to binary text to binary xem van ban duoi dang 0 va 1 ma may tinh luu tru va giai ma nhi phan tro lai",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Roman Urdu sang Urdu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/roman-urdu-to-urdu/",
+  "u": "https://text.loonaautomation.com/vi/roman-urdu-to-urdu/",
   "s": "Loona Text Tools",
   "d": "Biến 'mera naam Ahmed hai' thành chữ Urdu đúng, ngay lập tức.",
   "k": "roman urdu to urdu roman urdu to urdu bien mera naam ahmed hai thanh chu urdu dung ngay lap tuc",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Sổ tay trực tuyến",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/online-notepad/",
+  "u": "https://text.loonaautomation.com/vi/online-notepad/",
   "s": "Loona Text Tools",
   "d": "Một sổ tay tự động lưu trong trình duyệt của bạn - kèm theo tải xuống và in.",
   "k": "online notepad online notepad mot so tay tu dong luu trong trinh duyet cua ban kem theo tai xuong va in",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Trình tạo văn bản kiểu cách",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/fancy-text-generator/",
+  "u": "https://text.loonaautomation.com/vi/fancy-text-generator/",
   "s": "Loona Text Tools",
   "d": "Văn bản in đậm, thư pháp, khoanh tròn và lộn ngược cho tiểu sử và chú thích.",
   "k": "fancy text generator fancy text generator van ban in dam thu phap khoanh tron va lon nguoc cho tieu su va chu thich",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Bộ đếm âm tiết",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/syllable-counter/",
+  "u": "https://text.loonaautomation.com/vi/syllable-counter/",
   "s": "Loona Text Tools",
   "d": "Đếm âm tiết trong mỗi từ và tổng cộng - hoàn hảo cho thơ, haiku và lời bài hát.",
   "k": "syllable counter syllable counter dem am tiet trong moi tu va tong cong hoan hao cho tho haiku va loi bai hat",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Bộ đếm đoạn văn",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/paragraph-counter/",
+  "u": "https://text.loonaautomation.com/vi/paragraph-counter/",
   "s": "Loona Text Tools",
   "d": "Đếm đoạn văn, với số từ và số câu mỗi đoạn và đoạn dài nhất được đánh dấu.",
   "k": "paragraph counter paragraph counter dem doan van voi so tu va so cau moi doan va doan dai nhat duoc danh dau",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Máy tính cấp độ đọc",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/reading-level-calculator/",
+  "u": "https://text.loonaautomation.com/vi/reading-level-calculator/",
   "s": "Loona Text Tools",
   "d": "Điểm Flesch Reading Ease và cấp độ, với một nhận định bằng tiếng Anh thuần.",
   "k": "reading level calculator reading level calculator diem flesch reading ease va cap do voi mot nhan dinh bang tieng anh thuan",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Công cụ kiểm tra Palindrome",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/palindrome-checker/",
+  "u": "https://text.loonaautomation.com/vi/palindrome-checker/",
   "s": "Loona Text Tools",
   "d": "Nó có đọc xuôi ngược giống nhau không? Kiểm tra từ, số và toàn bộ câu.",
   "k": "palindrome checker palindrome checker no co doc xuoi nguoc giong nhau khong kiem tra tu so va toan bo cau",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Trình tạo đảo chữ",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/anagram-generator/",
+  "u": "https://text.loonaautomation.com/vi/anagram-generator/",
   "s": "Loona Text Tools",
   "d": "Tìm các từ thực sự ẩn trong các chữ cái của bạn, và kiểm tra các cặp đảo chữ ngay lập tức.",
   "k": "anagram generator anagram generator tim cac tu thuc su an trong cac chu cai cua ban va kiem tra cac cap dao chu ngay lap tuc",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Bảng chữ cái phiên âm NATO",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/nato-phonetic-alphabet-converter/",
+  "u": "https://text.loonaautomation.com/vi/nato-phonetic-alphabet-converter/",
   "s": "Loona Text Tools",
   "d": "Viết bất cứ thứ gì theo cách của phi công - Alfa, Bravo, Charlie - và giải mã nó trở lại.",
   "k": "nato phonetic alphabet nato phonetic alphabet viet bat cu thu gi theo cach cua phi cong alfa bravo charlie va giai ma no tro lai",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Công cụ chuyển đổi văn bản sang ASCII",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-to-ascii-converter/",
+  "u": "https://text.loonaautomation.com/vi/text-to-ascii-converter/",
   "s": "Loona Text Tools",
   "d": "Các mã thập phân, hex, bát phân và nhị phân đằng sau mỗi ký tự, và trở lại.",
   "k": "text to ascii converter text to ascii converter cac ma thap phan hex bat phan va nhi phan dang sau moi ky tu va tro lai",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Công cụ chuyển đổi văn bản sang Hex",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-to-hex-converter/",
+  "u": "https://text.loonaautomation.com/vi/text-to-hex-converter/",
   "s": "Loona Text Tools",
   "d": "Văn bản sang byte thập lục phân và trở lại, với UTF-8 đúng cho mọi ngôn ngữ.",
   "k": "text to hex converter text to hex converter van ban sang byte thap luc phan va tro lai voi utf 8 dung cho moi ngon ngu",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Công cụ tìm từ lặp lại",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/repeated-words-finder/",
+  "u": "https://text.loonaautomation.com/vi/repeated-words-finder/",
   "s": "Loona Text Tools",
   "d": "Mỗi từ bạn dùng nhiều hơn một lần, được xếp hạng - cộng thêm các từ gấp đôi vô tình.",
   "k": "repeated words finder repeated words finder moi tu ban dung nhieu hon mot lan duoc xep hang cong them cac tu gap doi vo tinh",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Công cụ kiểm tra ký tự ẩn",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/invisible-character-checker/",
+  "u": "https://text.loonaautomation.com/vi/invisible-character-checker/",
   "s": "Loona Text Tools",
   "d": "Tiết lộ các ký tự độ rộng bằng không và ký tự ẩn trong văn bản đã sao chép, và loại bỏ chúng.",
   "k": "invisible character checker invisible character checker tiet lo cac ky tu do rong bang khong va ky tu an trong van ban da sao chep va loai bo chung",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Xóa dấu câu",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/remove-punctuation/",
+  "u": "https://text.loonaautomation.com/vi/remove-punctuation/",
   "s": "Loona Text Tools",
   "d": "Loại bỏ dấu câu khỏi văn bản chỉ trong một cú nhấp chuột, giữ các từ sạch.",
   "k": "remove punctuation remove punctuation loai bo dau cau khoi van ban chi trong mot cu nhap chuot giu cac tu sach",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Công cụ trích xuất email",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/email-extractor/",
+  "u": "https://text.loonaautomation.com/vi/email-extractor/",
   "s": "Loona Text Tools",
   "d": "Lấy mọi địa chỉ email ra khỏi bất kỳ văn bản nào - đã loại bỏ trùng lặp, mỗi địa chỉ một dòng.",
   "k": "email extractor email extractor lay moi dia chi email ra khoi bat ky van ban nao da loai bo trung lap moi dia chi mot dong",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Hình ảnh sang văn bản (OCR)",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/image-to-text-converter/",
+  "u": "https://text.loonaautomation.com/vi/image-to-text-converter/",
   "s": "Loona Text Tools",
   "d": "Trích xuất văn bản có thể chỉnh sửa từ ảnh, bản quét và ảnh chụp màn hình - OCR miễn phí trong trình duyệt của bạn.",
   "k": "image to text (ocr) image to text (ocr) trich xuat van ban co the chinh sua tu anh ban quet va anh chup man hinh ocr mien phi trong trinh duyet cua ban",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Công cụ chuyển đổi hình ảnh sang Excel",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/image-to-excel-converter/",
+  "u": "https://text.loonaautomation.com/vi/image-to-excel-converter/",
   "s": "Loona Text Tools",
   "d": "Biến một ảnh hoặc ảnh chụp màn hình của một bảng thành một tệp Excel thực sự - kiểm tra và chỉnh sửa các ô, sau đó tải xuống.",
   "k": "image to excel converter image to excel converter bien mot anh hoac anh chup man hinh cua mot bang thanh mot tep excel thuc su kiem tra va chinh sua cac o sau do tai xuong",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Trình tạo trích dẫn",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/citation-generator/",
+  "u": "https://text.loonaautomation.com/vi/citation-generator/",
   "s": "Loona Text Tools",
   "d": "Trích dẫn APA 7, MLA 9 và Chicago cho trang web, sách và bài báo tạp chí.",
   "k": "citation generator citation generator trich dan apa 7 mla 9 va chicago cho trang web sach va bai bao tap chi",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Trình đọc EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/epub-reader/",
+  "u": "https://text.loonaautomation.com/vi/epub-reader/",
   "s": "Loona Text Tools",
   "d": "Mở và đọc sách điện tử EPUB ngay trong trình duyệt của bạn - danh sách chương, cỡ chữ có thể điều chỉnh và chế độ tối.",
   "k": "epub reader epub reader mo va doc sach dien tu epub ngay trong trinh duyet cua ban danh sach chuong co chu co the dieu chinh va che do toi",
@@ -379,7 +379,7 @@
  },
  {
   "n": "EPUB sang văn bản",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/epub-to-text/",
+  "u": "https://text.loonaautomation.com/vi/epub-to-text/",
   "s": "Loona Text Tools",
   "d": "Biến một sách điện tử EPUB thành một tệp văn bản thuần sạch - các chương theo thứ tự đọc, tiêu đề được giữ.",
   "k": "epub to text epub to text bien mot sach dien tu epub thanh mot tep van ban thuan sach cac chuong theo thu tu doc tieu de duoc giu",
@@ -388,7 +388,7 @@
  },
  {
   "n": "EPUB sang HTML",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/epub-to-html/",
+  "u": "https://text.loonaautomation.com/vi/epub-to-html/",
   "s": "Loona Text Tools",
   "d": "Biến một sách điện tử EPUB thành một tệp HTML tự chứa với hình ảnh của nó được nhúng.",
   "k": "epub to html epub to html bien mot sach dien tu epub thanh mot tep html tu chua voi hinh anh cua no duoc nhung",
@@ -397,7 +397,7 @@
  },
  {
   "n": "CBZ sang PDF",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/cbz-to-pdf/",
+  "u": "https://text.loonaautomation.com/vi/cbz-to-pdf/",
   "s": "Loona Text Tools",
   "d": "Biến một tệp lưu trữ truyện tranh thành một PDF - các trang theo thứ tự tự nhiên, một hình ảnh mỗi trang.",
   "k": "cbz to pdf cbz to pdf bien mot tep luu tru truyen tranh thanh mot pdf cac trang theo thu tu tu nhien mot hinh anh moi trang",
@@ -406,7 +406,7 @@
  },
  {
   "n": "DOCX sang EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/docx-to-epub/",
+  "u": "https://text.loonaautomation.com/vi/docx-to-epub/",
   "s": "Loona Text Tools",
   "d": "Biến một tài liệu Word thành một sách điện tử EPUB - tiêu đề trở thành chương.",
   "k": "docx to epub docx to epub bien mot tai lieu word thanh mot sach dien tu epub tieu de tro thanh chuong",
@@ -415,7 +415,7 @@
  },
  {
   "n": "Trình chỉnh sửa siêu dữ liệu EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/epub-metadata-editor/",
+  "u": "https://text.loonaautomation.com/vi/epub-metadata-editor/",
   "s": "Loona Text Tools",
   "d": "Chỉnh sửa tiêu đề, tác giả, nhà xuất bản và mô tả của một sách điện tử - các chương không bị động vào.",
   "k": "epub metadata editor epub metadata editor chinh sua tieu de tac gia nha xuat ban va mo ta cua mot sach dien tu cac chuong khong bi dong vao",
@@ -424,7 +424,7 @@
  },
  {
   "n": "Văn bản / Markdown sang EPUB",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/text-to-epub/",
+  "u": "https://text.loonaautomation.com/vi/text-to-epub/",
   "s": "Loona Text Tools",
   "d": "Biến văn bản thuần hoặc Markdown thành một sách điện tử EPUB đúng chuẩn mở trong bất kỳ trình đọc nào.",
   "k": "text / markdown to epub text / markdown to epub bien van ban thuan hoac markdown thanh mot sach dien tu epub dung chuan mo trong bat ky trinh doc nao",
@@ -433,13 +433,13 @@
  },
  {
   "n": "Trình tạo chủ đề ngẫu nhiên",
-  "u": "https://loonaautomation.github.io/loona-text-tools/vi/random-topic-generator/",
+  "u": "https://text.loonaautomation.com/vi/random-topic-generator/",
   "s": "Loona Text Tools",
   "d": "900 chủ đề bài luận, bài phát biểu, tranh luận, câu chuyện và trẻ em viết tay trong 9 thể loại, được lọc theo cấp trường, không lặp lại.",
   "k": "random topic generator random topic generator 900 chu de bai luan bai phat bieu tranh luan cau chuyen va tre em viet tay trong 9 the loai duoc loc theo cap truong khong lap lai",
   "p": 148,
   "c": "Tool"
  }
-,{"n":"Trình chọn biểu tượng cảm xúc","u":"https://loonaautomation.github.io/loona-text-tools/vi/emoji-picker/","s":"Loona Text Tools","d":"Duyệt hoặc tìm kiếm 1,900+ biểu tượng cảm xúc và ký hiệu — nhấp để sao chép, kèm tông màu da và khay sao chép.","k":"emoji picker emoji picker duyet hoac tim kiem 1,900+ bieu tuong cam xuc va ky hieu — nhap đe sao chep, kem tong mau da va khay sao chep.","p":149,"c":"Tool"},
-{"n":"Trình tóm tắt văn bản","u":"https://loonaautomation.github.io/loona-text-tools/vi/text-summarizer/","s":"Loona Text Tools","d":"Dán bài viết dài, bài luận hoặc báo cáo và nhận lại những câu gốc quan trọng nhất. Tóm tắt trích xuất trong trình duyệt của bạn - không bao giờ tải lên, không bao giờ viết lại.","k":"tóm tắt văn bản trình tóm tắt văn bản tóm tắt bài viết công cụ tóm tắt rút gọn văn bản tóm tắt bài luận tạo bản tóm tắt tóm tắt online","p":150,"c":"Tool"},
-{"n":"Loona AI Detector","u":"https://loonaautomation.github.io/loona-text-tools/vi/ai-detector/","s":"Loona Text Tools","d":"Xem các tín hiệu văn bản mà công cụ phát hiện AI đo lường - nhịp câu, sự đa dạng từ vựng, cụm từ lặp lại và tính dễ đoán. Tín hiệu trung thực, không phải phán quyết - và văn bản của bạn không bao giờ rời khỏi trình duyệt.","k":"phát hiện ai trình phát hiện ai kiểm tra văn bản ai ai detector văn bản ai hay người viết tín hiệu văn bản ai","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://loonaautomation.github.io/loona-text-tools/vi/wordle-helper/", "s": "Loona Text Tools", "d": "Nhập các lần đoán Wordle của bạn và chạm vào các ô thành xám, vàng hoặc xanh lá: xem mọi đáp án còn phù hợp và các lần đoán tiếp theo tốt nhất, với logic đúng cho chữ cái trùng lặp.", "k": "wordle helper trợ thủ wordle tiếng việt trình giải wordle đáp án ô xám vàng xanh lá chữ cái trùng lặp lần đoán tiếp theo tốt nhất trò chơi từ", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://loonaautomation.github.io/loona-text-tools/vi/word-unscrambler/", "s": "Loona Text Tools", "d": "Giải mã các chữ cái bị xáo trộn thành từ thật từ từ điển đầy đủ 172.820 từ — nhóm theo độ dài, kèm điểm Scrabble và hỗ trợ ô trống.", "k": "giải mã từ xáo trộn chữ cái sắp xếp chữ cái thành từ đảo chữ chữ cái hỗn hợp tạo từ từ các chữ cái này tìm từ scrabble từ từ chữ cái của tôi ký tự đại diện ô trống word unscrambler unscramble letters anagram solver scrabble helper words with friends trợ giúp trò chơi từ", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://loonaautomation.github.io/loona-text-tools/vi/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Tìm nước đi ghi điểm cao nhất từ các chữ cái trên giá của bạn, với ô trống và mẫu bàn cờ — cộng thêm trình kiểm tra từ giải quyết mọi tranh cãi.", "k": "tìm từ scrabble từ scrabble nước đi điểm cao nhất chữ cái trên giá kiểm tra từ scrabble từ hợp lệ scrabble ô trống scrabble word finder scrabble cheat word checker words with friends trợ giúp trò chơi từ", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://loonaautomation.github.io/loona-text-tools/vi/crossword-solver/", "s": "Loona Text Tools", "d": "Gõ các chữ cái bạn đã biết, dùng ? cho các ô bạn chưa biết — tìm kiếm 172.820 từ theo mẫu và hoàn thành ô chữ.", "k": "giải ô chữ trợ giúp ô chữ từ theo mẫu tìm từ với chữ cái đã biết từ 9 chữ cái ô chữ điền ô chữ chữ cái còn thiếu crossword solver crossword helper word pattern search từ cho ô chữ", "p": 155, "c": "Tool"}]
+,{"n":"Trình chọn biểu tượng cảm xúc","u":"https://text.loonaautomation.com/vi/emoji-picker/","s":"Loona Text Tools","d":"Duyệt hoặc tìm kiếm 1,900+ biểu tượng cảm xúc và ký hiệu — nhấp để sao chép, kèm tông màu da và khay sao chép.","k":"emoji picker emoji picker duyet hoac tim kiem 1,900+ bieu tuong cam xuc va ky hieu — nhap đe sao chep, kem tong mau da va khay sao chep.","p":149,"c":"Tool"},
+{"n":"Trình tóm tắt văn bản","u":"https://text.loonaautomation.com/vi/text-summarizer/","s":"Loona Text Tools","d":"Dán bài viết dài, bài luận hoặc báo cáo và nhận lại những câu gốc quan trọng nhất. Tóm tắt trích xuất trong trình duyệt của bạn - không bao giờ tải lên, không bao giờ viết lại.","k":"tóm tắt văn bản trình tóm tắt văn bản tóm tắt bài viết công cụ tóm tắt rút gọn văn bản tóm tắt bài luận tạo bản tóm tắt tóm tắt online","p":150,"c":"Tool"},
+{"n":"Loona AI Detector","u":"https://text.loonaautomation.com/vi/ai-detector/","s":"Loona Text Tools","d":"Xem các tín hiệu văn bản mà công cụ phát hiện AI đo lường - nhịp câu, sự đa dạng từ vựng, cụm từ lặp lại và tính dễ đoán. Tín hiệu trung thực, không phải phán quyết - và văn bản của bạn không bao giờ rời khỏi trình duyệt.","k":"phát hiện ai trình phát hiện ai kiểm tra văn bản ai ai detector văn bản ai hay người viết tín hiệu văn bản ai","p":151,"c":"Tool"},{"n": "Loona Wordle Helper", "u": "https://text.loonaautomation.com/vi/wordle-helper/", "s": "Loona Text Tools", "d": "Nhập các lần đoán Wordle của bạn và chạm vào các ô thành xám, vàng hoặc xanh lá: xem mọi đáp án còn phù hợp và các lần đoán tiếp theo tốt nhất, với logic đúng cho chữ cái trùng lặp.", "k": "wordle helper trợ thủ wordle tiếng việt trình giải wordle đáp án ô xám vàng xanh lá chữ cái trùng lặp lần đoán tiếp theo tốt nhất trò chơi từ", "p": 152, "c": "Tool"},{"n": "Loona Word Unscrambler", "u": "https://text.loonaautomation.com/vi/word-unscrambler/", "s": "Loona Text Tools", "d": "Giải mã các chữ cái bị xáo trộn thành từ thật từ từ điển đầy đủ 172.820 từ — nhóm theo độ dài, kèm điểm Scrabble và hỗ trợ ô trống.", "k": "giải mã từ xáo trộn chữ cái sắp xếp chữ cái thành từ đảo chữ chữ cái hỗn hợp tạo từ từ các chữ cái này tìm từ scrabble từ từ chữ cái của tôi ký tự đại diện ô trống word unscrambler unscramble letters anagram solver scrabble helper words with friends trợ giúp trò chơi từ", "p": 153, "c": "Tool"},{"n": "Loona Scrabble Word Finder", "u": "https://text.loonaautomation.com/vi/scrabble-word-finder/", "s": "Loona Text Tools", "d": "Tìm nước đi ghi điểm cao nhất từ các chữ cái trên giá của bạn, với ô trống và mẫu bàn cờ — cộng thêm trình kiểm tra từ giải quyết mọi tranh cãi.", "k": "tìm từ scrabble từ scrabble nước đi điểm cao nhất chữ cái trên giá kiểm tra từ scrabble từ hợp lệ scrabble ô trống scrabble word finder scrabble cheat word checker words with friends trợ giúp trò chơi từ", "p": 154, "c": "Tool"},{"n": "Loona Crossword Solver", "u": "https://text.loonaautomation.com/vi/crossword-solver/", "s": "Loona Text Tools", "d": "Gõ các chữ cái bạn đã biết, dùng ? cho các ô bạn chưa biết — tìm kiếm 172.820 từ theo mẫu và hoàn thành ô chữ.", "k": "giải ô chữ trợ giúp ô chữ từ theo mẫu tìm từ với chữ cái đã biết từ 9 chữ cái ô chữ điền ô chữ chữ cái còn thiếu crossword solver crossword helper word pattern search từ cho ô chữ", "p": 155, "c": "Tool"}]

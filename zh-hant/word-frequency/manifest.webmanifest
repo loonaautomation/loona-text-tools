@@ -2,7 +2,7 @@
   "name": "Loona 線上詞頻計數器",
   "short_name": "線上詞頻計數器",
   "description": "統計文字中每個單詞出現的頻率,檢視帶百分比的排名頻率表。免費線上詞頻計數器——無需註冊,即時。",
-  "id": "/loona-text-tools/zh-hant/word-frequency/",
+  "id": "/zh-hant/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

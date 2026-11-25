@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator for lesenivå",
   "short_name": "Kalkulator for lesenivå",
   "description": "Skår enhver tekst med Flesch Reading Ease-skalaen og Flesch-Kincaid klassetrinn, med standardformlene. Se hvor lett skrivingen din er å lese. Gratis.",
-  "id": "/loona-text-tools/nb/reading-level-calculator/",
+  "id": "/nb/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

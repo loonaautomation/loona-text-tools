@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "c?oss?ord-এর মতো ক্রসওয়ার্ড প্যাটার্ন 172,820টি ইংরেজি শব্দে খুঁজুন। আপনি যে অক্ষরগুলো জানেন তা লিখুন, হারানো ঘরের জন্য ? ব্যবহার করুন, অবশ্যই-থাকবে অক্ষর দিয়ে ফিল্টার করুন। বিনামূল্যে, সাইন-আপ ছাড়া, 100% আপনার ডিভাইসে।",
-  "id": "/loona-text-tools/bn/crossword-solver/",
+  "id": "/bn/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

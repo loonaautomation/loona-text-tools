@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци онлайн",
   "short_name": "Брояч на знаци онлайн",
   "description": "Бройте знаци с и без интервали и проверявайте ограниченията за X (Twitter), SMS, мета описания и още. Безплатен онлайн брояч на знаци - без нужда от регистрация.",
-  "id": "/loona-text-tools/bg/character-counter/",
+  "id": "/bg/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Uppercase-muunnin",
   "short_name": "Uppercase-muunnin",
   "description": "Ilmainen Uppercase-muunnin — liitä teksti ja saa UPPERCASE välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/uppercase-converter/",
+  "id": "/fi/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

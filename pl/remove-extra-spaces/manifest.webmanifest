@@ -2,7 +2,7 @@
   "name": "Loona Usuwanie zbędnych spacji online",
   "short_name": "Usuwanie zbędnych spacji online",
   "description": "Usuwaj zbędne spacje, tabulatory i puste linie z tekstu jednym kliknięciem. Porządkuj tekst skopiowany z plików PDF, e-maili i stron internetowych. Darmowe narzędzie online - rejestracja niepotrzebna.",
-  "id": "/loona-text-tools/pl/remove-extra-spaces/",
+  "id": "/pl/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

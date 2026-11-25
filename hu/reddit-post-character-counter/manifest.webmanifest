@@ -2,7 +2,7 @@
   "name": "Loona Reddit-bejegyzés karakterszámláló",
   "short_name": "Reddit-bejegyzés karakterszámláló",
   "description": "Ingyenes Reddit-bejegyzés karakterszámláló számláló: élő karakterszám a 40,000 karakteres korláttal szemben, a szavakkal és a hátralévő karakterekkel gépelés közben megjelenítve.",
-  "id": "/loona-text-tools/hu/reddit-post-character-counter/",
+  "id": "/hu/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

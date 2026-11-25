@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator słów na stronę",
   "short_name": "Kalkulator słów na stronę",
   "description": "Darmowy kalkulator słów na stronę: wprowadź słowa, rozmiar czcionki i interlinię, aby uzyskać liczbę stron i liczbę słów na stronę.",
-  "id": "/loona-text-tools/pl/words-per-page-calculator/",
+  "id": "/pl/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

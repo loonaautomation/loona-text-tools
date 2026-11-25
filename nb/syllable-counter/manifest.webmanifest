@@ -2,7 +2,7 @@
   "name": "Loona Stavelsesteller gratis på nett",
   "short_name": "Stavelsesteller gratis på nett",
   "description": "Tell stavelser i ethvert ord, setning eller full tekst øyeblikkelig - totale stavelser, per-ord fordeling og gjennomsnitt. Gratis stavelsesteller, ingen registrering, virker uten nett.",
-  "id": "/loona-text-tools/nb/syllable-counter/",
+  "id": "/nb/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

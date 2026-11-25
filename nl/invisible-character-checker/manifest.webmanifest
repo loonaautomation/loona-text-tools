@@ -2,7 +2,7 @@
   "name": "Loona Checker voor onzichtbare tekens",
   "short_name": "Checker voor onzichtbare tekens",
   "description": "Onthul onzichtbare tekens die in je tekst verborgen zitten - spaties met nulbreedte, BOM, vaste spaties en richtingsmarkeringen - en verwijder ze met één klik. Gratis.",
-  "id": "/loona-text-tools/nl/invisible-character-checker/",
+  "id": "/nl/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

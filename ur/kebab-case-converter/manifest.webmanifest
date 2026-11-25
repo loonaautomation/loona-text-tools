@@ -2,7 +2,7 @@
   "name": "Loona kebab-case کنورٹر",
   "short_name": "kebab-case کنورٹر",
   "description": "مفت kebab-case کنورٹر — متن پیسٹ کریں اور فوراً kebab-case پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/kebab-case-converter/",
+  "id": "/ur/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

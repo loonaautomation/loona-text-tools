@@ -2,7 +2,7 @@
   "name": "Loona Lowercase کنورٹر",
   "short_name": "Lowercase کنورٹر",
   "description": "مفت Lowercase کنورٹر — متن پیسٹ کریں اور فوراً lowercase پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/lowercase-converter/",
+  "id": "/ur/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

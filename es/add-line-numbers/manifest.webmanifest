@@ -2,7 +2,7 @@
   "name": "Loona Agregar números de línea en línea",
   "short_name": "Agregar números de línea en línea",
   "description": "Añade números a cada línea de tu texto con tu elección de inicio, paso, relleno y separador. Herramienta gratuita para numerar líneas: sin registro, instantánea y privada.",
-  "id": "/loona-text-tools/es/add-line-numbers/",
+  "id": "/es/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

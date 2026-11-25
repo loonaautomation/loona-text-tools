@@ -2,7 +2,7 @@
   "name": "Loona Hapus Baris Duplikat Online",
   "short_name": "Hapus Baris Duplikat Online",
   "description": "Hapus baris duplikat dari daftar atau teks apa pun dan simpan hanya baris unik, dalam urutan asli. Penghapus baris duplikat gratis - tanpa pendaftaran, hasil instan.",
-  "id": "/loona-text-tools/id/remove-duplicate-lines/",
+  "id": "/id/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

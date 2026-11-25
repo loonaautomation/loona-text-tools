@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free Gunning Fog index calculator: paste text for the Fog index, complex-word count and the years of schooling it implies.",
-  "id": "/loona-text-tools/en-us/gunning-fog-index-calculator/",
+  "id": "/en-us/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

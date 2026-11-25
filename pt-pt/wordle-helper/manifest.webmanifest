@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Introduza as suas tentativas do Wordle e toque nos quadrados a cinzento, amarelo ou verde: este ajudante gratuito mostra-lhe todas as respostas que ainda encaixam e as melhores tentativas seguintes. Lógica correta para letras repetidas, sem registo, e tudo funciona no seu navegador.",
-  "id": "/loona-text-tools/pt-pt/wordle-helper/",
+  "id": "/pt-pt/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Odstranit zalomení řádků online",
   "short_name": "Odstranit zalomení řádků online",
   "description": "Odstraňte zalomení řádků a spojte rozlámané řádky do čistých odstavců - ideální pro text kopírovaný z PDF. Bezplatný online odstraňovač zalomení řádků, bez registrace, okamžité výsledky.",
-  "id": "/loona-text-tools/cs/remove-line-breaks/",
+  "id": "/cs/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

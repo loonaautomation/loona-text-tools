@@ -2,7 +2,7 @@
   "name": "Loona Ucapan ke Teks Online Gratis",
   "short_name": "Ucapan ke Teks Online Gratis",
   "description": "Dikte dengan suara Anda dan saksikan menjadi teks - ucapan ke teks online gratis untuk bahasa Inggris, Urdu dan bahasa lainnya. Tanpa pendaftaran; bekerja di Chrome dan Edge.",
-  "id": "/loona-text-tools/id/speech-to-text/",
+  "id": "/id/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

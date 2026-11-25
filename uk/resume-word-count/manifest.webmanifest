@@ -2,7 +2,7 @@
   "name": "Loona Кількість слів резюме",
   "short_name": "Кількість слів резюме",
   "description": "Перевірка кількості слів резюме: підрахунок наживо з ціллю однієї сторінки (400–600 слів), оцінкою сторінки та порадами щодо скорочення.",
-  "id": "/loona-text-tools/uk/resume-word-count/",
+  "id": "/uk/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

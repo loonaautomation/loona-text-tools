@@ -2,7 +2,7 @@
   "name": "Loona محوّل الأحرف الكبيرة",
   "short_name": "محوّل الأحرف الكبيرة",
   "description": "محوّل UPPERCASE مجانًا — الصق النص واحصل على UPPERCASE فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/uppercase-converter/",
+  "id": "/ar/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

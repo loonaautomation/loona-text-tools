@@ -2,7 +2,7 @@
   "name": "Loona متن سے Hex کنورٹر آن لائن مفت",
   "short_name": "متن سے Hex کنورٹر آن لائن مفت",
   "description": "متن کو hexadecimal میں اور hex کو واپس متن میں بدلیں، لہجے والے حروف، اردو اور ایموجی کے لیے UTF-8 کو درست سنبھالتے ہوئے۔ مفت hex کنورٹر، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/text-to-hex-converter/",
+  "id": "/ur/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Λέξεων ανά Σελίδα",
   "short_name": "Υπολογιστής Λέξεων ανά Σελίδα",
   "description": "Δωρεάν υπολογιστής λέξεων ανά σελίδα: εισαγάγετε λέξεις, μέγεθος γραμματοσειράς και διάστιχο για να πάρετε το πλήθος σελίδων και τις λέξεις ανά σελίδα.",
-  "id": "/loona-text-tools/el/words-per-page-calculator/",
+  "id": "/el/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

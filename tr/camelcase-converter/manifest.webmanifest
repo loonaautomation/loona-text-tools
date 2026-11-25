@@ -2,7 +2,7 @@
   "name": "Loona camelCase Dönüştürücü",
   "short_name": "camelCase Dönüştürücü",
   "description": "Ücretsiz camelCase dönüştürücü — metni yapıştırın ve anında camelCase elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/camelcase-converter/",
+  "id": "/tr/camelcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

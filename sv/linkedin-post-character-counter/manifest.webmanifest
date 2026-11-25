@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för LinkedIn-inlägg",
   "short_name": "Teckenräknare för LinkedIn-inlägg",
   "description": "Gratis teckenräknare för LinkedIn-inlägg räknare: levande teckenantal mot gränsen på 3.000 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/linkedin-post-character-counter/",
+  "id": "/sv/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

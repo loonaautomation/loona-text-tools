@@ -2,7 +2,7 @@
   "name": "Loona Конвертер малих літер",
   "short_name": "Конвертер малих літер",
   "description": "Безкоштовний конвертер малих літер — вставте текст і отримайте малі літери миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/lowercase-converter/",
+  "id": "/uk/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

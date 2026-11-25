@@ -2,7 +2,7 @@
   "name": "Loona Генератор слагов онлайн",
   "short_name": "Генератор слагов онлайн",
   "description": "Превращайте любое название в чистый, дружественный к SEO URL-slug: нижний регистр, без пробелов, без специальных символов. Бесплатный онлайн-генератор slug с полным предпросмотром URL — без регистрации.",
-  "id": "/loona-text-tools/ru/slug-generator/",
+  "id": "/ru/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

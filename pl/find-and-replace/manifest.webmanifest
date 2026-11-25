@@ -2,7 +2,7 @@
   "name": "Loona Znajdź i zamień tekst online",
   "short_name": "Znajdź i zamień tekst online",
   "description": "Znajdź słowo lub frazę i zamień każde wystąpienie w swoim tekście naraz, z opcjami rozróżniania wielkości liter, całych słów i wzorców. Darmowe narzędzie online - bez rejestracji.",
-  "id": "/loona-text-tools/pl/find-and-replace/",
+  "id": "/pl/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

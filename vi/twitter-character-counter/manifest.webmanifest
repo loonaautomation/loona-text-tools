@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự Twitter / X",
   "short_name": "Bộ đếm ký tự Twitter / X",
   "description": "Bộ đếm ký tự Twitter / X miễn phí: đếm ký tự trực tiếp so với giới hạn 280 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/twitter-character-counter/",
+  "id": "/vi/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل Sentence Case",
   "short_name": "محوّل Sentence Case",
   "description": "محوّل Sentence case مجانًا — الصق النص واحصل على Sentence case فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/sentence-case-converter/",
+  "id": "/ar/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

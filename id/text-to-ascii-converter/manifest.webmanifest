@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Teks ke ASCII Online Gratis",
   "short_name": "Pengonversi Teks ke ASCII Online Gratis",
   "description": "Konversi teks ke kode ASCII (desimal, heks, oktal dan biner untuk setiap karakter) dan konversi kode ASCII kembali ke teks. Gratis, instan, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/text-to-ascii-converter/",
+  "id": "/id/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

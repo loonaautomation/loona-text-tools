@@ -2,7 +2,7 @@
   "name": "Loona Hivatkozásgenerátor online ingyen",
   "short_name": "Hivatkozásgenerátor online ingyen",
   "description": "Generáljon helyesen formázott hivatkozásokat weboldalakhoz, könyvekhez és folyóiratcikkekhez APA 7., MLA 9 és Chicago szerző-dátum stílusban - ingyen, azonnal, a böngészőjében.",
-  "id": "/loona-text-tools/hu/citation-generator/",
+  "id": "/hu/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "ใส่คำทาย Wordle ของคุณแล้วแตะกระเบื้องเป็นสีเทา เหลือง หรือเขียว: ผู้ช่วยฟรีนี้จะแสดงทุกคำตอบที่ยังเป็นไปได้และคำทายต่อไปที่ดีที่สุด ตรรกะที่ถูกต้องสำหรับตัวอักษรซ้ำ ไม่ต้องสมัครสมาชิก และทุกอย่างทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-text-tools/th/wordle-helper/",
+  "id": "/th/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

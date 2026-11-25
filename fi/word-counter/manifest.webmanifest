@@ -2,7 +2,7 @@
   "name": "Loona Sanalaskuri verkossa ilmaiseksi",
   "short_name": "Sanalaskuri verkossa ilmaiseksi",
   "description": "Laske sanat, merkit, lauseet ja kappaleet missä tahansa tekstissä välittömästi, luku- ja puheajalla. Ilmainen sanalaskuri, ei rekisteröitymistä, toimii offline-tilassa.",
-  "id": "/loona-text-tools/fi/word-counter/",
+  "id": "/fi/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

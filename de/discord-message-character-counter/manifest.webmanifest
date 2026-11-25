@@ -2,7 +2,7 @@
   "name": "Loona Discord-Nachrichten-Zeichenzähler",
   "short_name": "Discord-Nachrichten-Zeichenzähler",
   "description": "Kostenloser Discord-Nachrichten-Zeichenzähler Zähler: Live-Zeichenzählung gegen das 2.000-Zeichen-Limit, mit Wörtern und verbleibenden Zeichen, während Sie tippen.",
-  "id": "/loona-text-tools/de/discord-message-character-counter/",
+  "id": "/de/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SMS حروف گننے والا",
   "short_name": "SMS حروف گننے والا",
   "description": "مفت SMS حرف کاؤنٹر: GSM 7-bit بمقابلہ Unicode شناخت، سیگمنٹ گنتی اور باقی حروف — لائیو، آپ کے براؤزر میں۔",
-  "id": "/loona-text-tools/ur/sms-character-counter/",
+  "id": "/ur/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

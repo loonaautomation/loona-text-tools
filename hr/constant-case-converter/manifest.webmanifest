@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač CONSTANT_CASE",
   "short_name": "Pretvarač CONSTANT_CASE",
   "description": "Besplatan CONSTANT_CASE pretvarač — zalijepite tekst i trenutačno dobijte CONSTANT_CASE. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/constant-case-converter/",
+  "id": "/hr/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

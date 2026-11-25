@@ -2,7 +2,7 @@
   "name": "Loona 1 Dakikalık Konuşma",
   "short_name": "1 Dakikalık Konuşma",
   "description": "1 dakikalık bir konuşmada kaç kelime var? 110–180 kelime (konuşma temposunda 150). Konuşma süresi kontrolüyle ücretsiz canlı sayaç.",
-  "id": "/loona-text-tools/tr/1-minute-speech-word-count/",
+  "id": "/tr/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

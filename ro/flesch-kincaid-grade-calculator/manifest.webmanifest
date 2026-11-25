@@ -2,7 +2,7 @@
   "name": "Loona Calculator de clasă Flesch–Kincaid",
   "short_name": "Calculator de clasă Flesch–Kincaid",
   "description": "Calculator gratuit de clasă Flesch–Kincaid: lipește text pentru nivelul de clasă și scorul de ușurință a citirii, cu cuvinte pe propoziție și silabe pe cuvânt.",
-  "id": "/loona-text-tools/ro/flesch-kincaid-grade-calculator/",
+  "id": "/ro/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

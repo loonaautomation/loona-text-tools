@@ -2,7 +2,7 @@
   "name": "Loona Leestijdcalculator",
   "short_name": "Leestijdcalculator",
   "description": "Plak elke tekst en zie hoe lang het duurt om hem te lezen bij langzame, gemiddelde en snelle snelheden - plus hoeveel woorden je nodig hebt voor een doelleestijd. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/reading-time-calculator/",
+  "id": "/nl/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

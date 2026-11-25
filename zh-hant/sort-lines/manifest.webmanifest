@@ -2,7 +2,7 @@
   "name": "Loona 線上行排序",
   "short_name": "線上行排序",
   "description": "把文字行按字母順序(A-Z 或 Z-A)、按長度、倒序或隨機打亂排序。免費線上行排序器——無需註冊,即時且私密。",
-  "id": "/loona-text-tools/zh-hant/sort-lines/",
+  "id": "/zh-hant/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

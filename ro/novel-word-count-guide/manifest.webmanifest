@@ -2,7 +2,7 @@
   "name": "Loona Număr de cuvinte pentru roman după gen",
   "short_name": "Număr de cuvinte pentru roman după gen",
   "description": "Număr de cuvinte pentru roman după gen: adulți 70,000–120,000, YA 50,000–90,000, copii mai mari 20,000–55,000. Contor gratuit în direct, cu ținte pe genuri.",
-  "id": "/loona-text-tools/ro/novel-word-count-guide/",
+  "id": "/ro/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

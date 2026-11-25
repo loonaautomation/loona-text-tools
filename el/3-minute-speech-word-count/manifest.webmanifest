@@ -2,7 +2,7 @@
   "name": "Loona Ομιλία 3 Λεπτών",
   "short_name": "Ομιλία 3 Λεπτών",
   "description": "Πόσες λέξεις σε μια ομιλία 3 λεπτών; 330–540 λέξεις (450 με συνομιλιακό ρυθμό). Δωρεάν ζωντανός μετρητής με έλεγχο χρόνου ομιλίας.",
-  "id": "/loona-text-tools/el/3-minute-speech-word-count/",
+  "id": "/el/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Comprimento de Meta Description",
   "short_name": "Verificador de Comprimento de Meta Description",
   "description": "Verificador de comprimento de meta description grátis contador: contagem de caracteres ao vivo face ao limite de 160 caracteres, com palavras e caracteres restantes mostrados enquanto escreve.",
-  "id": "/loona-text-tools/pt-br/meta-description-length-checker/",
+  "id": "/pt-br/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

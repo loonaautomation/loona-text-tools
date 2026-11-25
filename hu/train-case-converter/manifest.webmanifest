@@ -2,7 +2,7 @@
   "name": "Loona Train-Case-átalakító",
   "short_name": "Train-Case-átalakító",
   "description": "Ingyenes Train-Case-átalakító — illesszen be szöveget, és azonnal Train-Case-t kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/train-case-converter/",
+  "id": "/hu/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

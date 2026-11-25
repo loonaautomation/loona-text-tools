@@ -2,7 +2,7 @@
   "name": "Loona Reddit Gönderisi Karakter Sayacı",
   "short_name": "Reddit Gönderisi Karakter Sayacı",
   "description": "Ücretsiz Reddit Gönderisi Karakter Sayacı sayacı: 40.000 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/reddit-post-character-counter/",
+  "id": "/tr/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

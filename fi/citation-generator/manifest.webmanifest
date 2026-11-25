@@ -2,7 +2,7 @@
   "name": "Loona Viitegeneraattori verkossa ilmaiseksi",
   "short_name": "Viitegeneraattori verkossa ilmaiseksi",
   "description": "Luo oikein muotoiltuja viittauksia verkkosivustoille, kirjoille ja lehtiartikkeleille muodoissa APA 7., MLA 9 ja Chicago tekijä-vuosi – ilmaiseksi, välittömästi, selaimessasi.",
-  "id": "/loona-text-tools/fi/citation-generator/",
+  "id": "/fi/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

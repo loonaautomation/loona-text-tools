@@ -2,7 +2,7 @@
   "name": "Loona Esej na 800 slov",
   "short_name": "Esej na 800 slov",
   "description": "Bezplatné počítadlo eseje na 800 slov: počítanie slov naživo k cieľu 800 slov, strany s jednoduchým a dvojitým riadkovaním, odseky, čas čítania a hovorenia.",
-  "id": "/loona-text-tools/sk/800-word-essay-word-counter/",
+  "id": "/sk/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

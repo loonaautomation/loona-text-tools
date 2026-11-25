@@ -2,7 +2,7 @@
   "name": "Loona پیلنڈروم چیکر آن لائن مفت",
   "short_name": "پیلنڈروم چیکر آن لائن مفت",
   "description": "جانچیں کہ آیا کوئی لفظ، نمبر یا جملہ پیلنڈروم ہے - آگے اور پیچھے سے ایک جیسا پڑھا جاتا ہے۔ صاف شدہ متن اور اس کا الٹ دکھاتا ہے۔ مفت، کوئی سائن اپ نہیں۔",
-  "id": "/loona-text-tools/ur/palindrome-checker/",
+  "id": "/ur/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

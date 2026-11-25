@@ -2,7 +2,7 @@
   "name": "Loona 5,000 szavas esszé",
   "short_name": "5,000 szavas esszé",
   "description": "Ingyenes 5,000 szavas esszészámláló: élő szószám az 5,000 szavas célig, oldalak szimpla és dupla sorközzel, bekezdések, olvasási és beszédidő.",
-  "id": "/loona-text-tools/hu/5000-word-essay-word-counter/",
+  "id": "/hu/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

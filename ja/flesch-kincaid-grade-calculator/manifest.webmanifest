@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid 学年計算ツール",
   "short_name": "Flesch–Kincaid 学年計算ツール",
   "description": "無料 Flesch–Kincaid 学年計算ツール：テキストを貼り付けると学年レベルと読みやすさスコアが得られます。文あたりの単語数と単語あたりの音節数付き。",
-  "id": "/loona-text-tools/ja/flesch-kincaid-grade-calculator/",
+  "id": "/ja/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Odstranit duplicitní řádky online",
   "short_name": "Odstranit duplicitní řádky online",
   "description": "Odstraňte duplicitní řádky z jakéhokoli seznamu nebo textu a ponechte pouze jedinečné řádky, v původním pořadí. Bezplatný odstraňovač duplicitních řádků - bez registrace, okamžité výsledky.",
-  "id": "/loona-text-tools/cs/remove-duplicate-lines/",
+  "id": "/cs/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube Başlığı Karakter Sayacı",
   "short_name": "YouTube Başlığı Karakter Sayacı",
   "description": "Ücretsiz YouTube Başlığı Karakter Sayacı sayacı: 100 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/youtube-title-character-counter/",
+  "id": "/tr/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

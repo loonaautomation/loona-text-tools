@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för Discord-meddelanden",
   "short_name": "Teckenräknare för Discord-meddelanden",
   "description": "Gratis teckenräknare för Discord-meddelanden räknare: levande teckenantal mot gränsen på 2.000 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/discord-message-character-counter/",
+  "id": "/sv/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

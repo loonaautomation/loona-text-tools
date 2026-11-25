@@ -2,7 +2,7 @@
   "name": "Loona Brojač slogova na mreži besplatno",
   "short_name": "Brojač slogova na mreži besplatno",
   "description": "Brojite slogove u bilo kojoj riječi, rečenici ili cijelom tekstu trenutačno – ukupni slogovi, rastavljanje po riječima i prosjeci. Besplatan brojač slogova, bez registracije, radi izvan mreže.",
-  "id": "/loona-text-tools/hr/syllable-counter/",
+  "id": "/hr/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

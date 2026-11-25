@@ -2,7 +2,7 @@
   "name": "Loona SMS-teckenräknare",
   "short_name": "SMS-teckenräknare",
   "description": "Gratis SMS-teckenräknare: GSM 7-bit mot Unicode-detektering, segmentantal och återstående tecken — live, i din webbläsare.",
-  "id": "/loona-text-tools/sv/sms-character-counter/",
+  "id": "/sv/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

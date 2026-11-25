@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere pentru descrieri TikTok",
   "short_name": "Contor de caractere pentru descrieri TikTok",
   "description": "Contor gratuit de caractere pentru descrieri TikTok: numărătoare de caractere în direct față de limita de 2,200 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/tiktok-caption-character-counter/",
+  "id": "/ro/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

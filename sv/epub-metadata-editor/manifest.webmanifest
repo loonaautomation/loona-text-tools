@@ -2,7 +2,7 @@
   "name": "Loona EPUB-metadataredigerare gratis",
   "short_name": "EPUB-metadataredigerare gratis",
   "description": "Redigera EPUB-metadata gratis i din webbläsare: titel, författare, språk, utgivare och beskrivning, med omslagsinformation visad. Kapitel orörda, ingen uppladdning, ingen registrering.",
-  "id": "/loona-text-tools/sv/epub-metadata-editor/",
+  "id": "/sv/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

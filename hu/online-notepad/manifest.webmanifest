@@ -2,7 +2,7 @@
   "name": "Loona Online jegyzettömb ingyen",
   "short_name": "Online jegyzettömb ingyen",
   "description": "Ingyenes online jegyzettömb, amely gépelés közben automatikusan ment a böngészőjében - letöltéssel, nyomtatással és szószámlálással. Regisztráció nélkül; a jegyzetei soha nem hagyják el az eszközét.",
-  "id": "/loona-text-tools/hu/online-notepad/",
+  "id": "/hu/online-notepad/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

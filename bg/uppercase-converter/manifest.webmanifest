@@ -2,7 +2,7 @@
   "name": "Loona Конвертор към главни букви",
   "short_name": "Конвертор към главни букви",
   "description": "Безплатен конвертор към главни букви — поставете текст и получете ГЛАВНИ БУКВИ мигновено. Преобразуване на живо във вашия браузър, без регистрация, без качване.",
-  "id": "/loona-text-tools/bg/uppercase-converter/",
+  "id": "/bg/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

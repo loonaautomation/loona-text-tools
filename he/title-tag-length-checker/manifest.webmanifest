@@ -2,7 +2,7 @@
   "name": "Loona בודק אורך תגית כותרת",
   "short_name": "בודק אורך תגית כותרת",
   "description": "בודק אורך תגית כותרת בחינם: ספירת תווים חיה מול מגבלת 60 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/title-tag-length-checker/",
+  "id": "/he/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lettergrepenteller online gratis",
   "short_name": "Lettergrepenteller online gratis",
   "description": "Tel lettergrepen in elk woord, elke zin of volledige tekst direct - totale lettergrepen, uitsplitsing per woord en gemiddelden. Gratis tool om lettergrepen te tellen, geen registratie, werkt offline.",
-  "id": "/loona-text-tools/nl/syllable-counter/",
+  "id": "/nl/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

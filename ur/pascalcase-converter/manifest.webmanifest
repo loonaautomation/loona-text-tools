@@ -2,7 +2,7 @@
   "name": "Loona PascalCase کنورٹر",
   "short_name": "PascalCase کنورٹر",
   "description": "مفت PascalCase کنورٹر — متن پیسٹ کریں اور فوراً PascalCase پائیں۔ آپ کے براؤزر میں لائیو تبدیلی، کوئی سائن اپ نہیں، کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-text-tools/ur/pascalcase-converter/",
+  "id": "/ur/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

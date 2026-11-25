@@ -2,7 +2,7 @@
   "name": "Loona kebab-case-muunnin",
   "short_name": "kebab-case-muunnin",
   "description": "Ilmainen kebab-case-muunnin — liitä teksti ja saa kebab-case välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/kebab-case-converter/",
+  "id": "/fi/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

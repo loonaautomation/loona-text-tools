@@ -2,7 +2,7 @@
   "name": "Loona 在线摩尔斯电码翻译器",
   "short_name": "在线摩尔斯电码翻译器",
   "description": "将文本翻译为摩尔斯电码,将摩尔斯电码翻译回文本,并把它听作真正的哔哔声。免费在线摩尔斯电码翻译器——无需注册,在您的浏览器中工作。",
-  "id": "/loona-text-tools/zh/morse-code-translator/",
+  "id": "/zh/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Промова на 1 хвилину",
   "short_name": "Промова на 1 хвилину",
   "description": "Скільки слів у промові на 1 хвилину? 110–180 слів (150 за розмовного темпу). Безкоштовний лічильник наживо з перевіркою часу виступу.",
-  "id": "/loona-text-tools/uk/1-minute-speech-word-count/",
+  "id": "/uk/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

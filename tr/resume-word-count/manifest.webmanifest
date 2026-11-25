@@ -2,7 +2,7 @@
   "name": "Loona Özgeçmiş Kelime Sayısı",
   "short_name": "Özgeçmiş Kelime Sayısı",
   "description": "Özgeçmiş kelime sayısı denetleyicisi: tek sayfa hedefiyle (400–600 kelime) canlı sayım, sayfa tahmini ve kırpma rehberliği.",
-  "id": "/loona-text-tools/tr/resume-word-count/",
+  "id": "/tr/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

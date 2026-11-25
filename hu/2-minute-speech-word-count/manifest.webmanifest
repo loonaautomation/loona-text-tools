@@ -2,7 +2,7 @@
   "name": "Loona 2 perces beszéd",
   "short_name": "2 perces beszéd",
   "description": "Hány szó van egy 2 perces beszédben? 220–360 szó (300 társalgási tempóban). Ingyenes élő számláló beszédidő-ellenőrzéssel.",
-  "id": "/loona-text-tools/hu/2-minute-speech-word-count/",
+  "id": "/hu/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

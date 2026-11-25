@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znaků Twitter / X",
   "short_name": "Počítadlo znaků Twitter / X",
   "description": "Bezplatné počítadlo znaků Twitter / X: živý počet znaků vůči limitu 280 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
-  "id": "/loona-text-tools/cs/twitter-character-counter/",
+  "id": "/cs/twitter-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

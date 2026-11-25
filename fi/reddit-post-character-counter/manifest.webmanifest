@@ -2,7 +2,7 @@
   "name": "Loona Reddit-julkaisujen merkkilaskuri",
   "short_name": "Reddit-julkaisujen merkkilaskuri",
   "description": "Ilmainen Reddit-julkaisujen merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 40,000 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/reddit-post-character-counter/",
+  "id": "/fi/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

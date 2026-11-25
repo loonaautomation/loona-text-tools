@@ -2,7 +2,7 @@
   "name": "Loona 800 Kelimelik Deneme",
   "short_name": "800 Kelimelik Deneme",
   "description": "Ücretsiz 800 kelimelik deneme sayacı: 800 kelime hedefine canlı kelime sayısı, tek ve çift aralıklı sayfalar, paragraflar, okuma ve konuşma süresi.",
-  "id": "/loona-text-tools/tr/800-word-essay-word-counter/",
+  "id": "/tr/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

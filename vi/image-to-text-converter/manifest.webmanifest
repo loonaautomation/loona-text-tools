@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi hình ảnh sang văn bản (OCR) trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi hình ảnh sang văn bản (OCR) trực tuyến miễn phí",
   "description": "Trích xuất văn bản có thể chỉnh sửa từ hình ảnh và ảnh bằng OCR miễn phí chạy 100% trong trình duyệt của bạn. PNG, JPG, WebP và BMP - hình ảnh của bạn không bao giờ được tải lên.",
-  "id": "/loona-text-tools/vi/image-to-text-converter/",
+  "id": "/vi/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

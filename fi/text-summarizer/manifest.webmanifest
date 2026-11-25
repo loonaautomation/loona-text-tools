@@ -2,7 +2,7 @@
   "name": "Loona Tekstin tiivistäjä verkossa – Tiivistä pitkä teksti heti | Loona Text Tools",
   "short_name": "Tekstin tiivistäjä verkossa – Tiivistä pitkä teksti heti | Loona Text Tools",
   "description": "Tiivistä mikä tahansa pitkä teksti heti: liitä artikkeli, essee tai raportti ja saat sen tärkeimmät alkuperäislauseet takaisin. Ilmainen tekstin tiivistäjä verkossa – ei rekisteröitymistä, 100 % yksityinen.",
-  "id": "/loona-text-tools/fi/text-summarizer/",
+  "id": "/fi/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

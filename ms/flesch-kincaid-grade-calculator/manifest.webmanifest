@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Tahap Flesch–Kincaid",
   "short_name": "Kalkulator Tahap Flesch–Kincaid",
   "description": "Kalkulator tahap Flesch–Kincaid percuma: tampal teks untuk tahap kelas dan skor kemudahan membaca, dengan perkataan per ayat dan suku perkataan per perkataan.",
-  "id": "/loona-text-tools/ms/flesch-kincaid-grade-calculator/",
+  "id": "/ms/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

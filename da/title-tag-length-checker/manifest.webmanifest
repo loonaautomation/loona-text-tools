@@ -2,7 +2,7 @@
   "name": "Loona Længdetjek til titel-tags",
   "short_name": "Længdetjek til titel-tags",
   "description": "Gratis Længdetjek til titel-tags-tæller: live tegntælling mod grænsen på 60 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/title-tag-length-checker/",
+  "id": "/da/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

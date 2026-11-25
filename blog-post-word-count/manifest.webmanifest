@@ -2,7 +2,7 @@
   "name": "Loona Blog Post Word Count",
   "short_name": "Blog Post Word Count",
   "description": "Blog post word count checker: live count with the length bands for news (300–500), standard posts (1,000–1,500) and in-depth guides (2,000+).",
-  "id": "/loona-text-tools/blog-post-word-count/",
+  "id": "/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

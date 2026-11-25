@@ -2,7 +2,7 @@
   "name": "Loona Title Case 変換ツール",
   "short_name": "Title Case 変換ツール",
   "description": "無料 Title Case 変換ツール — テキストを貼り付ければ即座に Title Case が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/title-case-converter/",
+  "id": "/ja/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

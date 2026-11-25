@@ -2,7 +2,7 @@
   "name": "Loona 每页词数计算器",
   "short_name": "每页词数计算器",
   "description": "免费的每页词数计算器:输入词数、字号和行距,得到页数和每页词数。",
-  "id": "/loona-text-tools/zh/words-per-page-calculator/",
+  "id": "/zh/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

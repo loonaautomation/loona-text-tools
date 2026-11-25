@@ -2,7 +2,7 @@
   "name": "Loona Instagram Açıklaması Karakter Sayacı",
   "short_name": "Instagram Açıklaması Karakter Sayacı",
   "description": "Ücretsiz Instagram Açıklaması Karakter Sayacı sayacı: 2.200 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/instagram-caption-character-counter/",
+  "id": "/tr/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

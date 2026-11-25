@@ -2,7 +2,7 @@
   "name": "Loona Word Counter - Count Words, Characters & Reading Time",
   "short_name": "Word Counter - Count Words, Characters & Reading Time",
   "description": "Free TikTok Caption Character Counter counter: live character count against the 2,200-character limit, with words and remaining characters shown as you type.",
-  "id": "/loona-text-tools/en-us/tiktok-caption-character-counter/",
+  "id": "/en-us/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

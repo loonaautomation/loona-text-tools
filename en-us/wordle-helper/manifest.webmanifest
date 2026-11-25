@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Enter your Wordle guesses and tap the tiles grey, yellow or green - this free helper shows every answer that still fits and the best next guesses. Correct duplicate-letter logic, no sign-up, and everything runs in your browser.",
-  "id": "/loona-text-tools/en-us/wordle-helper/",
+  "id": "/en-us/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

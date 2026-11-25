@@ -2,7 +2,7 @@
   "name": "Loona Zeichen-Zähler online",
   "short_name": "Zeichen-Zähler online",
   "description": "Zeichen mit und ohne Leerzeichen zählen und Limits für X (Twitter), SMS, Meta-Beschreibungen und mehr prüfen. Kostenloser Online-Zeichenzähler – keine Registrierung nötig.",
-  "id": "/loona-text-tools/de/character-counter/",
+  "id": "/de/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Train-Case",
   "short_name": "Kibadilishaji cha Train-Case",
   "description": "Kibadilishaji cha bure cha Train-Case — bandika maandishi na upate Train-Case mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/train-case-converter/",
+  "id": "/sw/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

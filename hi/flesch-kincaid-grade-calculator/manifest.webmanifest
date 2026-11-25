@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid ग्रेड कैलकुलेटर",
   "short_name": "Flesch–Kincaid ग्रेड कैलकुलेटर",
   "description": "मुफ़्त Flesch–Kincaid ग्रेड कैलकुलेटर: ग्रेड स्तर और पठन-सुगमता स्कोर के लिए टेक्स्ट पेस्ट करें, प्रति वाक्य शब्द और प्रति शब्द सिलेबल के साथ।",
-  "id": "/loona-text-tools/hi/flesch-kincaid-grade-calculator/",
+  "id": "/hi/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

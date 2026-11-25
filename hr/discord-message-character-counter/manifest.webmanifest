@@ -2,7 +2,7 @@
   "name": "Loona Brojač znakova Discord poruka",
   "short_name": "Brojač znakova Discord poruka",
   "description": "Besplatan brojač znakova za Discord poruke: broj znakova uživo u odnosu na ograničenje od 2,000 znakova, uz riječi i preostale znakove prikazane dok tipkate.",
-  "id": "/loona-text-tools/hr/discord-message-character-counter/",
+  "id": "/hr/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

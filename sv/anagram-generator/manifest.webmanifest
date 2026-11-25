@@ -2,7 +2,7 @@
   "name": "Loona Anagramgenerator & kontroll online gratis",
   "short_name": "Anagramgenerator & kontroll online gratis",
   "description": "Hitta anagram för vilket ord som helst från riktiga engelska ord, och kontrollera om två ord eller fraser är anagram av varandra. Gratis anagramlösare, ingen registrering.",
-  "id": "/loona-text-tools/sv/anagram-generator/",
+  "id": "/sv/anagram-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

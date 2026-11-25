@@ -2,7 +2,7 @@
   "name": "Loona Речь на 2 минуты",
   "short_name": "Речь на 2 минуты",
   "description": "Сколько слов в речи на 2 минуты? 220–360 слов (300 при разговорном темпе). Бесплатный счётчик в реальном времени с проверкой времени выступления.",
-  "id": "/loona-text-tools/ru/2-minute-speech-word-count/",
+  "id": "/ru/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

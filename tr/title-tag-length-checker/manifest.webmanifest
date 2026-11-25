@@ -2,7 +2,7 @@
   "name": "Loona Başlık Etiketi Uzunluk Denetleyicisi",
   "short_name": "Başlık Etiketi Uzunluk Denetleyicisi",
   "description": "Ücretsiz Başlık Etiketi Uzunluk Denetleyicisi sayacı: 60 karakter sınırına karşı canlı karakter sayısı; siz yazarken kelimeler ve kalan karakterler gösterilir.",
-  "id": "/loona-text-tools/tr/title-tag-length-checker/",
+  "id": "/tr/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

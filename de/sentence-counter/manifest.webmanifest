@@ -2,7 +2,7 @@
   "name": "Loona Satz-Zähler online kostenlos",
   "short_name": "Satz-Zähler online kostenlos",
   "description": "Sätze, Absätze, Wörter und Zeichen in beliebigem Text sofort zählen, mit durchschnittlicher Satzlänge. Kostenloser Satzzähler, keine Registrierung, funktioniert in Ihrem Browser.",
-  "id": "/loona-text-tools/de/sentence-counter/",
+  "id": "/de/sentence-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

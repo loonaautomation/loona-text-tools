@@ -2,7 +2,7 @@
   "name": "Loona Trova parole ripetute online gratuito",
   "short_name": "Trova parole ripetute online gratuito",
   "description": "Trova ogni parola che appare più di una volta nel tuo testo, classificata per quanto spesso si ripete. Intercetta parole doppie accidentali e parole abusate. Gratuito, nessuna registrazione.",
-  "id": "/loona-text-tools/it/repeated-words-finder/",
+  "id": "/it/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/lorem-ipsum-generator/",
+  "id": "/en-gb/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

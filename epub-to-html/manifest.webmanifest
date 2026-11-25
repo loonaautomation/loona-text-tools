@@ -2,7 +2,7 @@
   "name": "Loona EPUB to HTML Converter Free",
   "short_name": "EPUB to HTML Converter Free",
   "description": "Convert EPUB ebooks to a single self-contained HTML file free, in your browser. Chapters in order, basic typography, small images embedded. No upload, no sign-up.",
-  "id": "/loona-text-tools/epub-to-html/",
+  "id": "/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

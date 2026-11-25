@@ -2,7 +2,7 @@
   "name": "Loona Bokstavomformer på nett",
   "short_name": "Bokstavomformer på nett",
   "description": "Konverter tekst til UPPERCASE, lowercase, Title Case, Sentence case, Capitalized eller aLtErNaTiNg case med ett klikk. Gratis bokstavomformer på nett - ingen registrering nødvendig.",
-  "id": "/loona-text-tools/nb/case-converter/",
+  "id": "/nb/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

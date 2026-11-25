@@ -2,7 +2,7 @@
   "name": "Loona इमेज से टेक्स्ट कन्वर्टर (OCR) ऑनलाइन मुफ़्त",
   "short_name": "इमेज से टेक्स्ट कन्वर्टर (OCR) ऑनलाइन मुफ़्त",
   "description": "मुफ़्त OCR के साथ छवियों और फ़ोटो से संपादन योग्य टेक्स्ट निकालें जो आपके ब्राउज़र में 100% चलता है। PNG, JPG, WebP और BMP - आपकी छवि कभी अपलोड नहीं होती।",
-  "id": "/loona-text-tools/hi/image-to-text-converter/",
+  "id": "/hi/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

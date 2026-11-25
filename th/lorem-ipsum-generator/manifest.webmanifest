@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง Lorem Ipsum ออนไลน์",
   "short_name": "ตัวสร้าง Lorem Ipsum ออนไลน์",
   "description": "สร้างข้อความตัวอย่าง lorem ipsum ตามย่อหน้า ประโยค หรือคำ — พร้อมวางลงในงานออกแบบและผัง ตัวสร้าง lorem ipsum ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/lorem-ipsum-generator/",
+  "id": "/th/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

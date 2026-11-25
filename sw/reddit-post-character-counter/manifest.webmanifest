@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Chapisho la Reddit",
   "short_name": "Kihesabu cha Vibambo vya Chapisho la Reddit",
   "description": "Kihesabu cha bure cha Vibambo vya Chapisho la Reddit: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 40,000, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/reddit-post-character-counter/",
+  "id": "/sw/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

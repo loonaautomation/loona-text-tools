@@ -2,7 +2,7 @@
   "name": "Loona Beszédidő számítása",
   "short_name": "Beszédidő számítása",
   "description": "Illessze be a beszédét vagy forgatókönyvét, és nézze meg, mennyi idő előadni lassú, társalgási és gyors tempóban - plusz hány szó fér egy célidőbe. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/speaking-time-calculator/",
+  "id": "/hu/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

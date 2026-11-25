@@ -2,7 +2,7 @@
   "name": "Loona پاس ورڈ جنریٹر آن لائن",
   "short_name": "پاس ورڈ جنریٹر آن لائن",
   "description": "اپنی منتخب لمبائی اور علامات کے ساتھ مضبوط، بے ترتیب پاس ورڈز بنائیں، ساتھ میں ایمان دارانہ طاقت میٹر۔ مفت پاس ورڈ جنریٹر - صرف آپ کے آلے پر بنائے جاتے ہیں۔",
-  "id": "/loona-text-tools/ur/password-generator/",
+  "id": "/ur/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

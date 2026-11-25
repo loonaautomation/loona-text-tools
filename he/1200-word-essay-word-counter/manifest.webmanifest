@@ -2,7 +2,7 @@
   "name": "Loona חיבור של 1,200 מילים",
   "short_name": "חיבור של 1,200 מילים",
   "description": "מונה חיבורים של 1,200 מילים בחינם: ספירת מילים חיה ליעד של 1,200 מילים, עמודים ברווח יחיד וכפול, פסקאות, זמן קריאה וזמן דיבור.",
-  "id": "/loona-text-tools/he/1200-word-essay-word-counter/",
+  "id": "/he/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

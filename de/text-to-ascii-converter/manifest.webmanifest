@@ -2,7 +2,7 @@
   "name": "Loona Text-zu-ASCII-Konverter online kostenlos",
   "short_name": "Text-zu-ASCII-Konverter online kostenlos",
   "description": "Text in ASCII-Codes umwandeln (dezimal, hex, oktal und binär für jedes Zeichen) und ASCII-Codes zurück in Text umwandeln. Kostenlos, sofort, keine Registrierung.",
-  "id": "/loona-text-tools/de/text-to-ascii-converter/",
+  "id": "/de/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

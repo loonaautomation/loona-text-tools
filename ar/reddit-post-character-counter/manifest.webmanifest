@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف منشورات Reddit",
   "short_name": "عدّاد أحرف منشورات Reddit",
   "description": "عدّاد أحرف منشورات Reddit مجانًا: عدّ أحرف مباشر ضد حد الـ40,000 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/reddit-post-character-counter/",
+  "id": "/ar/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

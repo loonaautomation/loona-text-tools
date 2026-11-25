@@ -2,7 +2,7 @@
   "name": "Loona EPUB-metaadatok szerkesztője ingyen",
   "short_name": "EPUB-metaadatok szerkesztője ingyen",
   "description": "Szerkessze az EPUB metaadatait ingyen a böngészőjében: cím, szerző, nyelv, kiadó és leírás, a borító adatainak megjelenítésével. Fejezetek érintetlenül, feltöltés nélkül, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/epub-metadata-editor/",
+  "id": "/hu/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sorter linjer på nett",
   "short_name": "Sorter linjer på nett",
   "description": "Sorter linjer med tekst alfabetisk (A-Z eller Z-A), etter lengde, i reversert rekkefølge eller stokket tilfeldig. Gratis linjesorterer på nett - ingen registrering, øyeblikkelig og privat.",
-  "id": "/loona-text-tools/nb/sort-lines/",
+  "id": "/nb/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Licznik znaków wiadomości Discord",
   "short_name": "Licznik znaków wiadomości Discord",
   "description": "Darmowy licznik znaków wiadomości Discord: liczenie znaków na żywo względem limitu 2,000 znaków, ze słowami i pozostałymi znakami pokazywanymi podczas pisania.",
-  "id": "/loona-text-tools/pl/discord-message-character-counter/",
+  "id": "/pl/discord-message-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

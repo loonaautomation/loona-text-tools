@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi chữ hoa",
   "short_name": "Công cụ chuyển đổi chữ hoa",
   "description": "Công cụ chuyển đổi chữ hoa miễn phí — dán văn bản và nhận VIẾT HOA ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/uppercase-converter/",
+  "id": "/vi/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

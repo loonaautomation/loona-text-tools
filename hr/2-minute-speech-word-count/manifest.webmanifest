@@ -2,7 +2,7 @@
   "name": "Loona Govor od 2 minute",
   "short_name": "Govor od 2 minute",
   "description": "Koliko riječi ima govor od 2 minute? 220–360 riječi (300 razgovornim tempom). Besplatan brojač uživo s provjerom vremena govora.",
-  "id": "/loona-text-tools/hr/2-minute-speech-word-count/",
+  "id": "/hr/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

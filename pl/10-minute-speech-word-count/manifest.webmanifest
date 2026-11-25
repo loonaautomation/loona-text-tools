@@ -2,7 +2,7 @@
   "name": "Loona Przemówienie na 10 minut",
   "short_name": "Przemówienie na 10 minut",
   "description": "Ile słów ma przemówienie na 10 minut? 1,100–1,800 słów (1,500 przy tempie konwersacyjnym). Darmowy licznik na żywo ze sprawdzaniem czasu mówienia.",
-  "id": "/loona-text-tools/pl/10-minute-speech-word-count/",
+  "id": "/pl/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

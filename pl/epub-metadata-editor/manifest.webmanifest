@@ -2,7 +2,7 @@
   "name": "Loona Darmowy edytor metadanych EPUB",
   "short_name": "Darmowy edytor metadanych EPUB",
   "description": "Edytuj metadane EPUB za darmo w swojej przeglądarce: tytuł, autora, język, wydawcę i opis, wraz z pokazanymi informacjami o okładce. Rozdziały nietknięte, bez przesyłania, bez rejestracji.",
-  "id": "/loona-text-tools/pl/epub-metadata-editor/",
+  "id": "/pl/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

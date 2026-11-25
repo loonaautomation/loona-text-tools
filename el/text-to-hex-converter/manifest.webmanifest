@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Κειμένου σε Δεκαεξαδικό Online Δωρεάν",
   "short_name": "Μετατροπέας Κειμένου σε Δεκαεξαδικό Online Δωρεάν",
   "description": "Μετατρέψτε κείμενο σε δεκαεξαδικό και δεκαεξαδικό πίσω σε κείμενο, με σωστό χειρισμό UTF-8 για τονισμένα γράμματα, Urdu και emoji. Δωρεάν μετατροπέας δεκαεξαδικού, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/text-to-hex-converter/",
+  "id": "/el/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

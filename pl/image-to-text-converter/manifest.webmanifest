@@ -2,7 +2,7 @@
   "name": "Loona Konwerter obrazu na tekst (OCR) online za darmo",
   "short_name": "Konwerter obrazu na tekst (OCR) online za darmo",
   "description": "Wyodrębniaj edytowalny tekst z obrazów i zdjęć dzięki darmowemu OCR, który działa w 100% w Twojej przeglądarce. PNG, JPG, WebP i BMP - Twój obraz nigdy nie jest przesyłany.",
-  "id": "/loona-text-tools/pl/image-to-text-converter/",
+  "id": "/pl/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

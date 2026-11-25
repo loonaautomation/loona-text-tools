@@ -2,7 +2,7 @@
   "name": "Loona ধারা অনুযায়ী উপন্যাসের শব্দ সংখ্যা",
   "short_name": "ধারা অনুযায়ী উপন্যাসের শব্দ সংখ্যা",
   "description": "ধারা অনুযায়ী উপন্যাসের শব্দ সংখ্যা: প্রাপ্তবয়স্ক 70,000–120,000, YA 50,000–90,000, মধ্য-স্তর 20,000–55,000। ধারার লক্ষ্যসহ বিনামূল্যের সরাসরি গণক।",
-  "id": "/loona-text-tools/bn/novel-word-count-guide/",
+  "id": "/bn/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

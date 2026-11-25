@@ -2,7 +2,7 @@
   "name": "Loona Metinden Konuşmaya Çevrimiçi Ücretsiz",
   "short_name": "Metinden Konuşmaya Çevrimiçi Ücretsiz",
   "description": "Herhangi bir metni çevrimiçi ücretsiz doğal konuşma sesine dönüştürün - İngilizce ve Urduca sesler, ayarlanabilir hız ve perde. Kayıt yok, yükleme yok, tarayıcınızda çalışır.",
-  "id": "/loona-text-tools/tr/text-to-speech/",
+  "id": "/tr/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

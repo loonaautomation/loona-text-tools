@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov popisu YouTube",
   "short_name": "Počítadlo znakov popisu YouTube",
   "description": "Bezplatné počítadlo znakov popisu YouTube: počítanie znakov naživo oproti limitu 5,000 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/youtube-description-character-counter/",
+  "id": "/sk/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona عدّاد الأحرف عبر الإنترنت",
   "short_name": "عدّاد الأحرف عبر الإنترنت",
   "description": "عُدّ الأحرف مع المسافات وبدونها وتحقق من حدود X (Twitter) وSMS والأوصاف التعريفية والمزيد. عدّاد أحرف مجاني عبر الإنترنت - لا حاجة للتسجيل.",
-  "id": "/loona-text-tools/ar/character-counter/",
+  "id": "/ar/character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

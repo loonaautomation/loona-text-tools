@@ -2,7 +2,7 @@
   "name": "Loona Есе от 1,500 думи",
   "short_name": "Есе от 1,500 думи",
   "description": "Безплатен брояч за есе от 1,500 думи: броене на думи на живо до целта от 1,500 думи, страници с единично и двойно разстояние, абзаци, време за четене и говорене.",
-  "id": "/loona-text-tools/bg/1500-word-essay-word-counter/",
+  "id": "/bg/1500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kikaguzi cha Palindromu Mtandaoni Bure",
   "short_name": "Kikaguzi cha Palindromu Mtandaoni Bure",
   "description": "Kagua ikiwa neno, namba au sentensi yoyote ni palindromu - hujisoma sawa mbele na nyuma. Huonyesha maandishi yaliyosafishwa na ugeuzaji wake. Bure, bila kujisajili.",
-  "id": "/loona-text-tools/sw/palindrome-checker/",
+  "id": "/sw/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

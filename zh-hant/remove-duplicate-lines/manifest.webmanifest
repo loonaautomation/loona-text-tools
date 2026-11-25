@@ -2,7 +2,7 @@
   "name": "Loona 線上刪除重複行",
   "short_name": "線上刪除重複行",
   "description": "從任何列表或文字中刪除重複行,只保留唯一行,按原始順序。免費的重複行刪除器——無需註冊,即時結果。",
-  "id": "/loona-text-tools/zh-hant/remove-duplicate-lines/",
+  "id": "/zh-hant/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

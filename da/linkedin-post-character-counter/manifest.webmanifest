@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller til LinkedIn-opslag",
   "short_name": "Tegntæller til LinkedIn-opslag",
   "description": "Gratis Tegntæller til LinkedIn-opslag-tæller: live tegntælling mod grænsen på 3,000 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/linkedin-post-character-counter/",
+  "id": "/da/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

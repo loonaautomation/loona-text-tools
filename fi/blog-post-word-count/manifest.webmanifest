@@ -2,7 +2,7 @@
   "name": "Loona Blogijulkaisun sanalaskuri",
   "short_name": "Blogijulkaisun sanalaskuri",
   "description": "Blogijulkaisun sanalaskurin tarkistin: reaaliaikainen laskenta pituusalueilla uutisille (300–500), tavallisille julkaisuille (1,000–1,500) ja syvällisille oppaille (2,000+).",
-  "id": "/loona-text-tools/fi/blog-post-word-count/",
+  "id": "/fi/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

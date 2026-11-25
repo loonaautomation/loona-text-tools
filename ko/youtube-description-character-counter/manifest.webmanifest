@@ -2,7 +2,7 @@
   "name": "Loona YouTube 설명 문자 수 세기",
   "short_name": "YouTube 설명 문자 수 세기",
   "description": "무료 YouTube 설명 문자 수 세기 카운터: 5,000자 제한에 대한 실시간 문자 수예요. 입력하는 동안 단어와 남은 문자가 표시돼요.",
-  "id": "/loona-text-tools/ko/youtube-description-character-counter/",
+  "id": "/ko/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

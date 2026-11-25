@@ -2,7 +2,7 @@
   "name": "Loona จำนวนคำของเรซูเม่",
   "short_name": "จำนวนคำของเรซูเม่",
   "description": "ตัวตรวจสอบจำนวนคำของเรซูเม่: นับแบบสดพร้อมเป้าหมายหนึ่งหน้า (400–600 คำ) การประมาณหน้า และคำแนะนำการตัด",
-  "id": "/loona-text-tools/th/resume-word-count/",
+  "id": "/th/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

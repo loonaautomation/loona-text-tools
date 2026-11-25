@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo odsekov online zadarmo",
   "short_name": "Počítadlo odsekov online zadarmo",
   "description": "Počítajte odseky v akomkoľvek texte okamžite, s vetami a slovami na odsek a najdlhším a najkratším odsekom. Bezplatné počítadlo odsekov, bez registrácie.",
-  "id": "/loona-text-tools/sk/paragraph-counter/",
+  "id": "/sk/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

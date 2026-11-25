@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi văn bản sang EPUB miễn phí",
   "short_name": "Công cụ chuyển đổi văn bản sang EPUB miễn phí",
   "description": "Chuyển đổi văn bản thuần hoặc Markdown thành một sách điện tử EPUB hợp lệ miễn phí, trong trình duyệt của bạn. Tiêu đề và tác giả, các chương từ tiêu đề, mở trong bất kỳ trình đọc EPUB nào. Không tải lên, không đăng ký.",
-  "id": "/loona-text-tools/vi/text-to-epub/",
+  "id": "/vi/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

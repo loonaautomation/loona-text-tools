@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Masa Bertutur",
   "short_name": "Kalkulator Masa Bertutur",
   "description": "Tampal ucapan atau naskah anda dan lihat berapa lama masa penyampaiannya pada kelajuan lambat, percakapan dan cepat - ditambah berapa banyak perkataan yang muat dalam masa target. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/speaking-time-calculator/",
+  "id": "/ms/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

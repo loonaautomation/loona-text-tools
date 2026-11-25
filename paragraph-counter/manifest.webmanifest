@@ -2,7 +2,7 @@
   "name": "Loona Paragraph Counter Online Free",
   "short_name": "Paragraph Counter Online Free",
   "description": "Count paragraphs in any text instantly, with sentences and words per paragraph and the longest and shortest paragraph. Free paragraph counter, no sign-up.",
-  "id": "/loona-text-tools/paragraph-counter/",
+  "id": "/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

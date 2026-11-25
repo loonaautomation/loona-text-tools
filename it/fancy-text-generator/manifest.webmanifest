@@ -2,7 +2,7 @@
   "name": "Loona Generatore di testo decorativo online",
   "short_name": "Generatore di testo decorativo online",
   "description": "Trasforma il testo semplice in caratteri Unicode eleganti - grassetto, script, fraktur, cerchiato, maiuscoletto e altro - per bio, didascalie e nomi utente. Generatore di testo decorativo gratuito.",
-  "id": "/loona-text-tools/it/fancy-text-generator/",
+  "id": "/it/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

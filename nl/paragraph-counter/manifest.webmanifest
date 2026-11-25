@@ -2,7 +2,7 @@
   "name": "Loona Alineateller online gratis",
   "short_name": "Alineateller online gratis",
   "description": "Tel alinea's in elke tekst direct, met zinnen en woorden per alinea en de langste en kortste alinea. Gratis alineateller, geen registratie.",
-  "id": "/loona-text-tools/nl/paragraph-counter/",
+  "id": "/nl/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

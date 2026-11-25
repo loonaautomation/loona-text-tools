@@ -2,7 +2,7 @@
   "name": "Loona Ansioluettelon sanalaskuri",
   "short_name": "Ansioluettelon sanalaskuri",
   "description": "Ansioluettelon sanalaskurin tarkistin: reaaliaikainen laskenta yhden sivun tavoitteella (400–600 sanaa), sivu arvio ja leikkausohjeet.",
-  "id": "/loona-text-tools/fi/resume-word-count/",
+  "id": "/fi/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

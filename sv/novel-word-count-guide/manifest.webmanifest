@@ -2,7 +2,7 @@
   "name": "Loona Ordantal för roman efter genre",
   "short_name": "Ordantal för roman efter genre",
   "description": "Ordantal för roman efter genre: vuxna 70.000–120.000, YA 50.000–90.000, mellanåldern 20.000–55.000. Gratis liveräknare med genremål.",
-  "id": "/loona-text-tools/sv/novel-word-count-guide/",
+  "id": "/sv/novel-word-count-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

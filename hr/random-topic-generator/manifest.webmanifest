@@ -2,7 +2,7 @@
   "name": "Loona Generator nasumičnih tema na mreži besplatno",
   "short_name": "Generator nasumičnih tema na mreži besplatno",
   "description": "Generirajte nasumične teme za eseje, govore, rasprave, odlomke, prezentacije i priče - 900 rukom napisanih tema u 9 kategorija, filtriranih po razini. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/random-topic-generator/",
+  "id": "/hr/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

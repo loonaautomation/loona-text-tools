@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Írja be Wordle-tippjeit, és koppintson a mezőkre szürkére, sárgára vagy zöldre: ez az ingyenes segítő megmutatja minden választ, amely még illeszkedik, és a legjobb következő tippeket. Helyes logika a dupla betűkre, regisztráció nélkül, és minden a böngészőjében fut.",
-  "id": "/loona-text-tools/hu/wordle-helper/",
+  "id": "/hu/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

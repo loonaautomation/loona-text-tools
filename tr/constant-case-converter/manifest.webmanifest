@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE Dönüştürücü",
   "short_name": "CONSTANT_CASE Dönüştürücü",
   "description": "Ücretsiz CONSTANT_CASE dönüştürücü — metni yapıştırın ve anında CONSTANT_CASE elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/constant-case-converter/",
+  "id": "/tr/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

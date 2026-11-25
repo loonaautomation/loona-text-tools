@@ -2,7 +2,7 @@
   "name": "Loona Есе от 800 думи",
   "short_name": "Есе от 800 думи",
   "description": "Безплатен брояч за есе от 800 думи: броене на думи на живо до целта от 800 думи, страници с единично и двойно разстояние, абзаци, време за четене и говорене.",
-  "id": "/loona-text-tools/bg/800-word-essay-word-counter/",
+  "id": "/bg/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

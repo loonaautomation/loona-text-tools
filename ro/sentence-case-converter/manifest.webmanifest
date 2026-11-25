@@ -2,7 +2,7 @@
   "name": "Loona Convertor Sentence Case",
   "short_name": "Convertor Sentence Case",
   "description": "Convertor Sentence Case gratuit — lipește text și obține Sentence case instant. Conversie în direct în browserul tău, fără înregistrare, fără încărcare.",
-  "id": "/loona-text-tools/ro/sentence-case-converter/",
+  "id": "/ro/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

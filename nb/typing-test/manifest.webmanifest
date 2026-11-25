@@ -2,7 +2,7 @@
   "name": "Loona Skrivetest gratis på nett",
   "short_name": "Skrivetest gratis på nett",
   "description": "Gratis skrivetest på 60 sekunder: mål skrivehastigheten din i WPM, nøyaktighet og tegn per minutt med enkle, middels og vanskelige tekster. Ingen registrering, kjører 100% i nettleseren din.",
-  "id": "/loona-text-tools/nb/typing-test/",
+  "id": "/nb/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

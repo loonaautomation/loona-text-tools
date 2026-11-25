@@ -2,7 +2,7 @@
   "name": "Loona Generátor hesel online",
   "short_name": "Generátor hesel online",
   "description": "Generujte silná, náhodná hesla s délkou a symboly podle vašeho výběru, plus poctivý měřič síly. Bezplatný generátor hesel - vytvářeno pouze na vašem zařízení.",
-  "id": "/loona-text-tools/cs/password-generator/",
+  "id": "/cs/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

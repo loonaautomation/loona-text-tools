@@ -2,7 +2,7 @@
   "name": "Loona Discurso de 10 Minutos",
   "short_name": "Discurso de 10 Minutos",
   "description": "Quantas palavras num discurso de 10 minutos? 1,100–1,800 palavras (1,500 ao ritmo de conversa). Contador em direto grátis com verificação do tempo de fala.",
-  "id": "/loona-text-tools/pt-pt/10-minute-speech-word-count/",
+  "id": "/pt-pt/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

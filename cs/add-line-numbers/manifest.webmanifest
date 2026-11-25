@@ -2,7 +2,7 @@
   "name": "Loona Přidat čísla řádků online",
   "short_name": "Přidat čísla řádků online",
   "description": "Přidejte čísla ke každému řádku svého textu s vlastním výběrem začátku, kroku, doplňování a oddělovače. Bezplatný nástroj pro číslování řádků - bez registrace, okamžitě a soukromě.",
-  "id": "/loona-text-tools/cs/add-line-numbers/",
+  "id": "/cs/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona عدّاد المقاطع عبر الإنترنت مجانًا",
   "short_name": "عدّاد المقاطع عبر الإنترنت مجانًا",
   "description": "عُدّ المقاطع في أي كلمة أو جملة أو نص كامل فورًا - إجمالي المقاطع وتفصيل لكل كلمة ومتوسطات. عدّاد مقاطع مجاني، بلا تسجيل، يعمل دون اتصال.",
-  "id": "/loona-text-tools/ar/syllable-counter/",
+  "id": "/ar/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

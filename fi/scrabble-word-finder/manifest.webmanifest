@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Löydä eniten pisteitä antavat siirrot kirjainelineestäsi ja tarkista, onko sana kelvollinen. Täysi 172 820 sanan ENABLE-sanakirja, tyhjät laatat tuettu, 100 % laitteellasi. Ilmainen, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/scrabble-word-finder/",
+  "id": "/fi/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Crossword Solver",
   "short_name": "Crossword Solver",
   "description": "Tatua ruwaza za chemsha bongo kama c?oss?ord dhidi ya maneno 172,820 ya Kiingereza. Andika herufi unazozijua, tumia ? kwa visanduku vinavyokosekana, chuja kwa herufi zinazopaswa kuwepo. Bure, bila kujisajili, 100% kwenye kifaa chako.",
-  "id": "/loona-text-tools/sw/crossword-solver/",
+  "id": "/sw/crossword-solver/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

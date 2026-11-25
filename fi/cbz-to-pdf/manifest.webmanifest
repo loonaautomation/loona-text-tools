@@ -2,7 +2,7 @@
   "name": "Loona CBZ PDF-muotoon -muunnin ilmaiseksi",
   "short_name": "CBZ PDF-muotoon -muunnin ilmaiseksi",
   "description": "Muunna CBZ- ja ZIP-sarjakuva-arkistot PDF:ksi ilmaiseksi selaimessasi. Sivut luonnollisessa järjestyksessä (1, 2, 10), yksi kuva sivua kohti täysikokoisena. Ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/cbz-to-pdf/",
+  "id": "/fi/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

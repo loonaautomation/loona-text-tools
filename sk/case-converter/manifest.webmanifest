@@ -2,7 +2,7 @@
   "name": "Loona Prevodník veľkosti písmen online",
   "short_name": "Prevodník veľkosti písmen online",
   "description": "Preveďte text na UPPERCASE, lowercase, Title Case, Sentence case, Capitalized alebo aLtErNaTiNg case jedným kliknutím. Bezplatný online prevodník veľkosti písmen - bez potreby registrácie.",
-  "id": "/loona-text-tools/sk/case-converter/",
+  "id": "/sk/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

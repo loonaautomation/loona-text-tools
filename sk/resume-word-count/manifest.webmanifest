@@ -2,7 +2,7 @@
   "name": "Loona Počet slov životopisu",
   "short_name": "Počet slov životopisu",
   "description": "Kontrola počtu slov životopisu: počítanie naživo s cieľom jednej strany (400–600 slov), odhad strany a usmernenie na orezanie.",
-  "id": "/loona-text-tools/sk/resume-word-count/",
+  "id": "/sk/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

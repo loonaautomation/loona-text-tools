@@ -2,7 +2,7 @@
   "name": "Loona عدّاد أحرف وصف YouTube",
   "short_name": "عدّاد أحرف وصف YouTube",
   "description": "عدّاد أحرف وصف YouTube مجانًا: عدّ أحرف مباشر ضد حد الـ5,000 حرف، مع الكلمات والأحرف المتبقية أثناء كتابتك.",
-  "id": "/loona-text-tools/ar/youtube-description-character-counter/",
+  "id": "/ar/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

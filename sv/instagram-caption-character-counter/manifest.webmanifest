@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för Instagram-bildtexter",
   "short_name": "Teckenräknare för Instagram-bildtexter",
   "description": "Gratis teckenräknare för Instagram-bildtexter räknare: levande teckenantal mot gränsen på 2.200 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/instagram-caption-character-counter/",
+  "id": "/sv/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

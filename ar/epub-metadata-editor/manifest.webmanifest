@@ -2,7 +2,7 @@
   "name": "Loona محرّر بيانات EPUB الوصفية مجانًا",
   "short_name": "محرّر بيانات EPUB الوصفية مجانًا",
   "description": "عدّل بيانات EPUB الوصفية مجانًا في متصفحك: العنوان والمؤلف واللغة والناشر والوصف، مع عرض معلومات الغلاف. الفصول لم تُمس، بلا رفع، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/epub-metadata-editor/",
+  "id": "/ar/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

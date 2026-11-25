@@ -2,7 +2,7 @@
   "name": "Loona מונה תווים לכותרת YouTube",
   "short_name": "מונה תווים לכותרת YouTube",
   "description": "מונה תווי כותרות YouTube בחינם: ספירת תווים חיה מול מגבלת 100 התווים, עם מילים ותווים נותרים מוצגים בזמן ההקלדה.",
-  "id": "/loona-text-tools/he/youtube-title-character-counter/",
+  "id": "/he/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

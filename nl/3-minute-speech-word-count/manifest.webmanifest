@@ -2,7 +2,7 @@
   "name": "Loona Toespraak van 3 minuten",
   "short_name": "Toespraak van 3 minuten",
   "description": "Hoeveel woorden in een toespraak van 3 minuten? 330–540 woorden (450 in gesprekstempo). Gratis live teller met spreektijdcontrole.",
-  "id": "/loona-text-tools/nl/3-minute-speech-word-count/",
+  "id": "/nl/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

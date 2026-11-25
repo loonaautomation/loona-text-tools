@@ -2,7 +2,7 @@
   "name": "Loona Padam Baris Duplikat Dalam talian",
   "short_name": "Padam Baris Duplikat Dalam talian",
   "description": "Padam baris duplikat dari senarai atau teks apa pun dan simpan hanya baris unik, dalam turutan asli. Penghapus baris duplikat percuma - tanpa pendaftaran, hasil serta-merta.",
-  "id": "/loona-text-tools/ms/remove-duplicate-lines/",
+  "id": "/ms/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מתרגם קוד מורס אונליין",
   "short_name": "מתרגם קוד מורס אונליין",
   "description": "תרגמו טקסט לקוד מורס וקוד מורס בחזרה לטקסט, ושמעו אותו כצפצופים אמיתיים. מתרגם קוד מורס מקוון בחינם - ללא הרשמה, עובד בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/morse-code-translator/",
+  "id": "/he/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

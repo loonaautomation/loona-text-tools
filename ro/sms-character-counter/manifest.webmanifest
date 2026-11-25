@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere SMS",
   "short_name": "Contor de caractere SMS",
   "description": "Contor gratuit de caractere SMS: detectare GSM 7-bit versus Unicode, numărul de segmente și caractere rămase — în direct, în browserul tău.",
-  "id": "/loona-text-tools/ro/sms-character-counter/",
+  "id": "/ro/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

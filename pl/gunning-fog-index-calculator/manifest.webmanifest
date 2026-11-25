@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator wskaźnika Gunning Fog",
   "short_name": "Kalkulator wskaźnika Gunning Fog",
   "description": "Darmowy kalkulator wskaźnika Gunning Fog: wklej tekst, aby uzyskać wskaźnik Fog, liczbę złożonych słów i wynikające z niego lata nauki.",
-  "id": "/loona-text-tools/pl/gunning-fog-index-calculator/",
+  "id": "/pl/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

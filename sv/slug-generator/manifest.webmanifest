@@ -2,7 +2,7 @@
   "name": "Loona Sluggenerator online",
   "short_name": "Sluggenerator online",
   "description": "Förvandla vilken titel som helst till en ren, SEO-vänlig URL-slug: gemener, inga mellanslag, inga specialtecken. Gratis sluggenerator online med fullständig URL-förhandsvisning - ingen registrering.",
-  "id": "/loona-text-tools/sv/slug-generator/",
+  "id": "/sv/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

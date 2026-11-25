@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov príspevkov LinkedIn",
   "short_name": "Počítadlo znakov príspevkov LinkedIn",
   "description": "Bezplatné počítadlo znakov príspevkov LinkedIn: počítanie znakov naživo oproti limitu 3,000 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/linkedin-post-character-counter/",
+  "id": "/sk/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

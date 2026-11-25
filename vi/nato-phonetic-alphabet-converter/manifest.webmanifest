@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi bảng chữ cái phiên âm NATO",
   "short_name": "Công cụ chuyển đổi bảng chữ cái phiên âm NATO",
   "description": "Chuyển đổi bất kỳ văn bản nào sang bảng chữ cái phiên âm NATO (Alfa, Bravo, Charlie) và giải mã cách viết NATO trở lại thành văn bản thuần. Miễn phí, tức thì, không đăng ký.",
-  "id": "/loona-text-tools/vi/nato-phonetic-alphabet-converter/",
+  "id": "/vi/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

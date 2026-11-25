@@ -2,7 +2,7 @@
   "name": "Loona Discours de 3 minutes",
   "short_name": "Discours de 3 minutes",
   "description": "Combien de mots dans un discours de 3 minutes ? 330–540 mots (450 au rythme de conversation). Compteur gratuit en direct avec vérification du temps de parole.",
-  "id": "/loona-text-tools/fr/3-minute-speech-word-count/",
+  "id": "/fr/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

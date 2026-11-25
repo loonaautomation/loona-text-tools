@@ -2,7 +2,7 @@
   "name": "Loona ממיר EPUB ל-HTML בחינם",
   "short_name": "ממיר EPUB ל-HTML בחינם",
   "description": "המירו ספרי EPUB לקובץ HTML עצמאי אחד בחינם, בדפדפן שלכם. פרקים לפי הסדר, טיפוגרפיה בסיסית, תמונות קטנות מוטמעות. ללא העלאה, ללא הרשמה.",
-  "id": "/loona-text-tools/he/epub-to-html/",
+  "id": "/he/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

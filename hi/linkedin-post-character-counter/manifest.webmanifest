@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn पोस्ट अक्षर गणक",
   "short_name": "LinkedIn पोस्ट अक्षर गणक",
   "description": "मुफ़्त LinkedIn पोस्ट अक्षर गणक गणक: 3,000-अक्षर सीमा के विरुद्ध लाइव अक्षर गणना, टाइप करते ही शब्द और शेष अक्षर दिखाए गए।",
-  "id": "/loona-text-tools/hi/linkedin-post-character-counter/",
+  "id": "/hi/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

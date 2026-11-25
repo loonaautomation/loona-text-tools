@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "输入你的 Wordle 猜测，把方块点成灰色、黄色或绿色：这个免费小助手会显示每一个仍然符合的答案和最佳的下一次猜测。重复字母逻辑正确，无需注册，一切都在你的浏览器中运行。",
-  "id": "/loona-text-tools/zh/wordle-helper/",
+  "id": "/zh/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

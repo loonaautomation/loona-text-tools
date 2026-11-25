@@ -2,7 +2,7 @@
   "name": "Loona מונה הברות אונליין בחינם",
   "short_name": "מונה הברות אונליין בחינם",
   "description": "ספרו הברות בכל מילה, משפט או טקסט מלא מיד - סך הברות, פירוט לפי מילה וממוצעים. מונה הברות חינמי, ללא הרשמה, עובד לא מקוון.",
-  "id": "/loona-text-tools/he/syllable-counter/",
+  "id": "/he/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 大寫轉換器",
   "short_name": "大寫轉換器",
   "description": "免費的 大寫 轉換器——貼上文字,立即得到 大寫。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/uppercase-converter/",
+  "id": "/zh-hant/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

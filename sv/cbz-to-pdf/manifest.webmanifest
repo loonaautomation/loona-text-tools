@@ -2,7 +2,7 @@
   "name": "Loona CBZ till PDF-omvandlare gratis",
   "short_name": "CBZ till PDF-omvandlare gratis",
   "description": "Omvandla CBZ- och ZIP-seriearkiv till PDF gratis i din webbläsare. Sidor i naturlig ordning (1, 2, 10), en bild per sida i full storlek. Ingen uppladdning, ingen registrering.",
-  "id": "/loona-text-tools/sv/cbz-to-pdf/",
+  "id": "/sv/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

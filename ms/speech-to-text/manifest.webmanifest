@@ -2,7 +2,7 @@
   "name": "Loona Ucapan ke Teks Dalam talian Percuma",
   "short_name": "Ucapan ke Teks Dalam talian Percuma",
   "description": "Imlak dengan suara anda dan saksikan menjadi teks - ucapan ke teks dalam talian percuma untuk bahasa Inggeris, Urdu dan bahasa lain. Tanpa pendaftaran; bekerja di Chrome dan Edge.",
-  "id": "/loona-text-tools/ms/speech-to-text/",
+  "id": "/ms/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

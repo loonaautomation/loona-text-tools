@@ -2,7 +2,7 @@
   "name": "Loona Odstranit interpunkci online zdarma",
   "short_name": "Odstranit interpunkci online zdarma",
   "description": "Odstraňte interpunkci z jakéhokoli textu na jedno kliknutí - tečky, čárky, uvozovky a další - s možnostmi zachovat apostrofy a pomlčky. Zdarma, bez registrace.",
-  "id": "/loona-text-tools/cs/remove-punctuation/",
+  "id": "/cs/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

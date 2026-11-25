@@ -2,7 +2,7 @@
   "name": "Loona 타자 테스트 온라인 무료",
   "short_name": "타자 테스트 온라인 무료",
   "description": "무료 60초 타자 테스트: 쉬운, 중간, 어려운 텍스트로 타자 속도를 WPM, 정확도, 분당 문자 수로 측정하세요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-text-tools/ko/typing-test/",
+  "id": "/ko/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

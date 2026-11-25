@@ -2,7 +2,7 @@
   "name": "Loona Esai 1.000 Kata",
   "short_name": "Esai 1.000 Kata",
   "description": "Penghitung esai 1.000 kata gratis: hitungan kata langsung menuju target 1.000 kata, halaman spasi tunggal dan ganda, paragraf, waktu membaca dan berbicara.",
-  "id": "/loona-text-tools/id/1000-word-essay-word-counter/",
+  "id": "/id/1000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

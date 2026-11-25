@@ -2,7 +2,7 @@
   "name": "Loona 線上 Lorem Ipsum 生成器",
   "short_name": "線上 Lorem Ipsum 生成器",
   "description": "按段落、句子或單詞生成 lorem ipsum 佔位文字——可隨時貼上到設計和版式中。免費的 lorem ipsum 生成器,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/lorem-ipsum-generator/",
+  "id": "/zh-hant/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

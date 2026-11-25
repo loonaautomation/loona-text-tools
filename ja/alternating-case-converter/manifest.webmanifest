@@ -2,7 +2,7 @@
   "name": "Loona aLtErNaTiNg CaSe 変換ツール",
   "short_name": "aLtErNaTiNg CaSe 変換ツール",
   "description": "無料 aLtErNaTiNg CaSe 変換ツール — テキストを貼り付ければ即座に aLtErNaTiNg CaSe が得られます。ブラウザーでライブ変換、登録不要、アップロードなし。",
-  "id": "/loona-text-tools/ja/alternating-case-converter/",
+  "id": "/ja/alternating-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

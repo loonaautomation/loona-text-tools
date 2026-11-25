@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας path/case",
   "short_name": "Μετατροπέας path/case",
   "description": "Δωρεάν μετατροπέας path/case — επικολλήστε κείμενο και πάρετε path/case αμέσως. Ζωντανή μετατροπή στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-text-tools/el/path-case-converter/",
+  "id": "/el/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

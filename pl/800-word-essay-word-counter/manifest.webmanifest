@@ -2,7 +2,7 @@
   "name": "Loona Esej na 800 słów",
   "short_name": "Esej na 800 słów",
   "description": "Darmowy licznik esejów na 800 słów: liczenie słów na żywo do celu 800 słów, strony przy pojedynczej i podwójnej interlinii, akapity, czas czytania i mówienia.",
-  "id": "/loona-text-tools/pl/800-word-essay-word-counter/",
+  "id": "/pl/800-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

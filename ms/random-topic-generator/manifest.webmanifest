@@ -2,7 +2,7 @@
   "name": "Loona Penjana Topik Rawak Dalam talian Percuma",
   "short_name": "Penjana Topik Rawak Dalam talian Percuma",
   "description": "Buat topik rawak untuk esei, ucapan, debat, perenggan, pembentangan dan cerita - 900 topik tulisan tangan dalam 9 kategori, ditapis berdasarkan tahap. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/random-topic-generator/",
+  "id": "/ms/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

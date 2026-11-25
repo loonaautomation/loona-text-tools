@@ -2,7 +2,7 @@
   "name": "Loona Seřadit řádky online",
   "short_name": "Seřadit řádky online",
   "description": "Řaďte řádky textu abecedně (A-Z nebo Z-A), podle délky, v obráceném pořadí nebo náhodně zamíchané. Bezplatný online řadič řádků - bez registrace, okamžitě a soukromě.",
-  "id": "/loona-text-tools/cs/sort-lines/",
+  "id": "/cs/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

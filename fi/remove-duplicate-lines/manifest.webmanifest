@@ -2,7 +2,7 @@
   "name": "Loona Poista kaksoisrivit verkossa",
   "short_name": "Poista kaksoisrivit verkossa",
   "description": "Poista kaksoisrivit mistä tahansa luettelosta tai tekstistä ja säilytä vain ainutlaatuiset rivit alkuperäisessä järjestyksessä. Ilmainen kaksoisrivien poistaja – ei rekisteröitymistä, välittömät tulokset.",
-  "id": "/loona-text-tools/fi/remove-duplicate-lines/",
+  "id": "/fi/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

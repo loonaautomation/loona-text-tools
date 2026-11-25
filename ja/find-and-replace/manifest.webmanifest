@@ -2,7 +2,7 @@
   "name": "Loona テキスト検索と置換オンライン",
   "short_name": "テキスト検索と置換オンライン",
   "description": "単語やフレーズを検索し、テキスト内のすべての出現箇所を一度に置換します。大文字・小文字を区別、単語全体、パターンのオプション付き。無料オンラインツール — 登録不要。",
-  "id": "/loona-text-tools/ja/find-and-replace/",
+  "id": "/ja/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Nenosiri Mtandaoni",
   "short_name": "Kizalishaji cha Nenosiri Mtandaoni",
   "description": "Zalisha manenosiri yenye nguvu na ya nasibu kwa urefu na alama unazochagua, pamoja na kipima nguvu cha uaminifu. Kizalishaji cha bure cha nenosiri - kimeundwa kwenye kifaa chako tu.",
-  "id": "/loona-text-tools/sw/password-generator/",
+  "id": "/sw/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

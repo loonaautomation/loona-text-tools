@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog Endeksi Hesaplayıcı",
   "short_name": "Gunning Fog Endeksi Hesaplayıcı",
   "description": "Ücretsiz Gunning Fog endeksi hesaplayıcı: Fog endeksi, karmaşık kelime sayısı ve ima ettiği öğrenim yılları için metni yapıştırın.",
-  "id": "/loona-text-tools/tr/gunning-fog-index-calculator/",
+  "id": "/tr/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

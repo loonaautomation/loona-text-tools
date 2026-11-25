@@ -2,7 +2,7 @@
   "name": "Loona Конвертер регистра онлайн",
   "short_name": "Конвертер регистра онлайн",
   "description": "Преобразуйте текст в UPPERCASE, строчные, Title Case, Sentence case, С Заглавной Буквы или aLtErNaTiNg регистр в один клик. Бесплатный онлайн-конвертер регистра - регистрация не нужна.",
-  "id": "/loona-text-tools/ru/case-converter/",
+  "id": "/ru/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

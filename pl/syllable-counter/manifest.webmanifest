@@ -2,7 +2,7 @@
   "name": "Loona Darmowy licznik sylab online",
   "short_name": "Darmowy licznik sylab online",
   "description": "Licz sylaby w dowolnym słowie, zdaniu lub całym tekście natychmiast - łączną liczbę sylab, podział na słowa i średnie. Darmowy licznik sylab, bez rejestracji, działa offline.",
-  "id": "/loona-text-tools/pl/syllable-counter/",
+  "id": "/pl/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

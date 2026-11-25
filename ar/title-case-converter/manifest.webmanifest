@@ -2,7 +2,7 @@
   "name": "Loona محوّل Title Case",
   "short_name": "محوّل Title Case",
   "description": "محوّل Title Case مجانًا — الصق النص واحصل على Title Case فورًا. تحويل مباشر في متصفحك، بلا تسجيل، بلا رفع.",
-  "id": "/loona-text-tools/ar/title-case-converter/",
+  "id": "/ar/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

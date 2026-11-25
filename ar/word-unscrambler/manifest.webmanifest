@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "فكّ تشابك أي أحرف إلى كلمات إنجليزية حقيقية باستخدام قاموس ENABLE الكامل الذي يضم 172,820 كلمة - نتائج مجمّعة حسب الطول مع نقاط Scrabble، ومرشحات «يبدأ بـ» و«ينتهي بـ» و«يحتوي على»، ودعم للقطع الفارغة. مجاني، دون تسجيل، وأحرفك لا تغادر متصفحك أبدًا.",
-  "id": "/loona-text-tools/ar/word-unscrambler/",
+  "id": "/ar/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

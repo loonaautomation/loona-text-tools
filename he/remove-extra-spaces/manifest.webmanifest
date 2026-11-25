@@ -2,7 +2,7 @@
   "name": "Loona הסרת רווחים מיותרים אונליין",
   "short_name": "הסרת רווחים מיותרים אונליין",
   "description": "הסירו רווחים מיותרים, טאבים ושורות ריקות מטקסט בלחיצה אחת. סדרו טקסט שהועתק מ-PDF, דוא",
-  "id": "/loona-text-tools/he/remove-extra-spaces/",
+  "id": "/he/remove-extra-spaces/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

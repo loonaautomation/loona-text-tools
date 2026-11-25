@@ -2,7 +2,7 @@
   "name": "Loona Írásjelek eltávolítása online ingyen",
   "short_name": "Írásjelek eltávolítása online ingyen",
   "description": "Távolítsa el az írásjeleket bármely szövegből egyetlen kattintással - pontokat, vesszőket, idézőjeleket és még többet - az aposztrófok és kötőjelek megtartásának lehetőségeivel. Ingyenes, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/remove-punctuation/",
+  "id": "/hu/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

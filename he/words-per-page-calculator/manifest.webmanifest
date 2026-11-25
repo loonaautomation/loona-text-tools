@@ -2,7 +2,7 @@
   "name": "Loona מחשבון מילים בעמוד",
   "short_name": "מחשבון מילים בעמוד",
   "description": "מחשבון מילים-לעמוד בחינם: הזינו מילים, גודל גופן ורווח שורות כדי לקבל את ספירת העמודים ומילים לעמוד.",
-  "id": "/loona-text-tools/he/words-per-page-calculator/",
+  "id": "/he/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

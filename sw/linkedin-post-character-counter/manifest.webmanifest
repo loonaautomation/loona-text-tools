@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Chapisho la LinkedIn",
   "short_name": "Kihesabu cha Vibambo vya Chapisho la LinkedIn",
   "description": "Kihesabu cha bure cha Vibambo vya Chapisho la LinkedIn: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 3,000, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/linkedin-post-character-counter/",
+  "id": "/sw/linkedin-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

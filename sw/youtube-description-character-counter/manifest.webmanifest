@@ -2,7 +2,7 @@
   "name": "Loona Kihesabu cha Vibambo vya Maelezo ya YouTube",
   "short_name": "Kihesabu cha Vibambo vya Maelezo ya YouTube",
   "description": "Kihesabu cha bure cha Vibambo vya Maelezo ya YouTube: hesabu ya moja kwa moja ya vibambo dhidi ya kikomo cha vibambo 5,000, maneno na vibambo vilivyobaki vikionyeshwa unapoandika.",
-  "id": "/loona-text-tools/sw/youtube-description-character-counter/",
+  "id": "/sw/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

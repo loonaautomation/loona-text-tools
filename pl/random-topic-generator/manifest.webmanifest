@@ -2,7 +2,7 @@
   "name": "Loona Darmowy generator losowych tematów online",
   "short_name": "Darmowy generator losowych tematów online",
   "description": "Generuj losowe tematy esejów, przemówień, debat, akapitów, prezentacji i opowiadań - 900 ręcznie napisanych tematów w 9 kategoriach, filtrowanych według poziomu. Za darmo, bez rejestracji.",
-  "id": "/loona-text-tools/pl/random-topic-generator/",
+  "id": "/pl/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Koristetekstigeneraattori verkossa",
   "short_name": "Koristetekstigeneraattori verkossa",
   "description": "Muuta pelkkä teksti tyylikkäiksi Unicode-fonteiksi – lihavoitu, käsialamainen, fraktuura, ympyröity, kapiteelit ja muuta – esittelyihin, kuvateksteihin ja käyttäjätunnuksiin. Ilmainen koristetekstigeneraattori.",
-  "id": "/loona-text-tools/fi/fancy-text-generator/",
+  "id": "/fi/fancy-text-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počet slov blogového príspevku",
   "short_name": "Počet slov blogového príspevku",
   "description": "Kontrola počtu slov blogového príspevku: počítanie naživo s pásmami dĺžky pre správy (300–500), štandardné príspevky (1,000–1,500) a podrobné návody (2,000+).",
-  "id": "/loona-text-tools/sk/blog-post-word-count/",
+  "id": "/sk/blog-post-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Scrabble Word Finder",
   "description": "Nájdite ťahy s najvyšším skóre z písmen vo vašom zásobníku a skontrolujte, či je slovo platné. Úplný slovník ENABLE so 172,820 slovami, podpora prázdnych kameňov, 100% na vašom zariadení. Zadarmo, bez registrácie.",
-  "id": "/loona-text-tools/sk/scrabble-word-finder/",
+  "id": "/sk/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

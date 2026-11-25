@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Uraikan sebarang kumpulan huruf menjadi perkataan Inggeris sebenar menggunakan kamus ENABLE lengkap 172,820 perkataan - hasil dikumpulkan mengikut panjang dengan skor Scrabble, penapis bermula dengan, berakhir dengan dan mengandungi, serta sokongan jubin kosong. Percuma, tanpa pendaftaran, dan huruf anda tidak pernah meninggalkan pelayar anda.",
-  "id": "/loona-text-tools/ms/word-unscrambler/",
+  "id": "/ms/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

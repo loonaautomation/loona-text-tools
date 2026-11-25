@@ -2,7 +2,7 @@
   "name": "Loona Text-zu-Binär-Konverter online",
   "short_name": "Text-zu-Binär-Konverter online",
   "description": "Text in Binärcode umwandeln (0en und 1en) und Binär zurück in lesbaren Text, mit voller Unicode-Unterstützung. Kostenloser Text-zu-Binär-Konverter – großartig für Informatikstudenten.",
-  "id": "/loona-text-tools/de/text-to-binary/",
+  "id": "/de/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

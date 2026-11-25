@@ -2,7 +2,7 @@
   "name": "Loona Darmowy konwerter CBZ na PDF",
   "short_name": "Darmowy konwerter CBZ na PDF",
   "description": "Konwertuj archiwa komiksów CBZ i ZIP na PDF za darmo w swojej przeglądarce. Strony w naturalnej kolejności (1, 2, 10), jeden obraz na stronę w pełnym rozmiarze. Bez przesyłania, bez rejestracji.",
-  "id": "/loona-text-tools/pl/cbz-to-pdf/",
+  "id": "/pl/cbz-to-pdf/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

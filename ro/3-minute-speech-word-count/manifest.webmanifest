@@ -2,7 +2,7 @@
   "name": "Loona Discurs de 3 minute",
   "short_name": "Discurs de 3 minute",
   "description": "Câte cuvinte într-un discurs de 3 minute? 330–540 de cuvinte (450 în ritm conversațional). Contor gratuit în direct, cu verificarea timpului de vorbire.",
-  "id": "/loona-text-tools/ro/3-minute-speech-word-count/",
+  "id": "/ro/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

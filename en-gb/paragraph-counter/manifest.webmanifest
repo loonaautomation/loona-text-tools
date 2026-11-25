@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/paragraph-counter/",
+  "id": "/en-gb/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

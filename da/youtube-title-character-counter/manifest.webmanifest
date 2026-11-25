@@ -2,7 +2,7 @@
   "name": "Loona Tegntæller til YouTube-titler",
   "short_name": "Tegntæller til YouTube-titler",
   "description": "Gratis Tegntæller til YouTube-titler-tæller: live tegntælling mod grænsen på 100 tegn, med ord og resterende tegn vist, mens du skriver.",
-  "id": "/loona-text-tools/da/youtube-title-character-counter/",
+  "id": "/da/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

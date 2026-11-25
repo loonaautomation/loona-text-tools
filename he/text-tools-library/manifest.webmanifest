@@ -2,7 +2,7 @@
   "name": "Loona ספריית כלי טקסט",
   "short_name": "ספריית כלי טקסט",
   "description": "ספריית Loona Text Tools המלאה: ממירי אותיות, מוני מילים לחיבורים ולנאומים, בודקי מגבלות תווים לפלטפורמות ומחשבוני קריאות.",
-  "id": "/loona-text-tools/he/text-tools-library/",
+  "id": "/he/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Teksti ASCII-muotoon -muunnin verkossa ilmaiseksi",
   "short_name": "Teksti ASCII-muotoon -muunnin verkossa ilmaiseksi",
   "description": "Muunna teksti ASCII-koodeiksi (desimaali, heksa, oktaali ja binääri jokaiselle merkille) ja muunna ASCII-koodit takaisin tekstiksi. Ilmainen, välitön, ei rekisteröitymistä.",
-  "id": "/loona-text-tools/fi/text-to-ascii-converter/",
+  "id": "/fi/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

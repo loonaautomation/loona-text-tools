@@ -2,7 +2,7 @@
   "name": "Loona Sentence Case -muunnin",
   "short_name": "Sentence Case -muunnin",
   "description": "Ilmainen Sentence Case -muunnin — liitä teksti ja saa Sentence case välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/sentence-case-converter/",
+  "id": "/fi/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

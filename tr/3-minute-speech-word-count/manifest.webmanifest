@@ -2,7 +2,7 @@
   "name": "Loona 3 Dakikalık Konuşma",
   "short_name": "3 Dakikalık Konuşma",
   "description": "3 dakikalık bir konuşmada kaç kelime var? 330–540 kelime (konuşma temposunda 450). Konuşma süresi kontrolüyle ücretsiz canlı sayaç.",
-  "id": "/loona-text-tools/tr/3-minute-speech-word-count/",
+  "id": "/tr/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

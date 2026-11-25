@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog Index Calculator",
   "short_name": "Gunning Fog Index Calculator",
   "description": "Free Gunning Fog index calculator: paste text for the Fog index, complex-word count and the years of schooling it implies.",
-  "id": "/loona-text-tools/gunning-fog-index-calculator/",
+  "id": "/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

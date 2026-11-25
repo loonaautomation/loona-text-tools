@@ -2,7 +2,7 @@
   "name": "Loona Generátor Lorem Ipsum online",
   "short_name": "Generátor Lorem Ipsum online",
   "description": "Generujte výplňový text lorem ipsum po odsekoch, vetách alebo slovách - pripravený na vloženie do návrhov a rozložení. Bezplatný generátor lorem ipsum, bez potreby registrácie.",
-  "id": "/loona-text-tools/sk/lorem-ipsum-generator/",
+  "id": "/sk/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

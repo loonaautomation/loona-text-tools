@@ -2,7 +2,7 @@
   "name": "Loona Gunning Fog indexszámító",
   "short_name": "Gunning Fog indexszámító",
   "description": "Ingyenes Gunning Fog indexszámító: illesszen be szöveget a Fog indexért, az összetett szavak számáért és az általa feltételezett iskolai évekért.",
-  "id": "/loona-text-tools/hu/gunning-fog-index-calculator/",
+  "id": "/hu/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

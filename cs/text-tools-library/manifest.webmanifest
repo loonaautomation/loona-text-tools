@@ -2,7 +2,7 @@
   "name": "Loona Knihovna textových nástrojů",
   "short_name": "Knihovna textových nástrojů",
   "description": "Úplná knihovna Loona Text Tools: převodníky velikosti písmen, počítadla slov esejů a projevů, kontroly limitů znaků platforem a kalkulačky čitelnosti.",
-  "id": "/loona-text-tools/cs/text-tools-library/",
+  "id": "/cs/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

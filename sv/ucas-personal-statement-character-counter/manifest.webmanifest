@@ -2,7 +2,7 @@
   "name": "Loona Teckenräknare för UCAS personliga uttalande",
   "short_name": "Teckenräknare för UCAS personliga uttalande",
   "description": "Gratis teckenräknare för UCAS personligt brev räknare: levande teckenantal mot gränsen på 4.000 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/ucas-personal-statement-character-counter/",
+  "id": "/sv/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

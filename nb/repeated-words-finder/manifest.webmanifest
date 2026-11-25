@@ -2,7 +2,7 @@
   "name": "Loona Finner av gjentatte ord gratis på nett",
   "short_name": "Finner av gjentatte ord gratis på nett",
   "description": "Finn hvert ord som forekommer mer enn én gang i teksten din, rangert etter hvor ofte det gjentar seg. Fang opp tilfeldige doble ord og overbrukte ord. Gratis, ingen registrering.",
-  "id": "/loona-text-tools/nb/repeated-words-finder/",
+  "id": "/nb/repeated-words-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

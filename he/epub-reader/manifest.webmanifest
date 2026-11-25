@@ -2,7 +2,7 @@
   "name": "Loona קורא EPUB מקוון חינמי",
   "short_name": "קורא EPUB מקוון חינמי",
   "description": "פתחו וקראו ספרי EPUB אונליין בחינם, ממש בדפדפן שלכם. רשימת פרקים, גודל גופן ניתן להתאמה ומצב כהה. 100% פרטי - הספר האלקטרוני שלכם לעולם לא עוזב את המכשיר שלכם. ללא הרשמה.",
-  "id": "/loona-text-tools/he/epub-reader/",
+  "id": "/he/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

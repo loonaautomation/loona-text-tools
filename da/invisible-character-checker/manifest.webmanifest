@@ -2,7 +2,7 @@
   "name": "Loona Kontrol af usynlige tegn",
   "short_name": "Kontrol af usynlige tegn",
   "description": "Afslør usynlige tegn, der gemmer sig i din tekst - mellemrum med nuls bredde, BOM, faste mellemrum og retningsmærker - og fjern dem med ét klik. Gratis.",
-  "id": "/loona-text-tools/da/invisible-character-checker/",
+  "id": "/da/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

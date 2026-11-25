@@ -2,7 +2,7 @@
   "name": "Loona Längdkontroll för titel-tagg",
   "short_name": "Längdkontroll för titel-tagg",
   "description": "Gratis längdkontroll för titel-tagg räknare: levande teckenantal mot gränsen på 60 tecken, med ord och återstående tecken som visas medan du skriver.",
-  "id": "/loona-text-tools/sv/title-tag-length-checker/",
+  "id": "/sv/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

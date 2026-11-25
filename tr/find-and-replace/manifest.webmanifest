@@ -2,7 +2,7 @@
   "name": "Loona Metni Çevrimiçi Bul ve Değiştir",
   "short_name": "Metni Çevrimiçi Bul ve Değiştir",
   "description": "Bir kelime veya ifade bulun ve büyük/küçük harfe duyarlı, tam kelime ve desen seçenekleriyle metninizdeki her geçişini bir kerede değiştirin. Ücretsiz çevrimiçi araç - kayıt yok.",
-  "id": "/loona-text-tools/tr/find-and-replace/",
+  "id": "/tr/find-and-replace/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

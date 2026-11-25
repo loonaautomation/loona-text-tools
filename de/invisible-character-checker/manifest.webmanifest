@@ -2,7 +2,7 @@
   "name": "Loona Prüfer für unsichtbare Zeichen",
   "short_name": "Prüfer für unsichtbare Zeichen",
   "description": "Unsichtbare Zeichen enthüllen, die sich in Ihrem Text verstecken – Nullbreiten-Leerzeichen, BOM, geschützte Leerzeichen und Richtungszeichen – und sie mit einem Klick entfernen. Kostenlos.",
-  "id": "/loona-text-tools/de/invisible-character-checker/",
+  "id": "/de/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

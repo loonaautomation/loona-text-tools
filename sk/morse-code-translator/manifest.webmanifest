@@ -2,7 +2,7 @@
   "name": "Loona Prekladač Morseovho kódu online",
   "short_name": "Prekladač Morseovho kódu online",
   "description": "Preložte text na Morseov kód a Morseov kód späť na text a počujte ho ako skutočné pípania. Bezplatný online prekladač Morseovho kódu - bez registrácie, funguje vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/morse-code-translator/",
+  "id": "/sk/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

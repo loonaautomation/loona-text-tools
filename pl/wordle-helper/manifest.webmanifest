@@ -2,7 +2,7 @@
   "name": "Loona Wordle Helper",
   "short_name": "Loona Wordle Helper",
   "description": "Wpisz swoje próby w Wordle i stuknij pola na szaro, żółto lub zielono: ten darmowy pomocnik pokaże Ci każdą odpowiedź, która nadal pasuje, oraz najlepsze kolejne próby. Poprawna logika dla podwójnych liter, bez rejestracji, a wszystko działa w Twojej przeglądarce.",
-  "id": "/loona-text-tools/pl/wordle-helper/",
+  "id": "/pl/wordle-helper/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

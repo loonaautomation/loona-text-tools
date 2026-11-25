@@ -2,7 +2,7 @@
   "name": "Loona Resume Word Count",
   "short_name": "Resume Word Count",
   "description": "Resume word count checker: live count with the one-page target (400–600 words), page estimate and trimming guidance.",
-  "id": "/loona-text-tools/resume-word-count/",
+  "id": "/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

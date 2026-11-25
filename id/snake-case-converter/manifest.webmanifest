@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi snake_case",
   "short_name": "Pengonversi snake_case",
   "description": "Pengonversi snake_case gratis — tempel teks dan dapatkan snake_case secara instan. Konversi langsung di browser Anda, tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-text-tools/id/snake-case-converter/",
+  "id": "/id/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

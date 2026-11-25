@@ -2,7 +2,7 @@
   "name": "Loona উদ্ধৃতি জেনারেটর অনলাইনে বিনামূল্যে",
   "short_name": "উদ্ধৃতি জেনারেটর অনলাইনে বিনামূল্যে",
   "description": "APA 7th, MLA 9 ও Chicago author-date-তে ওয়েবসাইট, বই ও জার্নাল নিবন্ধের জন্য সঠিকভাবে ফরম্যাট করা উদ্ধৃতি তৈরি করুন - বিনামূল্যে, তাৎক্ষণিক, আপনার ব্রাউজারে।",
-  "id": "/loona-text-tools/bn/citation-generator/",
+  "id": "/bn/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

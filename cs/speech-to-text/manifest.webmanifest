@@ -2,7 +2,7 @@
   "name": "Loona Řeč na text online zdarma",
   "short_name": "Řeč na text online zdarma",
   "description": "Diktujte hlasem a sledujte, jak se mění na text - bezplatný online převod řeči na text pro angličtinu, urdštinu a další jazyky. Bez registrace; funguje v Chrome a Edge.",
-  "id": "/loona-text-tools/cs/speech-to-text/",
+  "id": "/cs/speech-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

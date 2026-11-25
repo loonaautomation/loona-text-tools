@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "الصق أي نص وشاهد إشارات الكتابة التي تقيسها كاشفات الذكاء الاصطناعي - إيقاع الجمل، وتنوّع المفردات، والعبارات المكررة، وقابلية التوقع. كاشف ذكاء اصطناعي مجاني: دون تسجيل، ودون أحكام نهائية، ونصك لا يغادر متصفحك أبدًا.",
-  "id": "/loona-text-tools/ar/ai-detector/",
+  "id": "/ar/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO fonetikus ábécé átalakítója",
   "short_name": "NATO fonetikus ábécé átalakítója",
   "description": "Alakítson át bármely szöveget a NATO fonetikus ábécéjévé (Alfa, Bravo, Charlie), és dekódolja vissza a NATO-betűzést egyszerű szöveggé. Ingyenes, azonnali, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/nato-phonetic-alphabet-converter/",
+  "id": "/hu/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 句読点を削除オンラインフリー",
   "short_name": "句読点を削除オンラインフリー",
   "description": "ワンクリックで任意のテキストから句読点を削除します - ピリオド、カンマ、引用符など - アポストロフィとハイフンを保持するオプション付き。無料、登録不要。",
-  "id": "/loona-text-tools/ja/remove-punctuation/",
+  "id": "/ja/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

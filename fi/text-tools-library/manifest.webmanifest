@@ -2,7 +2,7 @@
   "name": "Loona Tekstityökalukirjasto",
   "short_name": "Tekstityökalukirjasto",
   "description": "Koko Loona Text Tools -kirjasto: kirjainkoon muuntimet, essee- ja puhesanalaskurit, alustojen merkkirajojen tarkistimet ja luettavuuslaskurit.",
-  "id": "/loona-text-tools/fi/text-tools-library/",
+  "id": "/fi/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tekstværktøjsbibliotek",
   "short_name": "Tekstværktøjsbibliotek",
   "description": "Det fulde Loona Text Tools-bibliotek: konvertere til store/små bogstaver, essay- og taleordtællere, tegngrænsetjek til platforme og læsbarhedsberegnere.",
-  "id": "/loona-text-tools/da/text-tools-library/",
+  "id": "/da/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

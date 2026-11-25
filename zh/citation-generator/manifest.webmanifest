@@ -2,7 +2,7 @@
   "name": "Loona 在线引用生成器,免费",
   "short_name": "在线引用生成器,免费",
   "description": "为网站、书籍和期刊文章生成格式正确的引用,支持 APA 第 7 版、MLA 第 9 版和芝加哥作者-日期——免费、即时、在您的浏览器中。",
-  "id": "/loona-text-tools/zh/citation-generator/",
+  "id": "/zh/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

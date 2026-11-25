@@ -2,7 +2,7 @@
   "name": "Loona EPUB メタデータ編集ツール無料",
   "short_name": "EPUB メタデータ編集ツール無料",
   "description": "ブラウザーで EPUB メタデータを無料で編集します：タイトル、著者、言語、出版社、説明、カバー情報の表示付き。章はそのまま、アップロードなし、登録なし。",
-  "id": "/loona-text-tools/ja/epub-metadata-editor/",
+  "id": "/ja/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

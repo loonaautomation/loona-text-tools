@@ -2,7 +2,7 @@
   "name": "Loona Konverter til små bogstaver",
   "short_name": "Konverter til små bogstaver",
   "description": "Gratis konverter til små bogstaver — indsæt tekst og få små bogstaver øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/lowercase-converter/",
+  "id": "/da/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

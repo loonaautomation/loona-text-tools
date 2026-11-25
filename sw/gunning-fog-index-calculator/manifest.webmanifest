@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Faharasa ya Ukungu wa Gunning",
   "short_name": "Kikokotoo cha Faharasa ya Ukungu wa Gunning",
   "description": "Kikokotoo cha bure cha faharasa ya Ukungu wa Gunning: bandika maandishi kwa faharasa ya Ukungu, hesabu ya maneno magumu na miaka ya shule inayodokeza.",
-  "id": "/loona-text-tools/sw/gunning-fog-index-calculator/",
+  "id": "/sw/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 인용 생성기 온라인 무료",
   "short_name": "인용 생성기 온라인 무료",
   "description": "웹사이트, 책, 학술지 논문에 대해 APA 7판, MLA 9판, Chicago 저자-연도 방식으로 올바르게 서식이 지정된 인용을 생성하세요 - 무료, 즉시, 브라우저에서요.",
-  "id": "/loona-text-tools/ko/citation-generator/",
+  "id": "/ko/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

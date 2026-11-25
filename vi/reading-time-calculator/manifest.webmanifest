@@ -2,7 +2,7 @@
   "name": "Loona Máy tính thời gian đọc",
   "short_name": "Máy tính thời gian đọc",
   "description": "Dán bất kỳ văn bản nào và xem nó mất bao lâu để đọc ở tốc độ chậm, trung bình và nhanh - cộng thêm bao nhiêu từ bạn cần cho một thời gian đọc mục tiêu. Miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/reading-time-calculator/",
+  "id": "/vi/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

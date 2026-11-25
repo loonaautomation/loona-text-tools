@@ -2,7 +2,7 @@
   "name": "Loona Tekst u govor na mreži besplatno",
   "short_name": "Tekst u govor na mreži besplatno",
   "description": "Pretvorite bilo koji tekst u prirodan govorni zvuk besplatno na mreži - engleski glasovi i glasovi na urduu, prilagodljiva brzina i visina tona. Bez registracije, ništa se ne prenosi, radi u vašem pregledniku.",
-  "id": "/loona-text-tools/hr/text-to-speech/",
+  "id": "/hr/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

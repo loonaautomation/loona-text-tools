@@ -2,7 +2,7 @@
   "name": "Loona Razvrstaj retke na mreži",
   "short_name": "Razvrstaj retke na mreži",
   "description": "Razvrstajte retke teksta abecedno (A-Z ili Z-A), po duljini, obrnutim redoslijedom ili nasumično izmiješane. Besplatan mrežni razvrstavač redaka - bez registracije, trenutačno i privatno.",
-  "id": "/loona-text-tools/hr/sort-lines/",
+  "id": "/hr/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

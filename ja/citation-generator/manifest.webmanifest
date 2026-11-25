@@ -2,7 +2,7 @@
   "name": "Loona 引用生成ツールオンラインフリー",
   "short_name": "引用生成ツールオンラインフリー",
   "description": "Webサイト、書籍、学術誌記事のための、APA 第7版、MLA 第9版、シカゴ著者・年号方式で正しく書式設定された引用を生成します — 無料、即時、ブラウザーで。",
-  "id": "/loona-text-tools/ja/citation-generator/",
+  "id": "/ja/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

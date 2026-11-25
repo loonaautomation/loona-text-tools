@@ -2,7 +2,7 @@
   "name": "Loona Extractor de e-mailuri online gratuit",
   "short_name": "Extractor de e-mailuri online gratuit",
   "description": "Extrage fiecare adresă de e-mail din orice text, document sau conținut de pagină web - deduplicată și listată câte una pe linie. Rulează 100% în browserul tău. Gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/email-extractor/",
+  "id": "/ro/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

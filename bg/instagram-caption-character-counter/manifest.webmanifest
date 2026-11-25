@@ -2,7 +2,7 @@
   "name": "Loona Брояч на знаци за надписи в Instagram",
   "short_name": "Брояч на знаци за надписи в Instagram",
   "description": "Безплатен брояч на знаци за надписи в Instagram: броене на знаци на живо спрямо ограничението от 2,200 знака, с думи и оставащи знаци, показани, докато пишете.",
-  "id": "/loona-text-tools/bg/instagram-caption-character-counter/",
+  "id": "/bg/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

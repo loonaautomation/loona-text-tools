@@ -2,7 +2,7 @@
   "name": "Loona Saggio di 1.200 parole",
   "short_name": "Saggio di 1.200 parole",
   "description": "Contatore gratuito per saggi di 1.200 parole: conteggio parole in tempo reale verso l'obiettivo di 1.200 parole, pagine a interlinea singola e doppia, paragrafi, tempo di lettura e di parola.",
-  "id": "/loona-text-tools/it/1200-word-essay-word-counter/",
+  "id": "/it/1200-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

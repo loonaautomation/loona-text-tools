@@ -2,7 +2,7 @@
   "name": "Loona Darmowy czytnik EPUB online",
   "short_name": "Darmowy czytnik EPUB online",
   "description": "Otwieraj i czytaj e-booki EPUB online za darmo, wprost w swojej przeglądarce. Lista rozdziałów, regulowany rozmiar czcionki i tryb ciemny. 100% prywatności - Twój e-book nigdy nie opuszcza Twojego urządzenia. Bez rejestracji.",
-  "id": "/loona-text-tools/pl/epub-reader/",
+  "id": "/pl/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

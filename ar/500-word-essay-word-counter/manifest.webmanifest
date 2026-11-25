@@ -2,7 +2,7 @@
   "name": "Loona مقال من 500 كلمة",
   "short_name": "مقال من 500 كلمة",
   "description": "عدّاد مقال من 500 كلمة مجانًا: عدّ كلمات مباشر نحو هدف الـ500 كلمة، صفحات بمسافة مفردة ومزدوجة، فقرات، وقت قراءة ووقت تحدث.",
-  "id": "/loona-text-tools/ar/500-word-essay-word-counter/",
+  "id": "/ar/500-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

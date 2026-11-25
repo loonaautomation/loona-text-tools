@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Picha kwenda Excel Mtandaoni Bure",
   "short_name": "Kibadilishaji cha Picha kwenda Excel Mtandaoni Bure",
   "description": "Badilisha picha, changanuzi au picha ya skrini ya jedwali kuwa faili halisi ya Excel (.xlsx) kwa OCR ya bure inayoendeshwa 100% katika kivinjari chako. Hariri jedwali kabla ya kupakua - hakuna kupakia, hakuna kujisajili.",
-  "id": "/loona-text-tools/sw/image-to-excel-converter/",
+  "id": "/sw/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SMS-Zeichenzähler",
   "short_name": "SMS-Zeichenzähler",
   "description": "Kostenloser SMS-Zeichenzähler: GSM-7-Bit- vs. Unicode-Erkennung, Segmentzahl und verbleibende Zeichen — live, in Ihrem Browser.",
-  "id": "/loona-text-tools/de/sms-character-counter/",
+  "id": "/de/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

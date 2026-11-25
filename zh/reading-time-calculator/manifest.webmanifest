@@ -2,7 +2,7 @@
   "name": "Loona 阅读时间计算器",
   "short_name": "阅读时间计算器",
   "description": "粘贴任何文本,查看在慢速、平均和快速速度下读完需要多长时间——外加目标阅读时间所需的词数。免费,无需注册。",
-  "id": "/loona-text-tools/zh/reading-time-calculator/",
+  "id": "/zh/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

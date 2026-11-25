@@ -2,7 +2,7 @@
   "name": "Loona Lajittele rivit verkossa",
   "short_name": "Lajittele rivit verkossa",
   "description": "Lajittele tekstirivit aakkosjärjestykseen (A-Z tai Z-A), pituuden mukaan, käänteiseen järjestykseen tai satunnaisesti sekoitettuna. Ilmainen rivien lajittelija verkossa – ei rekisteröitymistä, välitön ja yksityinen.",
-  "id": "/loona-text-tools/fi/sort-lines/",
+  "id": "/fi/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

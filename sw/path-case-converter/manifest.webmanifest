@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha path/case",
   "short_name": "Kibadilishaji cha path/case",
   "description": "Kibadilishaji cha bure cha path/case — bandika maandishi na upate path/case mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/path-case-converter/",
+  "id": "/sw/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

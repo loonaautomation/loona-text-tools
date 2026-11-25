@@ -2,7 +2,7 @@
   "name": "Loona Công cụ chuyển đổi snake_case",
   "short_name": "Công cụ chuyển đổi snake_case",
   "description": "Công cụ chuyển đổi snake_case miễn phí — dán văn bản và nhận snake_case ngay lập tức. Chuyển đổi trực tiếp trong trình duyệt của bạn, không đăng ký, không tải lên.",
-  "id": "/loona-text-tools/vi/snake-case-converter/",
+  "id": "/vi/snake-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ensaio de 300 Palavras",
   "short_name": "Ensaio de 300 Palavras",
   "description": "Contador de ensaios de 300 palavras grátis: contagem de palavras em direto até ao objetivo de 300 palavras, páginas com espaçamento simples e duplo, parágrafos, tempo de leitura e de fala.",
-  "id": "/loona-text-tools/pt-pt/300-word-essay-word-counter/",
+  "id": "/pt-pt/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

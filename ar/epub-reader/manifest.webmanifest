@@ -2,7 +2,7 @@
   "name": "Loona قارئ EPUB عبر الإنترنت مجانًا",
   "short_name": "قارئ EPUB عبر الإنترنت مجانًا",
   "description": "افتح واقرأ كتب EPUB الإلكترونية عبر الإنترنت مجانًا، مباشرة في متصفحك. قائمة فصول وحجم خط قابل للتعديل ووضع داكن. خاص 100% - كتابك الإلكتروني لا يغادر جهازك أبدًا. بلا تسجيل.",
-  "id": "/loona-text-tools/ar/epub-reader/",
+  "id": "/ar/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

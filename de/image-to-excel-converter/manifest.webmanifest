@@ -2,7 +2,7 @@
   "name": "Loona Bild-zu-Excel-Konverter online kostenlos",
   "short_name": "Bild-zu-Excel-Konverter online kostenlos",
   "description": "Wandeln Sie ein Foto, einen Scan oder Screenshot einer Tabelle mit kostenloser OCR, die zu 100 % in Ihrem Browser läuft, in eine echte Excel-Datei (.xlsx) um. Bearbeiten Sie die Tabelle vor dem Herunterladen – kein Upload, keine Registrierung.",
-  "id": "/loona-text-tools/de/image-to-excel-converter/",
+  "id": "/de/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

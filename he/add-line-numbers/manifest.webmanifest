@@ -2,7 +2,7 @@
   "name": "Loona הוספת מספרי שורות אונליין",
   "short_name": "הוספת מספרי שורות אונליין",
   "description": "הוסיפו מספרים לכל שורה בטקסט שלכם עם בחירת ההתחלה, הצעד, הריפוד והמפריד שלכם. כלי חינמי למספור שורות - ללא הרשמה, מיידי ופרטי.",
-  "id": "/loona-text-tools/he/add-line-numbers/",
+  "id": "/he/add-line-numbers/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

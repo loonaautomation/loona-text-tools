@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Imej ke Teks (OCR) Dalam talian Percuma",
   "short_name": "Pengonversi Imej ke Teks (OCR) Dalam talian Percuma",
   "description": "Ekstrak teks yang dapat diedit dari imej dan foto dengan OCR percuma yang berjalan 100% di pelayar anda. PNG, JPG, WebP dan BMP - imej anda tidak pernah dimuat naik.",
-  "id": "/loona-text-tools/ms/image-to-text-converter/",
+  "id": "/ms/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

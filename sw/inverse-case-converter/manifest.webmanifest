@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha iNVERSE cASE",
   "short_name": "Kibadilishaji cha iNVERSE cASE",
   "description": "Kibadilishaji cha bure cha iNVERSE cASE — bandika maandishi na upate iNVERSE cASE mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/inverse-case-converter/",
+  "id": "/sw/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

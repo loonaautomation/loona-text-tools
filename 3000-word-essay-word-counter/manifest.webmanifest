@@ -2,7 +2,7 @@
   "name": "Loona 3,000-Word Essay",
   "short_name": "3,000-Word Essay",
   "description": "Free 3,000-word essay counter: live word count to the 3,000-word target, pages single- and double-spaced, paragraphs, reading and speaking time.",
-  "id": "/loona-text-tools/3000-word-essay-word-counter/",
+  "id": "/3000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

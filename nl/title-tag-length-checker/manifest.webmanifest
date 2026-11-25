@@ -2,7 +2,7 @@
   "name": "Loona Lengtechecker voor title-tags",
   "short_name": "Lengtechecker voor title-tags",
   "description": "Gratis lengtechecker voor title-tags: live tekentelling tegen de limiet van 60 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/title-tag-length-checker/",
+  "id": "/nl/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

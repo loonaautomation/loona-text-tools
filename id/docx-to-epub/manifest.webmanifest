@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi DOCX ke EPUB Gratis",
   "short_name": "Pengonversi DOCX ke EPUB Gratis",
   "description": "Konversi dokumen Word DOCX ke ebook EPUB gratis di browser Anda. Judul menjadi bab; teks tebal, miring, daftar dan gambar dikonversi. Tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-text-tools/id/docx-to-epub/",
+  "id": "/id/docx-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

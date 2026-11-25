@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Κειμένου σε ASCII Online Δωρεάν",
   "short_name": "Μετατροπέας Κειμένου σε ASCII Online Δωρεάν",
   "description": "Μετατρέψτε κείμενο σε κώδικες ASCII (δεκαδικούς, δεκαεξαδικούς, οκταδικούς και δυαδικούς για κάθε χαρακτήρα) και μετατρέψτε κώδικες ASCII πίσω σε κείμενο. Δωρεάν, αμέσως, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/text-to-ascii-converter/",
+  "id": "/el/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

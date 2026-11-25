@@ -2,7 +2,7 @@
   "name": "Loona ตัวนับตัวอักษรคำบรรยาย TikTok",
   "short_name": "ตัวนับตัวอักษรคำบรรยาย TikTok",
   "description": "ตัวนับตัวอักษรคำบรรยาย TikTok ฟรี: นับตัวอักษรแบบสดเทียบกับขีดจำกัด 2,200 ตัวอักษร พร้อมคำและตัวอักษรที่เหลือแสดงขณะที่คุณพิมพ์",
-  "id": "/loona-text-tools/th/tiktok-caption-character-counter/",
+  "id": "/th/tiktok-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

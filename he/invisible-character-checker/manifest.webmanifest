@@ -2,7 +2,7 @@
   "name": "Loona בודק תווים בלתי נראים",
   "short_name": "בודק תווים בלתי נראים",
   "description": "חשפו תווים בלתי נראים החבויים בטקסט שלכם - רווחים ברוחב אפס, BOM, רווחים בלתי נשברים וסימני כיוון - והסירו אותם בלחיצה אחת. חינם.",
-  "id": "/loona-text-tools/he/invisible-character-checker/",
+  "id": "/he/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

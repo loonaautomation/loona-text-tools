@@ -2,7 +2,7 @@
   "name": "Loona Tegnteller for Instagram-bildetekster",
   "short_name": "Tegnteller for Instagram-bildetekster",
   "description": "Gratis tegnteller for Instagram-bildetekster: direkte tegntelling mot grensen på 2,200 tegn, med ord og gjenværende tegn vist mens du skriver.",
-  "id": "/loona-text-tools/nb/instagram-caption-character-counter/",
+  "id": "/nb/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

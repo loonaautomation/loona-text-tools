@@ -2,7 +2,7 @@
   "name": "Loona 简历词数——简历应该多长?",
   "short_name": "简历词数——简历应该多长?",
   "description": "简历词数检查器:实时计数,附一页目标(400–600 词)、页数估算和删减指导。",
-  "id": "/loona-text-tools/zh/resume-word-count/",
+  "id": "/zh/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

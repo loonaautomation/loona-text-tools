@@ -2,7 +2,7 @@
   "name": "Loona EPUB 後設資料編輯器,免費",
   "short_name": "EPUB 後設資料編輯器,免費",
   "description": "在瀏覽器中免費編輯 EPUB 後設資料:標題、作者、語言、出版社和描述,並顯示封面資訊。章節不動,不上傳,無需註冊。",
-  "id": "/loona-text-tools/zh-hant/epub-metadata-editor/",
+  "id": "/zh-hant/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengira Frekuensi Perkataan Dalam talian",
   "short_name": "Pengira Frekuensi Perkataan Dalam talian",
   "description": "Kira seberapa sering setiap perkataan muncul dalam teks anda dan lihat jadual frekuensi peringkat dengan peratusan. Pengira frekuensi perkataan dalam talian percuma - tanpa pendaftaran, serta-merta.",
-  "id": "/loona-text-tools/ms/word-frequency/",
+  "id": "/ms/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

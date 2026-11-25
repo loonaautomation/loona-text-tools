@@ -2,7 +2,7 @@
   "name": "Loona Конвертер flatcase",
   "short_name": "Конвертер flatcase",
   "description": "Безкоштовний конвертер flatcase — вставте текст і отримайте flatcase миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/flat-case-converter/",
+  "id": "/uk/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

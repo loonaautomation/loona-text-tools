@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor YouTube-titels",
   "short_name": "Tekenteller voor YouTube-titels",
   "description": "Gratis tekenteller voor YouTube-titels: live tekentelling tegen de limiet van 100 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/youtube-title-character-counter/",
+  "id": "/nl/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер великих літер",
   "short_name": "Конвертер великих літер",
   "description": "Безкоштовний конвертер великих літер — вставте текст і отримайте ВЕЛИКІ ЛІТЕРИ миттєво. Перетворення наживо у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-text-tools/uk/uppercase-converter/",
+  "id": "/uk/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงข้อความเป็น EPUB ฟรี",
   "short_name": "ตัวแปลงข้อความเป็น EPUB ฟรี",
   "description": "แปลงข้อความธรรมดาหรือ Markdown เป็นอีบุ๊ก EPUB ที่ถูกต้องฟรี ในเบราว์เซอร์ของคุณ ชื่อเรื่องและผู้แต่ง บทจากหัวข้อ เปิดได้ในโปรแกรมอ่าน EPUB ทุกตัว ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-text-tools/th/text-to-epub/",
+  "id": "/th/text-to-epub/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Промова на 2 хвилини",
   "short_name": "Промова на 2 хвилини",
   "description": "Скільки слів у промові на 2 хвилини? 220–360 слів (300 за розмовного темпу). Безкоштовний лічильник наживо з перевіркою часу виступу.",
-  "id": "/loona-text-tools/uk/2-minute-speech-word-count/",
+  "id": "/uk/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

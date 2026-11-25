@@ -2,7 +2,7 @@
   "name": "Loona Generator Lorem Ipsum online",
   "short_name": "Generator Lorem Ipsum online",
   "description": "Generuj tekst zastępczy lorem ipsum co akapit, zdanie lub słowo - gotowy do wklejenia w projekty i układy. Darmowy generator lorem ipsum, rejestracja niepotrzebna.",
-  "id": "/loona-text-tools/pl/lorem-ipsum-generator/",
+  "id": "/pl/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

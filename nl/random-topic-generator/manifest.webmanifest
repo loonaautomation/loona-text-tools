@@ -2,7 +2,7 @@
   "name": "Loona Willekeurige onderwerpengenerator online gratis",
   "short_name": "Willekeurige onderwerpengenerator online gratis",
   "description": "Genereer willekeurige onderwerpen voor essays, toespraken, debatten, alinea's, presentaties en verhalen - 900 handgeschreven onderwerpen in 9 categorieën, gefilterd op niveau. Gratis, geen registratie.",
-  "id": "/loona-text-tools/nl/random-topic-generator/",
+  "id": "/nl/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

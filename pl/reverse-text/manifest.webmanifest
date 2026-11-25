@@ -2,7 +2,7 @@
   "name": "Loona Odwracanie tekstu online",
   "short_name": "Odwracanie tekstu online",
   "description": "Odwracaj tekst na cztery sposoby: cały tekst wspak, każde słowo wspak, odwrócona kolejność słów lub odwrócona kolejność wierszy. Darmowe narzędzie online do odwracania tekstu - rejestracja niepotrzebna.",
-  "id": "/loona-text-tools/pl/reverse-text/",
+  "id": "/pl/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

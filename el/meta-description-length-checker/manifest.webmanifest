@@ -2,7 +2,7 @@
   "name": "Loona Έλεγχος Μήκους Μετα-περιγραφής",
   "short_name": "Έλεγχος Μήκους Μετα-περιγραφής",
   "description": "Δωρεάν μετρητής ελέγχου μήκους μετα-περιγραφής: ζωντανό πλήθος χαρακτήρων έναντι του ορίου των 160 χαρακτήρων, με λέξεις και εναπομένοντες χαρακτήρες να εμφανίζονται καθώς πληκτρολογείτε.",
-  "id": "/loona-text-tools/el/meta-description-length-checker/",
+  "id": "/el/meta-description-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana Lorem Ipsum Dalam talian",
   "short_name": "Penjana Lorem Ipsum Dalam talian",
   "description": "Buat teks contoh lorem ipsum per perenggan, ayat atau perkataan - siap ditempel ke reka bentuk dan susun atur. Pembuat lorem ipsum percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/lorem-ipsum-generator/",
+  "id": "/ms/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

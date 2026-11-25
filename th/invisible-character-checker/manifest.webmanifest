@@ -2,7 +2,7 @@
   "name": "Loona ตัวตรวจสอบตัวอักษรที่มองไม่เห็น",
   "short_name": "ตัวตรวจสอบตัวอักษรที่มองไม่เห็น",
   "description": "เปิดเผยตัวอักษรที่มองไม่เห็นซึ่งซ่อนอยู่ในข้อความของคุณ — ช่องว่างความกว้างศูนย์ BOM ช่องว่างไม่ตัดบรรทัด และเครื่องหมายทิศทาง — และลบออกในคลิกเดียว ฟรี",
-  "id": "/loona-text-tools/th/invisible-character-checker/",
+  "id": "/th/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kontrola neviditeľných znakov",
   "short_name": "Kontrola neviditeľných znakov",
   "description": "Odhaľte neviditeľné znaky skrývajúce sa vo vašom texte - medzery nulovej šírky, BOM, nedeliteľné medzery a značky smeru - a odstráňte ich jedným kliknutím. Zadarmo.",
-  "id": "/loona-text-tools/sk/invisible-character-checker/",
+  "id": "/sk/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

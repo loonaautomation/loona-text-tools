@@ -2,7 +2,7 @@
   "name": "Loona Compteur de fréquence des mots en ligne",
   "short_name": "Compteur de fréquence des mots en ligne",
   "description": "Comptez combien de fois chaque mot apparaît dans votre texte et voyez un tableau de fréquence classé avec des pourcentages. Compteur de fréquence des mots en ligne gratuit - aucune inscription, instantané.",
-  "id": "/loona-text-tools/fr/word-frequency/",
+  "id": "/fr/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

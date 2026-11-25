@@ -2,7 +2,7 @@
   "name": "Loona מחשבון רמת קריאה",
   "short_name": "מחשבון רמת קריאה",
   "description": "דרגו כל טקסט עם סולם Flesch Reading Ease ורמת הכיתה של Flesch-Kincaid, עם הנוסחאות הסטנדרטיות. ראו כמה קל לקרוא את הכתיבה שלכם. חינם.",
-  "id": "/loona-text-tools/he/reading-level-calculator/",
+  "id": "/he/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

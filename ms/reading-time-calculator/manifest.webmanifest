@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Masa Membaca",
   "short_name": "Kalkulator Masa Membaca",
   "description": "Tampal teks apa pun dan lihat berapa lama masa yang diperlukan untuk membaca pada kelajuan lambat, purata dan cepat - ditambah berapa banyak perkataan yang anda butuhkan untuk masa membaca target. Percuma, tanpa pendaftaran.",
-  "id": "/loona-text-tools/ms/reading-time-calculator/",
+  "id": "/ms/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

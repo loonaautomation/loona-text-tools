@@ -2,7 +2,7 @@
   "name": "Loona Licznik częstotliwości słów online",
   "short_name": "Licznik częstotliwości słów online",
   "description": "Policz, jak często każde słowo występuje w Twoim tekście, i zobacz tabelę częstotliwości z procentami. Darmowy licznik częstotliwości słów online - bez rejestracji, natychmiast.",
-  "id": "/loona-text-tools/pl/word-frequency/",
+  "id": "/pl/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

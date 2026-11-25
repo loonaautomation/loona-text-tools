@@ -2,7 +2,7 @@
   "name": "Loona Sentence Case-omformer",
   "short_name": "Sentence Case-omformer",
   "description": "Gratis Sentence Case-omformer — lim inn tekst og få Sentence case øyeblikkelig. Direkte konvertering i nettleseren din, ingen registrering, ingen opplasting.",
-  "id": "/loona-text-tools/nb/sentence-case-converter/",
+  "id": "/nb/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

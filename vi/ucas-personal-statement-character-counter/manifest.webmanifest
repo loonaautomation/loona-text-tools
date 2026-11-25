@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự bài luận cá nhân UCAS",
   "short_name": "Bộ đếm ký tự bài luận cá nhân UCAS",
   "description": "Bộ đếm ký tự bài luận cá nhân UCAS miễn phí: đếm ký tự trực tiếp so với giới hạn 4,000 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/ucas-personal-statement-character-counter/",
+  "id": "/vi/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

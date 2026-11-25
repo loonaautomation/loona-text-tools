@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Ontwar willekeurige letters tot echte Engelse woorden met het volledige ENABLE-woordenboek van 172.820 woorden - resultaten gegroepeerd op lengte, met Scrabble-scores, filters voor begint-met, eindigt-op en bevat, en ondersteuning voor blanco tegels. Gratis, geen registratie, en je letters verlaten nooit je browser.",
-  "id": "/loona-text-tools/nl/word-unscrambler/",
+  "id": "/nl/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

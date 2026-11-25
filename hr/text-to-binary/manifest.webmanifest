@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač teksta u binarno na mreži",
   "short_name": "Pretvarač teksta u binarno na mreži",
   "description": "Pretvorite tekst u binarni kod (0 i 1) i binarni kod natrag u čitljiv tekst, s punom podrškom za Unicode. Besplatan pretvarač teksta u binarni kod – odličan za studente računarstva.",
-  "id": "/loona-text-tools/hr/text-to-binary/",
+  "id": "/hr/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-text-tools/en-gb/epub-to-html/",
+  "id": "/en-gb/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

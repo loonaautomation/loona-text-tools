@@ -2,7 +2,7 @@
   "name": "Loona Textverktygsbibliotek",
   "short_name": "Textverktygsbibliotek",
   "description": "Det fullständiga Loona Text Tools-biblioteket: skiftlägesomvandlare, ordräknare för uppsatser och tal, teckengränskontroller för plattformar och läsbarhetsberäknare.",
-  "id": "/loona-text-tools/sv/text-tools-library/",
+  "id": "/sv/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

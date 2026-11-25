@@ -2,7 +2,7 @@
   "name": "Loona Text Tools Library",
   "short_name": "Text Tools Library",
   "description": "The full Loona Text Tools library: case converters, essay and speech word counters, platform character-limit checkers and readability calculators.",
-  "id": "/loona-text-tools/text-tools-library/",
+  "id": "/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

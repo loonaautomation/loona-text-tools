@@ -2,7 +2,7 @@
   "name": "Loona Библиотека с текстови инструменти",
   "short_name": "Библиотека с текстови инструменти",
   "description": "Пълната библиотека на Loona Text Tools: конвертори на регистъра, броячи на думи за есета и речи, проверки на ограниченията за знаци на платформите и калкулатори за четивност.",
-  "id": "/loona-text-tools/bg/text-tools-library/",
+  "id": "/bg/text-tools-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

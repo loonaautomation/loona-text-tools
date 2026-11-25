@@ -2,7 +2,7 @@
   "name": "Loona สุนทรพจน์ 1 นาที",
   "short_name": "สุนทรพจน์ 1 นาที",
   "description": "สุนทรพจน์ 1 นาทีมีกี่คำ? 110–180 คำ (150 คำที่จังหวะสนทนา) ตัวนับแบบสดฟรีพร้อมการตรวจสอบเวลาพูด",
-  "id": "/loona-text-tools/th/1-minute-speech-word-count/",
+  "id": "/th/1-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Remover Pontuação Online Grátis",
   "short_name": "Remover Pontuação Online Grátis",
   "description": "Remova a pontuação de qualquer texto com um clique - pontos finais, vírgulas, aspas e mais - com opções para manter apóstrofos e hífenes. Grátis, sem registo.",
-  "id": "/loona-text-tools/pt-pt/remove-punctuation/",
+  "id": "/pt-pt/remove-punctuation/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

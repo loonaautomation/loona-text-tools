@@ -2,7 +2,7 @@
   "name": "Loona Invisible Character Checker - See the Characters You Cannot See",
   "short_name": "Invisible Character Checker - See the Characters You Cannot See",
   "description": "Reveal invisible characters hiding in your text - zero-width spaces, BOM, non-breaking spaces and direction marks - and remove them in one click. Free.",
-  "id": "/loona-text-tools/en-us/invisible-character-checker/",
+  "id": "/en-us/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

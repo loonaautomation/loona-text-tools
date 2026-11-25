@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Εικόνας σε Κείμενο (OCR) Online Δωρεάν",
   "short_name": "Μετατροπέας Εικόνας σε Κείμενο (OCR) Online Δωρεάν",
   "description": "Εξαγάγετε επεξεργάσιμο κείμενο από εικόνες και φωτογραφίες με δωρεάν OCR που εκτελείται 100% στο πρόγραμμα περιήγησής σας. PNG, JPG, WebP και BMP - η εικόνα σας δεν ανεβαίνει ποτέ.",
-  "id": "/loona-text-tools/el/image-to-text-converter/",
+  "id": "/el/image-to-text-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

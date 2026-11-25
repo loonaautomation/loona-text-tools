@@ -2,7 +2,7 @@
   "name": "Loona Výber emoji online zadarmo",
   "short_name": "Výber emoji online zadarmo",
   "description": "Bezplatný výber emoji: prezerajte si alebo vyhľadávajte medzi 1,900+ emoji a symbolmi, vyberte odtieň pokožky, kliknutím skopírujte jedno emoji alebo celú schránku. Bez registrácie, beží na 100 % vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/emoji-picker/",
+  "id": "/sk/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

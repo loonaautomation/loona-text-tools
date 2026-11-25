@@ -2,7 +2,7 @@
   "name": "Loona Szöveg ASCII-vé alakítása online ingyen",
   "short_name": "Szöveg ASCII-vé alakítása online ingyen",
   "description": "Alakítsa a szöveget ASCII-kódokká (decimális, hexadecimális, oktális és bináris minden karakterhez), és az ASCII-kódokat vissza szöveggé. Ingyenes, azonnali, regisztráció nélkül.",
-  "id": "/loona-text-tools/hu/text-to-ascii-converter/",
+  "id": "/hu/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

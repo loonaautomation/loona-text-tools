@@ -2,7 +2,7 @@
   "name": "Loona Başlık Düzeni Dönüştürücü",
   "short_name": "Başlık Düzeni Dönüştürücü",
   "description": "Ücretsiz Başlık Düzeni dönüştürücü — metni yapıştırın ve anında Başlık Düzeni elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/title-case-converter/",
+  "id": "/tr/title-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

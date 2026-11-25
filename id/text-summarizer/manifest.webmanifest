@@ -2,7 +2,7 @@
   "name": "Loona Perangkum Teks Online",
   "short_name": "Perangkum Teks Online",
   "description": "Ringkas teks panjang apa pun secara instan: tempel artikel, esai, atau laporan dan dapatkan kembali kalimat asli terpentingnya. Perangkum teks online gratis - tanpa pendaftaran, 100% privat.",
-  "id": "/loona-text-tools/id/text-summarizer/",
+  "id": "/id/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

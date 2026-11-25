@@ -2,7 +2,7 @@
   "name": "Loona টেক্সট থেকে ASCII কনভার্টার অনলাইনে বিনামূল্যে",
   "short_name": "টেক্সট থেকে ASCII কনভার্টার অনলাইনে বিনামূল্যে",
   "description": "টেক্সট ASCII কোডে রূপান্তর করুন (প্রতিটি অক্ষরের দশমিক, হেক্স, অক্টাল ও বাইনারি) আর ASCII কোড আবার টেক্সটে রূপান্তর করুন। বিনামূল্যে, তাৎক্ষণিক, কোনো সাইন-আপ নেই।",
-  "id": "/loona-text-tools/bn/text-to-ascii-converter/",
+  "id": "/bn/text-to-ascii-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

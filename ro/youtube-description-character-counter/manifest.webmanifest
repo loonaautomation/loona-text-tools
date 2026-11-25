@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere pentru descrieri YouTube",
   "short_name": "Contor de caractere pentru descrieri YouTube",
   "description": "Contor gratuit de caractere pentru descrieri YouTube: numărătoare de caractere în direct față de limita de 5,000 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/youtube-description-character-counter/",
+  "id": "/ro/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

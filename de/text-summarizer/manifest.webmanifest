@@ -2,7 +2,7 @@
   "name": "Loona Text-Zusammenfasser online – lange Texte sofort zusammenfassen | Loona Text Tools",
   "short_name": "Text-Zusammenfasser online – lange Texte sofort zusammenfassen | Loona Text Tools",
   "description": "Fasse jeden langen Text sofort zusammen: Artikel, Aufsatz oder Bericht einfügen und die wichtigsten Originalsätze zurückbekommen. Kostenloser Online-Text-Zusammenfasser – ohne Anmeldung, 100 % privat.",
-  "id": "/loona-text-tools/de/text-summarizer/",
+  "id": "/de/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

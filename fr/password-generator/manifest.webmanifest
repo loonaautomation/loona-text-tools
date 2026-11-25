@@ -2,7 +2,7 @@
   "name": "Loona Générateur de mots de passe en ligne",
   "short_name": "Générateur de mots de passe en ligne",
   "description": "Générez des mots de passe forts et aléatoires avec la longueur et les symboles que vous choisissez, plus un indicateur de force honnête. Générateur de mots de passe gratuit - créé sur votre appareil uniquement.",
-  "id": "/loona-text-tools/fr/password-generator/",
+  "id": "/fr/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

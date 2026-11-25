@@ -2,7 +2,7 @@
   "name": "Loona dot.case कन्वर्टर",
   "short_name": "dot.case कन्वर्टर",
   "description": "मुफ़्त dot.case कन्वर्टर — टेक्स्ट पेस्ट करें और तुरंत dot.case पाएँ। आपके ब्राउज़र में लाइव रूपांतरण, कोई साइन-अप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-text-tools/hi/dot-case-converter/",
+  "id": "/hi/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор slug-адрес онлайн",
   "short_name": "Генератор slug-адрес онлайн",
   "description": "Перетворюйте будь-яку назву на чистий, дружній до SEO slug URL: малі літери, без пробілів, без спеціальних символів. Безкоштовний онлайн-генератор slug із повним попереднім переглядом URL — без реєстрації.",
-  "id": "/loona-text-tools/uk/slug-generator/",
+  "id": "/uk/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

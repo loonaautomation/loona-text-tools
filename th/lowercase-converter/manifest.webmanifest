@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงตัวพิมพ์เล็ก",
   "short_name": "ตัวแปลงตัวพิมพ์เล็ก",
   "description": "ตัวแปลงตัวพิมพ์เล็กฟรี — วางข้อความแล้วได้ตัวพิมพ์เล็กทันที การแปลงแบบสดในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-text-tools/th/lowercase-converter/",
+  "id": "/th/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

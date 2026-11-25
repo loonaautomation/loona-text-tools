@@ -2,7 +2,7 @@
   "name": "Loona Morsecode-Übersetzer online",
   "short_name": "Morsecode-Übersetzer online",
   "description": "Text in Morsecode übersetzen und Morsecode zurück in Text, und ihn als echte Pieptöne hören. Kostenloser Online-Morsecode-Übersetzer – keine Registrierung, funktioniert in Ihrem Browser.",
-  "id": "/loona-text-tools/de/morse-code-translator/",
+  "id": "/de/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

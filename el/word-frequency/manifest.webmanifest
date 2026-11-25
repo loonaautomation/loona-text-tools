@@ -2,7 +2,7 @@
   "name": "Loona Μετρητής Συχνότητας Λέξεων Online",
   "short_name": "Μετρητής Συχνότητας Λέξεων Online",
   "description": "Μετρήστε πόσο συχνά εμφανίζεται κάθε λέξη στο κείμενό σας και δείτε έναν πίνακα συχνότητας κατάταξης με ποσοστά. Δωρεάν online μετρητής συχνότητας λέξεων - χωρίς εγγραφή, αμέσως.",
-  "id": "/loona-text-tools/el/word-frequency/",
+  "id": "/el/word-frequency/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

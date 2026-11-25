@@ -2,7 +2,7 @@
   "name": "Loona Emojivælger online gratis",
   "short_name": "Emojivælger online gratis",
   "description": "Gratis emojivælger: gennemse eller søg blandt 1,900+ emojier og symboler, vælg en hudtone, klik for at kopiere én emoji eller en hel bakke. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-text-tools/da/emoji-picker/",
+  "id": "/da/emoji-picker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

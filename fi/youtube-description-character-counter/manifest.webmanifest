@@ -2,7 +2,7 @@
   "name": "Loona YouTube-kuvausten merkkilaskuri",
   "short_name": "YouTube-kuvausten merkkilaskuri",
   "description": "Ilmainen YouTube-kuvausten merkkilaskuri laskuri: reaaliaikainen merkkilaskenta 5,000 merkin rajaa vasten, sanat ja jäljellä olevat merkit näytettynä kirjoittaessasi.",
-  "id": "/loona-text-tools/fi/youtube-description-character-counter/",
+  "id": "/fi/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

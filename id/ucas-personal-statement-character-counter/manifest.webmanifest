@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Karakter Pernyataan Pribadi UCAS",
   "short_name": "Penghitung Karakter Pernyataan Pribadi UCAS",
   "description": "Penghitung penghitung karakter pernyataan pribadi UCAS gratis: hitungan karakter langsung terhadap batas 4.000 karakter, dengan kata dan sisa karakter ditampilkan saat Anda mengetik.",
-  "id": "/loona-text-tools/id/ucas-personal-statement-character-counter/",
+  "id": "/id/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

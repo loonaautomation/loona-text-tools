@@ -2,7 +2,7 @@
   "name": "Loona 段落カウンターオンラインフリー",
   "short_name": "段落カウンターオンラインフリー",
   "description": "任意のテキストの段落を即座に数え、段落ごとの文と単語、最長と最短の段落も表示します。無料段落カウンター、登録不要。",
-  "id": "/loona-text-tools/ja/paragraph-counter/",
+  "id": "/ja/paragraph-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

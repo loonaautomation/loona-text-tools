@@ -2,7 +2,7 @@
   "name": "Loona Sjekker for usynlige tegn",
   "short_name": "Sjekker for usynlige tegn",
   "description": "Avslør usynlige tegn som gjemmer seg i teksten din - nullbredde-mellomrom, BOM, faste mellomrom og retningsmerker - og fjern dem med ett klikk. Gratis.",
-  "id": "/loona-text-tools/nb/invisible-character-checker/",
+  "id": "/nb/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trier les lignes en ligne",
   "short_name": "Trier les lignes en ligne",
   "description": "Triez les lignes de texte alphabétiquement (A-Z ou Z-A), par longueur, dans l’ordre inverse ou mélangées aléatoirement. Trieur de lignes en ligne gratuit - aucune inscription, instantané et privé.",
-  "id": "/loona-text-tools/fr/sort-lines/",
+  "id": "/fr/sort-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

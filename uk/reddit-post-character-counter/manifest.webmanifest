@@ -2,7 +2,7 @@
   "name": "Loona Лічильник символів дописів Reddit",
   "short_name": "Лічильник символів дописів Reddit",
   "description": "Безкоштовний лічильник символів дописів Reddit: підрахунок символів наживо проти ліміту 40,000 символів, зі словами та символами, що залишилися, показаними під час введення.",
-  "id": "/loona-text-tools/uk/reddit-post-character-counter/",
+  "id": "/uk/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

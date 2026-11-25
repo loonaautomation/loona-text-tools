@@ -2,7 +2,7 @@
   "name": "Loona Kontrola dĺžky značky title",
   "short_name": "Kontrola dĺžky značky title",
   "description": "Bezplatná kontrola dĺžky značky title: počítanie znakov naživo oproti limitu 60 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/title-tag-length-checker/",
+  "id": "/sk/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

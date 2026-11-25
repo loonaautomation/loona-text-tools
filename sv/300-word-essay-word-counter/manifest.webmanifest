@@ -2,7 +2,7 @@
   "name": "Loona Uppsats på 300 ord",
   "short_name": "Uppsats på 300 ord",
   "description": "Gratis räknare för uppsats på 300 ord: levande ordantal mot målet på 300 ord, sidor med enkelt och dubbelt radavstånd, stycken, läs- och taltid.",
-  "id": "/loona-text-tools/sv/300-word-essay-word-counter/",
+  "id": "/sv/300-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

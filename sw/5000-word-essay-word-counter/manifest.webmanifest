@@ -2,7 +2,7 @@
   "name": "Loona Insha ya Maneno 5,000",
   "short_name": "Insha ya Maneno 5,000",
   "description": "Kihesabu cha bure cha insha ya maneno 5,000: hesabu ya moja kwa moja ya maneno hadi lengo la maneno 5,000, kurasa zenye nafasi moja na mbili, aya, muda wa kusoma na kuzungumza.",
-  "id": "/loona-text-tools/sw/5000-word-essay-word-counter/",
+  "id": "/sw/5000-word-essay-word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

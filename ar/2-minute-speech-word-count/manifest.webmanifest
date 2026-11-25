@@ -2,7 +2,7 @@
   "name": "Loona خطاب من 2 دقيقة",
   "short_name": "خطاب من 2 دقيقة",
   "description": "كم كلمة في خطاب من 2 دقيقة؟ 220–360 كلمة (300 بإيقاع المحادثة). عدّاد مباشر مجاني مع فحص وقت التحدث.",
-  "id": "/loona-text-tools/ar/2-minute-speech-word-count/",
+  "id": "/ar/2-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

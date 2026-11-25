@@ -2,7 +2,7 @@
   "name": "Loona Text till hex-omvandlare online gratis",
   "short_name": "Text till hex-omvandlare online gratis",
   "description": "Omvandla text till hexadecimal och hex tillbaka till text, med korrekt hantering av UTF-8 för accentuerade bokstäver, urdu och emoji. Gratis hex-omvandlare, ingen registrering.",
-  "id": "/loona-text-tools/sv/text-to-hex-converter/",
+  "id": "/sv/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

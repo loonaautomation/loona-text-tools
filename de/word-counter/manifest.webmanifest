@@ -2,7 +2,7 @@
   "name": "Loona Wort-Zähler online kostenlos",
   "short_name": "Wort-Zähler online kostenlos",
   "description": "Wörter, Zeichen, Sätze und Absätze in beliebigem Text sofort zählen, mit Lesezeit und Sprechzeit. Kostenloser Wortzähler, keine Registrierung, funktioniert offline.",
-  "id": "/loona-text-tools/de/word-counter/",
+  "id": "/de/word-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

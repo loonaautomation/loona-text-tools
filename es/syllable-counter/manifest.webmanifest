@@ -2,7 +2,7 @@
   "name": "Loona Contador de sílabas en línea gratis",
   "short_name": "Contador de sílabas en línea gratis",
   "description": "Cuenta sílabas en cualquier palabra, frase o texto completo al instante: total de sílabas, desglose por palabra y medias. Contador de sílabas gratuito, sin registro, funciona sin conexión.",
-  "id": "/loona-text-tools/es/syllable-counter/",
+  "id": "/es/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertor alfabet fonetic NATO",
   "short_name": "Convertor alfabet fonetic NATO",
   "description": "Convertește orice text în alfabetul fonetic NATO (Alfa, Bravo, Charlie) și decodifică scrierea NATO înapoi în text simplu. Gratuit, instant, fără înregistrare.",
-  "id": "/loona-text-tools/ro/nato-phonetic-alphabet-converter/",
+  "id": "/ro/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

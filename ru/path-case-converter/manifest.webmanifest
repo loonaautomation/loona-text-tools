@@ -2,7 +2,7 @@
   "name": "Loona Конвертер path/case",
   "short_name": "Конвертер path/case",
   "description": "Бесплатный конвертер path/case — вставьте текст и мгновенно получите path/case. Преобразование в реальном времени в вашем браузере, без регистрации, без загрузки.",
-  "id": "/loona-text-tools/ru/path-case-converter/",
+  "id": "/ru/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona टेक्स्ट से भाषण ऑनलाइन मुफ़्त",
   "short_name": "टेक्स्ट से भाषण ऑनलाइन मुफ़्त",
   "description": "किसी भी टेक्स्ट को प्राकृतिक बोले गए ऑडियो में मुफ़्त ऑनलाइन बदलें - English और Urdu आवाज़ें, समायोज्य गति और पिच। कोई साइन-अप नहीं, कुछ अपलोड नहीं, आपके ब्राउज़र में काम करता है।",
-  "id": "/loona-text-tools/hi/text-to-speech/",
+  "id": "/hi/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

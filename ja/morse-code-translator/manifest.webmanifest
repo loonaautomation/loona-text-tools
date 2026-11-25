@@ -2,7 +2,7 @@
   "name": "Loona モールス信号変換ツールオンライン",
   "short_name": "モールス信号変換ツールオンライン",
   "description": "テキストをモールス信号に、モールス信号をテキストに戻し、本物のビープとして聞いてください。無料オンラインモールス信号変換ツール - 登録不要、ブラウザーで動作します。",
-  "id": "/loona-text-tools/ja/morse-code-translator/",
+  "id": "/ja/morse-code-translator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

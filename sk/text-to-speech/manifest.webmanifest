@@ -2,7 +2,7 @@
   "name": "Loona Text na reč online zadarmo",
   "short_name": "Text na reč online zadarmo",
   "description": "Zmeňte akýkoľvek text na prirodzený hovorený zvuk zadarmo online - anglické a urdské hlasy, nastaviteľná rýchlosť a výška tónu. Bez registrácie, bez nahrávania, funguje vo vašom prehliadači.",
-  "id": "/loona-text-tools/sk/text-to-speech/",
+  "id": "/sk/text-to-speech/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

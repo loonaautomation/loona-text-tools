@@ -2,7 +2,7 @@
   "name": "Loona محوّل حالة الأحرف عبر الإنترنت",
   "short_name": "محوّل حالة الأحرف عبر الإنترنت",
   "description": "تحويل النص إلى UPPERCASE أو lowercase أو Title Case أو Sentence case أو Capitalized أو aLtErNaTiNg case بنقرة واحدة. محوّل حالة مجاني عبر الإنترنت - لا حاجة للتسجيل.",
-  "id": "/loona-text-tools/ar/case-converter/",
+  "id": "/ar/case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

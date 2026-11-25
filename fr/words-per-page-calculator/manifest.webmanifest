@@ -2,7 +2,7 @@
   "name": "Loona Calculateur de mots par page",
   "short_name": "Calculateur de mots par page",
   "description": "Calculateur gratuit de mots par page : saisissez les mots, la taille de police et l’interligne pour obtenir le nombre de pages et les mots par page.",
-  "id": "/loona-text-tools/fr/words-per-page-calculator/",
+  "id": "/fr/words-per-page-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

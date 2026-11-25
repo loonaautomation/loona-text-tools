@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "Sestavte z libovolných písmen skutečná anglická slova pomocí úplného slovníku ENABLE se 172,820 slovy: výsledky seskupené podle délky, se skóre Scrabble, filtry „začíná na“, „končí na“ a „obsahuje“ a podporou prázdných kamenů. Zdarma, bez registrace, a vaše písmena nikdy neopustí prohlížeč.",
-  "id": "/loona-text-tools/cs/word-unscrambler/",
+  "id": "/cs/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

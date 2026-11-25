@@ -2,7 +2,7 @@
   "name": "Loona Reverse Text - Letters, Words or Whole Lines",
   "short_name": "Reverse Text - Letters, Words or Whole Lines",
   "description": "Reverse text four ways: whole text backwards, each word backwards, word order flipped, or line order flipped. Free online text reverser - no sign-up needed.",
-  "id": "/loona-text-tools/en-us/reverse-text/",
+  "id": "/en-us/reverse-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

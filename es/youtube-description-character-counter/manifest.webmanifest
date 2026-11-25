@@ -2,7 +2,7 @@
   "name": "Loona Contador de caracteres de descripciones de YouTube",
   "short_name": "Contador de caracteres de descripciones de YouTube",
   "description": "Contador de caracteres de descripciones de YouTube gratuito: conteo de caracteres en vivo frente al límite de 5,000 caracteres, con palabras y caracteres restantes mostrados mientras escribes.",
-  "id": "/loona-text-tools/es/youtube-description-character-counter/",
+  "id": "/es/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

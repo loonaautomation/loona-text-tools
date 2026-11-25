@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Επιπέδου Αναγνωσιμότητας",
   "short_name": "Υπολογιστής Επιπέδου Αναγνωσιμότητας",
   "description": "Βαθμολογήστε οποιοδήποτε κείμενο με την κλίμακα Flesch Reading Ease και το Επίπεδο Βαθμού Flesch-Kincaid, χρησιμοποιώντας τους τυπικούς τύπους. Δείτε πόσο εύκολο είναι να διαβαστεί το γραπτό σας. Δωρεάν.",
-  "id": "/loona-text-tools/el/reading-level-calculator/",
+  "id": "/el/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Conversor Sentence Case",
   "short_name": "Conversor Sentence Case",
   "description": "Conversor Sentence case grátis — cole texto e obtenha Sentence case instantaneamente. Conversão em direto no seu navegador, sem registo, sem carregamento.",
-  "id": "/loona-text-tools/pt/sentence-case-converter/",
+  "id": "/pt/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

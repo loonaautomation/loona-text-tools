@@ -2,7 +2,7 @@
   "name": "Loona Pengonversi Huruf Ayat",
   "short_name": "Pengonversi Huruf Ayat",
   "description": "Pengonversi huruf ayat percuma — tampal teks dan dapatkan Huruf ayat serta-merta. Penukaran langsung di pelayar anda, tanpa pendaftaran, tanpa muat naik.",
-  "id": "/loona-text-tools/ms/sentence-case-converter/",
+  "id": "/ms/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

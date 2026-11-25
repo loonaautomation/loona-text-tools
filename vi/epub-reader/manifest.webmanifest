@@ -2,7 +2,7 @@
   "name": "Loona Trình đọc EPUB trực tuyến miễn phí",
   "short_name": "Trình đọc EPUB trực tuyến miễn phí",
   "description": "Mở và đọc sách điện tử EPUB trực tuyến miễn phí, ngay trong trình duyệt của bạn. Danh sách chương, cỡ chữ có thể điều chỉnh và chế độ tối. Riêng tư 100% - sách điện tử của bạn không bao giờ rời khỏi thiết bị. Không đăng ký.",
-  "id": "/loona-text-tools/vi/epub-reader/",
+  "id": "/vi/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona E-mailudtrækker online gratis",
   "short_name": "E-mailudtrækker online gratis",
   "description": "Udtræk hver e-mailadresse fra enhver tekst, ethvert dokument eller websideindhold - deduplikeret og opremset én pr. linje. Kører 100 % i din browser. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/email-extractor/",
+  "id": "/da/email-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

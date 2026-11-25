@@ -2,7 +2,7 @@
   "name": "Loona flatcase-konverter",
   "short_name": "flatcase-konverter",
   "description": "Gratis flatcase-konverter — indsæt tekst og få flatcase øjeblikkeligt. Live konvertering i din browser, ingen tilmelding, ingen upload.",
-  "id": "/loona-text-tools/da/flat-case-converter/",
+  "id": "/da/flat-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

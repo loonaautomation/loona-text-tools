@@ -2,7 +2,7 @@
   "name": "Loona Contador de caracteres de pies de foto de Instagram",
   "short_name": "Contador de caracteres de pies de foto de Instagram",
   "description": "Contador de caracteres de pies de foto de Instagram gratuito: conteo de caracteres en vivo frente al límite de 2,200 caracteres, con palabras y caracteres restantes mostrados mientras escribes.",
-  "id": "/loona-text-tools/es/instagram-caption-character-counter/",
+  "id": "/es/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

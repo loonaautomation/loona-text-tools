@@ -2,7 +2,7 @@
   "name": "Loona Tekst naar binair-omzetter online",
   "short_name": "Tekst naar binair-omzetter online",
   "description": "Zet tekst om naar binaire code (0'en en 1'en) en binair terug naar leesbare tekst, met volledige Unicode-ondersteuning. Gratis omzetter van tekst naar binair - ideaal voor informatica-studenten.",
-  "id": "/loona-text-tools/nl/text-to-binary/",
+  "id": "/nl/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

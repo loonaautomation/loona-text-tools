@@ -2,7 +2,7 @@
   "name": "Loona Luettavuustason laskuri",
   "short_name": "Luettavuustason laskuri",
   "description": "Pisteytä mikä tahansa teksti Flesch Reading Ease -asteikolla ja Flesch-Kincaid-arvosanatasolla tavallisilla kaavoilla. Näe, kuinka helppoa kirjoitustasi on lukea. Ilmainen.",
-  "id": "/loona-text-tools/fi/reading-level-calculator/",
+  "id": "/fi/reading-level-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

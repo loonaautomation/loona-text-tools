@@ -2,7 +2,7 @@
   "name": "Loona Generator de citări online gratuit",
   "short_name": "Generator de citări online gratuit",
   "description": "Generează citări formatate corect pentru site-uri web, cărți și articole de jurnal în APA ediția a 7-a, MLA ediția a 9-a și Chicago autor-dată - gratuit, instant, în browserul tău.",
-  "id": "/loona-text-tools/ro/citation-generator/",
+  "id": "/ro/citation-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

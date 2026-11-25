@@ -2,7 +2,7 @@
   "name": "Loona Tekenteller voor YouTube-beschrijvingen",
   "short_name": "Tekenteller voor YouTube-beschrijvingen",
   "description": "Gratis tekenteller voor YouTube-beschrijvingen: live tekentelling tegen de limiet van 5.000 tekens, met woorden en resterende tekens getoond terwijl je typt.",
-  "id": "/loona-text-tools/nl/youtube-description-character-counter/",
+  "id": "/nl/youtube-description-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

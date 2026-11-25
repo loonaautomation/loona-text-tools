@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Klistra in valfri text och se de skrivsignaler som AI-detektorer mäter – meningsrytm, ordförrådets variation, upprepade fraser och förutsägbarhet. Gratis AI-detektor: ingen registrering, inga domar, och din text lämnar aldrig din webbläsare.",
-  "id": "/loona-text-tools/sv/ai-detector/",
+  "id": "/sv/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

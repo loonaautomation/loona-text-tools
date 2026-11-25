@@ -2,7 +2,7 @@
   "name": "Loona מונה תווי SMS",
   "short_name": "מונה תווי SMS",
   "description": "מונה תווי SMS בחינם: זיהוי GSM 7-bit מול Unicode, ספירת מקטעים ותווים נותרים — בשידור חי, בדפדפן שלכם.",
-  "id": "/loona-text-tools/he/sms-character-counter/",
+  "id": "/he/sms-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

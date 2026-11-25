@@ -2,7 +2,7 @@
   "name": "Loona Bộ đếm ký tự chú thích Instagram",
   "short_name": "Bộ đếm ký tự chú thích Instagram",
   "description": "Bộ đếm ký tự chú thích Instagram miễn phí: đếm ký tự trực tiếp so với giới hạn 2,200 ký tự, với số từ và số ký tự còn lại hiển thị khi bạn gõ.",
-  "id": "/loona-text-tools/vi/instagram-caption-character-counter/",
+  "id": "/vi/instagram-caption-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

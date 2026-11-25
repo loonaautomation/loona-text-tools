@@ -2,7 +2,7 @@
   "name": "Loona Random Topic Generator Online Free",
   "short_name": "Random Topic Generator",
   "description": "Generate random topics for essays, speeches, debates, paragraphs, presentations and stories - 900 hand-written topics in 9 categories, filtered by level. Free, no sign-up.",
-  "id": "/loona-text-tools/random-topic-generator/",
+  "id": "/random-topic-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

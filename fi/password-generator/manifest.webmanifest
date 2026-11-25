@@ -2,7 +2,7 @@
   "name": "Loona Salasanageneraattori verkossa",
   "short_name": "Salasanageneraattori verkossa",
   "description": "Luo vahvoja, satunnaisia salasanoja valitsemallasi pituudella ja symboleilla sekä rehellisellä vahvuusmittarilla. Ilmainen salasanageneraattori – luodaan vain laitteellasi.",
-  "id": "/loona-text-tools/fi/password-generator/",
+  "id": "/fi/password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

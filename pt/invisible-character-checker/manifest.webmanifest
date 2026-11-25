@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Caracteres Invisíveis",
   "short_name": "Verificador de Caracteres Invisíveis",
   "description": "Revele caracteres invisíveis escondidos no seu texto - espaços de largura zero, BOM, espaços inquebráveis e marcas de direção - e remova-os com um clique. Grátis.",
-  "id": "/loona-text-tools/pt/invisible-character-checker/",
+  "id": "/pt/invisible-character-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ローマ字ウルドゥー文字変換ツールオンラインフリー",
   "short_name": "ローマ字ウルドゥー文字変換ツールオンラインフリー",
   "description": "ローマ字ウルドゥー（ラテン文字）を適切なウルドゥー文字に即座に変換します — 'mera naam' が本物のウルドゥー語の文章になります。パキスタンのための無料ローマ字ウルドゥーからウルドゥーへの変換ツール。",
-  "id": "/loona-text-tools/ja/roman-urdu-to-urdu/",
+  "id": "/ja/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

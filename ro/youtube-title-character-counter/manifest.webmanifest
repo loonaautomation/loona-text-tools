@@ -2,7 +2,7 @@
   "name": "Loona Contor de caractere pentru titluri YouTube",
   "short_name": "Contor de caractere pentru titluri YouTube",
   "description": "Contor gratuit de caractere pentru titluri YouTube: numărătoare de caractere în direct față de limita de 100 de caractere, cu cuvinte și caractere rămase afișate pe măsură ce tastezi.",
-  "id": "/loona-text-tools/ro/youtube-title-character-counter/",
+  "id": "/ro/youtube-title-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

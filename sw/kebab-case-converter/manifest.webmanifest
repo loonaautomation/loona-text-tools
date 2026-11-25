@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha kebab-case",
   "short_name": "Kibadilishaji cha kebab-case",
   "description": "Kibadilishaji cha bure cha kebab-case — bandika maandishi na upate kebab-case mara moja. Ubadilishaji wa moja kwa moja katika kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-text-tools/sw/kebab-case-converter/",
+  "id": "/sw/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Contor de silabe online gratuit",
   "short_name": "Contor de silabe online gratuit",
   "description": "Numără silabele din orice cuvânt, propoziție sau text întreg instant - total de silabe, detaliere pe cuvânt și medii. Contor gratuit de silabe, fără înregistrare, funcționează offline.",
-  "id": "/loona-text-tools/ro/syllable-counter/",
+  "id": "/ro/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

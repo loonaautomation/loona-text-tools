@@ -2,7 +2,7 @@
   "name": "Loona 履歴書単語数",
   "short_name": "履歴書単語数",
   "description": "履歴書単語数チェッカー：一ページ目標（400–600 単語）のライブカウント、ページ見積もりとトリミングの案内。",
-  "id": "/loona-text-tools/ja/resume-word-count/",
+  "id": "/ja/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

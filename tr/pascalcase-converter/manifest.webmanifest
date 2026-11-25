@@ -2,7 +2,7 @@
   "name": "Loona PascalCase Dönüştürücü",
   "short_name": "PascalCase Dönüştürücü",
   "description": "Ücretsiz PascalCase dönüştürücü — metni yapıştırın ve anında PascalCase elde edin. Tarayıcınızda canlı dönüştürme, kayıt yok, yükleme yok.",
-  "id": "/loona-text-tools/tr/pascalcase-converter/",
+  "id": "/tr/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

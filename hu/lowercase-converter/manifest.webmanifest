@@ -2,7 +2,7 @@
   "name": "Loona Kisbetű-átalakító",
   "short_name": "Kisbetű-átalakító",
   "description": "Ingyenes kisbetű-átalakító — illesszen be szöveget, és azonnal kisbetűt kap. Élő átalakítás a böngészőjében, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-text-tools/hu/lowercase-converter/",
+  "id": "/hu/lowercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

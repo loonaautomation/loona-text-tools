@@ -2,7 +2,7 @@
   "name": "Loona Tal på 5 minuter",
   "short_name": "Tal på 5 minuter",
   "description": "Hur många ord i ett tal på 5 minuter? 550–900 ord (750 i samtalstakt). Gratis liveräknare med taltidskontroll.",
-  "id": "/loona-text-tools/sv/5-minute-speech-word-count/",
+  "id": "/sv/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

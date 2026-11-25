@@ -2,7 +2,7 @@
   "name": "Loona Kirjoitustesti verkossa ilmaiseksi",
   "short_name": "Kirjoitustesti verkossa ilmaiseksi",
   "description": "Ilmainen 60 sekunnin kirjoitustesti: mittaa kirjoitusnopeutesi WPM-yksiköissä, tarkkuus ja merkit minuutissa helpoilla, keskitason ja vaikeilla teksteillä. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-text-tools/fi/typing-test/",
+  "id": "/fi/typing-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

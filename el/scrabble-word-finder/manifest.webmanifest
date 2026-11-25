@@ -2,7 +2,7 @@
   "name": "Loona Scrabble Word Finder",
   "short_name": "Loona Scrabble Word Finder",
   "description": "Βρείτε τις κινήσεις με την υψηλότερη βαθμολογία από τη βάση γραμμάτων σας και ελέγξτε αν οποιαδήποτε λέξη είναι έγκυρη. Πλήρες λεξικό ENABLE 172,820 λέξεων, υποστήριξη κενών πλακιδίων, 100% στη συσκευή. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-text-tools/el/scrabble-word-finder/",
+  "id": "/el/scrabble-word-finder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

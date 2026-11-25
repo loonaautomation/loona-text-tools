@@ -2,7 +2,7 @@
   "name": "Loona Train-Case-muunnin",
   "short_name": "Train-Case-muunnin",
   "description": "Ilmainen Train-Case-muunnin — liitä teksti ja saa Train-Case välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/train-case-converter/",
+  "id": "/fi/train-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

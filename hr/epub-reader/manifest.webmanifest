@@ -2,7 +2,7 @@
   "name": "Loona EPUB čitač na mreži besplatno",
   "short_name": "EPUB čitač na mreži besplatno",
   "description": "Otvorite i čitajte EPUB e-knjige na mreži besplatno, izravno u pregledniku. Popis poglavlja, prilagodljiva veličina fonta i tamni način. 100% privatno - vaša e-knjiga nikada ne napušta vaš uređaj. Bez registracije.",
-  "id": "/loona-text-tools/hr/epub-reader/",
+  "id": "/hr/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

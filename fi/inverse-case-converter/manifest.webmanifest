@@ -2,7 +2,7 @@
   "name": "Loona iNVERSE cASE -muunnin",
   "short_name": "iNVERSE cASE -muunnin",
   "description": "Ilmainen iNVERSE cASE -muunnin — liitä teksti ja saa iNVERSE cASE välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/inverse-case-converter/",
+  "id": "/fi/inverse-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

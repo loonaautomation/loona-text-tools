@@ -2,7 +2,7 @@
   "name": "Loona Čítačka EPUB online zadarmo",
   "short_name": "Čítačka EPUB online zadarmo",
   "description": "Otvárajte a čítajte elektronické knihy EPUB online zadarmo, priamo vo svojom prehliadači. Zoznam kapitol, nastaviteľná veľkosť písma a tmavý režim. 100% súkromné - vaša elektronická kniha nikdy neopustí vaše zariadenie. Bez registrácie.",
-  "id": "/loona-text-tools/sk/epub-reader/",
+  "id": "/sk/epub-reader/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Provjerivač palindroma na mreži besplatno",
   "short_name": "Provjerivač palindroma na mreži besplatno",
   "description": "Provjerite je li bilo koja riječ, broj ili rečenica palindrom – čita se jednako unaprijed i unatrag. Prikazuje očišćeni tekst i njegovo obrtanje. Besplatno, bez registracije.",
-  "id": "/loona-text-tools/hr/palindrome-checker/",
+  "id": "/hr/palindrome-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kifupishi cha Maandishi Mtandaoni",
   "short_name": "Kifupishi cha Maandishi Mtandaoni",
   "description": "Fupisha maandishi marefu yoyote papo hapo: bandika makala, insha au ripoti na upate sentensi zake asili muhimu zaidi. Kifupishi cha maandishi mtandaoni bure - bila kujisajili, faragha 100%.",
-  "id": "/loona-text-tools/sw/text-summarizer/",
+  "id": "/sw/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

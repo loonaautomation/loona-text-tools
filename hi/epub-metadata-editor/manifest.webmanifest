@@ -2,7 +2,7 @@
   "name": "Loona EPUB मेटाडेटा संपादक मुफ़्त",
   "short_name": "EPUB मेटाडेटा संपादक मुफ़्त",
   "description": "अपने ब्राउज़र में EPUB मेटाडेटा मुफ़्त संपादित करें: शीर्षक, लेखक, भाषा, प्रकाशक और विवरण, कवर जानकारी के साथ दिखाई गई। अध्याय अछूते, कोई अपलोड नहीं, कोई साइन-अप नहीं।",
-  "id": "/loona-text-tools/hi/epub-metadata-editor/",
+  "id": "/hi/epub-metadata-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

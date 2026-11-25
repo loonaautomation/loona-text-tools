@@ -2,7 +2,7 @@
   "name": "Loona Læsetidsberegner",
   "short_name": "Læsetidsberegner",
   "description": "Indsæt enhver tekst og se, hvor lang tid den tager at læse ved langsomme, gennemsnitlige og hurtige hastigheder - plus hvor mange ord du har brug for til en ønsket læsetid. Gratis, ingen tilmelding.",
-  "id": "/loona-text-tools/da/reading-time-calculator/",
+  "id": "/da/reading-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

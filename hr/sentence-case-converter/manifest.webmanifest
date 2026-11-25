@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač u veliko slovo rečenice",
   "short_name": "Pretvarač u veliko slovo rečenice",
   "description": "Besplatan pretvarač u veliko slovo rečenice — zalijepite tekst i trenutačno dobijte veliko slovo rečenice. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/sentence-case-converter/",
+  "id": "/hr/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

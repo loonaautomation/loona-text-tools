@@ -2,7 +2,7 @@
   "name": "Loona Word Unscrambler",
   "short_name": "Loona Word Unscrambler",
   "description": "使用完整的 172,820 词 ENABLE 词典，将任何字母还原成真实的英语单词 - 结果按长度分组，附 Scrabble 分数、开头、结尾和包含过滤器，并支持空白牌。免费，无需注册，您的字母永不离开浏览器。",
-  "id": "/loona-text-tools/zh/word-unscrambler/",
+  "id": "/zh/word-unscrambler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

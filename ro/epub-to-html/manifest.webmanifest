@@ -2,7 +2,7 @@
   "name": "Loona Convertor EPUB în HTML gratuit",
   "short_name": "Convertor EPUB în HTML gratuit",
   "description": "Convertește gratuit cărțile electronice EPUB într-un singur fișier HTML autonom, în browserul tău. Capitole în ordine, tipografie de bază, imagini mici încorporate. Fără încărcare, fără înregistrare.",
-  "id": "/loona-text-tools/ro/epub-to-html/",
+  "id": "/ro/epub-to-html/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

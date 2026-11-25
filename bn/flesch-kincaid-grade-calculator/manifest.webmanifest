@@ -2,7 +2,7 @@
   "name": "Loona Flesch–Kincaid Grade ক্যালকুলেটর",
   "short_name": "Flesch–Kincaid Grade ক্যালকুলেটর",
   "description": "বিনামূল্যে Flesch–Kincaid grade ক্যালকুলেটর: grade স্তর ও পঠন-সহজতা স্কোরের জন্য টেক্সট পেস্ট করুন, প্রতি বাক্যে শব্দ ও প্রতি শব্দে সিলেবলসহ।",
-  "id": "/loona-text-tools/bn/flesch-kincaid-grade-calculator/",
+  "id": "/bn/flesch-kincaid-grade-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

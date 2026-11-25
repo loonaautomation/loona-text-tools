@@ -2,7 +2,7 @@
   "name": "Loona PascalCase-muunnin",
   "short_name": "PascalCase-muunnin",
   "description": "Ilmainen PascalCase-muunnin — liitä teksti ja saa PascalCase välittömästi. Reaaliaikainen muunnos selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-text-tools/fi/pascalcase-converter/",
+  "id": "/fi/pascalcase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

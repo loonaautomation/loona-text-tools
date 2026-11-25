@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znakov príspevkov Reddit",
   "short_name": "Počítadlo znakov príspevkov Reddit",
   "description": "Bezplatné počítadlo znakov príspevkov Reddit: počítanie znakov naživo oproti limitu 40,000 znakov, so slovami a zostávajúcimi znakmi zobrazenými počas písania.",
-  "id": "/loona-text-tools/sk/reddit-post-character-counter/",
+  "id": "/sk/reddit-post-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

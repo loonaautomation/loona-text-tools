@@ -2,7 +2,7 @@
   "name": "Loona Pidato 3 Menit",
   "short_name": "Pidato 3 Menit",
   "description": "Berapa banyak kata dalam pidato 3 menit? 330–540 kata (450 pada kecepatan percakapan). Penghitung langsung gratis dengan pemeriksaan waktu berbicara.",
-  "id": "/loona-text-tools/id/3-minute-speech-word-count/",
+  "id": "/id/3-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

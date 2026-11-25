@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo znaků osobního prohlášení UCAS",
   "short_name": "Počítadlo znaků osobního prohlášení UCAS",
   "description": "Bezplatné počítadlo znaků osobního prohlášení UCAS: živý počet znaků vůči limitu 4,000 znaků, se slovy a zbývajícími znaky zobrazovanými při psaní.",
-  "id": "/loona-text-tools/cs/ucas-personal-statement-character-counter/",
+  "id": "/cs/ucas-personal-statement-character-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

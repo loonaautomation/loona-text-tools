@@ -2,7 +2,7 @@
   "name": "Loona 5 minuutin puhe",
   "short_name": "5 minuutin puhe",
   "description": "Kuinka monta sanaa 5 minuutin puheessa? 550–900 sanaa (750 keskustelutahdilla). Ilmainen reaaliaikainen laskuri puheajan tarkistuksella.",
-  "id": "/loona-text-tools/fi/5-minute-speech-word-count/",
+  "id": "/fi/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

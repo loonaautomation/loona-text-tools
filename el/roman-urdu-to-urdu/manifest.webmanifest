@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Roman Urdu σε Γραφή Urdu Online Δωρεάν",
   "short_name": "Μετατροπέας Roman Urdu σε Γραφή Urdu Online Δωρεάν",
   "description": "Μετατρέψτε Roman Urdu (λατινικά γράμματα) σε σωστή γραφή Urdu αμέσως - το 'mera naam' γίνεται πραγματική γραφή Urdu. Δωρεάν μετατροπέας Roman Urdu σε Urdu για το Πακιστάν.",
-  "id": "/loona-text-tools/el/roman-urdu-to-urdu/",
+  "id": "/el/roman-urdu-to-urdu/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

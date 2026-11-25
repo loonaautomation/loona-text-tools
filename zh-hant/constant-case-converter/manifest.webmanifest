@@ -2,7 +2,7 @@
   "name": "Loona CONSTANT_CASE 轉換器",
   "short_name": "CONSTANT_CASE 轉換器",
   "description": "免費的 CONSTANT_CASE 轉換器——貼上文字,立即得到 CONSTANT_CASE。在您的瀏覽器中實時轉換,無需註冊,不上傳。",
-  "id": "/loona-text-tools/zh-hant/constant-case-converter/",
+  "id": "/zh-hant/constant-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

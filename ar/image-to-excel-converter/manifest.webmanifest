@@ -2,7 +2,7 @@
   "name": "Loona محوّل الصور إلى Excel عبر الإنترنت مجانًا",
   "short_name": "محوّل الصور إلى Excel عبر الإنترنت مجانًا",
   "description": "حوّل صورة أو مسحًا أو لقطة شاشة لجدول إلى ملف Excel (.xlsx) حقيقي بـOCR مجاني يعمل 100% في متصفحك. عدّل الجدول قبل التنزيل - بلا رفع، بلا تسجيل.",
-  "id": "/loona-text-tools/ar/image-to-excel-converter/",
+  "id": "/ar/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

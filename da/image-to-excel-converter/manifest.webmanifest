@@ -2,7 +2,7 @@
   "name": "Loona Billede til Excel-konverter online gratis",
   "short_name": "Billede til Excel-konverter online gratis",
   "description": "Konvertér et foto, en scanning eller et skærmbillede af en tabel til en rigtig Excel-fil (.xlsx) med gratis OCR, der kører 100 % i din browser. Rediger tabellen, før du downloader - ingen upload, ingen tilmelding.",
-  "id": "/loona-text-tools/da/image-to-excel-converter/",
+  "id": "/da/image-to-excel-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

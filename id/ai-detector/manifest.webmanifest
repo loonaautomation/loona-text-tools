@@ -2,7 +2,7 @@
   "name": "Loona AI Detector",
   "short_name": "Loona AI Detector",
   "description": "Tempel teks apa pun dan lihat sinyal tulisan yang diukur detektor AI - ritme kalimat, keragaman kosakata, frasa yang berulang, dan prediktabilitas. Detektor AI gratis: tanpa pendaftaran, tanpa vonis, dan teks Anda tidak pernah meninggalkan browser Anda.",
-  "id": "/loona-text-tools/id/ai-detector/",
+  "id": "/id/ai-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

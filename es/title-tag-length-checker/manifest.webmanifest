@@ -2,7 +2,7 @@
   "name": "Loona Verificador de longitud de etiquetas de título",
   "short_name": "Verificador de longitud de etiquetas de título",
   "description": "Verificador de longitud de etiquetas de título gratuito: conteo de caracteres en vivo frente al límite de 60 caracteres, con palabras y caracteres restantes mostrados mientras escribes.",
-  "id": "/loona-text-tools/es/title-tag-length-checker/",
+  "id": "/es/title-tag-length-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

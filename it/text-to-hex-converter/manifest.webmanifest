@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da testo a esadecimale online gratuito",
   "short_name": "Convertitore da testo a esadecimale online gratuito",
   "description": "Converti il testo in esadecimale e l'esadecimale di nuovo in testo, gestendo correttamente UTF-8 per lettere accentate, urdu ed emoji. Convertitore esadecimale gratuito, nessuna registrazione.",
-  "id": "/loona-text-tools/it/text-to-hex-converter/",
+  "id": "/it/text-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

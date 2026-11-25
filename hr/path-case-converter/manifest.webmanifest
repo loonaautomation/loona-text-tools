@@ -2,7 +2,7 @@
   "name": "Loona path/case pretvarač",
   "short_name": "path/case pretvarač",
   "description": "Besplatan path/case pretvarač — zalijepite tekst i trenutačno dobijte path/case. Pretvorba uživo u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-text-tools/hr/path-case-converter/",
+  "id": "/hr/path-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

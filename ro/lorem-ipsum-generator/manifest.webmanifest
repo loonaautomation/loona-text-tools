@@ -2,7 +2,7 @@
   "name": "Loona Generator Lorem Ipsum online",
   "short_name": "Generator Lorem Ipsum online",
   "description": "Generează text fals lorem ipsum pe paragraf, propoziție sau cuvânt - gata de lipit în desene și machete. Generator lorem ipsum gratuit, fără înregistrare.",
-  "id": "/loona-text-tools/ro/lorem-ipsum-generator/",
+  "id": "/ro/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

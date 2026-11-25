@@ -2,7 +2,7 @@
   "name": "Loona kebab-case 转换器",
   "short_name": "kebab-case 转换器",
   "description": "免费的 kebab-case 转换器——粘贴文本,立即得到 kebab-case。在您的浏览器中实时转换,无需注册,不上传。",
-  "id": "/loona-text-tools/zh/kebab-case-converter/",
+  "id": "/zh/kebab-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

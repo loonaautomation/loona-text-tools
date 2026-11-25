@@ -2,7 +2,7 @@
   "name": "Loona Hece Sayacı Çevrimiçi Ücretsiz",
   "short_name": "Hece Sayacı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir kelimedeki, cümledeki veya tam metindeki heceleri anında sayın - toplam heceler, kelime başına döküm ve ortalamalar. Ücretsiz hece sayacı, kayıt yok, çevrimdışı çalışır.",
-  "id": "/loona-text-tools/tr/syllable-counter/",
+  "id": "/tr/syllable-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eliminar líneas duplicadas en línea",
   "short_name": "Eliminar líneas duplicadas en línea",
   "description": "Elimina las líneas duplicadas de cualquier lista o texto y conserva solo las líneas únicas, en el orden original. Eliminador de líneas duplicadas gratuito: sin registro, resultados instantáneos.",
-  "id": "/loona-text-tools/es/remove-duplicate-lines/",
+  "id": "/es/remove-duplicate-lines/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

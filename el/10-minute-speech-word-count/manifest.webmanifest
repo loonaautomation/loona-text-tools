@@ -2,7 +2,7 @@
   "name": "Loona Ομιλία 10 Λεπτών",
   "short_name": "Ομιλία 10 Λεπτών",
   "description": "Πόσες λέξεις σε μια ομιλία 10 λεπτών; 1,100–1,800 λέξεις (1,500 με συνομιλιακό ρυθμό). Δωρεάν ζωντανός μετρητής με έλεγχο χρόνου ομιλίας.",
-  "id": "/loona-text-tools/el/10-minute-speech-word-count/",
+  "id": "/el/10-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

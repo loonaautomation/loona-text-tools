@@ -2,7 +2,7 @@
   "name": "Loona Máy tính chỉ số Gunning Fog",
   "short_name": "Máy tính chỉ số Gunning Fog",
   "description": "Máy tính chỉ số Gunning Fog miễn phí: dán văn bản để nhận chỉ số Fog, số từ phức tạp và số năm học mà nó ngụ ý.",
-  "id": "/loona-text-tools/vi/gunning-fog-index-calculator/",
+  "id": "/vi/gunning-fog-index-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

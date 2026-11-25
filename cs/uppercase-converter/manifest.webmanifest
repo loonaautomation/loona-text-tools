@@ -2,7 +2,7 @@
   "name": "Loona Převodník na velká písmena",
   "short_name": "Převodník na velká písmena",
   "description": "Bezplatný převodník na velká písmena — vložte text a okamžitě získejte VELKÁ PÍSMENA. Živý převod ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-text-tools/cs/uppercase-converter/",
+  "id": "/cs/uppercase-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona dot.case 转换器",
   "short_name": "dot.case 转换器",
   "description": "免费的 dot.case 转换器——粘贴文本,立即得到 dot.case。在您的浏览器中实时转换,无需注册,不上传。",
-  "id": "/loona-text-tools/zh/dot-case-converter/",
+  "id": "/zh/dot-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

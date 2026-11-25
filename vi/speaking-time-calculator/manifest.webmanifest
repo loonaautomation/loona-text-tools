@@ -2,7 +2,7 @@
   "name": "Loona Máy tính thời gian nói",
   "short_name": "Máy tính thời gian nói",
   "description": "Dán bài nói hoặc kịch bản của bạn và xem nó mất bao lâu để trình bày ở tốc độ chậm, trò chuyện và nhanh - cộng thêm bao nhiêu từ vừa với một thời gian mục tiêu. Miễn phí, không đăng ký.",
-  "id": "/loona-text-tools/vi/speaking-time-calculator/",
+  "id": "/vi/speaking-time-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

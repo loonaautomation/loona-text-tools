@@ -2,7 +2,7 @@
   "name": "Loona NAVO-spelalfabetomzetter",
   "short_name": "NAVO-spelalfabetomzetter",
   "description": "Zet elke tekst om naar het NAVO-spelalfabet (Alfa, Bravo, Charlie) en decodeer NAVO-spelling terug naar platte tekst. Gratis, direct, geen registratie.",
-  "id": "/loona-text-tools/nl/nato-phonetic-alphabet-converter/",
+  "id": "/nl/nato-phonetic-alphabet-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

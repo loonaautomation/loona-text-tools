@@ -2,7 +2,7 @@
   "name": "Loona Projev na 5 minut",
   "short_name": "Projev na 5 minut",
   "description": "Kolik slov má projev na 5 minut? 550–900 slov (750 při konverzačním tempu). Bezplatné živé počítadlo s kontrolou doby mluvení.",
-  "id": "/loona-text-tools/cs/5-minute-speech-word-count/",
+  "id": "/cs/5-minute-speech-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

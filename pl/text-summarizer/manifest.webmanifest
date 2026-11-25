@@ -2,7 +2,7 @@
   "name": "Loona Streszczanie tekstu online — streszczaj długie teksty błyskawicznie | Loona Text Tools",
   "short_name": "Streszczanie tekstu online — streszczaj długie teksty błyskawicznie | Loona Text Tools",
   "description": "Streszczaj dowolny długi tekst błyskawicznie: wklej artykuł, esej lub raport i odzyskaj jego najważniejsze oryginalne zdania. Darmowe streszczanie tekstu online — bez rejestracji, w 100% prywatnie.",
-  "id": "/loona-text-tools/pl/text-summarizer/",
+  "id": "/pl/text-summarizer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

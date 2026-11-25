@@ -2,7 +2,7 @@
   "name": "Loona Eliminare întreruperi de linie online",
   "short_name": "Eliminare întreruperi de linie online",
   "description": "Elimină întreruperile de linie și unește liniile rupte în paragrafe curate - perfect pentru textul copiat din PDF-uri. Eliminator online gratuit de întreruperi de linie, fără înregistrare, rezultate instant.",
-  "id": "/loona-text-tools/ro/remove-line-breaks/",
+  "id": "/ro/remove-line-breaks/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

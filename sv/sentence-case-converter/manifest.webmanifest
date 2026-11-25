@@ -2,7 +2,7 @@
   "name": "Loona Omvandlare till meningsstil",
   "short_name": "Omvandlare till meningsstil",
   "description": "Gratis omvandlare till meningsstil — klistra in text och få meningsstil omedelbart. Liveomvandling i din webbläsare, ingen registrering, ingen uppladdning.",
-  "id": "/loona-text-tools/sv/sentence-case-converter/",
+  "id": "/sv/sentence-case-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

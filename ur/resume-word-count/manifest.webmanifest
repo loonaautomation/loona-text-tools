@@ -2,7 +2,7 @@
   "name": "Loona ریزیومے کے الفاظ کی گنتی",
   "short_name": "ریزیومے کے الفاظ کی گنتی",
   "description": "ریزیومے کے الفاظ کی گنتی کا چیکر: لائیو گنتی ایک صفحے کے ہدف (400–600 الفاظ) کے ساتھ، صفحے کا اندازہ اور کاٹ چھانٹ کی رہنمائی۔",
-  "id": "/loona-text-tools/ur/resume-word-count/",
+  "id": "/ur/resume-word-count/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
